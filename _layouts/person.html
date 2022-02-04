@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{%- capture breadcrumbs -%}
+<li><a href="/about">About us</a></li>
+<li><a href="/about#team">Team</a></li>
+{%- endcapture -%}
+{%- include breadcrumbs.html items=breadcrumbs -%}
+
+{%- capture header -%}
+<div class="columns">
+  <div class="column is-narrow">
+    <figure class="image is-128x128">
+      <img class="is-rounded" src="/assets/team/{{ page.picture }}">
+    </figure>
+  </div>
+  <div class="column">
+    <h1 class="title">{{ page.title }}</h1>
+    <h2 class="subtitle">{{ page.role }}</h2>
+  </div>
+</div>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture content -%}
+<div class="content">
+  {{ content }}
+</div>
+{%- endcapture -%}
+{%- include section.html content=content -%}

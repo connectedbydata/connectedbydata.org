@@ -1,0 +1,7 @@
+{%- for person in site.team -%}
+  {%- if person.title == include.author -%}
+    <figure class="image is-64x64">
+      <img class="is-rounded" src="/assets/team/{{person.picture}}">
+    </figure>
+  {%- endif -%}
+{%- endfor -%}

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+<h1 class="title">{{ page.title }}</h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture summary -%}
+<div class="subtitle">
+  {{ page.summary | markdownify }}
+</div>
+{%- endcapture -%}
+{%- include section.html content=summary -%}
+
+{%- capture content -%}
+<div class="content">
+  {{ content }}
+</div>
+{%- endcapture -%}
+{%- include section.html content=content -%}
+
+</article>

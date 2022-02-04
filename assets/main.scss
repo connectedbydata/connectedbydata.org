@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$title-color: inherit;
+$fa-font-path: "webfonts";
+$breadcrumb-item-separator-color: inherit;
+
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/brands.scss";
+@import "fontawesome/solid.scss";
+@import "bulma";
+
+.has-text-light {
+  strong {
+    color: $light;
+  }
+  a {
+    color: findLightColor($link);
+  }
+}

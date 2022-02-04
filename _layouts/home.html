@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+<section class="hero is-halfheight is-primary">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        <span class="is-inline-block is-size-5-mobile">We are</span><br>
+        <span class="is-inline-block is-size-1 is-size-3-mobile pl-5">connected by data</span><br>
+        <span class="is-inline-block is-size-5-mobile pl-6">so we need to control it together</span>
+      </p>
+    </div>
+  </div>
+</section>
+
+{% for problem in site.problems %}
+  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
+    <div class="container is-max-desktop">
+      <h2 class="title">{{ problem.title }}</h2>
+      <p>
+        <a href="{{ problem.url }}">Read more about {{ problem.more }}.</a>
+      </p>
+    </div>
+  </section>
+{% endfor %}
+
+<section class="hero is-halfheight is-primary">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        There is a better way
+      </p>
+    </div>
+  </div>
+</section>
+
+{% for solution in site.solutions %}
+  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
+    <div class="container is-max-desktop">
+      <h2 class="title">{{ solution.title }}</h2>
+      <p>
+        <a href="{{ solution.url }}">Read more about {{ solution.more }}.</a>
+      </p>
+    </div>
+  </section>
+{% endfor %}
+
+<section class="hero is-halfheight is-primary">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Help us change things
+      </p>
+    </div>
+  </div>
+</section>
+
+{% for action in site.actions %}
+  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
+    <div class="container is-max-desktop">
+      <h2 class="title">{{ action.title }}</h2>
+      <p>
+        <a href="{{ action.url }}">Read more about {{ action.more }}.</a>
+      </p>
+    </div>
+  </section>
+{% endfor %}
+
+<section class="hero is-halfheight is-primary">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Want to get involved?
+      </p>
+      <div class="breadcrumb has-bullet-separator">
+        <ul>
+          <li>
+            <a href="https://twitter.com/ConnectedByData">
+              <span class="icon is-small">
+                <i class="fab fa-twitter" aria-hidden="true"></i>
+              </span>
+              <span>Follow us on Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a href="mailto:jeni@connectedbydata.org">
+              <span class="icon is-small">
+                <i class="fas fa-envelope" aria-hidden="true"></i>
+              </span>
+              <span>Email us to tell us what you think</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://discord.gg/uZyhRghzsc">
+              <span class="icon is-small">
+                <i class="fab fa-discord" aria-hidden="true"></i>
+              </span>
+              <span>Join us on Discord</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

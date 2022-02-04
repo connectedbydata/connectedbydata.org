@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<article>
+
+{%- capture breadcrumbs -%}
+<li><a href="/blog">Behind the scenes</a></li>
+{%- endcapture -%}
+{%- include breadcrumbs.html items=breadcrumbs -%}
+
+{%- capture header -%}
+  <h1 class="title">{{ page.title }}</h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture metadata -%}
+<div class="columns is-mobile">
+  {%- capture picture -%}
+    {%- include author-picture.html author=page.author -%}
+  {%- endcapture -%}
+  {%- if picture -%}
+  <div class="column is-narrow">
+    {{ picture }}
+  </div>
+  {%- endif -%}
+  <div class="column">
+    <p>
+      <strong>
+        {%- include author-link.html author=page.author -%}
+      </strong>
+    <p>
+    <p>
+      {%- include date.html date=page.date -%}
+    </p>
+  </div>
+</div>
+{%- endcapture -%}
+{%- include section.html content=metadata -%}
+
+{%- capture content -%}
+<div class="content" itemprop="articleBody">
+  {{ content }}
+</div>
+{%- endcapture -%}
+{%- include section.html content=content -%}
+
+</article>
