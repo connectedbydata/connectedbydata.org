@@ -14,26 +14,12 @@ layout: default
   </div>
 </section>
 
-{%- for problem in site.problems -%}
-  {%- capture evenodd %}{% cycle 'odd', 'even' %}{%- endcapture -%}
-  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
-    <div class="container is-max-desktop">
-      <div class="columns is-variable is-4">
-        <div class="column">
-          <h2 class="title">{{ problem.title }}</h2>
-        </div>
-        <div class="column is-one-quarter">
-          <p>
-            <a href="{{ problem.url }}">
-              <i class="fas fa-arrow-alt-circle-right"></i>
-              &nbsp;Read more about {{ problem.more }}.
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-{%- endfor -%}
+{%- assign impact = site.problems | where:"id", "/problems/impact" | first -%}
+{%- assign ownership = site.problems | where:"id", "/problems/ownership" | first -%}
+{%- assign connected = site.problems | where:"id", "/problems/connected" | first -%}
+{%- include home-section.html section=impact evenodd=odd -%}
+{%- include home-section.html section=ownership evenodd=even -%}
+{%- include home-section.html section=connected evenodd=odd -%}
 
 <section id="solutions" class="hero is-halfheight is-primary">
   <div class="hero-body">
@@ -45,26 +31,12 @@ layout: default
   </div>
 </section>
 
-{%- for solution in site.solutions -%}
-  {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
-  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
-    <div class="container is-max-desktop">
-      <div class="columns is-variable is-4">
-        <div class="column is-two-thirds">
-          <h2 class="title">{{ solution.title }}</h2>
-        </div>
-        <div class="column is-one-quarter">
-          <p>
-            <a href="{{ solution.url }}">
-              <i class="fas fa-arrow-alt-circle-right"></i>
-              &nbsp;Read more about {{ solution.more }}.
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-{%- endfor -%}
+{%- assign participation = site.solutions | where:"id", "/solutions/participation" | first -%}
+{%- assign organisations = site.solutions | where:"id", "/solutions/organisations" | first -%}
+{%- assign people = site.solutions | where:"id", "/solutions/people" | first -%}
+{%- include home-section.html section=participation evenodd=even -%}
+{%- include home-section.html section=organisations evenodd=odd -%}
+{%- include home-section.html section=people evenodd=even -%}
 
 <section id="actions" class="hero is-halfheight is-primary">
   <div class="hero-body">
@@ -76,26 +48,12 @@ layout: default
   </div>
 </section>
 
-{%- for action in site.actions -%}
-  {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
-  <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
-    <div class="container is-max-desktop">
-      <div class="columns is-variable is-4">
-        <div class="column is-two-thirds">
-          <h2 class="title">{{ action.title }}</h2>
-        </div>
-        <div class="column is-one-quarter">
-          <p>
-            <a href="{{ action.url }}">
-              <i class="fas fa-arrow-alt-circle-right"></i>
-              &nbsp;Read more about {{ action.more }}.
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-{%- endfor -%}
+{%- assign narrative = site.actions | where:"id", "/actions/narrative" | first -%}
+{%- assign practice = site.actions | where:"id", "/actions/practice" | first -%}
+{%- assign policy = site.actions | where:"id", "/actions/policy" | first -%}
+{%- include home-section.html section=narrative evenodd=odd -%}
+{%- include home-section.html section=practice evenodd=even -%}
+{%- include home-section.html section=policy evenodd=odd -%}
 
 <section class="hero is-halfheight is-primary">
   <div class="hero-body">

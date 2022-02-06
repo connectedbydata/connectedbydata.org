@@ -20,11 +20,12 @@
           </a>
 
           <div class="navbar-dropdown">
-            {% for problem in site.problems %}
-              <a class="navbar-item" href="{{ problem.url }}">
-                {{ problem.more | capitalize }}
-              </a>
-            {% endfor %}
+            {%- assign impact = site.problems | where:"id", "/problems/impact" | first -%}
+            {%- assign ownership = site.problems | where:"id", "/problems/ownership" | first -%}
+            {%- assign connected = site.problems | where:"id", "/problems/connected" | first -%}
+            {%- include navbar-item.html item=impact -%}
+            {%- include navbar-item.html item=ownership -%}
+            {%- include navbar-item.html item=connected -%}
           </div>
         </div>
 
@@ -34,11 +35,12 @@
           </a>
 
           <div class="navbar-dropdown">
-            {% for solution in site.solutions %}
-              <a class="navbar-item" href="{{ solution.url }}">
-                {{ solution.more | capitalize }}
-              </a>
-            {% endfor %}
+            {%- assign participation = site.solutions | where:"id", "/solutions/participation" | first -%}
+            {%- assign organisations = site.solutions | where:"id", "/solutions/organisations" | first -%}
+            {%- assign people = site.solutions | where:"id", "/solutions/people" | first -%}
+            {%- include navbar-item.html item=participation -%}
+            {%- include navbar-item.html item=organisations -%}
+            {%- include navbar-item.html item=people -%}
           </div>
         </div>
 
@@ -48,11 +50,12 @@
           </a>
 
           <div class="navbar-dropdown">
-            {% for action in site.actions %}
-              <a class="navbar-item" href="{{ action.url }}">
-                {{ action.more | replace: "changing", "Change" }}
-              </a>
-            {% endfor %}
+            {%- assign narrative = site.actions | where:"id", "/actions/narrative" | first -%}
+            {%- assign practice = site.actions | where:"id", "/actions/practice" | first -%}
+            {%- assign policy = site.actions | where:"id", "/actions/policy" | first -%}
+            {%- include navbar-item.html item=narrative -%}
+            {%- include navbar-item.html item=practice -%}
+            {%- include navbar-item.html item=policy -%}
           </div>
         </div>
       </div>

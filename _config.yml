@@ -30,22 +30,10 @@ github_username:  JeniT
 collections:
   problems:
     output: true
-    order:
-      - impact.md
-      - ownership.md
-      - connected.md
   solutions:
     output: true
-    order:
-      - participation.md
-      - organisations.md
-      - people.md
   actions:
     output: true
-    order:
-      - narrative.md
-      - practice.md
-      - policy.md
   team:
     output: true
   literature:
