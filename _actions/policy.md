@@ -2,11 +2,15 @@
 layout: page
 title: We need to change how data is regulated
 more: changing public policy
+previous-url: /actions/practice.html
 points:
   -
     heading: Current **data protection regulations** such as GDPR are oriented around individual privacy.
   -
-    heading: We need the law to recognise that **non-personal data** can be harmful too, and that harms can fall on **groups**, wider **society** and our **environment**, not just on individuals.
+    heading: We need the law to recognise that harms can fall on **groups**, wider **society** and our **environment**, not just on individuals. And as a consequence, that **non-personal data** can be harmful too.
+    references:
+      - pokemon-go
+      - endangered-animals
   -
     heading: We need regulators to **enable and encourage** organisations to try new, collective ways of making decisions about data, while continuing to protect us and our rights.
   -

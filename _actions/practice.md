@@ -1,6 +1,8 @@
 ---
 layout: page
 title: We need to change what organisations do with data
+previous-url: /actions/narrative.html
+next-url: /actions/policy.html
 points:
   -
     heading: We need organisations to change their data practices, so we need to create **practical guidance** for them to adopt.

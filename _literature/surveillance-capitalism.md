@@ -3,6 +3,7 @@ reference: surveillance-capitalism
 title: The Age of Surveillance Capitalism
 author: Shoshana Zuboff
 link: https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism
+category: book
 ---
 The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control our behavior.
 

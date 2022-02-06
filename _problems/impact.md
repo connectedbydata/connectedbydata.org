@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The way data is collected and used does not work for us
+next-url: /problems/ownership.html
 points:
   -
     heading: Data is constantly **collected** as we go about our lives and work.
@@ -15,13 +16,34 @@ points:
       - nouns/noun-assessment.png
   -
     heading: It **widens the gaps** between the privileged and the marginalised.
+    references:
+      - weapons-of-math-destruction
+      - data-feminism
   -
     heading: The **power of big tech** has a distorting effect on our economies.
   -
     heading: Social media and **targeted advertising** have turned democratic elections into digital battlegrounds.
   -
     heading: Little consideration is made to the **environmental impact** of data.
+    references:
+      - endangered-animals
+      - big-data-big-waste
   -
     heading: And somehow we miss out on the **public benefits** of data at the same time.
+    subpoints:
+      -
+        icon: noun-vaccination.png
+        text: Data about us can help<br>improve medical **treatments**
+      -
+        icon: noun-electricity.png
+        text: Data about us can help<br>reduce **energy usage**
+      -
+        icon: noun-commute.png
+        text: Data about us can help<br>improve **transport infrastructure**
+  -
+    heading: We continue to use services despite all this not because we agree with the way they collect or use data, but because we are **resigned** to the way this works.
+    references:
+      - digital-resignation
+      - targeted-ads-justified
 more: what is going wrong
 ---

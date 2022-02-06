@@ -1,19 +1,38 @@
 <div class="tile is-parent">
-  <div class="tile is-child notification">
+  <div class="tile is-child notification {%- if include.item.category == 'example' %} is-primary {%- elsif include.item.category == 'statistic' %} is-danger {%- endif -%}">
     <article class="media literature">
       <div class="media-left">
-        <figure class="image" style="width: 128px">
-          <a href="{{ include.item.link }}">
-            <img src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
-          </a>
-        </figure>
+        {%- if include.item.category == 'statistic' -%}
+          <p class="statistic">{{ include.item.value }}</p>
+        {%- else -%}
+          <figure class="image" style="width: 128px">
+            <a href="{{ include.item.link }}">
+              <img src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
+            </a>
+          </figure>
+        {%- endif -%}
+        {%- if include.item.error -%}
+          <div class="error has-text-centered">
+            {{ include.item.error | markdownify }}
+          </div>
+        {%- endif -%}
+        {%- if include.item.attribution -%}
+          <div class="attribution">
+            {{ include.item.attribution | markdownify }}
+          </div>
+        {%- endif -%}
       </div>
       <div class="media-content">
         <h3 class="title is-5">{{ include.item.title }}</h3>
-        <p class="subtitle">{{ include.item.author }}</p>
+        {%- if include.item.author -%}
+          <p class="subtitle">{{ include.item.author }}</p>
+        {%- endif -%}
         <div class="content">
           {{ include.item.content | markdownify }}
         </div>
+        <p>
+          <a href="{{ include.item.link }}">Read more</a>
+        </p>
       </div>
     </article>
   </div>

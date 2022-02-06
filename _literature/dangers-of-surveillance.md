@@ -3,6 +3,7 @@ reference: dangers-of-surveillance
 title: "The Dangers of Surveillance"
 author: Neil Richards
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239412
+category: paper
 ---
 From the Fourth Amendment to George Orwell’s Nineteen Eighty-Four, our culture is full of warnings about state scrutiny of our lives. These warnings are commonplace, but they are rarely very specific. Other than the vague threat of an Orwellian dystopia, as a society we don’t really know why surveillance is bad, and why we should be wary of it. To the extent the answer has something to do with “privacy,” we lack an understanding of what “privacy” means in this context, and why it matters. Developments in government and corporate practices have made this problem more urgent. Although we have laws that protect us against government surveillance, secret government programs cannot be challenged until they are discovered. And even when they are, courts frequently dismiss challenges to such programs for lack of standing, under the theory that mere surveillance creates no tangible harms, as the Supreme Court did recently in the case of Clapper v. Amnesty International. We need a better account of the dangers of surveillance.
 

@@ -1,13 +1,15 @@
 ---
 layout: page
 title: We will decide together how we want data to work
+previous-url: /problems/connected.html
+next-url: /solutions/organisations.html
 points:
   -
     heading: We need to make decisions about data **collectively**.
   -
     heading: These might be decisions about what data is **collected**, how it is **used** and who it is **shared** with.
   -
-    heading: They might be decisions about **which choices** are left to individuals, **what defaults** they have, and **how those are presented**.
+    heading: "They might be decisions about the **privacy controls** we are given: **which choices** people can make, **what defaults** they have, and **how they are presented**."
   -
     heading: We can ask our **elected representatives**, such as MPs or local councillors, to make decisions on our behalf.
   -

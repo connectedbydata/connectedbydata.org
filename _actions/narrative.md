@@ -2,6 +2,8 @@
 layout: page
 title: We need to change how we talk about data
 more: changing the narrative
+previous-url: /solutions/people.html
+next-url: /actions/practice.html
 points:
   -
     heading: We need to stop talking about data as if it is something we can **own**.

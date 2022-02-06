@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Organisations will build trust and reduce risks
+previous-url: /solutions/participation.html
+next-url: /solutions/people.html
 points:
   -
     heading: People understand that **businesses, governments and charities** have to use data to **provide services** and **operate efficiently**.
@@ -9,8 +11,8 @@ points:
   -
     heading: But they don't currently **trust** organisations to make the right calls on their behalf.
   -
-    heading: Organisations will **listen** to the concerns of those who will be affected, **change** what they do in response, and be **transparent** about how they make these decisions.
+    heading: Organisations will build trust by **listening** to the concerns of those who will be affected, **changing** what they do in response, and being **transparent** about how they make these decisions.
   -
-    heading: As a result they will **satisfy customers, citizens and clients**, **reduce risk** and find data **easier to administer**.
+    heading: As a result they will **satisfy customers, citizens and clients**; **reduce risk**; and find data **easier to administer**.
 more: how organisations will build trust
 ---

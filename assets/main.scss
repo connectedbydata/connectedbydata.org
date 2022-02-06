@@ -7,6 +7,7 @@ $fa-font-path: "webfonts";
 $breadcrumb-item-separator-color: inherit;
 $breadcrumb-item-hover-color: inherit;
 $breadcrumb-item-active-color: inherit;
+$scrollbar-width: 5px;
 
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
@@ -23,6 +24,55 @@ $breadcrumb-item-active-color: inherit;
 }
 
 .literature {
-  max-height: 15rem;
-  overflow: scroll;
+  .statistic {
+    font-size: 3rem;
+  }
+
+  img {
+    filter: grayscale(1);
+    opacity: 0.8;
+  }
+
+  img:hover {
+    filter: none;
+    opacity: 1;
+  }
+
+  .media-content {
+    max-height: 15rem;
+    overflow-y: scroll;
+  }
+
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .media-content::-webkit-scrollbar {
+    width: $scrollbar-width;
+  }
+
+  .media-content::-webkit-scrollbar-track {
+    background: inherit;
+  }
+
+  .media-content::-webkit-scrollbar-thumb {
+    background: $grey-light;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .media-content {
+    scrollbar-width: $scrollbar-width;  /* Firefox */
+    scrollbar-color: $grey-light inherit;
+  }
+
+  .attribution {
+    max-width: fit-content;
+    font-size: 0.8rem;
+  }
+}
+
+
+.is-primary .literature .media-content::-webkit-scrollbar-thumb {
+  background: findDarkColor($primary);
+}
+
+.is-danger .literature .media-content::-webkit-scrollbar-thumb {
+  background: findDarkColor($danger);
 }

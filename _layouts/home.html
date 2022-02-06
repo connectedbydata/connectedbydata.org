@@ -18,10 +18,19 @@ layout: default
   {%- capture evenodd %}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
-      <h2 class="title">{{ problem.title }}</h2>
-      <p>
-        <a href="{{ problem.url }}">Read more about {{ problem.more }}.</a>
-      </p>
+      <div class="columns is-variable is-4">
+        <div class="column">
+          <h2 class="title">{{ problem.title }}</h2>
+        </div>
+        <div class="column is-one-quarter">
+          <p>
+            <a href="{{ problem.url }}">
+              <i class="fas fa-arrow-alt-circle-right"></i>
+              &nbsp;Read more about {{ problem.more }}.
+            </a>
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 {%- endfor -%}
@@ -40,10 +49,19 @@ layout: default
   {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
-      <h2 class="title">{{ solution.title }}</h2>
-      <p>
-        <a href="{{ solution.url }}">Read more about {{ solution.more }}.</a>
-      </p>
+      <div class="columns is-variable is-4">
+        <div class="column is-two-thirds">
+          <h2 class="title">{{ solution.title }}</h2>
+        </div>
+        <div class="column is-one-quarter">
+          <p>
+            <a href="{{ solution.url }}">
+              <i class="fas fa-arrow-alt-circle-right"></i>
+              &nbsp;Read more about {{ solution.more }}.
+            </a>
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 {%- endfor -%}
@@ -62,10 +80,19 @@ layout: default
   {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
-      <h2 class="title">{{ action.title }}</h2>
-      <p>
-        <a href="{{ action.url }}">Read more about {{ action.more }}.</a>
-      </p>
+      <div class="columns is-variable is-4">
+        <div class="column is-two-thirds">
+          <h2 class="title">{{ action.title }}</h2>
+        </div>
+        <div class="column is-one-quarter">
+          <p>
+            <a href="{{ action.url }}">
+              <i class="fas fa-arrow-alt-circle-right"></i>
+              &nbsp;Read more about {{ action.more }}.
+            </a>
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 {%- endfor -%}
