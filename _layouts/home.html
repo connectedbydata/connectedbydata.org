@@ -17,9 +17,9 @@ layout: default
 {%- assign impact = site.problems | where:"id", "/problems/impact" | first -%}
 {%- assign ownership = site.problems | where:"id", "/problems/ownership" | first -%}
 {%- assign connected = site.problems | where:"id", "/problems/connected" | first -%}
-{%- include home-section.html section=impact evenodd=odd -%}
-{%- include home-section.html section=ownership evenodd=even -%}
-{%- include home-section.html section=connected evenodd=odd -%}
+{%- include home-section.html section=impact evenodd='odd' -%}
+{%- include home-section.html section=ownership evenodd='even' -%}
+{%- include home-section.html section=connected evenodd='odd' -%}
 
 <section id="solutions" class="hero is-halfheight is-primary">
   <div class="hero-body">
@@ -34,9 +34,9 @@ layout: default
 {%- assign participation = site.solutions | where:"id", "/solutions/participation" | first -%}
 {%- assign organisations = site.solutions | where:"id", "/solutions/organisations" | first -%}
 {%- assign people = site.solutions | where:"id", "/solutions/people" | first -%}
-{%- include home-section.html section=participation evenodd=even -%}
-{%- include home-section.html section=organisations evenodd=odd -%}
-{%- include home-section.html section=people evenodd=even -%}
+{%- include home-section.html section=participation evenodd='even' -%}
+{%- include home-section.html section=organisations evenodd='odd' -%}
+{%- include home-section.html section=people evenodd='even' -%}
 
 <section id="actions" class="hero is-halfheight is-primary">
   <div class="hero-body">
@@ -51,9 +51,9 @@ layout: default
 {%- assign narrative = site.actions | where:"id", "/actions/narrative" | first -%}
 {%- assign practice = site.actions | where:"id", "/actions/practice" | first -%}
 {%- assign policy = site.actions | where:"id", "/actions/policy" | first -%}
-{%- include home-section.html section=narrative evenodd=odd -%}
-{%- include home-section.html section=practice evenodd=even -%}
-{%- include home-section.html section=policy evenodd=odd -%}
+{%- include home-section.html section=narrative evenodd='odd' -%}
+{%- include home-section.html section=practice evenodd='even' -%}
+{%- include home-section.html section=policy evenodd='odd' -%}
 
 <section class="hero is-halfheight is-primary">
   <div class="hero-body">
