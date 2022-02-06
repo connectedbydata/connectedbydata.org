@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<section class="hero is-halfheight is-primary">
+<section id="problems" class="hero is-halfheight is-primary">
   <div class="hero-body">
     <div class="container is-max-desktop">
-      <p class="title">
+      <h1 class="title">
         <span class="is-inline-block is-size-5-mobile">We are</span><br>
         <span class="is-inline-block is-size-1 is-size-3-mobile pl-5">connected by data</span><br>
         <span class="is-inline-block is-size-5-mobile pl-6">so we need to control it together</span>
-      </p>
+      </h1>
     </div>
   </div>
 </section>
 
-{% for problem in site.problems %}
-  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+{%- for problem in site.problems -%}
+  {%- capture evenodd %}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
       <h2 class="title">{{ problem.title }}</h2>
@@ -24,9 +24,9 @@ layout: default
       </p>
     </div>
   </section>
-{% endfor %}
+{%- endfor -%}
 
-<section class="hero is-halfheight is-primary">
+<section id="solutions" class="hero is-halfheight is-primary">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
@@ -36,8 +36,8 @@ layout: default
   </div>
 </section>
 
-{% for solution in site.solutions %}
-  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+{%- for solution in site.solutions -%}
+  {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
       <h2 class="title">{{ solution.title }}</h2>
@@ -46,9 +46,9 @@ layout: default
       </p>
     </div>
   </section>
-{% endfor %}
+{%- endfor -%}
 
-<section class="hero is-halfheight is-primary">
+<section id="actions" class="hero is-halfheight is-primary">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
@@ -58,8 +58,8 @@ layout: default
   </div>
 </section>
 
-{% for action in site.actions %}
-  {% capture evenodd %}{% cycle 'odd', 'even' %}{% endcapture %}
+{%- for action in site.actions -%}
+  {%- capture evenodd -%}{% cycle 'odd', 'even' %}{%- endcapture -%}
   <section class="section {% if evenodd == 'even' %}has-background-dark has-text-light{% else %}has-background-light has-text-dark{% endif %}">
     <div class="container is-max-desktop">
       <h2 class="title">{{ action.title }}</h2>
@@ -68,7 +68,7 @@ layout: default
       </p>
     </div>
   </section>
-{% endfor %}
+{%- endfor -%}
 
 <section class="hero is-halfheight is-primary">
   <div class="hero-body">

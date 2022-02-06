@@ -5,6 +5,8 @@
 $title-color: inherit;
 $fa-font-path: "webfonts";
 $breadcrumb-item-separator-color: inherit;
+$breadcrumb-item-hover-color: inherit;
+$breadcrumb-item-active-color: inherit;
 
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
@@ -18,4 +20,9 @@ $breadcrumb-item-separator-color: inherit;
   a {
     color: findLightColor($link);
   }
+}
+
+.literature {
+  max-height: 15rem;
+  overflow: scroll;
 }

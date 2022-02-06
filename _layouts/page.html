@@ -3,23 +3,54 @@ layout: default
 ---
 <article>
 
+{%- capture breadcrumbs -%}
+<li><a href="/#{{ page.collection }}">{{ page.collection | capitalize }}</a></li>
+<li class="is-active"><a href="#">{{ page.more | capitalize }}</a></li>
+{%- endcapture -%}
+{%- include breadcrumbs.html items=breadcrumbs -%}
+
 {%- capture header -%}
-<h1 class="title">{{ page.title }}</h1>
+<h1 class="title is-1">{{ page.title }}</h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- capture summary -%}
-<div class="subtitle">
-  {{ page.summary | markdownify }}
-</div>
-{%- endcapture -%}
-{%- include section.html content=summary -%}
-
-{%- capture content -%}
-<div class="content">
-  {{ content }}
-</div>
-{%- endcapture -%}
-{%- include section.html content=content -%}
+{%- for point in page.points -%}
+  {%- capture content -%}
+    <div class="block is-size-4 pb-4">
+      {{ point.heading | markdownify }}
+    </div>
+    {%- if point.tweet -%}
+      <div class="columns is-centered">
+        <div class="column is-narrow">
+          {{ point.tweet }}
+        </div>
+      </div>
+    {%- endif -%}
+    {%- if point.references -%}
+      {%- assign rows = point.references | size | plus: 1 | divided_by: 2 -%}
+      {%- for row in (1..rows) -%}
+        <div class="tile is-ancestor">
+          {%- assign offset = row | minus: 1 | times: 2 -%}
+          {%- for reference in point.references limit:2 offset:offset  -%}
+            {%- assign item = site.literature | where: "reference", reference | first -%}
+            {%- include literature.html item=item -%}
+          {%- endfor -%}
+        </div>
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if point.icons -%}
+      <div class="level">
+        {%- for icon in point.icons -%}
+          <div class="level-item">
+            <figure class="image is-128x128">
+              <img src="/assets/{{ icon }}">
+            </figure>
+          </div>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- include section.html content=content -%}
+{%- endfor -%}
 
 </article>

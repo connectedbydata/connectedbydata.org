@@ -1,16 +1,20 @@
 ---
 layout: page
 title: We need to change what organisations do with data
-summary:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Mattis enim ut tellus elementum sagittis. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Aliquet lectus proin nibh nisl condimentum. At varius vel pharetra vel turpis nunc eget lorem. Ultricies lacus sed turpis tincidunt id. Sed augue lacus viverra vitae. Arcu cursus vitae congue mauris rhoncus aenean. Ipsum consequat nisl vel pretium lectus quam id leo. Convallis convallis tellus id interdum velit laoreet. Elit ut aliquam purus sit amet luctus venenatis lectus. Tellus in hac habitasse platea. Quam nulla porttitor massa id neque. Vel facilisis volutpat est velit egestas dui id ornare.
+points:
+  -
+    heading: We need organisations to change their data practices, so we need to create **practical guidance** for them to adopt.
+  -
+    heading: We need to draw on **existing experience** with collective decision making and apply them to data to see how they work.
+  -
+    heading: There is **no one-size-fits-all approach** for making collective decisions about data, so we need to help organisations pick appropriate ones.
+  -
+    heading: We need to equip local and national governments to make decisions about data through **representative democracy**.
+  -
+    heading: We need large organisations to get comfortable with deliberative approaches such as **citizen juries**.
+  -
+    heading: We need to look at how to use lower-cost **user research** methods that are appropriate for cash-strapped startups and SMEs.
+  -
+    heading: We need to run **pilots** and develop **case studies** to learn from experience and to inspire organisations to change their own data practices.
 more: changing data practice
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse in est ante in nibh mauris cursus mattis. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. A lacus vestibulum sed arcu non odio euismod. Urna condimentum mattis pellentesque id nibh. Diam vulputate ut pharetra sit amet. Egestas sed tempus urna et pharetra pharetra massa massa. Sem nulla pharetra diam sit.
-
-Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Lorem donec massa sapien faucibus et molestie ac. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Pretium vulputate sapien nec sagittis aliquam. Vitae tempus quam pellentesque nec nam aliquam. Vestibulum lorem sed risus ultricies tristique. Urna molestie at elementum eu facilisis. At consectetur lorem donec massa sapien faucibus et. Auctor neque vitae tempus quam pellentesque nec nam. Eros donec ac odio tempor orci dapibus ultrices in. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Diam volutpat commodo sed egestas egestas. Nisl nunc mi ipsum faucibus vitae aliquet. In fermentum posuere urna nec tincidunt praesent semper.
-
-Leo integer malesuada nunc vel risus commodo viverra maecenas accumsan. A scelerisque purus semper eget duis at tellus at urna. Mi quis hendrerit dolor magna eget. A arcu cursus vitae congue mauris rhoncus aenean vel. Praesent semper feugiat nibh sed pulvinar. Sed id semper risus in hendrerit gravida rutrum quisque non. Ac felis donec et odio pellentesque. Vestibulum morbi blandit cursus risus at. Luctus venenatis lectus magna fringilla. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Quis blandit turpis cursus in hac. In nibh mauris cursus mattis molestie a iaculis at erat. Ornare quam viverra orci sagittis eu volutpat odio facilisis. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Molestie at elementum eu facilisis sed odio morbi quis.
-
-Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Ante in nibh mauris cursus. In egestas erat imperdiet sed euismod nisi porta lorem. Neque egestas congue quisque egestas diam. Tincidunt id aliquet risus feugiat. Tellus molestie nunc non blandit massa enim nec. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Urna molestie at elementum eu. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Sed risus ultricies tristique nulla aliquet enim tortor. Duis convallis convallis tellus id interdum velit laoreet id. Elementum integer enim neque volutpat ac tincidunt. Aliquet nec ullamcorper sit amet risus nullam eget felis. Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Viverra orci sagittis eu volutpat odio facilisis mauris sit. Amet commodo nulla facilisi nullam vehicula. Viverra justo nec ultrices dui sapien eget mi proin sed. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt.
-
-Quam lacus suspendisse faucibus interdum posuere. Duis convallis convallis tellus id interdum velit laoreet id. Est lorem ipsum dolor sit amet consectetur. Dolor magna eget est lorem ipsum dolor sit amet. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Aliquam ultrices sagittis orci a scelerisque purus semper eget duis. Nunc mi ipsum faucibus vitae aliquet nec. Consequat nisl vel pretium lectus quam id leo in. Adipiscing elit ut aliquam purus sit amet. Vitae purus faucibus ornare suspendisse sed nisi lacus. Risus nullam eget felis eget nunc lobortis. Arcu felis bibendum ut tristique et. Ut porttitor leo a diam.

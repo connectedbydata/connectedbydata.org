@@ -1,12 +1,8 @@
 {%- capture link -%}
-  {%- for person in site.team -%}
-    {%- if person.title == include.author -%}
-      <a href="{{person.url}}">{{ include.author }}</a>
-    {%- endif -%}
-  {%- endfor -%}
+  <a href="{{include.author.url}}">{{ include.author.title }}</a>
 {%- endcapture -%}
 {%- if link -%}
   {{ link }}
 {%- else -%}
-  {{ include.author }}
+  {{ include.author.title }}
 {%- endif -%}

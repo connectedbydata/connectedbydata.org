@@ -30,10 +30,11 @@ layout: default
 {%- include section.html content=intro -%}
 
 {%- for post in site.posts -%}
+  {%- assign author = site.team | where: "title", post.author | first %}
   {%- capture post-content -%}
     <div class="columns">
       <div class="column is-narrow">
-        {%- include author-picture.html author=post.author -%}
+        {%- include author-picture.html author=author -%}
       </div>
       <div class="column">
         <h2 class="title is-4">
@@ -42,8 +43,8 @@ layout: default
           </a>
         </h2>
         <p class="subtitle is-6">
-          {%- include author-link.html author=post.author %}
-          ·
+          {%- include author-link.html author=author %}
+          &middot;
           {% include date.html date=post.date -%}
         </p>
       </div>

@@ -1,0 +1,104 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+<h1 class="title is-1">{{ page.title }}</h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture mission -%}
+  <div class="columns">
+    <div class="column is-half">
+      <div class="content">
+        <h2 class="title is-2">Our vision</h2>
+        <p class="is-size-4">
+          We think organisations and people should make decisions about data together.
+        </p>
+      </div>
+    </div>
+    <div class="column is-half">
+      <div class="content">
+        <h2 class="title is-2">Our mission</h2>
+        <p class="is-size-4">
+          We advocate for collective data governance, and argue against individualistic approaches.
+        </p>
+      </div>
+    </div>
+  </div>
+{%- endcapture -%}
+{%- include section.html content=mission -%}
+
+{%- capture values -%}
+  <div class="tile is-ancestor has-text-centered is-size-4">
+    <div class="tile is-parent">
+      <div class="tile is-child notification">
+        <p>We target <strong>impact</strong></p>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <div class="tile is-child notification">
+        <p>We work in the <strong>open</strong></p>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <div class="tile is-child notification">
+        <p>We find the <strong>fun</strong></p>
+      </div>
+    </div>
+  </div>
+  <div class="tile is-ancestor has-text-centered is-size-4">
+    <div class="tile is-parent">
+      <div class="tile is-child notification">
+        <p>We <strong>collaborate</strong> and <strong>learn</strong> with others</p>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <div class="tile is-child notification">
+        <p>We <strong>care</strong> for ourselves and each other</p>
+      </div>
+    </div>
+  </div>
+{%- endcapture -%}
+{%- include section.html content=values -%}
+
+{%- capture team -%}
+  <div class="columns">
+    <div class="column is-half">
+      <h2 class="title is-2">Our team</h2>
+      <div class="columns">
+        {%- for person in site.team -%}
+          <div class="column">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-64x64">
+                  <a href="{{ person.url }}">
+                    <img class="is-rounded" src="/assets/team/{{ person.picture }}">
+                  </a>
+                </figure>
+              </div>
+              <div class="media-content">
+                <h3 class="title is-5"><a href="{{ person.url }}">{{ person.title }}</a></h3>
+                <p class="subtitle">{{ person.role }}</p>
+              </div>
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+    </div>
+    <div class="column is-half">
+      <div class="content">
+        <h2 class="title is-2">Our funding</h2>
+        <figure class="image" style="width: 210px">
+          <a href="https://shuttleworthfoundation.org/">
+            <img src="/assets/shuttleworth-logo.svg">
+          </a>
+        </figure>
+      </div>
+    </div>
+  </div>
+{%- endcapture -%}
+{%- include section.html content=team -%}
+
+</article>

@@ -1,0 +1,20 @@
+<div class="tile is-parent">
+  <div class="tile is-child notification">
+    <article class="media literature">
+      <div class="media-left">
+        <figure class="image" style="width: 128px">
+          <a href="{{ include.item.link }}">
+            <img src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
+          </a>
+        </figure>
+      </div>
+      <div class="media-content">
+        <h3 class="title is-5">{{ include.item.title }}</h3>
+        <p class="subtitle">{{ include.item.author }}</p>
+        <div class="content">
+          {{ include.item.content | markdownify }}
+        </div>
+      </div>
+    </article>
+  </div>
+</div>

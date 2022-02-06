@@ -48,6 +48,8 @@ collections:
       - policy.md
   team:
     output: true
+  literature:
+    output: false
 
 excerpt_separator: <!--more-->
 
