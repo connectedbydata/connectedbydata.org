@@ -21,8 +21,12 @@ points:
       - data-feminism
   -
     heading: The **power of big tech** has a distorting effect on our economies.
+    references:
+      - furman-review
   -
     heading: Social media and **targeted advertising** have turned democratic elections into digital battlegrounds.
+    references:
+      - ready-to-vote
   -
     heading: Little consideration is made to the **environmental impact** of data.
     references:
