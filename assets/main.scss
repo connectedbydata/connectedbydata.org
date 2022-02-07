@@ -23,9 +23,30 @@ $scrollbar-width: 5px;
   }
 }
 
+.level.is-mobile .image.is-128x128 {
+  @include mobile {
+    width: 64px;
+    height: 64px;
+  }
+}
+
 .literature {
   .statistic {
-    font-size: 3rem;
+    @include mobile {
+      font-size: 2rem;
+    }
+    @include tablet {
+      font-size: 3rem;
+    }
+  }
+
+  figure {
+    @include mobile {
+      max-width: 64px;
+    }
+    @include tablet {
+      max-width: 128px;
+    }
   }
 
   img {

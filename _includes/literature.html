@@ -5,7 +5,7 @@
         {%- if include.item.category == 'statistic' -%}
           <p class="statistic">{{ include.item.value }}</p>
         {%- else -%}
-          <figure class="image" style="width: 128px">
+          <figure class="image">
             <a href="{{ include.item.link }}">
               <img src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
             </a>
