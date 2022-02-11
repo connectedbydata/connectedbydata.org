@@ -2,7 +2,34 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@font-face {
+  font-family: NotoSans;
+  src: url(webfonts/NotoSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: NotoSans;
+  src: url(webfonts/NotoSans-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(webfonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(webfonts/Poppins-Bold.ttf);
+  font-weight: bold;
+}
+
+$family-primary: NotoSans;
+$family-secondary: Poppins;
+
 $title-color: inherit;
+$title-family: $family-secondary;
+$subtitle-family: $family-secondary;
 $fa-font-path: "webfonts";
 $breadcrumb-item-separator-color: inherit;
 $breadcrumb-item-hover-color: inherit;
