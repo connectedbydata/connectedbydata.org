@@ -1,9 +1,13 @@
 <div class="tile is-parent">
-  <div class="tile is-child notification {%- if include.item.category == 'example' %} is-primary {%- elsif include.item.category == 'statistic' %} is-danger {%- endif -%}">
+  <div class="tile is-child notification {%- if include.item.category == 'example' or include.item.category == 'article' %} is-primary {%- elsif include.item.category == 'statistic' %} is-danger {%- endif -%}">
     <article class="media literature">
       <div class="media-left">
         {%- if include.item.category == 'statistic' -%}
           <p class="statistic">{{ include.item.value }}</p>
+        {%- elsif include.item.category == 'article' -%}
+          <p class="icon is-large">
+            <i class="fa-solid fa-quote-left fas fa-2x"></i>
+          </p>
         {%- else -%}
           <figure class="image">
             <a href="{{ include.item.link }}">
@@ -11,11 +15,13 @@
             </a>
           </figure>
         {%- endif -%}
+
         {%- if include.item.error -%}
           <div class="error has-text-centered">
             {{ include.item.error | markdownify }}
           </div>
         {%- endif -%}
+
         {%- if include.item.attribution -%}
           <div class="attribution">
             {{ include.item.attribution | markdownify }}
