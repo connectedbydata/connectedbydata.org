@@ -8,6 +8,7 @@ points:
     references:
       - surveillance-capitalism
       - dangers-of-surveillance
+      - poll-targeted-ads-invasive
   -
     heading: Data determines the **prices** we pay and the **opportunities** we are presented with as well as the **decisions** that are made about us.
     icons:
@@ -27,6 +28,7 @@ points:
     heading: Social media and **targeted advertising** have turned democratic elections into digital battlegrounds.
     references:
       - ready-to-vote
+      - poll-facebook-impact
   -
     heading: Little consideration is made to the **environmental impact** of data.
     references:
@@ -48,6 +50,6 @@ points:
     heading: We continue to use services despite all this not because we agree with the way they collect or use data, but because we are **resigned** to the way this works.
     references:
       - digital-resignation
-      - targeted-ads-justified
+      - poll-targeted-ads-justified
 more: what is going wrong
 ---
