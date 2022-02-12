@@ -24,6 +24,9 @@
   font-weight: bold;
 }
 
+$large-mobile: 432px;
+$tablet: 576px;
+
 $family-primary: NotoSans;
 $family-secondary: Poppins;
 
@@ -149,6 +152,15 @@ $footer-color: white;
           content: "";
           display: block;
           padding-top: 100%;
+          float: left;
+        }
+      }
+
+      @media screen and (min-width: $large-mobile) {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 50%;
           float: left;
         }
       }
