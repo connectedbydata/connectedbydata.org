@@ -1,5 +1,5 @@
 ---
-reference: poll-enough-control
+reference: poll-targeted-ads-invasive
 value: "74%"
 error: "&plusmn;4%"
 title: "of internet users in the US find targeted online ads invasive"
