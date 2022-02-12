@@ -1,0 +1,9 @@
+{%- assign randNumber = include.seed | split: "" | uniq | join: "" | size | plus: include.seed.size -%}
+{%- capture hidden -%}
+  {%- if include.hidden -%}{{ include.hidden }}{%- else -%}mobile{%- endif -%}
+{%- endcapture -%}
+
+{%- assign randGraphicIndex = randNumber | modulo: 12 -%}
+{%- assign randGraphic = site.background-graphics | slice: randGraphicIndex -%}
+
+{%- include block.html square=true background=randGraphic hidden=hidden -%}

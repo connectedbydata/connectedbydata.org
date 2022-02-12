@@ -1,0 +1,9 @@
+{%- assign randNumber = include.seed | split: "" | uniq | join: "" | size | plus: include.seed.size -%}
+{%- capture hidden -%}
+  {%- if include.hidden -%}{{ include.hidden }}{%- else -%}touch{%- endif -%}
+{%- endcapture -%}
+
+{%- assign randColorIndex = randNumber | modulo: 3 -%}
+{%- assign randColor = site.background-colors | slice: randColorIndex -%}
+
+{%- include block.html background=randColor hidden=hidden -%}

@@ -4,35 +4,55 @@ layout: default
 <article>
 
 {%- capture header -%}
-{%- capture breadcrumbs -%}
-<li><a href="/#{{ page.collection }}">{{ page.collection | capitalize }}</a></li>
-<li class="is-active"><a href="#">{{ page.more | capitalize }}</a></li>
-{%- endcapture -%}
-{%- include breadcrumbs.html items=breadcrumbs -%}
-<h1 class="title is-1">{{ page.title }}</h1>
+  {%- capture breadcrumbs -%}
+    <li><a href="/#{{ page.collection }}">{{ page.collection | capitalize }}</a></li>
+    <li class="is-active"><a href="#">{{ page.more | capitalize }}</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1">{{ page.title }}</h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
 {%- for point in page.points -%}
+  {%- assign referencesText = point.references | join: ""  -%}
   {%- capture content -%}
-    <div class="block is-size-4 pb-4">
-      {{ point.heading | markdownify }}
-    </div>
+    {%- include random-row.html content=point.heading seed=referencesText -%}
 
     {%- if point.subpoints -%}
-    <div class="columns is-centered has-text-centered">
-      {%- for point in point.subpoints -%}
-        <div class="column">
-          <div class="is-flex is-justify-content-center">
-            <figure class="image is-64x64">
-              <img src="/assets/nouns/{{ point.icon }}">
-            </figure>
-          </div>
-          {{ point.text | markdownify }}
-        </div>
-      {%- endfor -%}
-    </div>
+      {%- assign itemCountMobile = point.subpoints.size | divided_by: 2.0 | ceil | times: 2 -%}
+      {%- assign additionalItemsCountMobile = itemCountMobile | minus: point.subpoints.size -%}
+      {%- assign itemCountTablet = itemCountMobile | divided_by: 3.0 | ceil | times: 3 -%}
+      {%- assign additionalItemsCountTablet = itemCountTablet | minus: itemCountMobile -%}
+      {%- assign itemCountDesktop = itemCountMobile | divided_by: 4.0 | ceil | times: 4 -%}
+      {%- assign additionalItemsCountDesktop = itemCountDesktop | minus: itemCountMobile -%}
+      {%- assign seedText = point.subpoints | map: "text" | join: "" -%}
+      <div class="columns is-gapless is-multiline is-mobile">
+        {%- if additionalItemsCountMobile == 1 -%}
+          {%- include random-graphic-block.html seed=seedText hidden='never' -%}
+        {%- endif -%}
+        {%- for point in point.subpoints -%}
+          {%- capture content -%}
+            <div class="subpoint">
+              <figure class="image is-64x64">
+                <img src="/assets/nouns/{{ point.icon }}">
+              </figure>
+              {{ point.text | markdownify }}
+            </div>
+          {%- endcapture -%}
+          {%- include block.html square=true content=content -%}
+        {%- endfor -%}
+        {%- for i in (1..additionalItemsCountTablet) -%}
+          {%- capture color -%}{%- cycle "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
+          {%- include block.html background=color hidden='mobile' -%}
+        {%- endfor -%}
+        {%- for i in (1..additionalItemsCountDesktop) -%}
+          {%- include random-graphic-block.html seed=seedText hidden='touch' -%}
+        {%- endfor -%}
+      </div>
     {%- endif -%}
+
+<!--
+
 
     {%- if point.tweet -%}
       <div class="columns is-centered">
@@ -66,6 +86,7 @@ layout: default
         {%- endfor -%}
       </div>
     {%- endif -%}
+    -->
   {%- endcapture -%}
   {%- include section.html content=content -%}
 {%- endfor -%}

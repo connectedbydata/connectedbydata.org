@@ -41,6 +41,25 @@ collections:
 
 excerpt_separator: <!--more-->
 
+background-colors:
+  - dark-green
+  - darker-green
+  - darkest-green
+
+background-graphics:
+  - circles
+  - cube
+  - imperfect-circle
+  - large-dots
+  - medium-dots
+  - mountain
+  - rainbow
+  - rhombus
+  - small-triangles
+  - square
+  - stairs
+  - triangle
+
 # Build settings
 theme: minima
 plugins:
