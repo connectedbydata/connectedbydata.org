@@ -131,6 +131,23 @@ $footer-color: white;
         top: 66px;
       }
     }
+    .navbar-burger {
+      height: 5.25rem;
+      width: 5.25rem;
+
+      span {
+        height: 2px;
+        left: calc(50% - 16px);
+        width: 32px;
+
+        &:nth-child(2) {
+          top: calc(50% + 2px);
+        }
+        &:nth-child(3) {
+          top: calc(50% + 10px);
+        }
+      }
+    }
   }
 
   .columns.is-gapless {
