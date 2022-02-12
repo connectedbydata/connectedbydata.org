@@ -15,12 +15,12 @@
 
 @font-face {
   font-family: Poppins;
-  src: url(webfonts/Poppins-Regular.ttf);
+  src: url(webfonts/Poppins-Medium.ttf);
 }
 
 @font-face {
   font-family: Poppins;
-  src: url(webfonts/Poppins-Bold.ttf);
+  src: url(webfonts/Poppins-SemiBold.ttf);
   font-weight: bold;
 }
 
@@ -36,10 +36,150 @@ $breadcrumb-item-hover-color: inherit;
 $breadcrumb-item-active-color: inherit;
 $scrollbar-width: 5px;
 
+$light-purple: #8132f1;
+$purple: #6200ee;
+$dark-purple: #3200a1;
+$light-green: #00d1b2;
+$dark-green: #00a0a1;
+
+$lightest-green: #99ece0;
+$lighter-green: #66e3d0;
+$darker-green: #008788;
+$darkest-green: #006d6e;
+
+$dark-grey: #25333a;
+$light-grey: #F3f2f2;
+
+$primary: $light-green;
+$primary-invert: $dark-purple;
+$primary-light: $lightest-green;
+$primary-dark: $dark-green;
+$link: $dark-purple;
+
+$light: $light-grey;
+$light-invert: $dark-grey;
+$dark: $dark-grey;
+$dark-invert: $light-grey;
+
+$scheme-main: $light-grey !default
+$scheme-main-ter: white !default
+$scheme-invert: $dark-grey !default
+$scheme-invert-ter: black !default
+
+$text: $dark-grey;
+$background: $light-grey;
+
+$radius: 0px;
+$radius-large: 0px;
+
+$navbar-background-color: $primary;
+$navbar-item-color: white;
+$navbar-padding-vertical: 2rem;
+$navbar-dropdown-arrow: white;
+$navbar-item-hover-color: $link;
+$navbar-item-hover-background-color: $primary;
+$navbar-dropdown-background-color: $dark-green;
+$navbar-dropdown-border-top: none;
+
+$footer-background-color: $primary;
+$footer-color: white;
+
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
 @import "fontawesome/solid.scss";
 @import "bulma";
+@import "graphics.scss";
+
+.has-background-dark-green {
+  background-color: $dark-green;
+}
+.has-background-darker-green {
+  background-color: $darker-green;
+}
+.has-background-darkest-green {
+  background-color: $darkest-green;
+}
+
+.navbar {
+  font-family: Poppins;
+}
+
+.footer a {
+  color: white;
+
+  &:hover {
+    color: link;
+  }
+}
+
+.home {
+
+  .navbar {
+    &.dummy {
+      height: 100px;
+    }
+    .navbar-brand img {
+      max-height: 120px;
+      padding-top: 24px;
+    }
+    .navbar-menu {
+      margin-bottom: 46px;
+      .navbar-dropdown {
+        top: 66px;
+      }
+    }
+  }
+
+  .columns.is-gapless {
+    margin-bottom: 0px;
+
+    .column.is-square:before {
+      content: "";
+      display: block;
+      padding-top: 100%;
+      float: left;
+    }
+
+    .column {
+      display: flex;
+      align-items: center;
+
+      @include mobile {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 100%;
+          float: left;
+        }
+      }
+
+      div {
+        color: white;
+        padding-left: 2.5rem;
+        padding-right: 25%;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+
+        .title {
+          font-size: 1.5rem;
+        }
+
+        a {
+          color: white;
+        }
+
+      }
+    }
+
+  }
+
+  .breadcrumb ul li + li:before {
+    @include mobile {
+      display: none;
+    }
+  }
+
+}
 
 .has-text-light {
   strong {

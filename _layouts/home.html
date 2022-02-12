@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<section id="problems" class="hero is-halfheight is-primary">
+<section id="problems" class="hero is-halfheight is-primary has-text-centered">
   <div class="hero-body">
     <div class="container is-max-desktop">
-      <h1 class="title">
-        <span class="is-inline-block is-size-5-mobile">We are</span><br>
-        <span class="is-inline-block is-size-1 is-size-3-mobile pl-5">connected by data</span><br>
-        <span class="is-inline-block is-size-5-mobile pl-6">so we need to control it together</span>
+      <h1 class="title is-size-1 is-size-3-mobile pl-5">
+        We are connected by data<br>
+        so we need to control it together
       </h1>
     </div>
   </div>
@@ -17,11 +16,35 @@ layout: default
 {%- assign impact = site.problems | where:"id", "/problems/impact" | first -%}
 {%- assign ownership = site.problems | where:"id", "/problems/ownership" | first -%}
 {%- assign connected = site.problems | where:"id", "/problems/connected" | first -%}
-{%- include home-section.html section=impact evenodd='odd' -%}
-{%- include home-section.html section=ownership evenodd='even' -%}
-{%- include home-section.html section=connected evenodd='odd' -%}
 
-<section id="solutions" class="hero is-halfheight is-primary">
+{%- capture block1 -%}
+  <div class="columns is-gapless">
+    {%- include home-block.html section=impact background='dark-green' -%}
+    {%- include block.html background='rhombus' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='imperfect-circle' -%}
+    {%- include block.html background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='imperfect-circle' hidden='mobile' -%}
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include home-block.html section=ownership background='darker-green' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darkest-green' -%}
+    {%- include block.html background='medium-dots' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include home-block.html section=connected background='darkest-green' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+    {%- include block.html background='medium-dots' hidden='mobile' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=block1 -%}
+
+<section id="solutions" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
@@ -34,11 +57,35 @@ layout: default
 {%- assign participation = site.solutions | where:"id", "/solutions/participation" | first -%}
 {%- assign organisations = site.solutions | where:"id", "/solutions/organisations" | first -%}
 {%- assign people = site.solutions | where:"id", "/solutions/people" | first -%}
-{%- include home-section.html section=participation evenodd='even' -%}
-{%- include home-section.html section=organisations evenodd='odd' -%}
-{%- include home-section.html section=people evenodd='even' -%}
 
-<section id="actions" class="hero is-halfheight is-primary">
+{%- capture block2 -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='mountain' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+    {%- include home-block.html section=participation background='darkest-green' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darkest-green' -%}
+    {%- include block.html background='triangle' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include home-block.html section=organisations background='darker-green' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+    {%- include block.html background='triangle' hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='cube' -%}
+    {%- include block.html background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='square' hidden='mobile' -%}
+    {%- include home-block.html section=people background='dark-green' -%}
+    {%- include block.html background='dark-green' hidden='touch' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=block2 -%}
+
+<section id="actions" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
@@ -51,17 +98,41 @@ layout: default
 {%- assign narrative = site.actions | where:"id", "/actions/narrative" | first -%}
 {%- assign practice = site.actions | where:"id", "/actions/practice" | first -%}
 {%- assign policy = site.actions | where:"id", "/actions/policy" | first -%}
-{%- include home-section.html section=narrative evenodd='odd' -%}
-{%- include home-section.html section=practice evenodd='even' -%}
-{%- include home-section.html section=policy evenodd='odd' -%}
 
-<section class="hero is-halfheight is-primary">
+{%- capture block3 -%}
+  <div class="columns is-gapless">
+    {%- include home-block.html section=narrative background='darkest-green' -%}
+    {%- include block.html background='small-triangles' hidden='mobile' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darkest-green' -%}
+    {%- include block.html background='triangle' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='darker-green' hidden='touch' -%}
+    {%- include block.html background='stairs' hidden='mobile' -%}
+    {%- include home-block.html section=practice background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='cube' -%}
+    {%- include block.html background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include home-block.html section=policy background='darker-green' -%}
+    {%- include block.html background='circles' hidden='mobile' -%}
+    {%- include block.html background='dark-green' hidden='touch' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=block3 -%}
+
+<section class="hero is-halfheight has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
         Want to get involved?
       </p>
-      <div class="breadcrumb has-bullet-separator">
+      <div class="breadcrumb has-bullet-separator is-centered">
         <ul>
           <li>
             <a href="https://twitter.com/ConnectedByData">

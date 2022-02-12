@@ -1,0 +1,7 @@
+<div class="column
+  {%- if include.content %} is-half-fullhd is-half-widescreen is-half-desktop is-two-thirds-tablet {%- else %} is-square {%- endif %}
+  {%- if include.background %} has-background-{{include.background}} {%- endif -%}
+  {%- if include.hidden %} is-hidden-{{include.hidden}} {%- endif -%}
+">
+  {{ include.content }}
+</div>

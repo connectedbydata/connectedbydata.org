@@ -1,0 +1,12 @@
+{%- capture content -%}
+  <div>
+    <h2 class="title">{{ include.section.title }}</h2>
+    <p>
+      <a href="{{ include.section.url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;{{ include.section.more | capitalize }}
+      </a>
+    </p>
+  </div>
+{%- endcapture -%}
+{%- include block.html content=content background=include.background -%}
