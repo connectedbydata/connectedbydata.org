@@ -3,13 +3,12 @@ layout: default
 ---
 <article>
 
+{%- capture header -%}
 {%- capture breadcrumbs -%}
 <li><a href="/#{{ page.collection }}">{{ page.collection | capitalize }}</a></li>
 <li class="is-active"><a href="#">{{ page.more | capitalize }}</a></li>
 {%- endcapture -%}
 {%- include breadcrumbs.html items=breadcrumbs -%}
-
-{%- capture header -%}
 <h1 class="title is-1">{{ page.title }}</h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}

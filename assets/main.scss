@@ -115,6 +115,22 @@ $footer-color: white;
   }
 }
 
+.navbar {
+  &.dummy {
+    height: 76px;
+  }
+  .navbar-brand img {
+    max-height: 60px;
+    padding-top: 12px;
+  }
+  .navbar-menu {
+    margin-bottom: 18px;
+    .navbar-dropdown {
+      top: 48px;
+    }
+  }
+}
+
 .home {
 
   .navbar {
