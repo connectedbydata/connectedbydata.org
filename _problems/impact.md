@@ -49,7 +49,7 @@ points:
   -
     heading: We do not agree with the way services use data – we are **resigned** to it
     references:
-      - digital-resignation
       - poll-targeted-ads-justified
+      - digital-resignation
 more: what is going wrong
 ---
