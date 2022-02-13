@@ -10,7 +10,8 @@
 {%- endcapture -%}
 
 <div class="column
-  {%- if include.square %} is-square is-one-quarter-fullhd is-one-quarter-widescreen is-one-quarter-desktop is-one-third-tablet is-half-mobile
+  {%- if include.square %} is-square is-one-quarter-fullhd is-one-quarter-widescreen is-one-quarter-desktop is-one-third-tablet
+    {%- if include.big-mobile -%}{%- else %} is-half-mobile{%- endif -%}
   {%- elsif include.content %} is-half-fullhd is-half-widescreen is-half-desktop is-two-thirds-tablet
   {%- else %} is-square
   {%- endif -%}

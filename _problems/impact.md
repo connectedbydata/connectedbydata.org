@@ -39,13 +39,13 @@ points:
     subpoints:
       -
         icon: noun-vaccination.png
-        text: Data about us can help<br>improve medical **treatments**
+        text: We could<br>improve medical **treatments**
       -
         icon: noun-electricity.png
-        text: Data about us can help<br>reduce **energy usage**
+        text: We could<br>reduce **energy usage**
       -
         icon: noun-commute.png
-        text: Data about us can help<br>improve **transport infrastructure**
+        text: We could<br>improve **transport infrastructure**
   -
     heading: We continue to use services despite all this not because we agree with the way they collect or use data, but because we are **resigned** to the way this works.
     references:

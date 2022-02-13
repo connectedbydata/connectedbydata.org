@@ -9,7 +9,7 @@ layout: default
     <li class="is-active"><a href="#">{{ page.more | capitalize }}</a></li>
   {%- endcapture -%}
   {%- include breadcrumbs.html items=breadcrumbs -%}
-  <h1 class="title is-1">{{ page.title }}</h1>
+  <h1 class="title is-1 is-size-3-mobile">{{ page.title }}</h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
@@ -19,17 +19,9 @@ layout: default
     {%- include random-row.html content=point.heading seed=referencesText -%}
 
     {%- if point.subpoints -%}
-      {%- assign itemCountMobile = point.subpoints.size | divided_by: 2.0 | ceil | times: 2 -%}
-      {%- assign additionalItemsCountMobile = itemCountMobile | minus: point.subpoints.size -%}
-      {%- assign itemCountTablet = itemCountMobile | divided_by: 3.0 | ceil | times: 3 -%}
-      {%- assign additionalItemsCountTablet = itemCountTablet | minus: itemCountMobile -%}
-      {%- assign itemCountDesktop = itemCountMobile | divided_by: 4.0 | ceil | times: 4 -%}
-      {%- assign additionalItemsCountDesktop = itemCountDesktop | minus: itemCountMobile -%}
-      {%- assign seedText = point.subpoints | map: "text" | join: "" -%}
-      <div class="columns is-gapless is-multiline is-mobile">
-        {%- if additionalItemsCountMobile == 1 -%}
-          {%- include random-graphic-block.html seed=seedText hidden='never' -%}
-        {%- endif -%}
+      {%- assign seed = point.subpoints | map: "text" | join: "" -%}
+      {%- assign seed2 = point.subpoints | map: "icon" | join: "" -%}
+      {%- capture subpointsBlocks -%}
         {%- for point in point.subpoints -%}
           {%- capture content -%}
             <div class="subpoint">
@@ -41,52 +33,50 @@ layout: default
           {%- endcapture -%}
           {%- include block.html square=true content=content -%}
         {%- endfor -%}
-        {%- for i in (1..additionalItemsCountTablet) -%}
-          {%- capture color -%}{%- cycle "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
-          {%- include block.html background=color hidden='mobile' -%}
-        {%- endfor -%}
-        {%- for i in (1..additionalItemsCountDesktop) -%}
-          {%- include random-graphic-block.html seed=seedText hidden='touch' -%}
-        {%- endfor -%}
-      </div>
+      {%- endcapture -%}
+      {%- include filler-blocks.html size=point.subpoints.size blocks=subpointsBlocks seed1=seed seed2=seed2 -%}
     {%- endif -%}
 
-<!--
-
-
+    <!--
     {%- if point.tweet -%}
-      <div class="columns is-centered">
-        <div class="column is-narrow">
+      <div class="columns is-gapless">
+        <div class="column is-half-fullhd is-half-widescreen is-half-desktop is-two-thirds-tablet">
           {{ point.tweet }}
         </div>
       </div>
     {%- endif -%}
+    -->
 
     {%- if point.references -%}
-      {%- assign rows = point.references | size | plus: 1 | divided_by: 2 -%}
-      {%- for row in (1..rows) -%}
-        <div class="tile is-ancestor">
-          {%- assign offset = row | minus: 1 | times: 2 -%}
-          {%- for reference in point.references limit:2 offset:offset  -%}
-            {%- assign item = site.literature | where: "reference", reference | first -%}
-            {%- include literature.html item=item -%}
-          {%- endfor -%}
-        </div>
+      {%- for reference in point.references -%}
+        {%- capture firstlast -%}{% cycle "firstlast": "first", "last" -%}{%- endcapture -%}
+        {%- capture leftright -%}{% cycle "leftright": "left", "right" -%}{%- endcapture -%}
+        {%- capture color1 -%}{%- cycle "colors": "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
+        {%- capture color2 -%}{%- cycle "colors": "darker-green", "darkest-green", "dark-green" -%}{%- endcapture -%}
+        {%- capture graphic -%}{%- cycle "graphic": "no", "yes", "no" -%}{%- endcapture -%}
+        {%- assign item = site.literature | where: "reference", reference | first -%}
+
+        {%- include literature.html item=item color=color1 color2=color2 graphic=graphic firstlast=firstlast leftright=leftright -%}
       {%- endfor -%}
     {%- endif -%}
 
     {%- if point.icons -%}
-      <div class="level is-mobile">
+      {%- assign seed = point.icons | join: "" -%}
+      {%- assign seed2 = point.icons | join: "" | split: "" | uniq | join: "" -%}
+      {%- capture iconsBlocks -%}
         {%- for icon in point.icons -%}
-          <div class="level-item">
-            <figure class="image is-128x128">
-              <img src="/assets/{{ icon }}">
-            </figure>
-          </div>
+          {%- capture content -%}
+            <div class="icon">
+              <figure class="image is-128x128">
+                <img src="/assets/{{ icon }}">
+              </figure>
+            </div>
+          {%- endcapture -%}
+          {%- include block.html square=true content=content -%}
         {%- endfor -%}
-      </div>
+      {%- endcapture -%}
+      {%- include filler-blocks.html size=point.icons.size blocks=iconsBlocks seed1=seed seed2=seed2 -%}
     {%- endif -%}
-    -->
   {%- endcapture -%}
   {%- include section.html content=content -%}
 {%- endfor -%}

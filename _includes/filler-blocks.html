@@ -1,0 +1,20 @@
+{%- assign itemCountMobile = include.size | divided_by: 2.0 | ceil | times: 2 -%}
+{%- assign additionalItemsCountMobile = itemCountMobile | minus: include.size -%}
+{%- assign itemCountTablet = itemCountMobile | divided_by: 3.0 | ceil | times: 3 -%}
+{%- assign additionalItemsCountTablet = itemCountTablet | minus: itemCountMobile -%}
+{%- assign itemCountDesktop = itemCountMobile | divided_by: 4.0 | ceil | times: 4 -%}
+{%- assign additionalItemsCountDesktop = itemCountDesktop | minus: itemCountMobile -%}
+
+<div class="columns is-gapless is-multiline is-mobile">
+  {%- if additionalItemsCountMobile == 1 -%}
+    {%- include random-graphic-block.html seed=include.seed1 hidden='never' -%}
+  {%- endif -%}
+  {{ include.blocks }}
+  {%- for i in (1..additionalItemsCountTablet) -%}
+    {%- capture color -%}{%- cycle "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
+    {%- include block.html background=color hidden='mobile' -%}
+  {%- endfor -%}
+  {%- for i in (1..additionalItemsCountDesktop) -%}
+    {%- include random-graphic-block.html seed=include.seed2 hidden='touch' -%}
+  {%- endfor -%}
+</div>

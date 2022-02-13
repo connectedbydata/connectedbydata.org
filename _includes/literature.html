@@ -1,45 +1,75 @@
-<div class="tile is-parent">
-  <div class="tile is-child notification {%- if include.item.category == 'example' or include.item.category == 'article' %} is-primary {%- elsif include.item.category == 'statistic' %} is-danger {%- endif -%}">
-    <article class="media literature">
-      <div class="media-left">
-        {%- if include.item.category == 'statistic' -%}
-          <p class="statistic">{{ include.item.value }}</p>
-        {%- elsif include.item.category == 'article' -%}
-          <p class="icon is-large">
-            <i class="fa-solid fa-quote-left fas fa-2x"></i>
-          </p>
-        {%- else -%}
-          <figure class="image">
-            <a href="{{ include.item.link }}">
-              <img src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
-            </a>
-          </figure>
-        {%- endif -%}
+{%- capture color -%}{{ include.color }}{%- endcapture -%}
 
-        {%- if include.item.error -%}
-          <div class="error has-text-centered">
-            {{ include.item.error | markdownify }}
-          </div>
-        {%- endif -%}
+{%- capture block -%}
+  {%- if include.graphic == "yes" -%}
+    {%- capture graphicSeed -%}
+      {{ include.item.title }}
+      {{ include.item.content }}
+    {%- endcapture -%}
+    {%- include random-graphic-block.html seed=graphicSeed hidden='touch' -%}
+  {%- else -%}
+    {%- include block.html background=include.color2 hidden='touch' -%}
+  {%- endif -%}
+{%- endcapture -%}
 
-        {%- if include.item.attribution -%}
-          <div class="attribution">
-            {{ include.item.attribution | markdownify }}
-          </div>
-        {%- endif -%}
+{%- capture picture -%}
+  <div class="literature-picture">
+    {%- if include.item.category == 'statistic' -%}
+      <p class="statistic">{{ include.item.value }}</p>
+    {%- elsif include.item.category == 'article' -%}
+      <figure class="image">
+        <img src="/assets/nouns/noun-quote.png" alt="quote">
+      </figure>
+    {%- else -%}
+      <figure class="image">
+        <a href="{{ include.item.link }}">
+          <img class="cover" src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
+        </a>
+      </figure>
+    {%- endif -%}
+
+    {%- if include.item.error -%}
+      <div class="error has-text-centered">
+        {{ include.item.error | markdownify }}
       </div>
-      <div class="media-content">
-        <h3 class="title is-5">{{ include.item.title }}</h3>
-        {%- if include.item.author -%}
-          <p class="subtitle">{{ include.item.author }}</p>
-        {%- endif -%}
-        <div class="content">
-          {{ include.item.content | markdownify }}
-        </div>
-        <p>
-          <a href="{{ include.item.link }}">Read more</a>
-        </p>
+    {%- endif -%}
+
+    {%- if include.item.attribution -%}
+      <div class="attribution">
+        {{ include.item.attribution | markdownify }}
       </div>
-    </article>
+    {%- endif -%}
   </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="literature-content-wrapper">
+    <div class="literature-content">
+      <p class="block">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;<a href="{{ include.item.link }}">Read more</a>
+      </p>
+      <h3 class="title is-5">{{ include.item.title }}</h3>
+      {%- if include.item.author -%}
+        <p class="subtitle is-6">{{ include.item.author }}</p>
+      {%- endif -%}
+      <div class="content">
+        {{ include.item.content | markdownify }}
+      </div>
+    </div>
+  </div>
+{%- endcapture -%}
+
+<div class="columns is-gapless literature">
+  {%- if firstlast == "first" -%}{{ block }}{%- endif -%}
+
+  {%- if include.leftright == "left" or include.item.category == "statistic" or include.item.category == "article" -%}
+    {%- include block.html square=true big-mobile=true content=picture background=color -%}
+    {%- include block.html content=content background=color -%}
+  {%- else -%}
+    {%- include block.html content=content background=color -%}
+    {%- include block.html square=true big-mobile=true content=picture background=color -%}
+  {%- endif -%}
+
+  {%- if firstlast == "last" -%}{{ block }}{%- endif -%}
 </div>
