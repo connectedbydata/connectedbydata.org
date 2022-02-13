@@ -168,14 +168,17 @@ $footer-color: white;
     }
 
     div.subpoint, div.literature-picture, div.icon {
-      color: white;
       padding: 1rem;
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
       width: 100%;
-      height: 100%;
+      height: 100%;      
+    }
+
+    div.subpoint, div.literature-picture {
+      color: white;
 
       figure {
         padding-top: calc(32px - 1rem);
