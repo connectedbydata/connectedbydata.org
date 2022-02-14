@@ -14,25 +14,25 @@ points:
     subpoints:
       -
         icon: noun-family.png
-        text: Our **family** and **friends**
+        text: Our **family**<br>and **friends**
       -
         icon: noun-house.png
-        text: People in our **household**
+        text: People in our<br>**household**
       -
         icon: noun-neighborhood.png
-        text: People in our **neighbourhood**
+        text: People in our<br>**neighbourhood**
       -
         icon: noun-commute.png
-        text: People who travel the **same routes**
+        text: People who travel<br>the **same routes**
       -
         icon: noun-network.png
-        text: People with the **same friends or followers**
+        text: People with the **same<br>friends or followers**
       -
         icon: noun-likes.png
-        text: People who share our **interests and preferences**
+        text: People who share our<br>**interests and preferences**
       -
         icon: noun-diversity.png
-        text: People our **age**, **race**, **gender**, or **social class**
+        text: People our **age**, **race**,<br>**gender**, or **social class**
   -
     heading: What other people choose to share affects what is known about us
     references:

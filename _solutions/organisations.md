@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisations will build trust and reduce risks
+title: Organisations should build trust and reduce risks
 previous-url: /solutions/participation.html
 next-url: /solutions/people.html
 points:
@@ -14,5 +14,5 @@ points:
     heading: Organisations will build trust by **listening** to the concerns of those who will be affected, **changing** what they do in response, and being **transparent** about how they make these decisions.
   -
     heading: As a result they will **satisfy customers, citizens and clients**; **reduce risk**; and find data **easier to administer**.
-more: how organisations will build trust
+more: how organisations should build trust
 ---

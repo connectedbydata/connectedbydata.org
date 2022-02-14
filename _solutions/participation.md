@@ -1,20 +1,70 @@
 ---
 layout: page
-title: We will decide together how we want data to work
+title: We should decide together how we want data to work
 previous-url: /problems/connected.html
 next-url: /solutions/organisations.html
 points:
   -
-    heading: We need to make decisions about data **collectively**.
+    heading: We should make decisions about data **collectively**
+    subpoints:
+      -
+        icon: noun-sensor.png
+        text: What data<br>is **collected**
+      -
+        icon: noun-analysis.png
+        text: How data<br>is **used**
+      -
+        icon: noun-sharing.png
+        text: Who data<br>is **shared with**
+      -
+        icon: noun-bin.png
+        text: When data<br>is **deleted**
   -
-    heading: These might be decisions about what data is **collected**, how it is **used** and who it is **shared** with.
+    heading: We need a say in the **choices** we're presented with
+    references:
+      - choice-architecture
+    subpoints:
+      -
+        icon: noun-controls.png
+        text: Which **choices**<br>we are given
+      -
+        icon: noun-switch.png
+        text: What the<br>**defaults** are
+      -
+        icon: noun-multiple-windows.png
+        text: How choices<br>are **presented**
   -
-    heading: "They might be decisions about the **privacy controls** we are given: **which choices** people can make, **what defaults** they have, and **how they are presented**."
+    heading: There are a range of models for how we might make these collective decisions
+    subpoints:
+      -
+        icon: noun-candidate.png
+        text: existing **democratic**<br>processes
+      -
+        icon: noun-institution.png
+        text: trusted<br>**institutions**
+      -
+        icon: noun-opinion.png
+        text: representative<br>ethics **boards**
+      -
+        icon: noun-participation.png
+        text: public<br>**participation**
   -
-    heading: We can ask our **elected representatives**, such as MPs or local councillors, to make decisions on our behalf.
+    heading: Some decisions might be made **democratically** by our **elected representatives**, such as MPs or local councillors
+    references:
+      - national-data-strategy-uk
   -
-    heading: We can participate in **citizen juries**, or simply answer **surveys**.
+    heading: Other decisions might be made by **trusted institutions**, such as **data trusts**
+    references:
+      - data-institutions
+      - digital-data-for-research
   -
-    heading: The important thing is for us to have a say in how **data affects us all**.
-more: how we will make decisions collectively
+    heading: Organisations might set up independent **ethics boards** with lay members from affected communities
+    references:
+      - nhs-research-ethics-committees
+  -
+    heading: Organisations might use **participative methods** such as **citizen juries**
+    references:
+      - involve-methods
+      - participatory-data-stewardship
+more: how we should make decisions collectively
 ---

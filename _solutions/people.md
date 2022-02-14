@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People will have a more meaningful say over data
+title: People should have a more meaningful say over data
 previous-url: /solutions/organisations.html
 next-url: /actions/narrative.html
 points:
@@ -12,5 +12,5 @@ points:
     heading: You won't need to feel guilty for not reading the **terms & conditions** or changing your **privacy controls**, or quitting the service. The defaults will be safe for you, your family and friends, and community. Someone will be watching your back.
   -
     heading: And you can be more active if you want to be. You can **find out** how organisations use data, and **make your voice heard**. You might complete **surveys**, volunteer for **citizen juries**, or become a **representative** for your community.
-more: how people will be protected
+more: how people should be protected
 ---

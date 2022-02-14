@@ -17,6 +17,8 @@ points:
   -
     heading: We need to look at how to use lower-cost **user research** methods that are appropriate for cash-strapped startups and SMEs.
   -
-    heading: We need to run **pilots** and develop **case studies** to learn from experience and to inspire organisations to change their own data practices.
+    heading: We need to run **pilots** and develop **case studies** to learn from experience and to inspire organisations to change their own data practices
+    references:
+      - public-engagement-evidence
 more: changing data practice
 ---

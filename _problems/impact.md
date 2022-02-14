@@ -41,13 +41,13 @@ points:
     subpoints:
       -
         icon: noun-vaccination.png
-        text: We could<br>improve medical **treatments**
+        text: We could improve<br>medical **treatments**
       -
         icon: noun-electricity.png
-        text: We could<br>reduce **energy usage**
+        text: We could reduce<br>**energy usage**
       -
         icon: noun-commute.png
-        text: We could<br>improve **transport infrastructure**
+        text: We could improve<br>**transport infrastructure**
   -
     heading: We do not agree with the way services use data – we are **resigned** to it
     references:
