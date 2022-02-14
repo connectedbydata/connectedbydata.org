@@ -29,6 +29,7 @@ points:
     heading: Data's **wider impact** to our societies is a **collective problem** – it needs **collective solutions**
     references:
       - poll-government-involvement
+      - collective-data-rights
       - individual-collective-climate-change
 more: why current approaches aren't working
 ---

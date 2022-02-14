@@ -36,6 +36,8 @@ points:
       - endangered-animals
   -
     heading: And we miss out on the **public benefits** of data
+    references:
+      - digital-data-for-research
     subpoints:
       -
         icon: noun-vaccination.png

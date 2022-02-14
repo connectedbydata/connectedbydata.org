@@ -1,11 +1,14 @@
 ---
 layout: page
-title: "We are connected by data: our data is about other people too"
+title: "We are connected by data – our data is about other people too"
 previous-url: /problems/ownership.html
 next-url: /solutions/participation.html
 points:
   -
-    heading: When **algorithms and AI** are used to make decisions about us, they don't just use what they know about us, they use what they know about **other people** they think are like us.
+    heading: "**Algorithms and AI** use data about **other people** like us to make decisions about us"
+    references:
+      - recommendation-systems
+      - relational-theory-of-data-governance
   -
     heading: Algorithms look at people we are **connected** to...
     subpoints:
@@ -31,6 +34,8 @@ points:
         icon: noun-diversity.png
         text: People our **age**, **race**, **gender**, or **social class**
   -
-    heading: Data about them is **assumed** to also apply to us. We are connected to each other by data and treated accordingly.
+    heading: What other people choose to share affects what is known about us
+    references:
+      - facebook-cambridge-analytica
 more: how we are connected by data
 ---
