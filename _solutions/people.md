@@ -5,12 +5,61 @@ previous-url: /solutions/organisations.html
 next-url: /actions/narrative.html
 points:
   -
-    heading: With **better protections** in place, you won't need to worry about data being collected about you, how it is used, or how you are affected by data other people have shared.
+    heading: You shouldn't need to worry...
+    subpoints:
+      -
+        icon: noun-sensor.png
+        text: About data<br>being **collected**
+      -
+        icon: noun-target.png
+        text: About data about<br>others **affecting you**
+      -
+        icon: noun-distribute.png
+        text: About data about<br>you **affecting others**
+      -
+        icon: noun-vaccination.png
+        text: About data being<br>**used for good**
   -
-    heading: You will be able to **trust** decisions about data because they will be made by **people like you**.
+    heading: You shouldn't need to feel guilty for...
+    subpoints:
+      -
+        icon: noun-t-and-cs.png
+        text: Not reading the<br>**terms and conditions**
+      -
+        icon: noun-controls.png
+        text: Not changing<br>the **defaults**
+      -
+        icon: noun-browser.png
+        text: Not configuring<br>your **browser**
+      -
+        icon: noun-social-media.png
+        text: Keeping on using<br>**social media**
   -
-    heading: You won't need to feel guilty for not reading the **terms & conditions** or changing your **privacy controls**, or quitting the service. The defaults will be safe for you, your family and friends, and community. Someone will be watching your back.
+    heading: You should be able to **trust** that people are making decisions about data in **everyone's interest**
+    subpoints:
+      -
+        icon: noun-controls.png
+        text: "**Default settings**<br>that are safe"
+      -
+        icon: noun-participation.png
+        text: "**Engagement** to understand<br>what's acceptable"
+      -
+        icon: noun-board.png
+        text: "**Boards** holding<br>organisations to account"
   -
-    heading: And you can be more active if you want to be. You can **find out** how organisations use data, and **make your voice heard**. You might complete **surveys**, volunteer for **citizen juries**, or become a **representative** for your community.
+    heading: And you should be able to **make your voice heard** beyond control panels
+    subpoints:
+    -
+      icon: noun-transparency.png
+      text: "**Find out** what<br>organisations do"
+    -
+      icon: noun-speak.png
+      text: "**Tell organisations**<br>what you think"
+    -
+      icon: noun-volunteer.png
+      text: "**Volunteer** for<br>engagement exercises"
+    -
+      icon: noun-candidate.png
+      text: "Become a **representative**<br>of your community"
 more: how people should be protected
 ---
