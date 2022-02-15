@@ -5,14 +5,41 @@ previous-url: /solutions/participation.html
 next-url: /solutions/people.html
 points:
   -
-    heading: People understand that **businesses, governments and charities** have to use data to **provide services** and **operate efficiently**.
+    heading: People should be able to **trust** organisations to make ethical decisions about data
+    references:
+      - poll-trust-governments
+      - poll-trust-online-retailers
+      - poll-trust-medical-charities
   -
-    heading: They want data to be used for **research** and in other ways that bring **public benefit**.
+    heading: People want organisations to **reduce harms** and use data for **public benefit**
+    references:
+      - health-data-sharing-in-a-pandemic
+      - location-data-ethics
   -
-    heading: But they don't currently **trust** organisations to make the right calls on their behalf.
+    heading: Organisations should build trust...
+    references:
+      - trustworthy-data-stewardship-guidebook
+    subpoints:
+      -
+        icon: noun-transparency.png
+        text: Be **transparent**<br>about data
+      -
+        icon: noun-listen.png
+        text: "**Listen** to<br>people's concerns"
+      -
+        icon: noun-split.png
+        text: "**Change** what<br>you do with data"
   -
-    heading: Organisations will build trust by **listening** to the concerns of those who will be affected, **changing** what they do in response, and being **transparent** about how they make these decisions.
-  -
-    heading: As a result they will **satisfy customers, citizens and clients**; **reduce risk**; and find data **easier to administer**.
+    heading: Doing better with data can be good for business
+    subpoints:
+      -
+        icon: noun-satisfaction.png
+        text: Increase<br>**satisfaction**
+      -
+        icon: noun-risk.png
+        text: Reduce<br>**risks**
+      -
+        icon: noun-budget.png
+        text: Reduce **cost of<br>administration**
 more: how organisations should build trust
 ---

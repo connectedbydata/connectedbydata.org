@@ -1,0 +1,9 @@
+---
+reference: poll-trust-medical-charities
+value: "25%"
+title: "of people in the UK trust medical research charities such as Cancer Research UK to use personal data about them ethically"
+author: YouGov – ODI
+link: https://theodi.org/article/nearly-9-in-10-people-think-its-important-that-organisations-use-personal-data-ethically/
+category: statistic
+---
+Results from an online poll of 2007 British people conducted Oct. 23-24, 2019.
