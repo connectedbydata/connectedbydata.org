@@ -66,5 +66,5 @@ points:
     references:
       - involve-methods
       - participatory-data-stewardship
-more: how we should make decisions collectively
+more: we should make decisions collectively
 ---

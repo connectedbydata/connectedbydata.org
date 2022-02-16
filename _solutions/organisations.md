@@ -41,5 +41,5 @@ points:
       -
         icon: noun-budget.png
         text: Reduce **cost of<br>administration**
-more: how organisations should build trust
+more: organisations should build trust
 ---

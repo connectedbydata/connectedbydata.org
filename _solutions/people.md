@@ -5,20 +5,20 @@ previous-url: /solutions/organisations.html
 next-url: /actions/narrative.html
 points:
   -
-    heading: You shouldn't need to worry...
+    heading: You shouldn't need to worry about...
     subpoints:
       -
         icon: noun-sensor.png
-        text: About data<br>being **collected**
+        text: Data being<br>**collected**
       -
         icon: noun-target.png
-        text: About data about<br>others **affecting you**
+        text: Data about others<br>**affecting you**
       -
         icon: noun-distribute.png
-        text: About data about<br>you **affecting others**
+        text: Data about you<br>**affecting others**
       -
         icon: noun-vaccination.png
-        text: About data being<br>**used for good**
+        text: Data not being<br>**used for good**
   -
     heading: You shouldn't need to feel guilty for...
     subpoints:
@@ -35,14 +35,14 @@ points:
         icon: noun-social-media.png
         text: Keeping on using<br>**social media**
   -
-    heading: You should be able to **trust** that people are making decisions about data in **everyone's interest**
+    heading: You should be able to **trust** that decisions about data are in **everyone's interest**
     subpoints:
       -
         icon: noun-controls.png
         text: "**Default settings**<br>that are safe"
       -
         icon: noun-participation.png
-        text: "**Engagement** to understand<br>what's acceptable"
+        text: "Organisations<br>**listening** to people"
       -
         icon: noun-board.png
         text: "**Boards** holding<br>organisations to account"
@@ -61,5 +61,5 @@ points:
     -
       icon: noun-candidate.png
       text: "Become a **representative**<br>of your community"
-more: how people should be protected
+more: people should be protected
 ---
