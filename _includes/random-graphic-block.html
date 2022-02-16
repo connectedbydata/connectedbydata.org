@@ -3,7 +3,7 @@
   {%- if include.hidden -%}{{ include.hidden }}{%- else -%}mobile{%- endif -%}
 {%- endcapture -%}
 
-{%- assign randGraphicIndex = randNumber | modulo: 12 -%}
+{%- assign randGraphicIndex = randNumber | modulo: site.background-graphics.size -%}
 {%- assign randGraphic = site.background-graphics | slice: randGraphicIndex -%}
 
 {%- include block.html square=true background=randGraphic hidden=hidden -%}

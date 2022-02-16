@@ -7,7 +7,7 @@
 {%- assign randColor2 = site.background-colors | slice: randColorIndex2 -%}
 {%- assign randPosition = randNumber2 | modulo: 3 -%}
 {%- assign randPosition2 = randNumber | modulo: 2 -%}
-{%- assign randGraphicIndex = randNumber2 | modulo: 12 -%}
+{%- assign randGraphicIndex = randNumber2 | modulo: site.background-graphics.size -%}
 {%- assign randGraphic = site.background-graphics | slice: randGraphicIndex -%}
 
 {%- capture graphicBlock -%}
