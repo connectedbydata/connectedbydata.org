@@ -3,7 +3,7 @@ reference: health-data-sharing-in-a-pandemic
 title: "Citizens’ Juries on Health Data Sharing in a Pandemic"
 author: NIHR Applied Research Collaboration Greater Manchester
 link: https://www.arc-gm.nihr.ac.uk/projects/Citizens-Juries-on-Health-Data-Sharing-in-a-Pandemic
-category: example
+category: report
 ---
 In collaboration with NHSX and the National Data Guardian for Health and Social Care, the NIHR Applied Research Collaboration Greater Manchester commissioned a set of three online citizens’ juries about health data sharing in a pandemic between March and May 2021.
 

@@ -24,11 +24,15 @@
       <figure class="image">
         <img src="/assets/wikipedia-logo.png" alt="Wikipedia, The Free Encyclopedia">
       </figure>
-    {%- else -%}
+    {%- elsif include.item.link -%}
       <figure class="image">
         <a href="{{ include.item.link }}">
           <img class="cover" src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
         </a>
+      </figure>
+    {%- else -%}
+      <figure class="image">
+        <img class="cover" src="/assets/literature/{{ include.item.reference }}.jpg" alt="{{ include.item.title }}">
       </figure>
     {%- endif -%}
 
@@ -49,10 +53,12 @@
 {%- capture content -%}
   <div class="literature-content-wrapper">
     <div class="literature-content">
-      <p class="block">
-        <i class="fas fa-arrow-alt-circle-right"></i>
-        &nbsp;<a href="{{ include.item.link }}">Read more</a>
-      </p>
+      {%- if include.item.link -%}
+        <p class="block">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;<a href="{{ include.item.link }}">Read more</a>
+        </p>
+      {%- endif -%}
       <h3 class="title is-5">{{ include.item.title }}</h3>
       {%- if include.item.author -%}
         <p class="subtitle is-6">{{ include.item.author }}</p>

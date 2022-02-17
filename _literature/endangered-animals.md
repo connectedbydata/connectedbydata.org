@@ -1,8 +1,8 @@
 ---
 reference: endangered-animals
-title: Endangered animals
+title: Online location data on endangered species might be putting them in harm’s way
+author: Adam Wernick
 link: https://theworld.org/stories/2017-10-15/online-location-data-endangered-species-might-be-putting-them-harm-s-way
-attribution: Photo by [Meg Jerrard](https://unsplash.com/@mappingmegantravel) on [Unsplash](https://unsplash.com/s/photos/rhino)
-category: example
+category: article
 ---
-Data about the locations of endangered animals and plants is not personal data, but if it gets into the hands of poachers or unscrupulous collectors, it can further threaten their survival.
+The growth of data publicly available on the internet has been a boon for biological science and conservation. But it is also being used by poachers and dishonest collectors to locate rare plants and animals and sell them illegally for a hefty price.

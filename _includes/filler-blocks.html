@@ -14,7 +14,10 @@
     {%- capture color -%}{%- cycle "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
     {%- include block.html background=color hidden='mobile' -%}
   {%- endfor -%}
-  {%- for i in (1..additionalItemsCountDesktop) -%}
+  {%- if additionalItemsCountDesktop >= 1 -%}
     {%- include random-graphic-block.html seed=include.seed2 hidden='touch' -%}
+  {%- endif -%}
+  {%- for i in (2..additionalItemsCountDesktop) -%}
+    {%- include random-color-block.html seed=include.seed2 hidden='touch' -%}
   {%- endfor -%}
 </div>

@@ -18,6 +18,10 @@ layout: default
   {%- capture content -%}
     {%- include random-row.html content=point.heading seed=referencesText -%}
 
+    {%- if point.opinion -%}
+      {%- include opinion-row.html content=point.opinion seed=point.heading -%}
+    {%- endif -%}
+
     {%- if point.subpoints -%}
       {%- assign seed = point.subpoints | map: "text" | join: "" -%}
       {%- assign seed2 = point.subpoints | map: "icon" | join: "" -%}

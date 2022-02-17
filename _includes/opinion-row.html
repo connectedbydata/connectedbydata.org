@@ -1,0 +1,58 @@
+{%- assign randNumber = include.content | split: "" | uniq | join: "" | size | plus: include.seed.size -%}
+{%- assign randNumber2 = include.seed | split: "" | uniq | join: "" | size | plus: include.content.size -%}
+
+{%- assign randColorIndex = randNumber | modulo: 3 -%}
+{%- assign randColor = site.background-colors | slice: randColorIndex -%}
+{%- assign randColorIndex2 = randNumber2 | modulo: 3 -%}
+{%- assign randColor2 = site.background-colors | slice: randColorIndex2 -%}
+{%- assign randPosition = randNumber2 | modulo: 3 -%}
+{%- assign randPosition2 = randNumber | modulo: 2 -%}
+
+{%- capture graphicBlock -%}
+  {%- include block.html background='mountain' hidden='mobile' -%}
+{%- endcapture -%}
+{%- capture colorBlock -%}
+  {%- include block.html background=randColor2 hidden='touch' -%}
+{%- endcapture -%}
+{%- capture contentBlock -%}
+  {%- capture content -%}
+    <div class="point">
+      {{ include.content | markdownify }}
+    </div>
+  {%- endcapture -%}
+  {%- include block.html content=content background=randColor -%}
+{%- endcapture -%}
+
+<div class="columns is-gapless">
+  {%- if randPosition == 0 -%}
+    {{ contentBlock }}
+    {%- if randPosition2 == 0 -%}
+      {{ graphicBlock }}
+      {{ colorBlock }}
+    {%- else -%}
+      {{ colorBlock }}
+      {{ graphicBlock }}
+    {%- endif -%}
+  {%- elsif randPosition == 1 -%}
+    {%- if randPosition2 == 0 -%}
+      {{ graphicBlock }}
+    {%- else -%}
+      {{ colorBlock }}
+    {%- endif -%}
+    {{ contentBlock }}
+    {%- if randPosition2 == 0 -%}
+      {{ colorBlock }}
+    {%- else -%}
+      {{ graphicBlock }}
+    {%- endif -%}
+  {%- else -%}
+    {%- if randPosition2 == 0 -%}
+      {{ colorBlock }}
+      {{ graphicBlock }}
+    {%- else -%}
+      {{ graphicBlock }}
+      {{ colorBlock }}
+    {%- endif -%}
+    {{ contentBlock }}
+  {%- endif -%}
+</div>
