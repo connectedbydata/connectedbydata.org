@@ -18,6 +18,11 @@ layout: default
   {%- capture content -%}
     {%- include random-row.html content=point.heading seed=referencesText -%}
 
+    <div class="columns is-gapless is-mobile is-hidden-tablet">
+      {%- include random-color-block.html seed=point.heading hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=point.heading hidden='tablet' -%}
+    </div>
+
     {%- if point.opinion -%}
       {%- include opinion-row.html content=point.opinion seed=point.heading -%}
     {%- endif -%}

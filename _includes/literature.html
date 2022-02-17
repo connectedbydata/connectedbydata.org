@@ -1,15 +1,15 @@
 {%- capture color -%}{{ include.color }}{%- endcapture -%}
 
-{%- capture block -%}
-  {%- if include.graphic == "yes" -%}
-    {%- capture graphicSeed -%}
-      {{ include.item.title }}
-      {{ include.item.content }}
-    {%- endcapture -%}
-    {%- include random-graphic-block.html seed=graphicSeed hidden='touch' -%}
-  {%- else -%}
-    {%- include block.html background=include.color2 hidden='touch' -%}
-  {%- endif -%}
+{%- capture graphicBlock -%}
+  {%- capture graphicSeed -%}
+    {{ include.item.title }}
+    {{ include.item.content }}
+  {%- endcapture -%}
+  {%- include random-graphic-block.html seed=graphicSeed hidden='touch' -%}
+{%- endcapture -%}
+
+{%- capture colorBlock -%}
+  {%- include block.html background=include.color2 hidden='touch' -%}
 {%- endcapture -%}
 
 {%- capture picture -%}
@@ -50,9 +50,9 @@
   </div>
 {%- endcapture -%}
 
-{%- capture content -%}
-  <div class="literature-content-wrapper">
-    <div class="literature-content">
+{%- capture title -%}
+  <div class="literature-header-wrapper">
+    <div class="literature-header">
       {%- if include.item.link -%}
         <p class="block">
           <i class="fas fa-arrow-alt-circle-right"></i>
@@ -63,6 +63,18 @@
       {%- if include.item.author -%}
         <p class="subtitle is-6">{{ include.item.author }}</p>
       {%- endif -%}
+      {%- if include.item.category == 'statistic' -%}
+        <div class="content">
+          {{ include.item.content | markdownify }}
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="literature-content-wrapper">
+    <div class="literature-content">
       <div class="content">
         {{ include.item.content | markdownify }}
       </div>
@@ -71,15 +83,20 @@
 {%- endcapture -%}
 
 <div class="columns is-gapless literature">
-  {%- if firstlast == "first" -%}{{ block }}{%- endif -%}
+  {%- if firstlast == "first" -%}{{ colorBlock }}{%- endif -%}
 
-  {%- if include.leftright == "left" or include.item.category == "statistic" or include.item.category == "article" or include.item.category == "wikipedia" -%}
-    {%- include block.html square=true big-mobile=true content=picture background=color -%}
-    {%- include block.html content=content background=color -%}
-  {%- else -%}
-    {%- include block.html content=content background=color -%}
-    {%- include block.html square=true big-mobile=true content=picture background=color -%}
-  {%- endif -%}
+  {%- include block.html square=true big-mobile=true content=picture background=color -%}
+  {%- include block.html content=title background=color -%}
 
-  {%- if firstlast == "last" -%}{{ block }}{%- endif -%}
+  {%- if firstlast == "last" -%}{{ colorBlock }}{%- endif -%}
 </div>
+
+{%- if include.item.category != 'statistic' -%}
+<div class="columns is-gapless literature">
+  {%- if firstlast == "first" -%}{{ graphicBlock }}{%- endif -%}
+
+  {%- include block.html wide=true content=content background=color -%}
+
+  {%- if firstlast == "last" -%}{{ graphicBlock }}{%- endif -%}
+</div>
+{%- endif -%}
