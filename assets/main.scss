@@ -213,13 +213,12 @@ $footer-color: white;
         }
       }
 
-      strong {
+      a, .subtitle, strong {
         color: white;
       }
 
       a {
-        color: white;
-
+        font-weight: bold;
         &:hover {
           color: $link;
         }
@@ -410,5 +409,19 @@ $footer-color: white;
   }
   p::after {
     content: ""
+  }
+}
+
+.person .content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  color: white;
+  a {
+    color: white;
+    font-weight: bold;
+    &:hover {
+      color: $link;
+    }
   }
 }

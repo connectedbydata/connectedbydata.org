@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<script type="text/javascript">
+var password;
+var pass1="letmesee";
+password=prompt('Enter Password',' ');
+if (password!=pass1) {
+  window.location="https://connectedbydata.org/"
+}
+</script>
+
 <article>
 
 {%- capture header -%}
@@ -9,98 +18,172 @@ layout: default
 {%- include header.html content=header -%}
 
 {%- capture mission -%}
-  <div class="columns">
-    <div class="column is-half">
-      <div class="content">
-        <h2 class="title is-2">Our vision</h2>
-        <p class="is-size-4">
-          We think organisations and people should make decisions about data together.
-        </p>
-      </div>
-    </div>
-    <div class="column is-half">
-      <div class="content">
-        <h2 class="title is-2">Our mission</h2>
-        <p class="is-size-4">
-          We advocate for collective data governance, and argue against individualistic approaches.
-        </p>
-      </div>
-    </div>
+  <div class="columns is-gapless">
+    {%- include about-block.html title='Our vision' content='We think organisations and communities should make decisions about data together' background='dark-green' -%}
+    {%- include block.html background='mountain' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='mountain' -%}
+    {%- include block.html background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='imperfect-circle' hidden='mobile' -%}
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include about-block.html title='Our mission' content='We want to embed community in data narratives, practices and policies' background='darker-green' -%}
   </div>
 {%- endcapture -%}
 {%- include section.html content=mission -%}
 
-{%- capture values -%}
-  <div class="tile is-ancestor has-text-centered is-size-4">
-    <div class="tile is-parent">
-      <div class="tile is-child notification">
-        <p>We target <strong>impact</strong></p>
-      </div>
-    </div>
-    <div class="tile is-parent">
-      <div class="tile is-child notification">
-        <p>We work in the <strong>open</strong></p>
-      </div>
-    </div>
-    <div class="tile is-parent">
-      <div class="tile is-child notification">
-        <p>We make <strong>joy</strong> a priority</p>
-      </div>
+<section id="solutions" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        How we work
+      </p>
     </div>
   </div>
-  <div class="tile is-ancestor has-text-centered is-size-4">
-    <div class="tile is-parent">
-      <div class="tile is-child notification">
-        <p>We <strong>collaborate</strong> and <strong>learn</strong> with others</p>
-      </div>
-    </div>
-    <div class="tile is-parent">
-      <div class="tile is-child notification">
-        <p>We <strong>care</strong> for ourselves and each other</p>
-      </div>
-    </div>
+</section>
+
+{%- capture values -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include about-block.html title='We focus on impact' background='darkest-green' -%}
+    {%- include block.html background='circles' hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='dark-green' -%}
+    {%- include block.html background='circles' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include about-block.html title='We work in the open' background='dark-green' -%}
+    {%- include block.html background='small-triangles' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darker-green' -%}
+    {%- include block.html background='small-triangles' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='stairs' hidden='mobile' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+    {%- include about-block.html title='We collaborate and learn with others' background='darker-green' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='rainbow' -%}
+    {%- include block.html background='darkest-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include about-block.html title='We take care of each other and ourselves' background='darkest-green' -%}
+    {%- include block.html background='rainbow' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
   </div>
 {%- endcapture -%}
 {%- include section.html content=values -%}
 
-{%- capture team -%}
-  <div class="columns">
-    <div class="column is-half">
-      <h2 class="title is-2">Our team</h2>
-      <div class="columns">
-        {%- for person in site.team -%}
-          <div class="column">
-            <div class="media">
-              <div class="media-left">
-                <figure class="image is-64x64">
-                  <a href="{{ person.url }}">
-                    <img class="is-rounded" src="/assets/team/{{ person.picture }}">
-                  </a>
-                </figure>
-              </div>
-              <div class="media-content">
-                <h3 class="title is-5"><a href="{{ person.url }}">{{ person.title }}</a></h3>
-                <p class="subtitle">{{ person.role }}</p>
-              </div>
-            </div>
-          </div>
-        {%- endfor -%}
-      </div>
+<section id="solutions" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Who we are
+      </p>
     </div>
+  </div>
+</section>
+
+{%- capture team -%}
+  {%- for person in site.team -%}
+    {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture image -%}
+      <div class="subpoint">
+        <figure class="image is-128x128">
+          <a href="{{ person.url }}">
+            <img class="is-rounded" src="/assets/team/{{ person.picture }}">
+          </a>
+        </figure>
+      </div>
+    {%- endcapture -%}
+    {%- capture title -%}
+      <div class="point">
+        <h3 class="title is-5"><a href="{{ person.url }}">{{ person.title }}</a></h3>
+        <p class="subtitle">{{ person.role }}</p>
+      </div>
+    {%- endcapture -%}
+    {%- capture bio -%}
+      <div class="content">
+        {{ person.content | markdownify }}
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless person">
+      {%- include random-graphic-block.html seed=person.title -%}
+      {%- include block.html square=true content=image background=personBackground -%}
+      {%- include block.html content=title background=personBackground -%}
+    </div>
+    <div class="columns is-gapless person">
+      {%- include block.html square=true background=contrast -%}
+      {%- include block.html wide=true content=bio background=personBackground -%}
+    </div>
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=team -%}
+
+<section id="solutions" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        How we are funded
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture funding -%}
+  <div class="columns is-gapless">
+    {%- capture image -%}
+      <div class="subpoint">
+        <script type="text/javascript">
+        var password;
+        var pass1="letmesee";
+        password=prompt('Enter Password',' ');
+        if (password==pass1)
+        alert('Correct Password! Click OK to Enter!');
+        else { window.location="https://connectedbydata.org/";
+        }
+        </script>
+
+        <figure class="image">
+          <a href="https://shuttleworthfoundation.org/">
+            <img src="/assets/shuttleworth-logo.svg">
+          </a>
+        </figure>
+      </div>
+    {%- endcapture -%}
+    {%- capture title -%}
+      <div class="point">
+        <h3 class="title is-5"><a href="https://shuttleworthfoundation.org/">Shuttleworth Foundation</a></h3>
+        <p class="subtitle">Jeni is a <a href="https://shuttleworthfoundation.org/fellows/">Shuttleworth Foundation Fellow</a>, which funds her time and contributes $275k to Connected by Data.</p>
+      </div>
+    {%- endcapture -%}
+    {%- include block.html square=true content=image background='darker-green' -%}
+    {%- include block.html content=title background='darker-green' -%}
+    {%- include block.html background='cube' hidden='mobile' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=funding -%}
+  <!--
+  <div class="columns">
     <div class="column is-half">
       <div class="content">
         <h2 class="title is-2">Our funding</h2>
-        <!--
         <figure class="image" style="width: 210px">
           <a href="https://shuttleworthfoundation.org/">
             <img src="/assets/shuttleworth-logo.svg">
           </a>
         </figure>
-        -->
       </div>
     </div>
   </div>
-{%- endcapture -%}
-{%- include section.html content=team -%}
+  -->
 
 </article>

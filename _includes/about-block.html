@@ -1,0 +1,9 @@
+{%- capture content -%}
+  <div class="point">
+    <h2 class="title">{{ include.title }}</h2>
+    {%- if include.content -%}
+      <p>{{ include.content }}</p>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+{%- include block.html content=content background=include.background -%}
