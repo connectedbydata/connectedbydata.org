@@ -99,7 +99,7 @@
   {%- if firstlast == "first" -%}{{ colorBlock }}{%- endif -%}
 
   {%- include block.html square=true content=picture background=color hidden='mobile' -%}
-  {%- include block.html content=title background=color -%}
+  {%- include block.html short=true content=title background=color -%}
 
   {%- if firstlast == "last" -%}{{ colorBlock }}{%- endif -%}
 </div>

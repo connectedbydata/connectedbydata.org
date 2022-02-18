@@ -217,6 +217,17 @@ $footer-color: white;
       }
     }
 
+    &.is-short {
+      @include mobile {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 50%;
+          float: left;
+        }
+      }
+    }
+
     div.subpoint, div.literature-picture, div.icon {
       color: white;
       padding: 1rem;
@@ -413,7 +424,7 @@ $footer-color: white;
   .literature-header-wrapper {
     padding-left: 1rem;
     padding-right: 2.5rem;
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
     padding-top: 1rem;
   }
 

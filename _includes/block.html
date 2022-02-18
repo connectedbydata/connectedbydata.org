@@ -22,7 +22,7 @@
   {%- endif -%}
 
   {%- if background %} has-background-{{background}} {%- endif -%}
-
+  {%- if include.short %} is-short{%- endif -%}
   {%- if include.hidden %} is-hidden-{{include.hidden}} {%- endif -%}
 ">
   {{ include.content }}

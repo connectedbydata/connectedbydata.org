@@ -48,7 +48,7 @@ if (password!=pass1) {
 {%- capture values -%}
   <div class="columns is-gapless">
     {%- include block.html background='dark-green' hidden='touch' -%}
-    {%- include about-block.html title='We focus on impact' background='darkest-green' -%}
+    {%- include about-block.html short=true title='We focus on impact' background='darkest-green' -%}
     {%- include block.html background='circles' hidden='mobile' -%}
   </div>
   <div class="columns is-gapless is-mobile is-hidden-tablet">
@@ -56,7 +56,7 @@ if (password!=pass1) {
     {%- include block.html background='circles' -%}
   </div>
   <div class="columns is-gapless">
-    {%- include about-block.html title='We work in the open' background='dark-green' -%}
+    {%- include about-block.html short=true title='We work in the open' background='dark-green' -%}
     {%- include block.html background='small-triangles' hidden='touch' -%}
     {%- include block.html background='darker-green' hidden='mobile' -%}
   </div>
@@ -67,14 +67,14 @@ if (password!=pass1) {
   <div class="columns is-gapless">
     {%- include block.html background='stairs' hidden='mobile' -%}
     {%- include block.html background='darkest-green' hidden='touch' -%}
-    {%- include about-block.html title='We collaborate and learn with others' background='darker-green' -%}
+    {%- include about-block.html short=true title='We collaborate and learn with others' background='darker-green' -%}
   </div>
   <div class="columns is-gapless is-mobile is-hidden-tablet">
     {%- include block.html background='rainbow' -%}
     {%- include block.html background='darkest-green' -%}
   </div>
   <div class="columns is-gapless">
-    {%- include about-block.html title='We take care of each other and ourselves' background='darkest-green' -%}
+    {%- include about-block.html short=true title='We take care of each other and ourselves' background='darkest-green' -%}
     {%- include block.html background='rainbow' hidden='mobile' -%}
     {%- include block.html background='darker-green' hidden='touch' -%}
   </div>
@@ -128,7 +128,7 @@ if (password!=pass1) {
     <div class="columns is-gapless person">
       {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
       {%- include block.html square=true content=image background=personBackground hidden='mobile' -%}
-      {%- include block.html content=title background=personBackground -%}
+      {%- include block.html short=true content=title background=personBackground -%}
     </div>
     <div class="columns is-gapless person">
       {%- include block.html square=true background=contrast hidden='touch' -%}
