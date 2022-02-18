@@ -41,7 +41,7 @@ points:
         text: How do choice architectures<br>**nudge** responses?
       -
         icon: noun-sisyphus.png
-        text: When is consent<br>management **labour**?
+        text: Is managing consent<br>unreasonable **labour**?
       -
         icon: noun-divided.png
         text: When does individual<br>consent diffuse<br>**collective power**?
