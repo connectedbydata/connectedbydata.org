@@ -24,7 +24,7 @@
   font-weight: bold;
 }
 
-$large-mobile: 432px;
+$large-mobile: 375px;
 $tablet: 576px;
 
 $family-primary: NotoSans;
@@ -183,8 +183,37 @@ $footer-color: white;
       &:before {
         content: "";
         display: block;
-        padding-top: 33%;
+        padding-top: 50%;
         float: left;
+      }
+    }
+
+    &.is-three-quarters-fullhd, &.is-half-fullhd {
+      @include mobile {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 100%;
+          float: left;
+        }
+      }
+
+      @media screen and (min-width: $large-mobile) {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 50%;
+          float: left;
+        }
+      }
+
+      @media screen and (min-width: $tablet) {
+        &:before {
+          content: "";
+          display: block;
+          padding-top: 33%;
+          float: left;
+        }
       }
     }
 
@@ -244,8 +273,11 @@ $footer-color: white;
         color: white;
       }
 
-      a {
+      &.content a {
         font-weight: bold;
+      }
+
+      a {
         &:hover {
           color: $link;
         }
@@ -308,14 +340,23 @@ $footer-color: white;
 .is-mobile .image {
   &.is-128x128 {
     @include mobile {
-      width: 64px;
-      height: 64px;
+      width: 96px;
+      height: 96px;
     }
   }
   &.is-64x64 {
     @include mobile {
       width: 48px;
       height: 48px;
+    }
+  }
+}
+
+.post.is-mobile .image {
+  &.is-64x64 {
+    @include mobile {
+      width: 64px;
+      height: 64px;
     }
   }
 }
@@ -332,6 +373,12 @@ $footer-color: white;
     }
   }
 
+  &.statistic {
+    .content {
+      font-size: 0.8rem;
+    }
+  }
+
   .error {
     @include mobile {
       font-size: 1.5rem;
@@ -343,6 +390,14 @@ $footer-color: white;
 
   figure {
     max-width: 128px;
+
+    @include mobile {
+      max-width: 64px;
+    }
+
+    @media screen and (min-width: $large-mobile) {
+      max-width: 96px;
+    }
   }
 
   img.cover {
@@ -458,5 +513,12 @@ $footer-color: white;
       border-color: $primary;
       color: $text;
     }
+  }
+}
+
+.section {
+  @include mobile {
+    padding-left: 0rem;
+    padding-right: 0rem;
   }
 }

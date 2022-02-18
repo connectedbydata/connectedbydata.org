@@ -2,24 +2,23 @@
 layout: default
 ---
 
-{%- capture breadcrumbs -%}
-<li><a href="/about">About us</a></li>
-<li><a href="/about#team">Team</a></li>
-{%- endcapture -%}
-{%- include breadcrumbs.html items=breadcrumbs -%}
-
 {%- capture header -%}
-<div class="columns">
-  <div class="column is-narrow">
-    <figure class="image is-128x128">
-      <img class="is-rounded" src="/assets/team/{{ page.picture }}">
-    </figure>
+  {%- capture breadcrumbs -%}
+    <li><a href="/about">About us</a></li>
+    <li><a href="/about#team">Team</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <div class="columns">
+    <div class="column is-narrow">
+      <figure class="image is-128x128">
+        <img class="is-rounded" src="/assets/team/{{ page.picture }}">
+      </figure>
+    </div>
+    <div class="column" style="align-self: center">
+      <h1 class="title">{{ page.title }}</h1>
+      <h2 class="subtitle">{{ page.role }}</h2>
+    </div>
   </div>
-  <div class="column">
-    <h1 class="title">{{ page.title }}</h1>
-    <h2 class="subtitle">{{ page.role }}</h2>
-  </div>
-</div>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
@@ -28,4 +27,36 @@ layout: default
   {{ content }}
 </div>
 {%- endcapture -%}
-{%- include section.html content=content -%}
+
+{%- capture personBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign personBackground = personBackground | strip -%}
+{%- capture personContrast -%}
+  {%- if background == 'dark-green' -%}
+    darkest-green
+  {%- elsif background == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture personContent -%}
+  <div class="columns is-gapless post">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=page.title nested=true -%}
+        {%- include block.html square=true nested=true background=personContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=personBackground -%}
+  </div>
+  <div class="columns is-gapless post is-mobile is-hidden-desktop">
+    {%- include random-graphic-block.html seed=page.title hidden='desktop' -%}
+    {%- include block.html square=true content=metadata background=personContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=personContrast hidden='mobile' -%}
+  </div>
+{%- endcapture -%}
+
+{%- include section.html content=personContent -%}

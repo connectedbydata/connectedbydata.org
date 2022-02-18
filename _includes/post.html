@@ -2,7 +2,7 @@
 {%- assign author = site.team | where: "title", post.author | first %}
 {%- capture post-content -%}
   {%- capture image -%}
-    <div class="subpoint">
+    <div class="icon">
       <figure class="image is-128x128">
         <a href="{{ author.url }}">
           <img class="is-rounded" src="/assets/team/{{ author.picture }}">
@@ -72,7 +72,7 @@
         </p>
       </div>
     {%- endcapture -%}
-    <div class="columns is-gapless is-mobile is-hidden-desktop">
+    <div class="columns is-gapless post is-mobile is-hidden-desktop">
       {%- include random-graphic-block.html seed=post.title hidden='desktop' -%}
       {%- include block.html square=true content=metadata background=include.postContrast hidden='desktop' -%}
       {%- include block.html square=true nested=true background=include.postContrast hidden='mobile' -%}

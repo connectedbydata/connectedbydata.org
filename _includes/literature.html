@@ -1,10 +1,10 @@
 {%- capture color -%}{{ include.color }}{%- endcapture -%}
 
+{%- capture graphicSeed -%}
+  {{ include.item.title }}
+  {{ include.item.content }}
+{%- endcapture -%}
 {%- capture graphicBlock -%}
-  {%- capture graphicSeed -%}
-    {{ include.item.title }}
-    {{ include.item.content }}
-  {%- endcapture -%}
   {%- include random-graphic-block.html seed=graphicSeed hidden='touch' -%}
 {%- endcapture -%}
 
@@ -90,17 +90,22 @@
   </div>
 {%- endcapture -%}
 
+<div class="columns is-gapless literature {{include.item.category}} is-mobile is-hidden-tablet">
+  {%- include block.html square=true content=picture background=color hidden='tablet' -%}
+  {%- include random-graphic-block.html seed=graphicSeed hidden='tablet' -%}
+</div>
+
 <div class="columns is-gapless literature {{include.item.category}}">
   {%- if firstlast == "first" -%}{{ colorBlock }}{%- endif -%}
 
-  {%- include block.html square=true big-mobile=true content=picture background=color -%}
+  {%- include block.html square=true content=picture background=color hidden='mobile' -%}
   {%- include block.html content=title background=color -%}
 
   {%- if firstlast == "last" -%}{{ colorBlock }}{%- endif -%}
 </div>
 
 {%- if include.item.category != 'statistic' -%}
-<div class="columns is-gapless literature {{include.item.category}}">
+<div class="columns is-gapless literature {{include.item.category}} is-hidden-mobile">
   {%- if firstlast == "first" -%}{{ graphicBlock }}{%- endif -%}
 
   {%- include block.html wide=true content=content background=color -%}
