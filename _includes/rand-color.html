@@ -1,0 +1,3 @@
+{%- assign randNumber = include.seed | split: "" | uniq | join: "" | size | plus: include.seed.size -%}
+{%- assign randColorIndex = randNumber | modulo: 3 -%}
+{{ site.background-colors | slice: randColorIndex }}

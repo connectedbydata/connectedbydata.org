@@ -1,48 +1,40 @@
 ---
 layout: default
 ---
+<script type="text/javascript">
+var password;
+var pass1="letmesee";
+password=prompt('Enter Password',' ');
+if (password!=pass1) {
+  window.location="https://connectedbydata.org/"
+}
+</script>
+
 <article>
 
-{%- capture breadcrumbs -%}
-<li><a href="/blog">Behind the scenes</a></li>
-{%- endcapture -%}
-{%- include breadcrumbs.html items=breadcrumbs -%}
-
 {%- capture header -%}
-  <h1 class="title">{{ page.title }}</h1>
+  {%- capture breadcrumbs -%}
+    <li><a href="/blog">Behind the scenes</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">{{ page.title }}</h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- assign author = site.team | where: "title", page.author | first %}
-{%- capture metadata -%}
-<div class="columns is-mobile">
-  {%- capture picture -%}
-    {%- include author-picture.html author=author -%}
-  {%- endcapture -%}
-  {%- if picture -%}
-  <div class="column is-narrow">
-    {{ picture }}
-  </div>
+{%- capture postBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign postBackground = postBackground | strip -%}
+{%- capture postContrast -%}
+  {%- if postBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif postBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
   {%- endif -%}
-  <div class="column">
-    <p>
-      <strong>
-        {%- include author-link.html author=author -%}
-      </strong>
-    <p>
-    <p>
-      {%- include date.html date=page.date -%}
-    </p>
-  </div>
-</div>
 {%- endcapture -%}
-{%- include section.html content=metadata -%}
 
-{%- capture content -%}
-<div class="content" itemprop="articleBody">
-  {{ content }}
-</div>
-{%- endcapture -%}
-{%- include section.html content=content -%}
+{%- include post.html post=page postBackground=postBackground postContrast=postContrast -%}
 
 </article>
