@@ -213,6 +213,10 @@ $footer-color: white;
         }
       }
 
+      strong {
+        color: white;
+      }
+
       a {
         color: white;
 
@@ -343,6 +347,15 @@ $footer-color: white;
       padding-left: 5%;
       padding-right: 1rem;
     }
+
+    p::before {
+      content: "“";
+    }
+
+    p:last-child::after {
+      content: "”";
+    }
+
   }
 
   a, .subtitle, strong {
@@ -385,5 +398,14 @@ $footer-color: white;
         color: $link;
       }
     }
+  }
+}
+
+.literature.example .literature-content {
+  p::before {
+    content: ""
+  }
+  p::after {
+    content: ""
   }
 }

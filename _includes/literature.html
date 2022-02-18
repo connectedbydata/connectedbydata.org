@@ -55,11 +55,19 @@
     <div class="literature-header">
       {%- if include.item.link -%}
         <p class="block">
-          <i class="fas fa-arrow-alt-circle-right"></i>
-          &nbsp;<a href="{{ include.item.link }}">Read more</a>
+          <a href="{{ include.item.link }}">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Read more
+          </a>
         </p>
       {%- endif -%}
-      <h3 class="title is-5">{{ include.item.title }}</h3>
+      <h3 class="title is-5">
+        {%- if include.item.link -%}
+          <a href="{{ include.item.link }}">{{ include.item.title }}</a>
+        {%- else -%}
+          {{ include.item.title }}
+        {%- endif -%}
+      </h3>
       {%- if include.item.author -%}
         <p class="subtitle is-6">{{ include.item.author }}</p>
       {%- endif -%}
@@ -82,7 +90,7 @@
   </div>
 {%- endcapture -%}
 
-<div class="columns is-gapless literature">
+<div class="columns is-gapless literature {{include.item.category}}">
   {%- if firstlast == "first" -%}{{ colorBlock }}{%- endif -%}
 
   {%- include block.html square=true big-mobile=true content=picture background=color -%}
@@ -92,7 +100,7 @@
 </div>
 
 {%- if include.item.category != 'statistic' -%}
-<div class="columns is-gapless literature">
+<div class="columns is-gapless literature {{include.item.category}}">
   {%- if firstlast == "first" -%}{{ graphicBlock }}{%- endif -%}
 
   {%- include block.html wide=true content=content background=color -%}

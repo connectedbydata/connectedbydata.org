@@ -1,6 +1,6 @@
 ---
 reference: metaphor-food-safety
-title: "Food Safety"
+title: "Food safety"
 attribution: Photo by [Rayia Soderberg](https://unsplash.com/@rayia)<br>on [Unsplash](https://unsplash.com/s/photos/food-safety)
 category: example
 ---
