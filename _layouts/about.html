@@ -135,6 +135,42 @@ if (password!=pass1) {
       {%- include block.html wide=true content=bio background=personBackground -%}
     </div>
   {%- endfor -%}
+  {%- capture jobs -%}
+    <div class="point">
+      <h3 class="title is-4">Open position{%- if site.jobs.size > 1 -%}s{%- endif -%}</h3>
+    </div>
+  {%- endcapture -%}
+  {%- if site.jobs.size > 0 -%}
+    <div id="jobs" class="columns is-gapless job">
+      {%- include block.html content=jobs background='darker-green' -%}
+      {%- include block.html background='darker-green' hidden='mobile' -%}
+      {%- include block.html background='mountain' hidden='touch' -%}
+    </div>
+  {%- endif -%}
+  {%- for job in site.jobs -%}
+    {%- capture jobBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture title -%}
+      <div class="point">
+        <h3 class="title is-5"><a href="{{ job.url | relative_url }}">{{ job.title }}</a></h3>
+        <p class="subtitle">{{ job.subtitle }}</p>
+        <p>
+          <a href="{{ job.url | relative_url }}">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Learn more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless is-mobile job is-hidden-tablet">
+      {%- include random-graphic-block.html seed=job.title hidden='tablet' -%}
+      {%- include block.html square=true content=image background=jobBackground hidden='tablet' -%}
+    </div>
+    <div class="columns is-gapless job">
+      {%- include random-graphic-block.html seed=job.title hidden='touch' -%}
+      {%- include block.html wide=true content=title background=jobBackground -%}
+    </div>
+  {%- endfor -%}
 {%- endcapture -%}
 {%- include section.html content=team -%}
 

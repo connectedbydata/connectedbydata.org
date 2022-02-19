@@ -36,6 +36,8 @@ collections:
     output: true
   team:
     output: true
+  jobs:
+    output: true
   literature:
     output: false
 

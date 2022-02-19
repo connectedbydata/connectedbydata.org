@@ -1,7 +1,7 @@
 ---
 layout: person
 title: Jeni Tennison
-role: Founder
+role: Founder and Executive Director
 picture: jeni.jpg
 ---
 Jeni is an expert in all things data, from technology, to governance, strategy, and public policy. She is the founder of [Connected by data](/) and an Affiliated Researcher at the [Bennett Institute for Public Policy](https://www.bennettinstitute.cam.ac.uk/).

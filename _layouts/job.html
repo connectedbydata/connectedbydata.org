@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/about">About us</a></li>
+    <li><a href="/about#team">Team</a></li>
+    <li><a href="/about#jobs">Jobs</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title">{{ page.title }}</h1>
+  <h2 class="subtitle">{{ page.subtitle }}</h2>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture content -%}
+<div class="content">
+  {{ content }}
+</div>
+{%- endcapture -%}
+
+{%- capture jobBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign jobBackground = jobBackground | strip -%}
+{%- capture jobContrast -%}
+  {%- if jobBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif jobBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+{%- capture jobOtherColor -%}
+  {%- if jobBackground == 'dark-green' -%}
+    darker-green
+  {%- elsif jobBackground == 'darker-green' -%}
+    darkest-green
+  {%- else -%}
+    dark-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture salaryInfo -%}
+  <div class="point">
+    <h2 class="title">Salary</h2>
+    <h3 class="subtitle">{{ page.salary }}</h3>
+  </div>
+{%- endcapture -%}
+
+{%- capture termsInfo -%}
+  <div class="point">
+    <h2 class="title">Terms</h2>
+    <h3 class="subtitle">{{ page.terms }}</h3>
+  </div>
+{%- endcapture -%}
+
+{%- capture hoursInfo -%}
+  <div class="point">
+    <h2 class="title">Working hours</h2>
+    <h3 class="subtitle">{{ page.working-hours }}</h3>
+  </div>
+{%- endcapture -%}
+
+{%- capture locationInfo -%}
+  <div class="point">
+    <h2 class="title">Location</h2>
+    <h3 class="subtitle">{{ page.location }}</h3>
+  </div>
+{%- endcapture -%}
+
+{%- capture jobContent -%}
+  <div class="columns is-gapless job">
+    {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
+    {%- include random-graphic-block.html seed=page.salary hidden='mobile' -%}
+    {%- include block.html content=salaryInfo background=jobContrast -%}
+  </div>
+  <div class="columns is-gapless job is-mobile is-hidden-tablet">
+    {%- include random-graphic-block.html seed=page.salary hidden='tablet' -%}
+    {%- include block.html square=true background=jobContrast hidden='tablet' -%}
+  </div>
+  <div class="columns is-gapless job">
+    {%- include block.html content=termsInfo background=jobOtherColor -%}
+    {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
+    {%- include block.html square=true background=jobContrast hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless job is-mobile is-hidden-tablet">
+    {%- include block.html square=true background=jobOtherColor hidden='tablet' -%}
+    {%- include random-graphic-block.html seed=page.title hidden='tablet' -%}
+  </div>
+  <div class="columns is-gapless job">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=page.title nested=true -%}
+        {%- include block.html square=true nested=true background=jobContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=jobBackground -%}
+  </div>
+  <div class="columns is-gapless job is-mobile is-hidden-tablet">
+    {%- include block.html square=true background=jobOtherColor hidden='tablet' -%}
+    {%- include random-graphic-block.html seed=page.hours hidden='tablet' -%}
+  </div>
+  <div class="columns is-gapless job">
+    {%- include block.html content=hoursInfo background=jobOtherColor -%}
+    {%- include random-graphic-block.html seed=page.hours hidden='mobile' -%}
+    {%- include block.html square=true background=jobContrast hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless job is-mobile is-hidden-tablet">
+    {%- include random-graphic-block.html seed=page.location hidden='tablet' -%}
+    {%- include block.html square=true background=jobContrast hidden='tablet' -%}
+  </div>
+  <div class="columns is-gapless job">
+    {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
+    {%- include block.html square=true background=jobContrast hidden='mobile' -%}
+    {%- include block.html content=locationInfo background=jobContrast -%}
+  </div>
+{%- endcapture -%}
+
+{%- include section.html content=jobContent -%}

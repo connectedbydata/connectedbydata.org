@@ -33,9 +33,9 @@ layout: default
 {%- endcapture -%}
 {%- assign personBackground = personBackground | strip -%}
 {%- capture personContrast -%}
-  {%- if background == 'dark-green' -%}
+  {%- if personBackground == 'dark-green' -%}
     darkest-green
-  {%- elsif background == 'darker-green' -%}
+  {%- elsif personBackground == 'darker-green' -%}
     dark-green
   {%- else -%}
     darker-green
