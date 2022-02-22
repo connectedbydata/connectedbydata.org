@@ -134,6 +134,16 @@ $footer-color: white;
       top: 48px;
     }
   }
+
+  .navbar-item {
+    line-height: 1.5;
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+    .navbar-link {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
 }
 
 .columns.is-gapless {
@@ -310,6 +320,11 @@ $footer-color: white;
     .navbar-brand img {
       max-height: 120px;
       padding-top: 24px;
+
+      @include mobile {
+        max-height: 90px;
+        padding-top: 18px;
+      }
     }
     .navbar-menu {
       margin-bottom: 46px;
@@ -320,6 +335,11 @@ $footer-color: white;
     .navbar-burger {
       height: 5.25rem;
       width: 5.25rem;
+
+      @mobile {
+        height: 3.5rem;
+        width: 3.5rem;
+      }
 
       span {
         height: 2px;
@@ -332,6 +352,10 @@ $footer-color: white;
         &:nth-child(3) {
           top: calc(50% + 10px);
         }
+      }
+
+      &.is-active span:nth-child(3) {
+        transform: translateY(-10px) rotate(-45deg);
       }
     }
   }
