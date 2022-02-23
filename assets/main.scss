@@ -137,8 +137,8 @@ $footer-color: white;
 
   .navbar-item {
     line-height: 1.5;
-    padding-top: 0;
-    padding-bottom: 0.25rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.15rem;
     .navbar-link {
       padding-top: 0;
       padding-bottom: 0;
@@ -335,11 +335,6 @@ $footer-color: white;
     .navbar-burger {
       height: 5.25rem;
       width: 5.25rem;
-
-      @mobile {
-        height: 3.5rem;
-        width: 3.5rem;
-      }
 
       span {
         height: 2px;
