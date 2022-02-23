@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giving us more information and control is not fixing this problem
+title: Giving us more information and controls is not fixing this problem
 previous-url: /problems/impact.html
 next-url: /problems/connected.html
 points:
