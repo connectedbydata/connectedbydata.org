@@ -2,7 +2,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Connected by data {%- if page.title %} | {{ page.title }} {%-endif-%}</title>
+  <meta property="og:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}Connected by data{%- endif -%}" />
+  <meta property="og:url" content="https://connectedbydata.org{{ page.url }}" />
+  <meta property="og:image" content="/assets/graphicsx1/mountain.png" />
+  <meta property="twitter:site" content="@ConnectedByData" />
+  {%- if page.collection == 'team' -%}
+    <meta property="og:type" content="profile" />
+  {%- elsif page.collection == 'post' -%}
+    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta property="article:author" content="{{ page.author }}" />
+  {%- else -%}
+    <meta property="og:type" content="article" />
+  {%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="license" href="http://creativecommons.org/licenses/by/4.0/">
   <script type="text/javascript" src="{{ "/assets/main.js" | relative_url }}"></script>
+  {%- if site.include_plausible -%}
+    <script defer data-domain="connectedbydata.org" src="https://plausible.io/js/plausible.js"></script>
+  {%- endif -%}
 </head>
