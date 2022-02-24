@@ -355,17 +355,32 @@ $footer-color: white;
     }
   }
 
-  .breadcrumb {
+  #involved .breadcrumb {
     a:hover {
       color: $light-purple;
     }
-    ul li + li:before {
-      @include mobile {
-        display: none;
+  }
+
+}
+
+.breadcrumb {
+  a:hover {
+    color: $link;
+  }
+  ul {
+    @include mobile {
+      flex-direction: column;
+      a {
+        padding-left: 0rem;
       }
     }
   }
-
+  li + li::before {
+    content: "\025AA";
+    @include mobile {
+      display: none;
+    }
+  }
 }
 
 .is-mobile .image {
