@@ -1,11 +1,11 @@
 ---
 layout: page
-title: We should decide together how we want data to work
+title: Communities should be involved in making decisions about data
 previous-url: /problems/connected.html
 next-url: /solutions/organisations.html
 points:
   -
-    heading: We should make decisions about data **collectively**
+    heading: We should make collective decisions about...
     subpoints:
       -
         icon: noun-sensor.png
@@ -20,7 +20,7 @@ points:
         icon: noun-bin.png
         text: When data<br>is **deleted**
   -
-    heading: We need a say in the **choices** we're presented with
+    heading: We need a collective say in the **choices** we're presented with as individuals
     references:
       - choice-architecture
     subpoints:

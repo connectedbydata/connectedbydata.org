@@ -5,12 +5,17 @@ previous-url: /problems/ownership.html
 next-url: /solutions/participation.html
 points:
   -
-    heading: "**Algorithms and AI** use data about **other people** like us to make decisions about us"
+    heading: Modern data processing puts us in **groups** – **other people's data** affects us
+    references:
+      - data-relations
+      - safety-in-numbers
+  -
+    heading: "**Algorithms and AI** use invisible similarities to make decisions about us"
     references:
       - recommendation-systems
       - relational-theory-of-data-governance
   -
-    heading: Algorithms look at people we are **connected** to...
+    heading: Algorithms **connect us** to each other...
     subpoints:
       -
         icon: noun-family.png
@@ -34,7 +39,7 @@ points:
         icon: noun-diversity.png
         text: People our **age**, **race**,<br>**gender**, or **social class**
   -
-    heading: What other people choose to share affects what is known about us
+    heading: What those other people choose to share affects what is known about us
     references:
       - facebook-cambridge-analytica
 more: how we are connected by data

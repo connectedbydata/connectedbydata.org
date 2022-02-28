@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisations should build trust and reduce risks
+title: Organisations should use participation to build trust and reduce risks
 previous-url: /solutions/participation.html
 next-url: /solutions/people.html
 points:
@@ -16,7 +16,7 @@ points:
       - health-data-sharing-in-a-pandemic
       - location-data-ethics
   -
-    heading: Organisations should build trust...
+    heading: Organisations can build trust by engaging with communities...
     references:
       - trustworthy-data-stewardship-guidebook
     subpoints:
@@ -28,7 +28,7 @@ points:
         text: "**Listen** to<br>people's concerns"
       -
         icon: noun-split.png
-        text: "**Change** what<br>you do with data"
+        text: "**Change** what<br>they do with data"
   -
     heading: Doing better with data can be good for business
     subpoints:

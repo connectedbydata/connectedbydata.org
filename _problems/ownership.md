@@ -9,7 +9,7 @@ points:
     references:
       - poll-enough-control
   -
-    heading: Companies tell us **we own our data** and give us more privacy controls – they know **we won't use them**
+    heading: Companies tell us **we own our data** – they know **we won't use the controls we are given**
     references:
       - privacy-theatre
       - myth-of-individual-control
@@ -20,11 +20,6 @@ points:
     references:
       - latest-privacy-debacle
       - gdpr-consumer-control
-  -
-    heading: Modern data processing puts us in **groups**, so **other people's data** affects us
-    references:
-      - data-relations
-      - safety-in-numbers
   -
     heading: Data's **wider impact** to our societies is a **collective problem** – it needs **collective solutions**
     references:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The way data is collected and used does not work for us
+title: The way data is collected and used does not work for people or our communities
 next-url: /problems/ownership.html
 points:
   -
@@ -49,7 +49,7 @@ points:
         icon: noun-commute.png
         text: We could improve<br>**transport infrastructure**
   -
-    heading: We do not agree with the way services use data – we are **resigned** to it
+    heading: We do not agree with the way services use data – we are simply **resigned** to it
     references:
       - poll-targeted-ads-justified
       - digital-resignation

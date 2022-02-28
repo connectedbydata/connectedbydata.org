@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People should have a more meaningful say over data
+title: People should have a meaningful say over data
 previous-url: /solutions/organisations.html
 next-url: /actions/narrative.html
 points:
@@ -30,7 +30,7 @@ points:
         text: Not changing<br>the **defaults**
       -
         icon: noun-browser.png
-        text: Not configuring<br>your **browser**
+        text: Not configuring<br>their **browser**
       -
         icon: noun-social-media.png
         text: Keeping on using<br>**social media**
