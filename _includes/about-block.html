@@ -2,7 +2,7 @@
   <div class="point">
     <h2 class="title">{{ include.title }}</h2>
     {%- if include.content -%}
-      <p>{{ include.content }}</p>
+      <div class="content">{{ include.content | markdownify }}</div>
     {%- endif -%}
   </div>
 {%- endcapture -%}
