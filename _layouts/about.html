@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-<script type="text/javascript">
-var password;
-var pass1="letmesee";
-password=prompt('Enter Password',' ');
-if (password!=pass1) {
-  window.location="https://connectedbydata.org/"
-}
-</script>
-
 <article>
 
 {%- capture header -%}
@@ -19,7 +10,7 @@ if (password!=pass1) {
 
 {%- capture mission -%}
   <div class="columns is-gapless">
-    {%- include about-block.html title='Our vision' content='We think organisations and communities should make decisions about data together' background='dark-green' -%}
+    {%- include about-block.html title='Our vision' content='We think decisions about data should be made collectively and openly' background='dark-green' -%}
     {%- include block.html background='mountain' hidden='mobile' -%}
     {%- include block.html background='darker-green' hidden='touch' -%}
   </div>

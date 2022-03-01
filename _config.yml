@@ -21,10 +21,10 @@
 title: Connected by data
 email: jeni@connectedbydata.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of the Connected by Data initiative, led by Jeni Tennison.
+  Website of the Connected by data initiative, led by Jeni Tennison.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: JeniT
+twitter_username: ConnectedByData
 github_username:  JeniT
 
 collections:
