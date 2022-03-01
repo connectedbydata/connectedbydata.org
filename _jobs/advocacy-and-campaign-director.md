@@ -6,6 +6,7 @@ salary: Circa £90k pro rata<br>(£54k for 3 days/week)
 terms: Fixed-term until end of February 2023<br>(with possibility of renewal)
 working-hours: 7.5 hour days<br>2-3 days/week
 location: Fully remote<br>UK timezone
+deadline: 8am GMT Monday 21st March
 ---
 We are recruiting an **advocacy and campaign director** for **Connected by data**, where we have a mission is to put community at the centre of data narratives, practices and policies. Our work will include research, engagement with others working in the space, public policy development, advocacy, and communications.
 
@@ -55,7 +56,7 @@ Like the rest of the team, you'll benefit from:
 
 ## What are the next steps?
 
-If you are interested in this role, please send a CV and cover letter to [jeni@connectedbydata.org](mailto:jeni@connectedbydata.org). The cover letter should describe your skills and experience against the criteria listed above, and why you are interested in the role.
+If you are interested in this role, please send a CV and cover letter to [jeni@connectedbydata.org](mailto:jeni@connectedbydata.org) by **8am GMT Monday 21st March**. The cover letter should describe your skills and experience against the criteria listed above, and why you are interested in the role.
 
 If you have any questions about the role, or want to chat about it before applying, please get in touch with [jeni@connectedbydata.org](mailto:jeni@connectedbydata.org).
 
