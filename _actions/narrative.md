@@ -1,12 +1,12 @@
 ---
 layout: page
-title: We need to change how we talk about data
+title: We can change how we talk about data
 more: changing the narrative
 previous-url: /solutions/people.html
 next-url: /actions/practice.html
 points:
   -
-    heading: We need to challenge the language of **data ownership**
+    heading: We're challenging the language of **data ownership**
     opinion: Data is not like property – ownership language encourages faulty intuitions about how data should be governed
     subpoints:
       -
@@ -27,8 +27,8 @@ points:
     references:
       - data-ownership
   -
-    heading: We need to highlight how, why and when **individual consent** fails us
-    opinion: Individual consent sometimes disempowers people – we need to talk about its limits to avoid its misapplication
+    heading: We're highlighting how, why and when **individual consent** fails us
+    opinion: Individual consent sometimes disempowers people – we're talking about its limits to avoid its misapplication
     subpoints:
       -
         icon: noun-faq.png
@@ -51,12 +51,12 @@ points:
     references:
       - myth-of-individual-control
   -
-    heading: We need to show how we are **connected by data**
+    heading: We're showing how we are **connected by data**
     opinion: Pointing out how our data affects others (and their data affects us) reflects reality and promotes collective action
     references:
       - relational-theory-of-data-governance
   -
-    heading: We need to find the **metaphors** that resonate with people
+    heading: We're finding the **metaphors** that resonate with people
     opinion: Data is hard to grasp – analogies can prompt different ways of thinking about it and challenge invalid intuitions
     references:
       - metaphor-food-safety

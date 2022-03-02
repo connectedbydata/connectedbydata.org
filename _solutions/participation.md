@@ -34,7 +34,7 @@ points:
         icon: noun-multiple-windows.png
         text: How choices<br>are **presented**
   -
-    heading: There are a range of models for how we might make these collective decisions
+    heading: Models for making these collective decisions already exist
     subpoints:
       -
         icon: noun-candidate.png
@@ -49,20 +49,20 @@ points:
         icon: noun-participation.png
         text: public<br>**participation**
   -
-    heading: Some decisions might be made **democratically** by our **elected representatives**, such as MPs or local councillors
+    heading: Decisions are made **democratically** by our **elected representatives**, such as MPs or local councillors
     references:
       - national-data-strategy-uk
   -
-    heading: Other decisions might be made by **trusted institutions**, such as **data trusts**
+    heading: Decisions are made by **trusted institutions**, such as **data trusts**
     references:
       - data-institutions
       - digital-data-for-research
   -
-    heading: Organisations might set up independent **ethics boards** with lay members from affected communities
+    heading: Organisations set up independent **ethics boards** with lay members from affected communities
     references:
       - nhs-research-ethics-committees
   -
-    heading: Organisations might use **participative methods** such as **citizen juries**
+    heading: Organisations use **participative methods** such as **citizen juries**
     references:
       - involve-methods
       - participatory-data-stewardship
