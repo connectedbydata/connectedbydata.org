@@ -30,18 +30,24 @@ github_username:  JeniT
 collections:
   problems:
     output: true
+    permalink: :collection/:name
   solutions:
     output: true
+    permalink: :collection/:name
   actions:
     output: true
+    permalink: :collection/:name
   team:
     output: true
+    permalink: :collection/:name
   jobs:
     output: true
+    permalink: :collection/:name
   literature:
     output: false
 
 excerpt_separator: <!--more-->
+permalink: /:categories/:year/:month/:day/:slug
 
 background-colors:
   - dark-green
