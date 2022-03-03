@@ -8,7 +8,7 @@ working-hours: 7.5 hour days<br>2-3 days/week
 location: Fully remote<br>UK timezone
 deadline: 8am GMT Monday 21st March
 ---
-We are recruiting an **advocacy and campaign director** for **Connected by data**, where we have a mission is to put community at the centre of data narratives, practices and policies. Our work will include research, engagement with others working in the space, public policy development, advocacy, and communications.
+We are recruiting an **advocacy and campaign director** for **Connected by data**, where we have a mission to put community at the centre of data narratives, practices and policies. Our work will include research, engagement with others working in the space, public policy development, advocacy, and communications.
 
 Your role will be a hands-on one, leading the **public advocacy** of this work with a goal of influencing public opinion, organisational commitments and political will. You will be responsible for devising and implementing our **campaign and communication strategy**, and **creating or procuring assets** such as content, graphics and video to support the campaign. We will work together to **shape and deliver our message** to the public and policymakers, actively contributing to the discussion of how data is collected, used and shared on mainstream and social media.
 
