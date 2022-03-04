@@ -9,7 +9,7 @@ My [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fello
 
 ## Discord
 
-The Discord server is a bit of an experiment. I'm used, from [ODI](https://theodi.org), to having a very busy Slack environment with lots of people sharing and discussing interesting things. One of the disadvantages of working on your own is not having those kinds of places to talk about what’s on your mind with a small community.
+The [Discord server](https://discord.gg/uZyhRghzsc) is a bit of an experiment. I'm used, from [ODI](https://theodi.org), to having a very busy Slack environment with lots of people sharing and discussing interesting things. One of the disadvantages of working on your own is not having those kinds of places to talk about what’s on your mind with a small community.
 
 [Tim Davies](http://www.timdavies.org.uk/) has already made it valuable (for me at least) by sharing a [huge collection of literature on data governance](https://www.zotero.org/groups/4476723/data_governance/library) that he's put together. Inspired by [this piece on integrity workers](https://newpublic.substack.com/p/-the-case-for-integrity-workers?s=r), he's also made a great strategic suggestion about how we might achieve changes in practice by creating a community of practitioners who have expertise in designing and implementing collective data governance.
 
