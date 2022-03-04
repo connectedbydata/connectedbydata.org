@@ -32,6 +32,11 @@ points:
         icon: noun-process.png
         text: Development<br>**phase**
   -
+    heading: We're cultivating a community of tech workers who use participatory approaches
+    opinion: Running collective decision-making processes will be an essential skill on any team
+    references:
+      - integrity-workers
+  -
     heading: We're running **pilots** and developing **case studies**
     opinion: We are developing an evidence base to learn from experience and inspire organisations to change their practices
     references:
