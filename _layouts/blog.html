@@ -22,8 +22,53 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- for post in site.posts -%}
+{%- assign news = site.posts | where: "category", "news" -%}
+{%- for post in news -%}
   {%- capture postBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
   {%- capture postContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
   {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
 {%- endfor -%}
+
+<section id="weeknotes" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Weeknotes
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture weeknotesSection -%}
+  {%- capture content -%}
+    <div class="point">
+      <p>Weeknotes are a combination of updates and personal reflection written on a routine basis</p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='imperfect-circle' hidden='touch' -%}
+    {%- include block.html content=content background='darkest-green' -%}
+    {%- include block.html background='darkest-green' hidden='mobile' -%}
+  </div>
+  {%- assign weeknotes = site.posts | where: "category", "weeknotes" -%}
+  {%- assign seed = weeknotes | map: "title" | join: "" -%}
+  {%- assign seed2 = content -%}
+  {%- capture weeknotesBlocks -%}
+    {%- for post in weeknotes -%}
+      {%- capture content -%}
+        <div class="subpoint">
+          <p class="subtitle is-6">
+            <a href="{{ post.url }}">
+              {{ post.author | truncatewords: 1, "" }}
+              <br>
+              {% include date.html date=post.date -%}
+            </a>
+          </p>
+        </div>
+      {%- endcapture -%}
+      {%- include block.html square=true content=content -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include filler-blocks.html size=weeknotes.size blocks=weeknotesBlocks seed1=seed seed2=seed2 -%}
+{%- endcapture -%}
+{%- include section.html content=weeknotesSection -%}

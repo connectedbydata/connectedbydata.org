@@ -12,7 +12,7 @@
   {{ include.blocks }}
   {%- for i in (1..additionalItemsCountTablet) -%}
     {%- capture color -%}{%- cycle "dark-green", "darker-green", "darkest-green" -%}{%- endcapture -%}
-    {%- include block.html background=color hidden='mobile' -%}
+    {%- include block.html background=color hidden='mobile is-hidden-desktop' -%}
   {%- endfor -%}
   {%- if additionalItemsCountDesktop >= 1 -%}
     {%- include random-graphic-block.html seed=include.seed2 hidden='touch' -%}

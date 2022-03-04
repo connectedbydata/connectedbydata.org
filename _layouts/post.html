@@ -8,7 +8,13 @@ layout: default
     <li><a href="/blog">Behind the scenes</a></li>
   {%- endcapture -%}
   {%- include breadcrumbs.html items=breadcrumbs -%}
-  <h1 class="title is-1 is-size-3-mobile">{{ page.title }}</h1>
+  <h1 class="title is-1 is-size-3-mobile">
+    {%- if page.category == "weeknotes" -%}
+      Weeknotes {% include date.html date=page.date -%}
+    {%- else -%}
+      {{ page.title }}
+    {%- endif -%}
+  </h1>
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
