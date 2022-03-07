@@ -139,6 +139,7 @@ layout: default
     </div>
   {%- endif -%}
   {%- for job in site.jobs -%}
+    {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
     {%- capture jobBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
     {%- capture title -%}
@@ -154,12 +155,22 @@ layout: default
       </div>
     {%- endcapture -%}
     <div class="columns is-gapless is-mobile job is-hidden-tablet">
+      {%- if leftright == 'left' -%}
       {%- include random-graphic-block.html seed=job.title hidden='tablet' -%}
-      {%- include block.html square=true content=image background=jobBackground hidden='tablet' -%}
+      {%- endif -%}
+      {%- include block.html square=true background=jobBackground hidden='tablet' -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=job.title hidden='tablet' -%}
+      {%- endif -%}
     </div>
     <div class="columns is-gapless job">
+      {%- if leftright == 'left' -%}
       {%- include random-graphic-block.html seed=job.title hidden='touch' -%}
+      {%- endif -%}
       {%- include block.html wide=true content=title background=jobBackground -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=job.title hidden='touch' -%}
+      {%- endif -%}
     </div>
   {%- endfor -%}
 {%- endcapture -%}
