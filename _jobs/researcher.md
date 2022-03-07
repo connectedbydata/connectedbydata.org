@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Researcher"
-subtitle: "Help answer questions and identify good practices about open, collective and participatory data governance approaches"
+subtitle: "Help answer questions and identify good practices about open, collective and participatory data governance"
 salary: Circa £40k
 terms: Fixed-term until end of February 2023<br>(with possibility of renewal)
 working-hours: 7.5 hour days<br>4-5 days/week
