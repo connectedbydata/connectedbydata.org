@@ -3,7 +3,9 @@ layout: post
 author: Jeni Tennison
 category: weeknotes
 ---
-It's been a busy first week for **CONNECTED** BY **DATA** .
+It's been a busy first week for **CONNECTED** BY **DATA**.
+
+<!--more-->
 
 My [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/) was [announced](https://shuttleworthfoundation.org/thinking/2022/03/01/thinking-welcome-jeni-diarmaid/), and this [website](https://connectedbydata.org) launched. I'm pleased with the initial response, which includes over 150 people following [@ConnectedByData](https://twitter.com/ConnectedByData) on Twitter (not all of whom are my family) and 15 joining the Discord server, only about half of whom I already know. I also got a few people expressing interest in the [Advocacy and Campaign Director role](http://connectedbydata.org/jobs/advocacy-and-campaign-director), which was reassuring – I think it’s going to be difficult to fill.
 
