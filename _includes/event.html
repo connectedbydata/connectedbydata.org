@@ -1,0 +1,159 @@
+{%- assign event = include.event -%}
+{%- assign author = site.team | where: "title", event.author | first %}
+{%- capture image -%}
+  <figure class="image">
+    <img src="/assets/events/{{ event.image }}">
+  </figure>
+{%- endcapture -%}
+{%- capture image -%}
+  {%- if event.link -%}
+    <a href="{{ event.link }}">
+      {{ image }}
+    </a>
+  {%- else -%}
+    {{ image }}
+  {%- endif -%}
+{%- endcapture -%}
+{%- capture image -%}
+  {%- if event.add-background -%}
+    <div class="subpoint has-background-white">
+      {{ image }}
+    </div>
+  {%- else -%}
+    {{ image }}
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture more -%}
+  <p>
+    {%- if event.writeup -%}
+      <a href="{{ event.url | relative_url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Read more
+      </a>
+    {%- else -%}
+      <a href="{{ event.link }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Learn more
+      </a>
+    {%- endif -%}
+  </p>
+{%- endcapture -%}
+
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {%- if include.headingonly -%}
+    {%- else -%}
+      {%- include author-link.html author=author %}
+      &#x25aa;
+    {% endif -%}
+    {%- if event.dates -%}
+      {%- include dates.html dates=event.dates -%}
+    {%- else -%}
+      {%- include date.html date=event.date -%}
+    {%- endif -%}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="event-link" href="{%- if event.writeup -%}{{ event.url | relative_url }}{%- else -%}{{ event.link }}{%- endif -%}">
+        {{ event.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+    {%- if include.headingonly -%}
+      <div class="is-6">
+        {{ more }}
+      </div>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="content">
+    {%- if include.excerpt -%}
+      {{ event.excerpt }}
+      {{ more }}
+    {%- else -%}
+      {{ event.content | markdownify }}
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- if include.excerpt -%}
+  <div class="columns is-gapless event is-mobile is-hidden-tablet">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=event.content hidden='tablet' -%}
+      {%- include block.html square=true content=image background=include.eventBackground hidden='tablet' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image background=include.eventBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=event.content hidden='tablet' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless event">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=event.content hidden='touch' -%}
+      {%- include block.html content=title background=include.eventBackground -%}
+      {%- include block.html square=true content=image background=include.eventBackground hidden='mobile' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image  background=include.eventBackground hidden='mobile' -%}
+      {%- include block.html content=title background=include.eventBackground -%}
+      {%- include random-graphic-block.html seed=event.content hidden='touch' -%}
+    {%- endif -%}
+  </div>
+  {%- if include.headingonly -%}
+  {%- else -%}
+    <div class="columns is-gapless event">
+      {%- if include.imagePosition == 'right' -%}
+        {%- include block.html square=true background=include.eventContrast hidden='touch' -%}
+        {%- include block.html wide=true content=content background=include.eventBackground -%}
+      {%- else -%}
+        {%- include block.html wide=true content=content background=include.eventBackground -%}
+        {%- include block.html square=true background=include.eventContrast hidden='touch' -%}
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+{%- else -%}
+  <div class="columns is-gapless event is-mobile is-hidden-desktop">
+    {%- include random-graphic-block.html seed=event.content hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=include.eventContrast hidden='mobile' -%}
+    {%- include block.html square=true content=image background=include.eventContrast hidden='desktop' -%}
+  </div>
+  <div class="columns is-gapless event">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=event.content nested=true -%}
+        {%- include block.html square=true nested=true content=image background=include.eventContrast -%}
+        {%- include block.html square=true nested=true background=include.eventContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.eventBackground -%}
+  </div>
+  {%- if event.presentation -%}
+    {%- capture presentation -%}
+      <a href="{{ event.presentation }}">
+        <figure class="image">
+          <img src="/assets/events/{{ event.presentation-image }}">
+        </figure>
+      </a>
+    {%- endcapture -%}
+    {%- capture presentationLink -%}
+      <div class="point">
+        <a href="{{ event.presentation }}">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;View presentation
+        </a>
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless event">
+      {%- include block.html content=presentation background=include.eventContrast -%}
+      {%- include block.html background=include.eventBackground hidden='desktop is-hidden-mobile' -%}
+      {%- include block.html content=presentationLink background=include.eventBackground hidden='touch' -%}
+    </div>
+    <div class="columns is-gapless event is-hidden-desktop">
+      {%- include block.html content=presentationLink background=include.contrastBackground -%}
+      {%- include random-graphic-block.html seed=event.presentation hidden='mobile' -%}
+    </div>
+  {%- endif -%}
+{%- endif -%}

@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">Upcoming and previous events</h1>
+<p class="subtitle">Presentations, panels and conferences</p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- assign upcoming = site.events | where: "upcoming", "true" -%}
+{%- assign speaking = upcoming | where: "category", "speaking" -%}
+{%- capture speaking-content -%}
+  {%- for event in speaking -%}
+    {%- capture eventBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture eventContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include event.html event=event excerpt=true imagePosition=imagePosition eventBackground=eventBackground eventContrast=eventContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=speaking-content -%}
+
+{%- assign attending = upcoming | where: "category", "attending" -%}
+<section id="attending" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Bump into us
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture attending-content -%}
+  {%- for event in attending -%}
+    {%- capture eventBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
+    {%- capture eventContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+    {%- include event.html event=event excerpt=true headingonly=true imagePosition=imagePosition eventBackground=eventBackground eventContrast=eventContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=attending-content -%}
+
+<section id="previous" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Previous events
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- assign previous = site.events | where: "upcoming", "false" -%}
+{%- capture previous-content -%}
+  {%- for event in previous -%}
+    {%- capture eventBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture eventContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include event.html event=event excerpt=true imagePosition=imagePosition eventBackground=eventBackground eventContrast=eventContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=previous-content -%}

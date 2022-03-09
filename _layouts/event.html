@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<article>
+
+{%- assign author = site.team | where: "title", page.author | first %}
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/events">Events</a></li>
+    <li><a href="/events#previous">Previous events</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {%- include author-link.html author=author %}
+    &#x25aa;
+    {% if page.dates -%}
+      {% include dates.html dates=page.dates -%}
+    {%- else -%}
+      {% include date.html date=page.date -%}
+    {%- endif -%}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture eventBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign eventBackground = eventBackground | strip -%}
+{%- capture eventContrast -%}
+  {%- if eventBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif eventBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture event -%}
+  {%- include event.html event=page eventBackground=eventBackground eventContrast=eventContrast -%}
+{%- endcapture -%}
+{%- include section.html content=event -%}
+
+</article>

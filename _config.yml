@@ -45,6 +45,9 @@ collections:
     permalink: :collection/:name
   literature:
     output: false
+  events:
+    output: true
+    permalink: :collection/:name
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:year/:month/:day/:slug

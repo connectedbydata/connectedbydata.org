@@ -1,0 +1,22 @@
+{%- assign dates = include.dates | split: ", " -%}
+{%- assign start = dates | first -%}
+{%- assign end = dates | last -%}
+{%- assign startMonth = start | date: "%b" -%}
+{%- assign endMonth = end | date: "%b" -%}
+{%- if startMonth == endMonth -%}
+  <time datetime="{{ start | date_to_xmlschema }}">
+    {{- start | date: "%b %-d" -}}
+  </time>
+  -
+  <time datetime="{{ end | date_to_xmlschema }}">
+    {{- end | date: "%-d, %Y" -}}
+  </time>
+{%- else -%}
+  <time datetime="{{ start | date_to_xmlschema }}">
+    {{- start | date: "%b %-d" -}}
+  </time>
+  -
+  <time datetime="{{ end | date_to_xmlschema }}">
+    {{- end | date: "%b %-d, %Y" -}}
+  </time>
+{%- endif -%}
