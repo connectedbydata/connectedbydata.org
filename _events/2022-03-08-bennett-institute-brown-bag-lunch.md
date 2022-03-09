@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bennett Institute Brown Bag Lunch
-image: bennett-institute.svg
+image: bennett-institute.png
 link: https://www.bennettinstitute.cam.ac.uk/
 add-background: true
 date: 2022-03-08

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Lessons from history for governing the digital future
-image: lessons-from-history.jpeg
+image: lessons-from-history.png
 link: https://www.bennettinstitute.cam.ac.uk/events/governing-digital-future/
 upcoming: true
 writeup: false

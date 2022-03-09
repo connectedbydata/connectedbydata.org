@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bennett Institute for Public Policy Annual Conference 2022
-image: bennett-institute-annual-conference.jpeg
+image: bennett-institute-annual-conference.jpg
 link: https://www.bennettinstitute.cam.ac.uk/events/conference-2022/
 upcoming: true
 writeup: false
