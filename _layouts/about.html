@@ -26,6 +26,22 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=mission -%}
 
+<section id="plans" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        What we're planning
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture plans -%}
+  {%- assign roadmap = site.resources | where: "reference", "public-strategic-roadmap-2022-2023" | first -%}
+  {%- include resource.html resource=roadmap excerpt=true imagePosition='left' resourceBackground='darkest-green' resourceContrast='darker-green' -%}
+{%- endcapture -%}
+{%- include section.html content=plans -%}
+
 <section id="values" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
@@ -40,11 +56,11 @@ layout: default
   <div class="columns is-gapless">
     {%- include block.html background='dark-green' hidden='touch' -%}
     {%- include about-block.html short=true title='We focus on impact' background='darkest-green' -%}
-    {%- include block.html background='circles' hidden='mobile' -%}
+    {%- include block.html background='square' hidden='mobile' -%}
   </div>
   <div class="columns is-gapless is-mobile is-hidden-tablet">
     {%- include block.html background='dark-green' -%}
-    {%- include block.html background='circles' -%}
+    {%- include block.html background='square' -%}
   </div>
   <div class="columns is-gapless">
     {%- include about-block.html short=true title='We work in the open' background='dark-green' -%}
