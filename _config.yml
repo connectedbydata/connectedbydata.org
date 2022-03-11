@@ -48,6 +48,9 @@ collections:
   events:
     output: true
     permalink: :collection/:name
+  resources:
+    output: true
+    permalink: :collection/:name
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:year/:month/:day/:slug

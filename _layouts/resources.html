@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">Resources</h1>
+<p class="subtitle">Reports, briefing papers and other documents</p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- assign drafts = site.resources | where: "status", "draft" -%}
+{%- if drafts -%}
+  <section id="drafts" class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Comment on our drafts
+        </p>
+      </div>
+    </div>
+  </section>
+
+  {%- capture drafts-content -%}
+    {%- for resource in drafts -%}
+      {%- capture resourceBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
+      {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+      {%- include resource.html resource=resource excerpt=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=drafts-content -%}
+{%- endif -%}
+
+{%- assign final = site.resources | where: "status", "final" -%}
+<section id="final" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Read more
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture resources-content -%}
+  {%- for resource in final -%}
+    {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=resources-content -%}

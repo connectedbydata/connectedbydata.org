@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article>
+
+{%- assign author = site.team | where: "title", page.author | first %}
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/resources">Resources</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {%- include author-link.html author=author %}
+    &#x25aa;
+    {% include date.html date=page.date -%}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture resourceBackground -%}
+  {%- include rand-color.html seed=page.content -%}
+{%- endcapture -%}
+{%- assign resourceBackground = resourceBackground | strip -%}
+{%- capture resourceContrast -%}
+  {%- if resourceBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif resourceBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture resource -%}
+  {%- include resource.html resource=page resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+{%- endcapture -%}
+{%- include section.html content=resource -%}
+
+</article>

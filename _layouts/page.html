@@ -48,6 +48,16 @@ layout: default
       {%- include filler-blocks.html size=point.subpoints.size blocks=subpointsBlocks seed1=seed seed2=seed2 -%}
     {%- endif -%}
 
+    {%- if point.resources -%}
+      {%- for ref in point.resources -%}
+        {%- assign resource = site.resources | where: "reference", ref | first -%}
+        {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+        {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+        {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+        {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+      {%- endfor -%}
+    {%- endif -%}
+
     <!--
     {%- if point.tweet -%}
       <div class="columns is-gapless">
@@ -88,6 +98,7 @@ layout: default
       {%- endcapture -%}
       {%- include filler-blocks.html size=point.icons.size blocks=iconsBlocks seed1=seed seed2=seed2 -%}
     {%- endif -%}
+
   {%- endcapture -%}
   {%- include section.html content=content -%}
 {%- endfor -%}

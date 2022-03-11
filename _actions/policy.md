@@ -6,7 +6,7 @@ previous-url: /actions/practice.html
 points:
   -
     heading: We're advocating for the law to recognise that harms don't just fall on individuals
-    opinion: Current data protection regulations such as GDPR are oriented around protecting individual privacy – we think they should address wider harms including from **non-personal data**
+    opinion: Data protection regulations such as GDPR should address more than privacy, including wider harms from **non-personal data**
     subpoints:
       -
         icon: noun-community.png
@@ -41,6 +41,8 @@ points:
         text: "**Environmental<br>impact**"
     references:
       - legitimate-interests
+    resources:
+      - legitimate-interests-briefing-paper
   -
     heading: We're campaigning for regulation to **require participation** when organisations **balance** different rights and interests
     opinion: Organisations are not trusted to make these decisions alone – they need to demonstrate legitimacy

@@ -1,0 +1,152 @@
+{%- assign resource = include.resource -%}
+{%- assign author = site.team | where: "title", resource.author | first %}
+{%- capture image -%}
+  <div class="resource-picture">
+    <figure class="image">
+      <a href="{{ resource.link }}">
+        <img src="/assets/resources/{{ resource.image }}">
+      </a>
+    </figure>
+  </div>
+{%- endcapture -%}
+
+{%- capture more -%}
+  {%- capture internal-link -%}
+    <a href="{{ resource.url | relative_url }}">
+      <i class="fas fa-arrow-alt-circle-right"></i>
+      &nbsp;Learn more
+    </a>
+  {%- endcapture -%}
+  {%- capture external-link -%}
+    <a href="{{ resource.link }}">
+      <i class="fas fa-arrow-alt-circle-right"></i>
+      {%- if resource.status == 'draft' -%}
+        &nbsp;Read and comment
+      {%- else -%}
+        &nbsp;Read more
+      {%- endif -%}
+    </a>
+  {%- endcapture -%}
+  <p>
+    {%- if include.excerpt -%}
+      {%- if include.headingonly -%}
+        {{ internal-link }}
+      {%- elsif resource.excerpt == resource.content -%}
+        {{ external-link }}
+      {%- else -%}
+        {{ internal-link }}
+      {%- endif -%}
+    {%- else -%}
+      {{ external-link }}
+    {%- endif -%}
+  </p>
+{%- endcapture -%}
+
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {%- include author-link.html author=author %}
+    &#x25aa;
+    {% include date.html date=resource.date -%}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="resource-link" href="{{ resource.url | relative_url }}">
+        {{ resource.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+    {%- if resource.status == 'draft' -%}
+      <p class="subtitle is-6">
+        <strong>DRAFT</strong> FOR <strong>COMMENT</strong>
+      </p>
+    {%- endif -%}
+    {%- if include.headingonly -%}
+      <div class="subtitle is-6">
+        {{ more }}
+      </div>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="content">
+    {%- if include.excerpt -%}
+      {{ resource.excerpt }}
+      {{ more }}
+    {%- else -%}
+      {{ resource.content | markdownify }}
+      {{ more }}
+      <div class="mainimage">
+        {{ image }}
+      </div>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- if include.excerpt -%}
+  <div class="columns is-gapless resource is-mobile is-hidden-tablet">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=resource.content hidden='tablet' -%}
+      {%- include block.html square=true content=image background=include.resourceBackground hidden='tablet' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image background=include.resourceBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=resource.content hidden='tablet' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless resource">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=resource.content hidden='touch' -%}
+      {%- include block.html content=title background=include.resourceBackground -%}
+      {%- include block.html square=true content=image background=include.resourceBackground hidden='mobile' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image  background=include.resourceBackground hidden='mobile' -%}
+      {%- include block.html content=title background=include.resourceBackground -%}
+      {%- include random-graphic-block.html seed=resource.content hidden='touch' -%}
+    {%- endif -%}
+  </div>
+  {%- if include.headingonly -%}
+  {%- else -%}
+    <div class="columns is-gapless resource">
+      {%- if include.imagePosition == 'right' -%}
+        {%- include block.html square=true background=include.resourceContrast hidden='touch' -%}
+        {%- include block.html wide=true content=content background=include.resourceBackground -%}
+      {%- else -%}
+        {%- include block.html wide=true content=content background=include.resourceBackground -%}
+        {%- include block.html square=true background=include.resourceContrast hidden='touch' -%}
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+{%- else -%}
+  {%- capture metadata -%}
+    <div class="subpoint">
+      <figure class="image is-64x64">
+        <a href="{{ author.url }}">
+          <img src="/assets/team/{{ author.picture }}">
+        </a>
+      </figure>
+      <p>
+        {%- include author-link.html author=author %}
+      </p>
+      <p>
+        {% include date.html date=resource.date -%}
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless resource is-mobile is-hidden-desktop">
+    {%- include random-graphic-block.html seed=resource.content hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=include.resourceContrast hidden='mobile' -%}
+    {%- include block.html square=true content=metadata background=include.resourceContrast hidden='desktop' -%}
+  </div>
+  <div class="columns is-gapless resource">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=resource.content nested=true -%}
+        {%- include block.html square=true nested=true content=metadata background=include.resourceContrast -%}
+        {%- include block.html square=true nested=true background=include.resourceContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.resourceBackground -%}
+  </div>
+{%- endif -%}
