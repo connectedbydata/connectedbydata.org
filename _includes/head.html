@@ -5,18 +5,23 @@
   <meta property="og:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}Connected by data{%- endif -%}" />
   <meta property="og:url" content="https://connectedbydata.org{{ page.url }}" />
   <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
-  <meta property="twitter:card" content="summary" />
   <meta property="twitter:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}Connected by data{%- endif -%}" />
   <meta property="twitter:site" content="@ConnectedByData" />
   <meta property="twitter:description" content="{{ page.excerpt | strip_html }}" />
 
   {%- if page.collection == 'team' -%}
+    <meta property="twitter:card" content="summary" />
     <meta property="og:type" content="profile" />
     <meta property="og:image" content="https://connectedbydata.org/assets/team/{{page.picture}}" />
     <meta name="twitter:image:src" content="https://connectedbydata.org/assets/team/{{ page.picture }}" />
     <meta name="twitter:image:width" content="640" />
     <meta name="twitter:image:height" content="640" />
+  {%- elsif page.image -%}
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="og:image" content="https://connectedbydata.org/assets/{{page.collection}}/{{page.image}}" />
+    <meta name="twitter:image" content="https://connectedbydata.org/assets/{{page.collection}}/{{page.image}}" />
   {%- else -%}
+    <meta property="twitter:card" content="summary" />
     <meta property="og:image" content="https://connectedbydata.org/assets/graphicsx1/mountain.png" />
     <meta name="twitter:image:src" content="https://connectedbydata.org/assets/graphicsx1/mountain.png" />
     <meta name="twitter:image:width" content="400" />
