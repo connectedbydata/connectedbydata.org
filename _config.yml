@@ -51,6 +51,9 @@ collections:
   resources:
     output: true
     permalink: :collection/:name
+  projects:
+    output: true
+    permalink: :collection/:name
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:year/:month/:day/:slug

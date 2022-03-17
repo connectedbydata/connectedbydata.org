@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/projects">Projects</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {{ page.subtitle }}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture projectBackground -%}
+  {%- include rand-color.html seed=page.content -%}
+{%- endcapture -%}
+{%- assign projectBackground = projectBackground | strip -%}
+{%- capture projectContrast -%}
+  {%- if projectBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif projectBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture project -%}
+  {%- include project.html project=page projectBackground=projectBackground projectContrast=projectContrast -%}
+{%- endcapture -%}
+{%- include section.html content=project -%}
+
+</article>

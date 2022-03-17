@@ -1,0 +1,109 @@
+{%- assign project = include.project -%}
+{%- capture image -%}
+  <figure class="image">
+    <img src="/assets/projects/{{ project.image }}">
+  </figure>
+{%- endcapture -%}
+{%- capture image -%}
+  {%- if project.add-background -%}
+    <div class="subpoint has-background-white">
+      {{ image }}
+    </div>
+  {%- else -%}
+    <div class="project-picture">
+      {{ image }}
+    </div>
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture more -%}
+  <p>
+    <a href="{{ project.url | relative_url }}">
+      <i class="fas fa-arrow-alt-circle-right"></i>
+      &nbsp;Read more
+    </a>
+  </p>
+{%- endcapture -%}
+
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {{ project.subtitle }}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="project-link" href="{{ project.url | relative_url }}">
+        {{ project.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+    {%- if include.headingonly -%}
+      <div class="subtitle is-6">
+        {{ more }}
+      </div>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="content">
+    {%- if include.excerpt -%}
+      {{ project.excerpt }}
+      {{ more }}
+    {%- else -%}
+      {{ project.content | markdownify }}
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- if include.excerpt -%}
+  <div class="columns is-gapless project is-mobile is-hidden-tablet">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=project.content hidden='tablet' -%}
+      {%- include block.html square=true content=image background=include.projectBackground hidden='tablet' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image background=include.projectBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=project.content hidden='tablet' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless project">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=project.content hidden='touch' -%}
+      {%- include block.html content=title background=include.projectBackground -%}
+      {%- include block.html square=true content=image background=include.projectBackground hidden='mobile' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image  background=include.projectBackground hidden='mobile' -%}
+      {%- include block.html content=title background=include.projectBackground -%}
+      {%- include random-graphic-block.html seed=project.content hidden='touch' -%}
+    {%- endif -%}
+  </div>
+  {%- if include.headingonly -%}
+  {%- else -%}
+    <div class="columns is-gapless project">
+      {%- if include.imagePosition == 'right' -%}
+        {%- include block.html square=true background=include.projectContrast hidden='touch' -%}
+        {%- include block.html wide=true content=content background=include.projectBackground -%}
+      {%- else -%}
+        {%- include block.html wide=true content=content background=include.projectBackground -%}
+        {%- include block.html square=true background=include.projectContrast hidden='touch' -%}
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+{%- else -%}
+  <div class="columns is-gapless project is-mobile is-hidden-desktop">
+    {%- include random-graphic-block.html seed=project.content hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=include.projectContrast hidden='mobile' -%}
+    {%- include block.html square=true content=image background=include.projectContrast hidden='desktop' -%}
+  </div>
+  <div class="columns is-gapless project">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=project.content nested=true -%}
+        {%- include block.html square=true nested=true content=image background=include.projectContrast -%}
+        {%- include block.html square=true nested=true background=include.projectContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.projectBackground -%}
+  </div>
+{%- endif -%}

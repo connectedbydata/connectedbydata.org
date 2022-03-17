@@ -239,7 +239,7 @@ $footer-color: white;
       }
     }
 
-    div.subpoint, div.literature-picture, div.resource-picture, div.icon {
+    div.subpoint, div.literature-picture, div.resource-picture, div.project-picture, div.icon {
       color: white;
       padding: 1rem;
       display: flex;
@@ -558,7 +558,7 @@ $footer-color: white;
   }
 }
 
-.post, .person, .job, .event, .resource {
+.post, .person, .job, .event, .resource, .project {
   .content {
     padding: 2rem;
     line-height: 1.75rem;
