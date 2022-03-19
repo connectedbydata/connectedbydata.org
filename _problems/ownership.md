@@ -21,6 +21,27 @@ points:
       - latest-privacy-debacle
       - gdpr-consumer-control
   -
+    heading: Data from **sensors and satellites** is not personal data, but is about us and our **communities**
+    subpoints:
+    -
+      icon: noun-house.png
+      text: Our homes
+    -
+      icon: noun-neighborhood.png
+      text: Our neighbourhoods
+    -
+      icon: noun-area.png
+      text: Our land
+    -
+      icon: noun-electricity.png
+      text: Our electricity use
+    -
+      icon: noun-waste.png
+      text: Our waste
+    -
+      icon: noun-sensor.png
+      text: Our connectivity
+  -
     heading: Data's **wider impact** to our societies is a **collective problem** – it needs **collective solutions**
     references:
       - poll-government-involvement
