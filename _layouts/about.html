@@ -37,7 +37,7 @@ layout: default
 </section>
 
 {%- capture plans -%}
-  {%- assign roadmap = site.resources | where: "reference", "public-strategic-roadmap-2022-2023" | first -%}
+  {%- assign roadmap = site.resources | where: "reference", "strategic-roadmap-2022-2023" | first -%}
   {%- include resource.html resource=roadmap excerpt=true imagePosition='left' resourceBackground='darkest-green' resourceContrast='darker-green' -%}
 {%- endcapture -%}
 {%- include section.html content=plans -%}
