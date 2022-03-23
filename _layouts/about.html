@@ -142,19 +142,20 @@ layout: default
       {%- include block.html wide=true content=bio background=personBackground -%}
     </div>
   {%- endfor -%}
+  {%- assign openJobs = site.jobs | where: "expired", "false" -%}
   {%- capture jobs -%}
     <div class="point">
-      <h3 class="title is-4">Open position{%- if site.jobs.size > 1 -%}s{%- endif -%}</h3>
+      <h3 class="title is-4">Open position{%- if openJobs > 1 -%}s{%- endif -%}</h3>
     </div>
   {%- endcapture -%}
-  {%- if site.jobs.size > 0 -%}
+  {%- if openJobs.size > 0 -%}
     <div id="jobs" class="columns is-gapless job">
       {%- include block.html content=jobs background='darker-green' -%}
       {%- include block.html background='darker-green' hidden='mobile' -%}
       {%- include block.html background='mountain' hidden='touch' -%}
     </div>
   {%- endif -%}
-  {%- for job in site.jobs -%}
+  {%- for job in openJobs -%}
     {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
     {%- capture jobBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}

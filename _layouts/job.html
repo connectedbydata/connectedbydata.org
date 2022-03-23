@@ -43,6 +43,16 @@ layout: default
   {%- endif -%}
 {%- endcapture -%}
 
+{%- capture expiredInfo -%}
+  <div class="point">
+    <h2 class="title">We are no longer accepting applicants for this role</h2>
+    {%- if page.expired == true -%}
+    {%- else -%}
+      <h3 class="subtitle">{{ page.expired }}</h3>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
 {%- capture salaryInfo -%}
   <div class="point">
     <h2 class="title">Salary</h2>
@@ -72,6 +82,17 @@ layout: default
 {%- endcapture -%}
 
 {%- capture jobContent -%}
+  {%- if page.expired -%}
+    <div class="columns is-gapless job">
+      {%- include block.html content=expiredInfo background=jobBackground -%}
+      {%- include block.html square=true background=jobBackground hidden='touch' -%}
+      {%- include random-graphic-block.html seed=page.content hidden='mobile' -%}
+    </div>
+    <div class="columns is-gapless job is-mobile is-hidden-tablet">
+      {%- include block.html square=true background=jobBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=page.content hidden='tablet' -%}
+    </div>
+  {%- endif -%}
   <div class="columns is-gapless job">
     {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
     {%- include random-graphic-block.html seed=page.salary hidden='mobile' -%}

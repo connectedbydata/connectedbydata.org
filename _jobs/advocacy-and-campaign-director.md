@@ -7,6 +7,7 @@ terms: Fixed-term until end of February 2023<br>(with possibility of renewal)
 working-hours: 7.5 hour days<br>2-3 days/week
 location: Fully remote<br>UK timezone
 deadline: 8am GMT Monday 21st March
+expired: true
 ---
 We are recruiting an **Advocacy and campaign director** for **Connected by data**, where we have a mission to put community at the centre of data narratives, practices and policies. Our work will include research, engagement with others working in the space, public policy development, advocacy, and communications.
 

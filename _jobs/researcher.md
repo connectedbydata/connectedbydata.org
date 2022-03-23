@@ -7,6 +7,7 @@ terms: Fixed-term until end of February 2023<br>(with possibility of renewal)
 working-hours: 7.5 hour days<br>4-5 days/week
 location: Fully remote<br>UK timezone
 deadline: 8am GMT Monday 28th March
+expired: "We have decided to delay recruitment for now"
 ---
 We are recruiting a **Researcher** for [Connected by data](https://connectedbydata.org), where we have a mission to put community at the centre of data narratives, practices and policies. Our work will include research, engagement with others working in the space, public policy development, advocacy, and communications. We are particularly interested in questions about when individualistic models such as data ownership fail, and how to adapt more participatory approaches of governance to the world of data.
 

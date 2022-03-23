@@ -83,8 +83,11 @@
             <a class="navbar-item" href="/about#values">How we work</a>
             <a class="navbar-item" href="/about#team">Who we are</a>
             <a class="navbar-item" href="/about#funding">How we're funded</a>
-            <hr class="navbar-divider">
-            <a class="navbar-item" href="/about#jobs">Join us!</a>
+            {%- assign openJobs = site.jobs | where: "expired", "false" -%}
+            {%- if openJobs.size > 0 -%}
+              <hr class="navbar-divider">
+              <a class="navbar-item" href="/about#jobs">Join us!</a>
+            {%- endif -%}
           </div>
         </div>
       </div>
