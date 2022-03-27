@@ -79,7 +79,7 @@ The questionnaire asked applicants:
   * what they would want to learn from it
   * what organisational practice they would want to introduce
 
-The final question about organisational practices were perhaps unsurprising:
+The final question about organisational practices produced some answers that were perhaps unsurprising:
 
 * Purpose, strategy, goals and planning
   * Having a clear sense of purpose
