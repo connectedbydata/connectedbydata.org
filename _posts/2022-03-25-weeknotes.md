@@ -125,7 +125,7 @@ At best, the Shuttleworth Foundation fellowship funding will only last for three
 
 ## Final thoughts
 
-I had a great chat with [Sam Gilbert](https://twitter.com/samgilb) earlier in the week, and he helpfully followed up with a discussion about how [internal and external legitimacy](https://libcom.org/library/legitimacy) might play into collective data governance. There’s more to follow up there.
+I had a great chat with [Sam Gilbert](https://twitter.com/samgilb) earlier in the week, and he helpfully followed up with a discussion about how [internal and external legitimacy](https://libcom.org/library/legitimacy) might play into collective data governance. There’s more to follow up there. *Edit: Actually what Sam pointed me to was [input and output legitimacy](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198797050.001.0001/oso-9780198797050-chapter-2), which is something different! Both are useful frameworks for thinking about this.*
 
 I had a conversation with some officials from [DCMS](https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport) who are currently working on what to do about cookie banners. The real answer, of course, is to shift the adtech ecosystem away from having such heavy reliance on highly personalised advertising. But I also think there’s a route to get there that replaces the focus on individual consent for the use of cookies with a more collective approach. This is something I aim to write up and explore in more depth.
 
