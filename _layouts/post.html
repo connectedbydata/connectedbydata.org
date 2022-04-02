@@ -34,4 +34,25 @@ layout: default
 
 {%- include post.html post=page postBackground=postBackground postContrast=postContrast -%}
 
+
+{%- capture pagination -%}
+  <div class="columns is-mobile">
+    <div class="column is-half pl-6">
+      {%- if page.previous -%}
+      <a class="" href="{{ page.previous | relative_url }}" rel="previous">
+        <i class="fas fa-angle-double-left"></i>&nbsp;Previous
+      </a>
+      {%- endif -%}
+    </div>
+    <div class="column is-half has-text-right pr-6">
+      {%- if page.next -%}
+      <a href="{{ page.next | relative_url }}" rel="next">
+        Next&nbsp;<i class="fas fa-angle-double-right"></i>
+      </a>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endcapture -%}
+{%- include section.html content=pagination -%}
+
 </article>

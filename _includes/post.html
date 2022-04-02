@@ -44,13 +44,13 @@
   {%- endcapture -%}
   {%- if include.excerpt -%}
     <div class="columns is-gapless post">
-      {%- include random-graphic-block.html seed=post.title -%}
+      {%- include random-graphic-block.html seed=post.content -%}
       {%- include block.html content=title background=include.postBackground -%}
       {%- include block.html square=true content=image background=include.postBackground hidden='touch' -%}
     </div>
     <div class="columns is-gapless post is-mobile is-hidden-tablet">
       {%- include block.html square=true content=image background=include.postBackground hidden='tablet' -%}
-      {%- include random-graphic-block.html seed=post.title hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=post.content hidden='tablet' -%}
     </div>
     <div class="columns is-gapless post">
       {%- include block.html square=true background=include.postContrast hidden='touch' -%}
@@ -73,14 +73,14 @@
       </div>
     {%- endcapture -%}
     <div class="columns is-gapless post is-mobile is-hidden-desktop">
-      {%- include random-graphic-block.html seed=post.title hidden='desktop' -%}
+      {%- include random-graphic-block.html seed=post.content hidden='desktop' -%}
       {%- include block.html square=true content=metadata background=include.postContrast hidden='desktop' -%}
       {%- include block.html square=true nested=true background=include.postContrast hidden='mobile' -%}
     </div>
     <div class="columns is-gapless post">
       <div class="column has-nested is-hidden-touch">
         <div class="columns is-gapless">
-          {%- include random-graphic-block.html seed=post.title nested=true -%}
+          {%- include random-graphic-block.html seed=post.content nested=true -%}
           {%- include block.html square=true nested=true content=metadata background=include.postContrast -%}
           {%- include block.html square=true nested=true background=include.postContrast hidden='mobile' -%}
         </div>
