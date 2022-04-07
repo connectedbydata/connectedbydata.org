@@ -3,13 +3,13 @@ layout: event
 title: Lessons from history for governing the digital future
 image: lessons-from-history.png
 link: https://www.bennettinstitute.cam.ac.uk/events/governing-digital-future/
-upcoming: true
+upcoming: false
 writeup: false
 date: 2022-04-05
 author: Jeni Tennison
 category: speaking
 ---
-**Jeni will be speaking on this panel with leading experts on learning from history to manage technological change as part of the Cambridge Festival 2022.**
+**Jeni spoke on this panel with leading experts on learning from history to manage technological change as part of the Cambridge Festival 2022.**
 
 <!--more-->
 
