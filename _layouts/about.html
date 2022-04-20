@@ -102,6 +102,7 @@ layout: default
   {%- for person in site.team -%}
     {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
     {%- capture image -%}
       <div class="icon">
         <figure class="image is-128x128">
@@ -129,17 +130,32 @@ layout: default
       </div>
     {%- endcapture -%}
     <div class="columns is-gapless is-mobile person is-hidden-tablet">
+      {%- if leftright == 'left' -%}
       {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
+      {%- endif -%}
       {%- include block.html square=true content=image background=personBackground hidden='tablet' -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
+      {%- endif -%}
     </div>
     <div class="columns is-gapless person">
+      {%- if leftright == 'left' -%}
       {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
+      {%- endif -%}
       {%- include block.html square=true content=image background=personBackground hidden='mobile' -%}
       {%- include block.html short=true content=title background=personBackground -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
+      {%- endif -%}
     </div>
     <div class="columns is-gapless person">
+      {%- if leftright == 'left' -%}
       {%- include block.html square=true background=contrast hidden='touch' -%}
+      {%- endif -%}
       {%- include block.html wide=true content=bio background=personBackground -%}
+      {%- if leftright == 'right' -%}
+      {%- include block.html square=true background=contrast hidden='touch' -%}
+      {%- endif -%}
     </div>
   {%- endfor -%}
   {%- assign openJobs = site.jobs | where: "expired", "false" -%}
