@@ -8,6 +8,7 @@ writeup: false
 date: 2022-04-05
 author: Jeni Tennison
 category: speaking
+video: https://www.youtube.com/watch?v=48z0l987Mz0
 ---
 **Jeni spoke on this panel with leading experts on learning from history to manage technological change as part of the Cambridge Festival 2022.**
 

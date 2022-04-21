@@ -31,6 +31,11 @@
         <i class="fas fa-arrow-alt-circle-right"></i>
         &nbsp;Read more
       </a>
+    {%- elsif event.video -%}
+      <a href="{{ event.video }}">
+        <i class="fa-brands fa-youtube"></i>
+        &nbsp;Watch now
+      </a>
     {%- else -%}
       <a href="{{ event.link }}">
         <i class="fas fa-arrow-alt-circle-right"></i>
@@ -57,7 +62,7 @@
 {%- capture title -%}
   <div class="point">
     <h2 class="title is-4">
-      <a class="event-link" href="{%- if event.writeup -%}{{ event.url | relative_url }}{%- else -%}{{ event.link }}{%- endif -%}">
+      <a class="event-link" href="{%- if event.writeup -%}{{ event.url | relative_url }}{%- elsif event.video -%}{{ event.url | relative_url }}{%- else -%}{{ event.link }}{%- endif -%}">
         {{ event.title | escape }}
       </a>
     </h2>
@@ -153,6 +158,28 @@
     </div>
     <div class="columns is-gapless event is-hidden-desktop">
       {%- include block.html content=presentationLink background=include.contrastBackground -%}
+      {%- include random-graphic-block.html seed=event.presentation hidden='mobile' -%}
+    </div>
+  {%- endif -%}
+  {%- if event.video -%}
+    {%- capture video -%}
+      <iframe width="480" height="270" src="{{ event.video | replace: '/watch?v=', '/embed/'}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {%- endcapture -%}
+    {%- capture videoLink -%}
+      <div class="point">
+        <a href="{{ event.video }}">
+          <i class="fa-brands fa-youtube"></i>
+          &nbsp;Watch now
+        </a>
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless event">
+      {%- include block.html content=video background=include.eventContrast -%}
+      {%- include block.html background=include.eventBackground hidden='desktop is-hidden-mobile' -%}
+      {%- include block.html content=videoLink background=include.eventBackground hidden='touch' -%}
+    </div>
+    <div class="columns is-gapless event is-hidden-desktop">
+      {%- include block.html content=videoLink background=include.contrastBackground -%}
       {%- include random-graphic-block.html seed=event.presentation hidden='mobile' -%}
     </div>
   {%- endif -%}
