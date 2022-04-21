@@ -297,6 +297,10 @@ $footer-color: white;
 
       .content a {
         font-weight: bold;
+
+        &.icon-text {
+          font-weight: normal;
+        }
       }
 
       a {
@@ -542,6 +546,10 @@ $footer-color: white;
       font-weight: bold;
       color: white;
 
+      &.icon-text {
+        font-weight: normal;
+      }
+
       &:hover {
         color: $link;
       }
@@ -570,6 +578,9 @@ $footer-color: white;
       font-weight: bold;
       &:hover {
         color: $link;
+      }
+      &.icon-text {
+        font-weight: normal;
       }
     }
     blockquote {
