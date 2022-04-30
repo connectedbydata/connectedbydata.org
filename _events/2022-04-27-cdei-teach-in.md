@@ -6,7 +6,7 @@ link: https://www.gov.uk/government/organisations/centre-for-data-ethics-and-inn
 add-background: false
 date: 2022-04-27
 upcoming: false
-writeup: false
+writeup: true
 author: Jeni Tennison
 category: speaking
 presentation: https://docs.google.com/presentation/d/1lPPbX-zOity8aN7byA_8qbNnHS6Rg0TxJjAHknYVBo0/edit?usp=sharing
