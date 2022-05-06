@@ -36,10 +36,15 @@
         <i class="fa-brands fa-youtube"></i>
         &nbsp;Watch now
       </a>
-    {%- else -%}
+    {%- elsif event.link -%}
       <a href="{{ event.link }}">
         <i class="fas fa-arrow-alt-circle-right"></i>
         &nbsp;Learn more
+      </a>
+    {%- else -%}
+      <a href="{{ event.url | relative_url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Read more
       </a>
     {%- endif -%}
   </p>
@@ -62,7 +67,7 @@
 {%- capture title -%}
   <div class="point">
     <h2 class="title is-4">
-      <a class="event-link" href="{%- if event.writeup -%}{{ event.url | relative_url }}{%- elsif event.video -%}{{ event.url | relative_url }}{%- else -%}{{ event.link }}{%- endif -%}">
+      <a class="event-link" href="{%- if event.writeup -%}{{ event.url | relative_url }}{%- elsif event.video -%}{{ event.url | relative_url }}{%- elsif event.link -%}{{ event.link }}{%- else -%}{{ event.url | relative_url }}{%- endif -%}">
         {{ event.title | escape }}
       </a>
     </h2>

@@ -13,6 +13,6 @@ category: attending
 
 <!--more-->
 
-Amidst global plans for economic recovery, resilience, and prosperity, academics and policymakers met for the Bennett Institute for Public Policy Annual Conference on Friday 22 April 2022 at the University of Cambridge.
-
-The day’s four panel discussions centred around the Institute’s four key research themes -  Place, Progress, Productivity, and Decision-Making in Government – for leading experts to share their knowledge and research across different disciplines – and closed with a keynote speech by Chief Scientific Advisor, Sir Patrick Vallance.
+> Amidst global plans for economic recovery, resilience, and prosperity, academics and policymakers met for the Bennett Institute for Public Policy Annual Conference on Friday 22 April 2022 at the University of Cambridge.
+>
+> The day’s four panel discussions centred around the Institute’s four key research themes -  Place, Progress, Productivity, and Decision-Making in Government – for leading experts to share their knowledge and research across different disciplines – and closed with a keynote speech by Chief Scientific Advisor, Sir Patrick Vallance.
