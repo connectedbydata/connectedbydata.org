@@ -8,7 +8,7 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- assign drafts = site.resources | where: "status", "draft" -%}
+{%- assign drafts = site.resources | where: "status", "draft" | sort: "date" | reverse -%}
 {%- if drafts -%}
   <section id="drafts" class="hero has-text-centered has-text-link">
     <div class="hero-body">
@@ -31,7 +31,7 @@ layout: default
   {%- include section.html content=drafts-content -%}
 {%- endif -%}
 
-{%- assign final = site.resources | where: "status", "final" -%}
+{%- assign final = site.resources | where: "status", "final" | sort: "date" | reverse -%}
 <section id="final" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
