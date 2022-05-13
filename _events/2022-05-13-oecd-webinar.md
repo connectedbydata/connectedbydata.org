@@ -2,13 +2,15 @@
 layout: event
 title: "OECD Webinar: From Data Stewardship, Access, Sharing and Control to National Data Strategies"
 image: oecd-logo-big.png
-upcoming: true
-writeup: false
+upcoming: false
+writeup: true
 date: 2022-05-13
 author: Jeni Tennison
 category: speaking
+presentation: https://docs.google.com/presentation/d/1srgPTzvc_tcCB_SCxHu8MCDznvhoZqh2B7hxFHdATQY/edit?usp=sharing
+presentation-image: 2022-05-13-oecd-webinar.jpg
 ---
-**Jeni will be speaking on the panel: Measures for fostering trust and addressing unjustified barriers to data openness.**
+**Jeni spoke on the panel: Measures for fostering trust and addressing unjustified barriers to data openness.**
 
 > Given the benefits of digitalisation and data openness and the legitimate concerns and risks, it is fundamental to build effective and trustworthy data governance arrangements (e.g. regulations, policies and practices). Without effective approaches, stakeholders can face significant barriers when trying to access, share and re-use data within and across organisations, sectors and jurisdictions.
 >
