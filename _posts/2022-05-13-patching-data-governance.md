@@ -11,6 +11,8 @@ The book is the product of years of in-depth study and ethnographic field-work l
 
 However, what I hadn’t expected was to find just how useful the story of regulating the ‘last mile' delivery of a policy offering rural families 100 days of manual labour a year might be to the work thinking about the design of participatory data governance systems that I would be focussed on in my new job.
 
+<!--more-->
+
 ## Patching: governance is an ongoing process
 
 At the heart the book is a novel framing of how policy can be put into practice: what Rajesh terms ‘patching development’. This idea, borrowing from the idea of the software patch as a “routine and continuous process”, highlights that policy rarely gets all the details right the first time, and that implementing policy can drive various actors to change their behaviours in ways that thwart the original policy goal, requiring ongoing response and adaptation. The book explores a variety of forms of patching, including:

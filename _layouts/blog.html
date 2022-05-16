@@ -29,6 +29,23 @@ layout: default
   {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
 {%- endfor -%}
 
+<section id="opinion" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Opinion
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- assign opinion = site.posts | where: "category", "blog" -%}
+{%- for post in opinion -%}
+  {%- capture postBackground -%}{%- cycle 'darkest-green', 'darker-green', 'dark-green' -%}{%- endcapture -%}
+  {%- capture postContrast -%}{%- cycle 'dark-green', 'darkest-green', 'darker-green' -%}{%- endcapture -%}
+  {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
+{%- endfor -%}
+
 <section id="weeknotes" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
