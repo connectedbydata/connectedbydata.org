@@ -98,6 +98,10 @@ $footer-color: white;
 @import "bulma";
 @import "graphics.scss";
 
+.content h3 {
+  font-size: 1.2em;
+}
+
 .has-background-dark-green {
   background-color: $dark-green;
 }
