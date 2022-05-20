@@ -15,4 +15,4 @@ The paper explores issues of individual and collective data governance, and plac
 
 The Data Values Project have asked for feedback on the paper as part of a broad consultation.
 
-This working draft contains a response from Connected by data to the white paper and consultation call. 
+This resource contains a response from Connected by data to the white paper and consultation call. 
