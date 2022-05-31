@@ -1,3 +1,8 @@
+---
+layout: post
+author: Jonathan Smith
+category: weeknotes
+---
 So this was my first week as the new Advocacy and Campaign Director at **CONNECTED** BY **DATA**. It’s also my first set of weeknotes. Writing a weekly reflection on what’s happening is relatively new to me, and then publishing it for all to read is completely new, so I’m just (slightly trepidatiously) working out how to best use it. Jeni was clear, it’s a very open thing and not to worry, so I’m going to go with that and see what happens!
 
 ## Meeting the team
