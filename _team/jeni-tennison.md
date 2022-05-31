@@ -2,6 +2,7 @@
 layout: person
 title: Jeni Tennison
 role: Founder and Executive Director
+order: 1
 picture: jeni.jpg
 twitter: "@JeniT"
 email: "jeni@connectedbydata.org"

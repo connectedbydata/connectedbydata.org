@@ -99,7 +99,8 @@ layout: default
 </section>
 
 {%- capture team -%}
-  {%- for person in site.team -%}
+  {%- assign team = site.team | sort: "order" -%}
+  {%- for person in team -%}
     {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
     {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}

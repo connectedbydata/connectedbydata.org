@@ -2,6 +2,7 @@
 layout: person
 title: Tim Davies
 role: Research Director
+order: 2
 picture: tim.jpg
 twitter: "@timdavies"
 email: "tim@connectedbydata.org"
@@ -15,4 +16,3 @@ Tim was lead for the [World Wide Web Foundation](https://www.webfoundation.org)'
 Tim is a former fellow of the [Harvard Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/), and a senior fellow of the [Datasphere Initiative](https://www.thedatasphere.org/). He is a graduate of the [Oxford Internet Institute](https://www.oii.ox.ac.uk) (Social Science of the Internet), and Oriel College, Oxford (Politics, Philosophy and Economics).
 
 He lives in the [People's Republic of Stroud](https://www.claysinclair.com/thepeoplesrepublicofstroud) where he is involved in various Green politics.
-

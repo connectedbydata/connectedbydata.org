@@ -2,6 +2,7 @@
 layout: person
 title: Karien Bezuidenhout
 role: Non-Executive Director
+order: 4
 picture: karien.jpg
 twitter: "@karienbez"
 email: "karien@shuttleworthfoundation.org"
