@@ -26,7 +26,7 @@ The legitimacy of any defaults may be affected by the extent to which they are d
 
 ### 2) What are the appropriate mechanisms for public engagement in the specific *decisions* that put those defaults into practice?
 
-Where default setting might be periodic or one-off, there are many aspects of data governance which require day-to-day engagement. Where broad public engagement might be important for setting defaults, making decisions might require more focussed approaches, potentially with participants who have more background, training or ongoing role. I’m particularly interested in the coming weeks to try and explore different models being applied to data governance here: whether focussed on shaping decision, sharing decisions, or providing scrutiny to decisions made.
+Where default setting might be periodic or one-off, there are many aspects of data governance which require day-to-day engagement. Where broad public engagement might be important for setting defaults, making decisions might require more focussed approaches, potentially with participants who have more background, training or ongoing role. I’m particularly interested in the coming weeks to try and explore different models being applied to data governance here: whether focussed on shaping decisions, sharing decisions, or providing scrutiny to decisions made.
 
 ## The purpose of participation
 
