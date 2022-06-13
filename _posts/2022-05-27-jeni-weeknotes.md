@@ -69,7 +69,7 @@ This theory of change used the [Nesta template](https://www.nesta.org.uk/toolkit
 
 
 1. Many of **the problems we're seeing with data manifest at a collective level** – for example, we can only see where personalised pricing is unfair by comparing the prices encountered by different communities – so these can only be addressed collectively. In particular, the market's invisible hand rarely favours the marginalised without some strong inducement.
-2. **People don't make wise or informed decisions about data**, for a whole bunch of reasons to do with cognitive limits and biases, being nudged through dark patterns, and the inherent complexity of the modern data ecosystem. Collective decision making bodies should have a perspective and prices that helps them to be wiser and more informed, and create a safe environment for individuals to operate within.
+2. **People don't make wise or informed decisions about data**, for a whole bunch of reasons to do with cognitive limits and biases, being nudged through dark patterns, and the inherent complexity of the modern data ecosystem. Collective decision making bodies should have a perspective and processes that helps them to be wiser and more informed, and create a safe environment for individuals to operate within.
 3. Some of the decisions we have to make about data-driven systems, such as what "fair" pricing actually means, are not straightforward, and depend on **fuzzy, debatable concepts**. Those decisions – such as what counts as public good – should be made by the people affected by them rather than by the organisations whose interest it serves.
 
 
