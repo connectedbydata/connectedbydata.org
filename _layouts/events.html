@@ -21,6 +21,7 @@ layout: default
 {%- include section.html content=speaking-content -%}
 
 {%- assign attending = upcoming | where: "category", "attending" -%}
+{%- if attending.size > 0 -%}
 <section id="attending" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
@@ -40,6 +41,8 @@ layout: default
   {%- endfor -%}
 {%- endcapture -%}
 {%- include section.html content=attending-content -%}
+
+{%- endif -%}
 
 <section id="previous" class="hero has-text-centered has-text-link">
   <div class="hero-body">
