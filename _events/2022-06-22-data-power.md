@@ -14,9 +14,11 @@ Tim was an online participant in the hybrid Data Power 2022 Conference.
 
 <!-- more -->
 
+I've written up notes on some of the sessions I attended below.
+
 ## Living with Data panel
 
-Hannah Ditchfield, Susan Oman, Helen Kennedy, Jo Bates, Itzelle Medina-Perea and Aidan Peppin
+Panel with: Hannah Ditchfield, Susan Oman, Helen Kennedy, Jo Bates, Itzelle Medina-Perea and Aidan Peppin
 
 I attended a session focussed on reporting back from the latest three year, Nuffield Foundation funded, cycle of the [Living with Data](https://livingwithdata.org/) research programme, which has been exploring public 'knowledge, experiences and perceptions of data practices'. 
 
