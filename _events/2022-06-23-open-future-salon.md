@@ -14,6 +14,8 @@ category: speaking
 
 <!--more-->
 
+The [Open Future write-up and recording of the session can be found here](https://openfuture.eu/event/open-future-salon-1-introducing-the-public-data-commons/).
+
 Open Future are a think tank for the Open Movement across Europe, providing [much needed oversight of the very active EU agenda around data policy](https://openfuture.eu/observatory/), and focussed on "advancing Digital Public Spaces, designing the Future of Open, and building the Data Commons." 
 
 This first Open Future online 'Salon', bringing together researchers, civil society and EU policy makers, focussed on the recently published brief '[Public Data Commons: A public-interest framework for B2G data sharing in the Data Act](https://openfuture.eu/publication/public-data-commons/)' which makes the case for building on current Data Act proposals for a minimal set of arrangements for public authorities to request and gain access to private sector data in 'emergency' situations, by adding a broader range of cases in which public authorities might request access to private data in the public interest, and proposing the creation of a 'Public Data Commons' institution to help manage Business to Government data sharing. You can read the [full brief here](https://openfuture.eu/wp-content/uploads/2022/05/Public-data-commons-A-public-interest-framework-for-B2G-data-sharing-in-the-Data-Act.1.pdf), or [jump straight to the details of the Public Data Commons proposal](https://openfuture.eu/publication/public-data-commons/#:~:text=Data%20sharing-,in%20the%20public%20interest,-In%20addition%2C%20we.).
