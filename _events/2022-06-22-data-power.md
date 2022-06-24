@@ -14,7 +14,7 @@ Tim was an online participant in the hybrid Data Power 2022 Conference.
 
 <!-- more -->
 
-I've written up notes on some of the sessions I attended below.
+Due to last minute changes to the Data Power conference schedule I wasn't able to make all the sessions I'd planned to attend, but did join a few virtual sessions in listening mode (without taking detailed notes), and connected into one panel from Sheffield which is written up below. 
 
 ## Living with Data panel
 
@@ -50,8 +50,5 @@ Aidan Peppin, of the Ada Lovelace Institute, was the invited respondent to the p
 
 In the final discussion section, I asked a question on whether the research had surfaced any insights into the kinds of 'collective agency' that people might be imaginging over data. Ultimately, the panel responded that collective agency over data was more a 'utopian ideal' that the research team had projected into some of what they had heard from study participants, rather than something emerging clearly from the survey or focus groups. In most cases, they explained, agency was either cast by participants as something in the data (i.e. data appears to be granted agency distinct from the systems it is aprt of), or agency was explored in terms of individual resistance (e.g. choosing not to use biometric registers at a sports club). This points to a gap between the 'micro-agencies' people may feel able to engage with around data right now, and the extent to which people are able, in the current landscape, to successfully imaging having collective agency over data. 
 
-## More to come
-
-I'm hoping to attend a few more Data Power sessions over the next few days, and will update this write-up post when I can. 
 
 
