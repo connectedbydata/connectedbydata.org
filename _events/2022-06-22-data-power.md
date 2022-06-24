@@ -12,7 +12,7 @@ category: attending
 
 Tim was an online participant in the hybrid Data Power 2022 Conference. 
 
-<!-- more -->
+<!--more-->
 
 Due to last minute changes to the Data Power conference schedule I wasn't able to make all the sessions I'd planned to attend, but did join a few virtual sessions in listening mode (without taking detailed notes), and connected into one panel from Sheffield which is written up below. 
 
