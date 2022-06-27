@@ -3,13 +3,15 @@ layout: event
 title: "SciDataCon: A data-driven systems approach to the net zero transition: A control loop for the protection of the planet"
 image: international-data-week.jpeg
 link: https://www.scidatacon.org/IDW-2022/sessions/328/
-upcoming: true
-writeup: false
+upcoming: false
+writeup: true
 date: 2022-06-21
 author: Jeni Tennison
 category: speaking
+presentation: https://docs.google.com/presentation/d/1fuZLHRk42RQJSwzGdJ7lmCi5Opf3j_7ty1JUyXX7Ucg/edit?usp=sharing
+presentation-image: 2022-06-21-scidatacon.jpg
 ---
-**Jeni will be speaking on the panel, discussing GPAI's work on data stewardship to address the climate crisis.**
+**Jeni spoke on the panel, discussing GPAI's work on data stewardship to address the climate crisis and making the case for more community-level involvement.**
 
 > Digital technology is increasingly recognised for its potential to bolster international efforts to address climate change: a complex global challenge that calls for a data-driven systems approach. To this end, climate models, using earth observation data and running on supercomputers, have been central to understanding and finding solutions climate change.
 
@@ -26,5 +28,3 @@ category: speaking
 > * Data rights, access and international collaboration needed to realise a control loop for the protection of the planet.
 >
 > To discuss these themes, we will convene invited experts on data governance, modelling and infrastructure, and will be moderated by the Royal Society Digital Technology and the Planet Project Chair. Together, the panellists represent a range of international expertise and perspectives on the practical and ethical possibilities for implementing a planetary digital twin.
-
-<!--more-->
