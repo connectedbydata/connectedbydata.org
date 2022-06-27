@@ -28,7 +28,7 @@ This week in the UK has seen a series of strikes by the [RMT railway union](http
 
 Meanwhile, we have been discussing how to talk about our vision, in a way that resonates. One approach to that is to make power, and collective power, the focus. We can focus on the powerful becoming more powerful because they have amassed more data and more data capability. And the need for collective action to counter that power, which is where Mick Lynch’s turns of phrase are inspiring – to paraphrase he says we want to bargain, because the alternative to bargaining is begging, and no one should have to beg.
 
-But we're also thinking about how the kind of narratives that are going to land with centre right politicians – particularly as we look to influence the UK Data Reform Bill – and with business (particularly small business) owners. There are still power-focused narratives that could work there (everyone understands and is concerned about the power of big tech), but there are probably also narratives about risk and innovation that might land better with those audiences.
+But we're also thinking about the kind of narratives that are going to land with centre right politicians – particularly as we look to influence the UK Data Reform Bill – and with business (particularly small business) owners. There are still power-focused narratives that could work there (everyone understands and is concerned about the power of big tech), but there are probably also narratives about risk and innovation that might land better with those audiences.
 
 Other things this week:
 
