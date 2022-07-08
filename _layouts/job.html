@@ -54,31 +54,39 @@ layout: default
 {%- endcapture -%}
 
 {%- capture salaryInfo -%}
-  <div class="point">
-    <h2 class="title">Salary</h2>
-    <h3 class="subtitle">{{ page.salary }}</h3>
-  </div>
+  {%- if page.salary -%}
+    <div class="point">
+      <h2 class="title">Salary</h2>
+      <h3 class="subtitle">{{ page.salary }}</h3>
+    </div>
+  {%- endif -%}
 {%- endcapture -%}
 
 {%- capture termsInfo -%}
-  <div class="point">
-    <h2 class="title">Terms</h2>
-    <h3 class="subtitle">{{ page.terms }}</h3>
-  </div>
+  {%- if page.terms -%}
+    <div class="point">
+      <h2 class="title">Terms</h2>
+      <h3 class="subtitle">{{ page.terms }}</h3>
+    </div>
+  {%- endif -%}
 {%- endcapture -%}
 
 {%- capture hoursInfo -%}
-  <div class="point">
-    <h2 class="title">Working hours</h2>
-    <h3 class="subtitle">{{ page.working-hours }}</h3>
-  </div>
+  {%- if page.working-hours -%}
+    <div class="point">
+      <h2 class="title">Working hours</h2>
+      <h3 class="subtitle">{{ page.working-hours }}</h3>
+    </div>
+  {%- endif -%}
 {%- endcapture -%}
 
 {%- capture locationInfo -%}
-  <div class="point">
-    <h2 class="title">Location</h2>
-    <h3 class="subtitle">{{ page.location }}</h3>
-  </div>
+  {%- if page.location -%}
+    <div class="point">
+      <h2 class="title">Location</h2>
+      <h3 class="subtitle">{{ page.location }}</h3>
+    </div>
+  {%- endif -%}
 {%- endcapture -%}
 
 {%- capture jobContent -%}
