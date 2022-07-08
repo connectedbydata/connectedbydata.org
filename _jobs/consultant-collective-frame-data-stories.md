@@ -8,7 +8,7 @@ deadline: 11pm GMT Sunday 31st July
 ---
 We are seeking a **Researcher** for a short-term contract between August and October 2022, to support the creation of a collection of data-focussed case studies and media stories that adopt a collective or community-centred lens.
 
-[Apply via this form](https://airtable.com/shrqbLSE08zFzlBHe).
+[Apply via this form](https://airtable.com/shrqbLSE08zFzlBHe) by 31st July 2022.
 
 ## Background
 
