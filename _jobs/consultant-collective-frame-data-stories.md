@@ -2,9 +2,6 @@
 layout: job
 title: "Researcher (Contract)"
 subtitle: "Mapping stories of data impact: collective narratives scan"
-salary: Up to £10k fee
-terms: Fixed-term until end of February 2023<br>(with possibility of renewal)
-working-hours: 7.5 hour days<br>4-5 days/week
 location: Fully remote<br>UK timezone
 deadline: 11pm GMT Sunday 31st July
 
