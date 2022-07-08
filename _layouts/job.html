@@ -54,39 +54,31 @@ layout: default
 {%- endcapture -%}
 
 {%- capture salaryInfo -%}
-  {%- if page.salary -%}
-    <div class="point">
-      <h2 class="title">Salary</h2>
-      <h3 class="subtitle">{{ page.salary }}</h3>
-    </div>
-  {%- endif -%}
+  <div class="point">
+    <h2 class="title">Salary</h2>
+    <h3 class="subtitle">{{ page.salary }}</h3>
+  </div>
 {%- endcapture -%}
 
 {%- capture termsInfo -%}
-  {%- if page.terms -%}
-    <div class="point">
-      <h2 class="title">Terms</h2>
-      <h3 class="subtitle">{{ page.terms }}</h3>
-    </div>
-  {%- endif -%}
+  <div class="point">
+    <h2 class="title">Terms</h2>
+    <h3 class="subtitle">{{ page.terms }}</h3>
+  </div>
 {%- endcapture -%}
 
 {%- capture hoursInfo -%}
-  {%- if page.working-hours -%}
-    <div class="point">
-      <h2 class="title">Working hours</h2>
-      <h3 class="subtitle">{{ page.working-hours }}</h3>
-    </div>
-  {%- endif -%}
+  <div class="point">
+    <h2 class="title">Working hours</h2>
+    <h3 class="subtitle">{{ page.working-hours }}</h3>
+  </div>
 {%- endcapture -%}
 
 {%- capture locationInfo -%}
-  {%- if page.location -%}
-    <div class="point">
-      <h2 class="title">Location</h2>
-      <h3 class="subtitle">{{ page.location }}</h3>
-    </div>
-  {%- endif -%}
+  <div class="point">
+    <h2 class="title">Location</h2>
+    <h3 class="subtitle">{{ page.location }}</h3>
+  </div>
 {%- endcapture -%}
 
 {%- capture jobContent -%}
@@ -101,6 +93,7 @@ layout: default
       {%- include random-graphic-block.html seed=page.content hidden='tablet' -%}
     </div>
   {%- endif -%}
+  {%- if page.salary -%}
   <div class="columns is-gapless job">
     {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
     {%- include random-graphic-block.html seed=page.salary hidden='mobile' -%}
@@ -110,6 +103,8 @@ layout: default
     {%- include random-graphic-block.html seed=page.salary hidden='tablet' -%}
     {%- include block.html square=true background=jobContrast hidden='tablet' -%}
   </div>
+  {%- endif -%}
+  {%- if page.terms -%}
   <div class="columns is-gapless job">
     {%- include block.html content=termsInfo background=jobOtherColor -%}
     {%- include block.html square=true background=jobOtherColor hidden='touch' -%}
@@ -119,6 +114,7 @@ layout: default
     {%- include block.html square=true background=jobOtherColor hidden='tablet' -%}
     {%- include random-graphic-block.html seed=page.title hidden='tablet' -%}
   </div>
+  {%- endif -%}
   <div class="columns is-gapless job">
     <div class="column has-nested is-hidden-touch">
       <div class="columns is-gapless">
@@ -128,6 +124,7 @@ layout: default
     </div>
     {%- include block.html wide=true content=content background=jobBackground -%}
   </div>
+  {%- if page.working-hours -%}
   <div class="columns is-gapless job is-mobile is-hidden-tablet">
     {%- include block.html square=true background=jobOtherColor hidden='tablet' -%}
     {%- include random-graphic-block.html seed=page.hours hidden='tablet' -%}
@@ -137,6 +134,8 @@ layout: default
     {%- include random-graphic-block.html seed=page.hours hidden='mobile' -%}
     {%- include block.html square=true background=jobContrast hidden='touch' -%}
   </div>
+  {%- endif -%}
+  {%- if page.location -%}
   <div class="columns is-gapless job is-mobile is-hidden-tablet">
     {%- include random-graphic-block.html seed=page.location hidden='tablet' -%}
     {%- include block.html square=true background=jobContrast hidden='tablet' -%}
@@ -146,6 +145,7 @@ layout: default
     {%- include block.html square=true background=jobContrast hidden='mobile' -%}
     {%- include block.html content=locationInfo background=jobContrast -%}
   </div>
+  {%- endif -%}
 {%- endcapture -%}
 
 {%- include section.html content=jobContent -%}
