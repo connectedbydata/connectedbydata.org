@@ -12,7 +12,7 @@ One major item for our agenda was to do some thinking and planning around the �
 
 Following the publication of the [Government’s consultation response](https://twitter.com/JeniT/status/1537713988028489729) we’d heard on the grape vine that the first draft of the bill might land on July 14th, so we’d agreed to dig into some power and stakeholder mapping and use some great tools nicked from my brilliant colleague Jack Madden at Shelter and adapted by Tim, to focus our strategy, set some objectives and agree an outline approach. Here’s a nice slide to show the sort of thing:
 
-![Power analysis methodology]({{ site.baseurl }}assets/blog/2022-07-power-analysis.png)
+![Power analysis methodology]({{ site.baseurl }}/assets/blog/2022-07-power-analysis.png)
 
 
 We focused on where we thought we might build or insert community level impacts, voices and accountability into forthcoming legislation, what was realistic and how we might pull the strings - esp looking at earlier Connected by Data briefings on [legitimate interest](https://connectedbydata.org/resources/legitimate-interests-briefing-paper)
