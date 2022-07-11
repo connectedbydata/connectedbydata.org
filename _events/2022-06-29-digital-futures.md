@@ -4,7 +4,7 @@ title: "Digital Futures Commission: Education Data Reality"
 image: 2022-06-29-digital-futures-commission.png
 link: https://digitalfuturescommission.org.uk/wp-content/uploads/2022/06/Education-data-reality-report.pdf
 upcoming: false
-writeup: false
+writeup: true
 date: 2022-06-29
 author: Jonathan Smith
 category: attending
