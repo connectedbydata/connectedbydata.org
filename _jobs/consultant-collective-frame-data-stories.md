@@ -105,6 +105,22 @@ Applications will be shortlisted based on:
 * Ability to deliver against the timeline - 20% 
 * The total budget and day rates - 10%
 
+## Questions and answers
+
+The following section will be updated with a record of questions and answers in response to the brief. Last updated 11th July 2022.
+
+Q: **Is this only for individual researchers, or can teams put in a proposal?**
+
+A: We are happy to see proposals from both individuals or teams. In a team proposal, please clearly indicate who will be working on the project and their approximate levels of effort. 
+
+Q: **The brief mentions primary research as an optional component: I'd like to estimate the complexity level and the amount of support from your team. Could you share with me what is the allocated budget for primary research (e.g. online in-depth interviews) if any, and whether I would have support (recruitment agency, organization, etc) to recruit the participants?**
+
+There is no additional allocated budget for primary, so any plans would need to incorporate interviews or other outreach approaches to identify cases and stories within the £10k overall budget.
+
+Researchers will need to identify and contact any potential interviewees themselves.
+
+We anticipate that where interviews or other outreach methods are used, these would be seeking to get suggestions from key informants for potential stories or cases to explore. The stories or cases entered into the case database should have already been written up and published somewhere, so the goal of primary research is not to generate new stories or cases.
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
