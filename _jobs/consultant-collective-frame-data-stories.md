@@ -107,7 +107,7 @@ Applications will be shortlisted based on:
 
 ## Questions and answers
 
-The following section will be updated with a record of questions and answers in response to the brief. Last updated 11th July 2022.
+The following section will be updated with a record of questions and answers in response to the brief. Last updated 25th July 2022.
 
 Q: **Is this only for individual researchers, or can teams put in a proposal?**
 
@@ -120,6 +120,31 @@ There is no additional allocated budget for primary, so any plans would need to 
 Researchers will need to identify and contact any potential interviewees themselves.
 
 We anticipate that where interviews or other outreach methods are used, these would be seeking to get suggestions from key informants for potential stories or cases to explore. The stories or cases entered into the case database should have already been written up and published somewhere, so the goal of primary research is not to generate new stories or cases.
+
+Q: **What precisely constitutes an individual case? Would two distinct write-ups of the same 'event' be considered distinct cases?**
+
+For the purpose of the number of 'cases/stories' we want to cover, two write-ups of the same 'event' would be counted as one case. But for the purposes of analysis, these could be analysed independently to draw learning from how different sources have presented the same underlying events/story. 
+
+Q: **The CfP references 'bi-weekly' meetings: does this mean 'twice a week' or 'fortnightly'?**
+
+Fortnightly. 
+
+Q: **I'm interested to discuss perspectives around data and surveillance from a Global South perspective. Is that an angle that I may write the proposal from? Or do you expect the proposal to be written, considering case studies from the UK only?**
+
+For this project our focus is primarily on the UK. We hope to have future opportunities that will have a more global or specifically Global South angle, but in this instance, because of the planned use of this work in relation to the UK Data Reform Bill, we need a strong coverage of UK cases.
+
+Q: **Is an hourly time commitment required per week?**
+
+We anticipate the work will need between 1 - 2 days a week over the period of the work, depending on the researcher and method chosen - but it's up to the researcher how to spread that time over the course of the assignment. (e.g. A researcher might choose to work intensive blocks of time, rather than spreading time equally each week). 
+
+Q: **Is it required that the candidate need to be based out of the UK?**
+
+We are open to applicants from anywhere in the world, but they would need to be able to make regular check-in calls during UK working hours, and to be able to identify relevant content from the UK.
+
+Q: **How much will the work involve directly gathering new case studies from primary sources (e.g. affected community members)?**
+
+For this assignment the focus is on locating stories and cases of collective data impacts in already published sources (i.e. secondary sources) rather than researching and writing up *new* cases of collective data impact. 
+
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
