@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Data Trusts Initiative - Governance and engagement workshop
-image: DATA_Logo_Primary_Colour_Light
+image: DATA_Logo_Primary_Colour_Light.png
 link: https://datatrusts.uk/
 upcoming: false
 writeup: false

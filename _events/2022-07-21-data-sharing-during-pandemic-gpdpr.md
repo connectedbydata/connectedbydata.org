@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Roundtable - Data sharing during the pandemic – GPDPR
-image: instite-for-government.jpeg
+image: institute-for-government.jpeg
 link: https://www.instituteforgovernment.org.uk/
 upcoming: false
 writeup: false
