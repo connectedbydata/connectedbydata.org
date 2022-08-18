@@ -10,18 +10,17 @@ layout: default
 
 {%- capture mission -%}
   <div class="columns is-gapless">
-    {%- include about-block.html title='Our vision' content='We think decisions about data should be made collectively and openly' background='dark-green' -%}
-    {%- include block.html background='mountain' hidden='mobile' -%}
-    {%- include block.html background='darker-green' hidden='touch' -%}
+    {%- include about-block.html title='Our vision' content='**We want communities to have a powerful say in decisions about data** so that it is used to create a just, equitable and sustainable world' background='dark-green' wide=true -%}
+    {%- include block.html background='mountain' hidden='touch' -%}
   </div>
-  <div class="columns is-gapless is-mobile is-hidden-tablet">
+  <div class="columns is-gapless is-mobile is-hidden-desktop">
     {%- include block.html background='mountain' -%}
     {%- include block.html background='dark-green' -%}
+    {%- include block.html background='darker-green' hidden='mobile' -%}
   </div>
   <div class="columns is-gapless">
-    {%- include block.html background='imperfect-circle' hidden='mobile' -%}
-    {%- include block.html background='dark-green' hidden='touch' -%}
-    {%- include about-block.html title='Our mission' content='We want to put community at the centre of data narratives, practices and policies' background='darker-green' -%}
+    {%- include block.html background='imperfect-circle' hidden='touch' -%}
+    {%- include about-block.html title='Our mission' content='**We campaign to put community at the centre of data narratives, practices and policies** by advocating for collective and open data governance' background='darker-green' wide=true -%}
   </div>
 {%- endcapture -%}
 {%- include section.html content=mission -%}
@@ -39,6 +38,8 @@ layout: default
 {%- capture plans -%}
   {%- assign roadmap = site.resources | where: "reference", "strategic-roadmap-2022-2023" | first -%}
   {%- include resource.html resource=roadmap excerpt=true imagePosition='left' resourceBackground='darkest-green' resourceContrast='darker-green' -%}
+  {%- assign toc = site.resources | where: "reference", "theory-of-change-2022" | first -%}
+  {%- include resource.html resource=toc excerpt=true imagePosition='right' resourceBackground='darker-green' resourceContrast='dark-green' -%}
 {%- endcapture -%}
 {%- include section.html content=plans -%}
 
