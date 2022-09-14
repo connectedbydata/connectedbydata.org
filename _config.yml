@@ -55,6 +55,36 @@ collections:
   projects:
     output: true
     permalink: :collection/:name
+  pdg-cases:
+    output: true
+    permalink: cases/:name
+  pdg-components:
+    output: false
+  pdg-locations:
+    output: false
+  pdg-methods:
+    output: true
+    permalink: cases/methods/:name
+  pdg-organisations:
+    output: false
+  pdg-sources:
+    output: false
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'pdg-cases'
+    values:
+      layout: 'case'
+  - scope:
+      path: ''
+      type: 'pdg-methods'
+    values:
+      layout: 'method'
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:year/:month/:day/:slug
