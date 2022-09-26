@@ -4,6 +4,7 @@ airtable_id: recavRlFfsRf2Lnee
 cases: '[''reccFSXhKtA5xxpFM'']'
 geographic_scope_tag:
 - Global
+link: https://www.unicef.org/
 organisation_type_tag:
 - International Organization
 sector_tag:
@@ -11,5 +12,4 @@ sector_tag:
 - Children and Youth
 table: organisations
 title: UNICEF
-link: https://www.unicef.org/
 ---

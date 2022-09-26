@@ -6,11 +6,11 @@ country_link:
 - united-kingdom
 geographic_scope_tag:
 - National
+link: https://www.adalovelaceinstitute.org/
 organisation_type_tag:
 - Non-Governmental Organization
 sector_tag:
 - Science & Technology
 table: organisations
 title: Ada Lovelace Institute
-link: https://www.adalovelaceinstitute.org/
 ---

@@ -18,13 +18,13 @@ feeds_into: '[''recdcol5lx4eMH6OI'']'
 methods_tag:
 - Roundtable Discussion
 modality_tag:
-- Face to face
+- face to face
 nature_of_participants_tag:
 - Intentional recruitment
 number_of_participants: '30'
 primary_component: 'True'
 table: components
-target_groups: Members of existing Public Patient Involvement (PPI) groups
+target_groups: members of existing Public Patient Involvement (PPI) groups
 temporal_state: One off
 title: 'Foundations of Fairness: Public Patient Involvement Roundtables'
 ---

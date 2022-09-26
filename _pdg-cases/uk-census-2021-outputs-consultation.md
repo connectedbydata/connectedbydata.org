@@ -38,10 +38,9 @@ governance_issues_description: The categories used in the census, and the data t
 initiative_status: carried out
 lead_organisation: Office for National Statistics
 lense: a collective data governance lens
+link: https://consultations.ons.gov.uk/external-affairs/census-2021-outputs-consultation/
 location_link:
 - missing-item
-methods_tag:
-- Survey
 objectives_tag:
 - Consultation
 organisation_link:
@@ -60,7 +59,6 @@ theme_tag:
 - Social Welfare
 - Identity & Diversity
 title: UK Census 2021 - Outputs Consultation
-link: https://consultations.ons.gov.uk/external-affairs/census-2021-outputs-consultation/
 whats_changed: As a result of the consultation a number of changes were made to the
   categories that will be used to present data and to the schedule for data release.
   In a number of cases, ONS committed to carry out further research.

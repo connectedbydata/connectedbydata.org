@@ -8,17 +8,14 @@ nature_of_participants_tag:
 - Open
 - Intentional recruitment
 number_of_participants: '25'
-recruitment: Calls for participation were advertised widely to attract diverse Monash
-  precinct citizens including university staff and students, local residents and businesses,
-  government and industry members.
+recruitment: from calls for participation which were advertised widely to attract
+  diverse Monash precinct citizens including university staff and students, local
+  residents and businesses, government and industry members
 table: components
-target_groups: 'Open to all, but with specific targeting towards citizens with an
-  interest in sustainable development.
-
-
-  "Recruitment was focused on engaging precinct citizens that were interested in the
-  creation, use or management of personal and collective data in the context of local
-  sustainability"'
+target_groups: open to all, but with specific targeting towards citizens with an interest
+  in sustainable development. "Recruitment was focused on engaging precinct citizens
+  that were interested in the creation, use or management of personal and collective
+  data in the context of local sustainability"
 temporal_state: One off
 title: 'Monash Net Zero: Participant recruitment'
 ---

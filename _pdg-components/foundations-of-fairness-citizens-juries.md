@@ -15,8 +15,8 @@ background_information_described: '"Jurors were also introduced very clearly to 
 
   Expert witnesses presented to the Jury.'
 background_information_tag:
-- Expert Presentations
-- Video Presentations (online or in-person)
+- expert presentations
+- video presentations (online or in-person)
 case_link:
 - foundations-of-fairness-nhs-data-sharing
 decision_methods_tag:
@@ -36,16 +36,16 @@ feeds_into: '[''recungccavd2UMthT'']'
 methods_tag:
 - Citizens' Jury
 modality_tag:
-- Face to face
+- face to face
 nature_of_participants_tag:
 - Intentional recruitment
 number_of_participants: '54'
 primary_component: 'True'
-recruitment: Through street and panel approaches working with a recruitment partner.
+recruitment: through street and panel approaches working with a recruitment partner.
   Participants were screened to get a jury reflecting demographics of the English
   population. Recruitment took place in urban and rural areas.
 table: components
-target_groups: A demographically representative sample of the English population.
+target_groups: a demographically representative sample of the English population
 temporal_state: One off
 title: 'Foundations of Fairness: Citizens'' Juries'
 ---

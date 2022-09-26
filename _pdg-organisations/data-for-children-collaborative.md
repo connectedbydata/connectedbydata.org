@@ -4,6 +4,7 @@ airtable_id: recWDZoeOE1zwhave
 cases: '[''reccFSXhKtA5xxpFM'']'
 geographic_scope_tag:
 - Global
+link: https://www.dataforchildrencollaborative.com/
 organisation_type_tag:
 - Academic Institution
 - International Organization
@@ -12,5 +13,4 @@ sector_tag:
 - International development
 table: organisations
 title: Data for Children Collaborative
-link: https://www.dataforchildrencollaborative.com/
 ---

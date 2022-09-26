@@ -18,13 +18,13 @@ description: '"The Sciencewise programme enables policy makers to develop social
   Bringing credibility and independence to government led public dialogue."'
 geographic_scope_tag:
 - National
+link: https://sciencewise.org.uk/
 organisation_type_tag:
 - Academic Institution
 - Non-Governmental Organization
 - Government-Owned Corporation
 table: organisations
 title: Sciencewise
-link: https://sciencewise.org.uk/
 ---
 
 "The Sciencewise programme enables policy makers to develop socially informed policy, with a particular emphasis on science and technology.

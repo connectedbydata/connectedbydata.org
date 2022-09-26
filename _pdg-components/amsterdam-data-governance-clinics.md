@@ -5,7 +5,7 @@ background_information_described: In one of the data governance clinics, the res
   team carried out initial interviews, and prepared a discussion document to use as
   the basis for the clinic workshop.
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
+- written briefing materials (online or as handouts)
 case_link:
 - data-governance-clinics
 description: "Two pilot data governance clinics were run with projects in Amsterdam
@@ -18,12 +18,12 @@ description: "Two pilot data governance clinics were run with projects in Amster
 methods_tag:
 - Data Governance Clinic
 modality_tag:
-- Face to face
-- Online
+- face to face
+- online
 nature_of_participants_tag:
 - Restricted
 primary_component: 'True'
-recruitment: Self-selected
+recruitment: via self-selection
 table: components
 target_groups: Experts
 temporal_state: One off

@@ -7,11 +7,11 @@ country_link:
 geographic_scope_tag:
 - National
 - Global
+link: https://thegovlab.org/
 organisation_type_tag:
 - Academic Institution
 sector_tag:
 - Science & Technology
 table: organisations
 title: The GovLab
-link: https://thegovlab.org/
 ---

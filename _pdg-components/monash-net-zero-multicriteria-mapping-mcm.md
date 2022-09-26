@@ -7,7 +7,7 @@ background_information_described: '> "Interview participants were emailed a brie
   evaluated in terms of addressing the “focal goal”: how can we empower community
   engagement in data governance for the NZP [Net Zero Precinct]?"'
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
+- written briefing materials (online or as handouts)
 case_link:
 - monash-net-zero-precinct
 decision_methods_tag:
@@ -22,12 +22,12 @@ description: 'Interviewees were presented with the prototypes developed in the w
 methods_tag:
 - Multi-criteria Decision Analysis
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Restricted
 number_of_participants: '10'
 primary_component: 'True'
-recruitment: Workshop participants + one additional participant.
+recruitment: from workshop participants, along with one additional participant
 table: components
 temporal_state: One off
 title: 'Monash Net Zero: Multicriteria mapping (MCM)'

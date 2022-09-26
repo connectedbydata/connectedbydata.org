@@ -1,5 +1,5 @@
 ---
-actor_responsible: urban technology projects.
+actor_responsible: urban technology projects
 airtable_createdTime: '2022-05-10T12:43:17.000Z'
 airtable_id: rec6J5xteVsCmWGtR
 attachments:
@@ -34,11 +34,9 @@ governance_issues_description: Citizen trust & decisions over whether or not to 
 initiative_status: piloted
 lead_organisation: Tilburg Institute for Law, Technology and Society
 lense: a collective data governance lens
+link: https://papers.ssrn.com/abstract=3880961
 location_link:
 - missing-item
-methods_tag:
-- Participatory Action Research
-- Value-driven design
 objectives_tag:
 - 'Public sector co-production:  partnership and/or contract with government and/or
   public bodies'
@@ -56,7 +54,6 @@ table: cases
 theme_tag:
 - Urban development & smart cities
 title: Data Governance Clinics
-link: https://papers.ssrn.com/abstract=3880961
 whats_changed: Unknown
 ---
 

@@ -4,7 +4,7 @@ airtable_id: recgiPhwtIvEIp93z
 background_information_described: Participants were presented with three 'Data re-use
   exhibits' describing how data might be re-used.
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
+- written briefing materials (online or as handouts)
 case_link:
 - the-data-assembly
 decision_methods_tag:
@@ -26,20 +26,20 @@ description: "The data assembly held three 'mini-public' events with different p
   to, for example, political activism or religious sensitivities.\""
 feeds_into: '[''recC00tRtCWfYqTCS'']'
 ladder_of_participation: Consultation
+link: https://www.remesh.ai/
 methods_tag:
 - Online Consultations
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Intentional recruitment
 number_of_participants: '55'
 primary_component: 'True'
-recruitment: Through the remesh.ai platform
+recruitment: through the remesh.ai platform
 table: components
-target_groups: Representative sample of New York City residents
+target_groups: representative sample of New York City residents
 temporal_state: One off
 title: 'Data Assembly Remesh: Online Survey and Polling'
-link: https://www.remesh.ai/
 ---
 
 The data assembly held three 'mini-public' events with different participant groups. The residents mini-public made use of an online platform (Remesh) with a 55-strong sample of New York City residents selected using a sampling methodology provided by the paltform.

@@ -11,11 +11,11 @@ description: 'The Geospatial Commission is an expert committee that sets the UKâ
   Geospatial Commission is part of the Cabinet Office.'
 geographic_scope_tag:
 - National
+link: https://www.gov.uk/government/organisations/geospatial-commission
 organisation_type_tag:
 - National Government
 table: organisations
 title: UK Geospatial Commission
-link: https://www.gov.uk/government/organisations/geospatial-commission
 ---
 
 The Geospatial Commission is an expert committee that sets the UKâ€™s geospatial strategy and promotes the best use of geospatial data.

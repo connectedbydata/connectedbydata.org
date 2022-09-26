@@ -4,7 +4,7 @@ airtable_id: reckNnmRaPB15ljTG
 background_information_described: Participants had access to the draft topic map produced
   during the rapid research phase.
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
+- written briefing materials (online or as handouts)
 case_link:
 - adolescent-mental-health-participatory-mapping-for-future-data-collaboration
 decision_methods_tag:
@@ -22,12 +22,12 @@ ladder_of_participation: Consultation
 methods_tag:
 - Workshop
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Intentional recruitment
 number_of_participants: '70'
 primary_component: 'True'
-recruitment: Drawing on UNICEF’s international network
+recruitment: drawing on UNICEF’s international network
 table: components
 target_groups: Experts and Youth Advocates on mental health
 temporal_state: One off

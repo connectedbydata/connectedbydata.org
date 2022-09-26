@@ -12,11 +12,11 @@ description: '"We are a social-purpose consultancy that supports better decision
   engagement, and consultation services."'
 geographic_scope_tag:
 - National
+link: https://traverse.ltd/our-services/stakeholder-engagement
 organisation_type_tag:
 - For-Profit Business
 table: organisations
 title: Traverse
-link: https://traverse.ltd/our-services/stakeholder-engagement
 ---
 
 "We are a social-purpose consultancy that supports better decision-making through the power of inclusion.

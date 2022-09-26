@@ -12,12 +12,12 @@ description: "To prepare for the public dialogue on location data ethics, the Ad
   \n\nAn Easy Read version of the topic review was created. \n\nAn Oversight group
   and the Geospatial Commission were consulted during the drafting."
 feeds_into: '[''recMRorkSHTxyuuXK'', ''recmmyIGvRDgsJDgn'']'
+link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1042092/Public_dialogue_on_location_data_ethics_Engagement_report_Appendices_.pdf
 methods_tag:
 - Desk review
 table: components
 temporal_state: One off
 title: 'Public Dialogue on Location Data Ethics: Rapid Review'
-link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1042092/Public_dialogue_on_location_data_ethics_Engagement_report_Appendices_.pdf
 ---
 
 To prepare for the public dialogue on location data ethics, the Ada Lovelace Institute and Traverse carried out a rapid review, drawing on literature, desk research and a stakeholder workshop.

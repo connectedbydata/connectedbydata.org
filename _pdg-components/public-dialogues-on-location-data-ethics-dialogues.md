@@ -7,10 +7,10 @@ background_information_described: "Participants were given written background ma
   groups. \n\nIn later sessions, after participants had carried out their own peer-research,
   participants shared findings back in small-group breakouts."
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
-- Activity
-- Expert Presentations
-- Participant Presentations
+- written briefing materials (online or as handouts)
+- activity
+- expert presentations
+- participant presentations
 case_link:
 - public-dialogue-on-location-data-ethics
 decision_methods_tag:
@@ -30,24 +30,24 @@ description: "> \"The process consisted of three workshops delivered on Zoom ove
   but providing one-to-one support, and bespoke welcome resources."
 feeds_into: '[''recylwPSfpGrBIQIw'', ''recIbV19WIVTalooO'']'
 ladder_of_participation: Consultation
+link: https://www.gov.uk/government/publications/public-dialogue-on-location-data-ethics
 methods_tag:
 - Public Dialogue
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Intentional recruitment
 number_of_participants: '85'
 primary_component: 'True'
-recruitment: Working with a fieldwork agency to recruit participants broadly reflective
+recruitment: working with a fieldwork agency to select participants broadly reflective
   of the UK population. Participants were offered incentive payments for taking part.
 table: components
-target_groups: A representative population sample, with some modifications to include
+target_groups: a representative population sample, with some modifications to include
   a greater number of 16 - 18s, and to raise quotas for all non-white groups to "ensure
   these participants felt comfortable, and that narratives informed by cultural norms
   would emerge from the dialogues"
 temporal_state: One off
 title: 'Public Dialogues on Location Data Ethics: Dialogues'
-link: https://www.gov.uk/government/publications/public-dialogue-on-location-data-ethics
 ---
 
 > "The process consisted of three workshops delivered on Zoom over 6 weeks, through June and July 2021, with a fourth workshop for a smaller number of participants in September 2021. To ensure we captured a wide range of views and provided participants with the opportunity to meaningfully contribute to the discussion, we also included a participant-led research component to the process."

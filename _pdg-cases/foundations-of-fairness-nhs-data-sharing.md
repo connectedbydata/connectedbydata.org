@@ -64,11 +64,9 @@ governance_issues_description: 'The framing question for the process was: "‘Wh
 initiative_status: carried out
 lead_organisation: Ada Lovelace Institute
 lense: a collective data governance lens
+link: https://www.adalovelaceinstitute.org/blog/the-foundations-of-fairness-for-nhs-health-data-sharing/
 location_link:
 - missing-item
-methods_tag:
-- Citizens' Jury
-- Roundtable
 objectives_tag:
 - Advocacy
 organisation_link:
@@ -89,7 +87,6 @@ table: cases
 theme_tag:
 - Health
 title: 'Foundations of Fairness: NHS Data Sharing'
-link: https://www.adalovelaceinstitute.org/blog/the-foundations-of-fairness-for-nhs-health-data-sharing/
 whats_changed: "The recommendations have been published. As of project conclusion
   the funders write:\n\n> \"It is now for the UK government and NHS X to take action
   in order \tto meet these expectations.\"\n> \n(Source: [Ada Lovelace Institute blog

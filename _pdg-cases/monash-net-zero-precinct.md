@@ -1,5 +1,5 @@
 ---
-actor_responsible: future technology adoption in the Net Zero precinct.
+actor_responsible: future technology adoption in the Net Zero precinct
 airtable_createdTime: '2022-05-10T09:47:51.000Z'
 airtable_id: recS6i1x0a0VSMV5c
 collective_focus: "Citizens are brought together to identify data governance concerns
@@ -51,6 +51,7 @@ governance_issues_description: 'WIP: Participants were concerned with how data a
 initiative_status: carried out
 lead_organisation: Monash Data Futures Institute
 lense: both individual and collective data governance lenses
+link: https://www.monash.edu/msdi/initiatives/projects/net-zero-precincts
 location_link:
 - missing-item
 objectives_tag:
@@ -72,7 +73,6 @@ theme_tag:
 - Urban development & smart cities
 - Environment
 title: Monash Net Zero Precinct
-link: https://www.monash.edu/msdi/initiatives/projects/net-zero-precincts
 whats_changed: It is not clear if any of the ideas developed through the workshops
   will be adopted as part of the wider Monash Net Zero project.
 ---
