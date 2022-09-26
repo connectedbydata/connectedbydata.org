@@ -124,7 +124,7 @@
                 </p>
               {%- endif -%}
 
-          		{{ component.content }}
+          		{{ component.content | markdownify }}
 
               {%- if component.number_of_participants -%}
                 <p>
