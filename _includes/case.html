@@ -118,13 +118,14 @@
                   {%- endfor -%}
                 </div>
               {%- endif -%}
+              <!--#Removing display of this element temporarily
               {%- if component.temporal_state -%}
                 <p>
                   This {{component.modality_tag[0] | downcase}} engagement was {{component.temporal_state | downcase}}.
                 </p>
-              {%- endif -%}
+              {%- endif -%}-->
 
-          		{{ component.content }}
+          		{{ component.content | markdownify }}
 
               {%- if component.number_of_participants -%}
                 <p>
