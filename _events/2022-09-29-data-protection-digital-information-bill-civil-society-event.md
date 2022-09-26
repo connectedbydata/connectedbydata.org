@@ -5,7 +5,7 @@ image: cbd-logo.png
 link: https://airtable.com/shrFgfOMvrCEHESGB
 upcoming: true
 writeup: true
-dates: 2022-09-29
+date: 2022-09-29
 author: Jonathan Smith
 category: organising
 ---
