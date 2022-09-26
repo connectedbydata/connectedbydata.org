@@ -16,7 +16,7 @@ description: "A survey, hosted by an existing online platform with a standing pa
 methods_tag:
 - Survey
 modality_tag:
-- Online
+- online
 primary_component: 'True'
 table: components
 temporal_state: One off

@@ -1,5 +1,5 @@
 ---
-actor_responsible: New York City.
+actor_responsible: New York City
 airtable_createdTime: '2022-05-11T10:49:37.000Z'
 airtable_id: recTUl9yG7JMm3Gjx
 attachments:
@@ -69,10 +69,9 @@ framing_method_tag:
 initiative_status: carried out
 lead_organisation: The GovLab
 lense: a collective data governance lens
+link: https://thedataassembly.org/
 location_link:
 - missing-item
-methods_tag:
-- Mini-publics
 objectives_tag:
 - Advocacy
 organisation_link:
@@ -91,7 +90,6 @@ table: cases
 theme_tag:
 - Health
 title: The Data Assembly
-link: https://thedataassembly.org/
 ---
 
 > "The Data Assembly is an initiative from The GovLab supported by the Henry Luce Foundation to solicit diverse, actionable public input on data re-use for crisis response in the United States. The initiative began in the summer of 2020 with an initial focus on the response to the COVID-19 pandemic in New York City. The GovLab, New York Public Library, and Brooklyn Public Library co-hosted remote deliberations with three “mini-publics” featuring data holders and policymakers, representatives of civic rights and advocacy organizations, and New Yorkers from across the five boroughs."

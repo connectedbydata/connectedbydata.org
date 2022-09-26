@@ -1,7 +1,7 @@
 ---
 actor_responsible: any organisations using Geospatial data including public and private
   sector parties, particularly those operating in the context of the Geospatial Commission's
-  policies and guidance.
+  policies and guidance
 airtable_createdTime: '2022-05-17T18:27:55.000Z'
 airtable_id: recacKhRimMyBf1Af
 attachments:
@@ -94,12 +94,9 @@ framing_method_tag:
 initiative_status: carried out
 lead_organisation: UK Geospatial Commission
 lense: both individual and collective data governance lenses
+link: https://www.gov.uk/government/publications/public-dialogue-on-location-data-ethics
 location_link:
 - missing-item
-methods_tag:
-- Mini-publics
-- Focus groups
-- Survey
 objectives_tag:
 - Consultation
 - Research
@@ -129,7 +126,6 @@ theme_tag:
 - Environment
 - Law Enforcement, Criminal Justice & Corrections
 title: Public Dialogue on Location Data Ethics
-link: https://www.gov.uk/government/publications/public-dialogue-on-location-data-ethics
 whats_changed: An evaluation is forthcoming.
 ---
 

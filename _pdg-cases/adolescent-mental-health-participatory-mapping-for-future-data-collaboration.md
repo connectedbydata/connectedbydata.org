@@ -1,5 +1,5 @@
 ---
-actor_responsible: future research projects.
+actor_responsible: future research projects
 airtable_createdTime: '2022-05-20T09:43:02.000Z'
 airtable_id: reccFSXhKtA5xxpFM
 attachments:
@@ -38,12 +38,9 @@ governance_issues_description: Which research questions should be prioritised wh
 initiative_status: carried out
 lead_organisation: The GovLab
 lense: both individual and collective data governance lenses
+link: https://blogs.unicef.org/evidence-for-action/adolescent-mental-health-using-a-participatory-mapping-methodology-to-jointly-identify-key-topics-questions-and-priorities-for-future-work/
 location_link:
 - missing-item
-methods_tag:
-- Survey
-- Literature Review
-- Workshops
 objectives_tag:
 - Research
 - Consultation
@@ -66,7 +63,6 @@ table: cases
 theme_tag:
 - Health
 title: 'Adolescent mental health: participatory mapping for future data collaboration'
-link: https://blogs.unicef.org/evidence-for-action/adolescent-mental-health-using-a-participatory-mapping-methodology-to-jointly-identify-key-topics-questions-and-priorities-for-future-work/
 whats_changed: A number of themes were added to the topic map as a result of workshop
   inputs.
 ---

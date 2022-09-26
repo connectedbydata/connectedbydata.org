@@ -9,18 +9,18 @@ description: "Following a workshop, \n> \"UNICEF and The GovLab sourced prioriti
   topics they consider most important and which areas of the topic map need further
   improvement.\""
 ladder_of_participation: Consultation
+link: https://blogs.unicef.org/evidence-for-action/adolescent-mental-health-using-a-participatory-mapping-methodology-to-jointly-identify-key-topics-questions-and-priorities-for-future-work/
 methods_tag:
 - Survey
 modality_tag:
-- Online
+- online
 number_of_participants: '70'
 primary_component: 'True'
-recruitment: From UNICEF’s international network
+recruitment: from UNICEF’s international network
 table: components
 target_groups: '70'
 temporal_state: One off
 title: 'Adolescent mental health: participatory mapping - Survey'
-link: https://blogs.unicef.org/evidence-for-action/adolescent-mental-health-using-a-participatory-mapping-methodology-to-jointly-identify-key-topics-questions-and-priorities-for-future-work/
 ---
 
 Following a workshop, 

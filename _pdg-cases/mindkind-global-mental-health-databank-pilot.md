@@ -1,0 +1,131 @@
+---
+actor_responsible: trusted researchers
+airtable_createdTime: '2022-05-03T12:57:38.000Z'
+airtable_id: recpc61HzaBLdJhOQ
+collective_focus: "The project has set up panels of young people with lived experience
+  of depression and anxiety in three countries. \n\nPanels have been given formal
+  decision making responsibilities in the project. \n\nThe MindKind pilot for the
+  project has sought to explore what data people are happy sharing or not."
+components_link:
+- mindkind-young-people-s-advisory-group
+- mindkind-professional-youth-advisor
+- mindkind-global-youth-panel
+- mindkind-international-youth-panel
+- mindkind-data-use-advisory-group
+- mindkind-randomised-control-trial
+- mindkind-deliberative-democracy-sessions
+data_cycle_tag:
+- design
+- collection
+- sharing
+- analysis
+- re-use
+- use
+data_governed: Longitudinal data, giving insight into what helps prevent or treat
+  anxiety and depression in young people. The data may be biological or behavioural.
+  The data covers people aged 14 - 24.
+data_subject: mental health
+data_types_tag:
+- Mental health data
+description: "Wellcome trust commissioned Sage Bionetworks (Sage) to carry out feasibility
+  tests and prototype a global mental health databank (GMHD) to capture rich, longitudinal,
+  electronically-derived data from young people with a focus on mental health, and
+  to support research into the approaches, treatments, and interventions that may
+  be relevant to anxiety or depression in 14-24 year olds.\nRemote mobile phone-based
+  data collection offers a key opportunity to better understand lived experience of
+  mental health. However, participation in app-based remote studies often drops off
+  quickly. The MindKind project hypothesised that \"young peoples’ willingness to
+  participate in digital research is influenced by their ability to be involved in
+  how their data is collected, shared, and used.\" [1]\nThe project placed a focus
+  on understanding appropriate models of data governance. The research project addressed
+  the question of \"How do we create a data governance structure that gives real voice
+  to youth?\" and worked with an initial set of principles:\n- \"Those banking their
+  data shall have a high degree of involvement in decisions about the use of data
+  and opportunities to act as citizen scientists. \n- The data collected shall be
+  made readily accessible to a wide range of researchers under conditions that protect
+  the privacy of research participants to the extent agreed upon by those banking
+  their data and consistent with any legal requirements. \n- To support cutting-edge
+  scientific research, there shall be sufficient ongoing engagement with those banking
+  their data and with those who might analyse it to answer important research questions.\"\nWorking
+  across three countries (India, South Africa, and the UK), the project established
+  national Young People's Advisory Group (YPAG), and had a Professional Youth Advisor
+  (PYA) working with each team, as well as a Global Youth Panel, and ad-hoc International
+  Youth Panel. \nA Data Usability Advisory Group (DAUG) was also formed, bringing
+  together researchers who may use the databank in their research, and to provide
+  guidance on the usability of data collected. \nThese groups were consulted on potential
+  data collection and governance strategies, with input used to design models for
+  how potential youth contributors of data might engage with data governance through
+  the project's platform and app. \nThese models were evaluated through a quantitative
+  study, using a Randomised Control Trial design, and through a two-stage deliberative
+  dialogue process exploring qualitative perspectives in each of the study countries.
+  \n\nSources:\n- [1]: ‘MindKind: A Mixed-Methods Protocol for the Feasibility of
+  Global Digital Mental Health Studies in Young People’. 2022. _Wellcome Open Research_
+  6 (May): 275. <https://doi.org/10.12688/wellcomeopenres.17167.2>."
+end_year: '2022'
+evaluation_details: "The final report provides in-depth reflections on the practical
+  implementation of the study's governance structure, covering power dynamics in an
+  international team, supporting and integrating youth advisors and advisory groups,
+  and external expert advisors. \n\nA mid-project governance survey found \"broad
+  agreement among respondents that youth feedback was benefiting the project in meaningful
+  ways\".\n\nReflections on the deliberative component of the project highlight where
+  the design of materials facilitated understanding and dialogue, and some of the
+  challenges in translating complex data topics into accessible language, particularly
+  working across different national boundaries, and with participants with different
+  levels of English as a first language."
+framing_method_tag:
+- Deliberative and dialogic process
+- Co-design
+governance_issues_description: 'Data should be available to researchers globally:
+  with a need to balance privacy concerns with open science practice.
+
+
+  The project needs a diversity of participants - including collecting data across
+  geographical and cultural boundaries.
+
+
+  The participants contributing data have lived experience of mental health challenges.'
+initiative_status: carried out
+lead_organisation: Wellcome Trust
+lense: both individual and collective data governance lenses
+link: https://wellcome.org/what-we-do/mental-health/projects/building-sustainable-and-fair-global-mental-health-databank
+location_link:
+- missing-item
+- missing-item
+- missing-item
+objectives_tag:
+- Governance / co-governance
+- Consultation
+organisation_link:
+- wellcome-trust
+- sage-bionetworks
+outcomes_tag: informed decision making
+participant_group: youth aged 14 - 24 with lived experience of mental health
+primary_method_link:
+- randomised-control-trial
+- deliberative-forum
+sources_link:
+- mindkind-final-report
+- mindkind-project-launch-blog-post
+- mindkind-a-mixed-methods-protocol-for-the-feasibility-of-global-digital-mental-health-studies-in-young-people
+- mindkind-study-launch-presentation
+start_year: '2020'
+status: Stage 1
+table: cases
+theme_tag:
+- Health
+title: 'MindKind: Global mental health databank pilot'
+---
+
+Wellcome trust commissioned Sage Bionetworks (Sage) to carry out feasibility tests and prototype a global mental health databank (GMHD) to capture rich, longitudinal, electronically-derived data from young people with a focus on mental health, and to support research into the approaches, treatments, and interventions that may be relevant to anxiety or depression in 14-24 year olds.
+Remote mobile phone-based data collection offers a key opportunity to better understand lived experience of mental health. However, participation in app-based remote studies often drops off quickly. The MindKind project hypothesised that "young peoples’ willingness to participate in digital research is influenced by their ability to be involved in how their data is collected, shared, and used." [1]
+The project placed a focus on understanding appropriate models of data governance. The research project addressed the question of "How do we create a data governance structure that gives real voice to youth?" and worked with an initial set of principles:
+- "Those banking their data shall have a high degree of involvement in decisions about the use of data and opportunities to act as citizen scientists. 
+- The data collected shall be made readily accessible to a wide range of researchers under conditions that protect the privacy of research participants to the extent agreed upon by those banking their data and consistent with any legal requirements. 
+- To support cutting-edge scientific research, there shall be sufficient ongoing engagement with those banking their data and with those who might analyse it to answer important research questions."
+Working across three countries (India, South Africa, and the UK), the project established national Young People's Advisory Group (YPAG), and had a Professional Youth Advisor (PYA) working with each team, as well as a Global Youth Panel, and ad-hoc International Youth Panel. 
+A Data Usability Advisory Group (DAUG) was also formed, bringing together researchers who may use the databank in their research, and to provide guidance on the usability of data collected. 
+These groups were consulted on potential data collection and governance strategies, with input used to design models for how potential youth contributors of data might engage with data governance through the project's platform and app. 
+These models were evaluated through a quantitative study, using a Randomised Control Trial design, and through a two-stage deliberative dialogue process exploring qualitative perspectives in each of the study countries. 
+
+Sources:
+- [1]: ‘MindKind: A Mixed-Methods Protocol for the Feasibility of Global Digital Mental Health Studies in Young People’. 2022. _Wellcome Open Research_ 6 (May): 275. <https://doi.org/10.12688/wellcomeopenres.17167.2>.

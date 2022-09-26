@@ -4,7 +4,7 @@ airtable_id: recG1vpcqcvZP4Pas
 background_information_described: '> "Community engagement in data governance was
   presented through case studies on bicycle safety, urban ecology and emissions reductions."'
 background_information_tag:
-- Expert Presentations
+- expert presentations
 case_link:
 - monash-net-zero-precinct
 decision_methods_tag:
@@ -26,13 +26,13 @@ feeds_into: '[''recW51LwYrtpiNCdW'']'
 methods_tag:
 - Workshop
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Open
 - Intentional recruitment
 number_of_participants: '25'
 primary_component: 'True'
-recruitment: See 'Recruitment' component.
+recruitment: through the participant recruitment component
 table: components
 temporal_state: One off
 title: 'Monash Net Zero: Workshops'

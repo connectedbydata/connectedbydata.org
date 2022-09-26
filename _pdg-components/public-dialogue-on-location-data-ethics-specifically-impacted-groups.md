@@ -5,7 +5,7 @@ background_information_described: Participants received some background informat
   although the project report does not detail the specific resources provided for
   these special interest groups sessions or how they were facilitated.
 background_information_tag:
-- Written Briefing Materials (online or as handouts)
+- written briefing materials (online or as handouts)
 case_link:
 - public-dialogue-on-location-data-ethics
 decision_methods_tag:
@@ -22,19 +22,19 @@ description: 'In addition to the public dialogues, three focus groups, each one 
   focus group session.'
 feeds_into: '[''recIbV19WIVTalooO'']'
 ladder_of_participation: Consultation
+link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1042092/Public_dialogue_on_location_data_ethics_Engagement_report_Appendices_.pdf
 methods_tag:
 - Focus Group
 modality_tag:
-- Online
+- online
 nature_of_participants_tag:
 - Intentional recruitment
 primary_component: 'True'
-recruitment: Purposive sampling in partnership with relevant organisations.
+recruitment: through purposive sampling in partnership with relevant organisations
 table: components
-target_groups: Women who have experienced abuse; Forced migrants; Disabled people.
+target_groups: women who have experienced abuse; forced migrants and disabled people
 temporal_state: One off
 title: 'Public Dialogue on Location Data Ethics: Specifically Impacted Groups'
-link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1042092/Public_dialogue_on_location_data_ethics_Engagement_report_Appendices_.pdf
 ---
 
 In addition to the public dialogues, three focus groups, each one targeted at a specific group particularly impacted by location data, took place.

@@ -9,6 +9,7 @@ description: '"A collection of interdisciplinary AI and data science projects in
 geographic_scope_tag:
 - Local
 - National
+link: https://www.monash.edu/
 organisation_type_tag:
 - Academic Institution
 sector_tag:
@@ -16,7 +17,6 @@ sector_tag:
 - Urban development & smart cities
 table: organisations
 title: Monash Data Futures Institute
-link: https://www.monash.edu/
 ---
 
 "A collection of interdisciplinary AI and data science projects in better governance and policy"

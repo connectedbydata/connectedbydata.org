@@ -6,6 +6,7 @@ country_link:
 - netherlands
 geographic_scope_tag:
 - National
+link: https://www.tilburguniversity.edu/about/schools/law/departments/tilt
 organisation_type_tag:
 - Academic Institution
 sector_tag:
@@ -13,5 +14,4 @@ sector_tag:
 - Science & Technology
 table: organisations
 title: Tilburg Institute for Law, Technology and Society
-link: https://www.tilburguniversity.edu/about/schools/law/departments/tilt
 ---
