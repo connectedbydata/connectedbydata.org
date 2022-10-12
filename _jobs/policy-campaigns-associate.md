@@ -1,7 +1,7 @@
 ---
 layout: job
 title: "Policy and Campaigns Associate"
-subtitle: "Shape the future of collective and participatory data governance"
+subtitle: "Help give communities a powerful say in the data that affects their lives"
 salary: £200 - £300/day depending on location and experience
 terms: Employed/freelance contract until end of February 2023<br/>(with possibility of renewal)
 working-hours: 7.5 hour days<br>8 - 10 days a month
@@ -20,7 +20,7 @@ You will be contributing to one or more of a number of our strands of our policy
 
 
 * **Influencing the UK government:** supporting our public affairs strategy to influence the passage of the forthcoming Data Protection and Digital Information bill and development of future party manifestos to ensure the collective impacts of data and AI are recognised and more democratic governance of data and AI are incorporated. 
-* **Civil Society Support and Coalition building: **researching and building relationships and networks with ‘issue focused’ social justice and civil society organisations to help them understand how data and AI  affects the people they are there to serve. Supporting coalition building work around this, helping communities and the organisations that represent them to act for change on data and AI.
+* **Civil Society Support and Coalition building:** researching and building relationships and networks with ‘issue focused’ social justice and civil society organisations to help them understand how data and AI  affects the people they are there to serve. Supporting coalition building work around this, helping communities and the organisations that represent them to act for change on data and AI.
 * **Data narratives development**: building on our ongoing work to understand how the impacts of data are discussed in media narratives, and carrying out primary research to identify and support the development of stories that demonstrate the importance of understanding collective impacts of data collection, sharing and use. Developing these stories into potential comms outputs for range of channels.
 * **Policy research, monitoring and networking:** keeping across data policy developments  and contributing to policy analysis and briefings in other areas both EU and Global. Engaging with and representing Connected by Data in relevant European and Global networks to support this 
 * **Social Media:** helping communicate the above areas through our blog and social media channels 
@@ -51,7 +51,7 @@ We have an organisational commitment to working in the open, sharing our work an
 
 You will be joining a [fully remote UK-based small team](/about#team). We have daily communication on Discord, and regular team calls. We use tools like Google Docs and AirTable for our day-to-day work.
 
-We will agree to regular working hours where you overlap with the Director of Research, and you will have a degree of flexible working around this.
+We will agree to regular working hours where you overlap with the Director of Advocacy and Campaigns, and you will have a degree of flexible working around this.
 
 Depending on your location and preference we may offer you an employed position, or an equivalent freelance consultancy contract.
 
