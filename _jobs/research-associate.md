@@ -45,7 +45,7 @@ We have an organisational commitment to working in the open, sharing our work an
 
 ## How do we work?
 
-You will be joining a [fully remote UK-based small team](http://localhost:4000/about#team). We have daily communication on Discord, and regular team calls. We use tools like Google Docs, AirTable and Zotero for our day-to-day work. 
+You will be joining a [fully remote UK-based small team](/about#team). We have daily communication on Discord, and regular team calls. We use tools like Google Docs, AirTable and Zotero for our day-to-day work. 
 
 We will agree to regular working hours where you overlap with the Director of Research, and you will have a degree of flexible working around this. 
 
