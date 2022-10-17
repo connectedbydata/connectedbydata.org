@@ -1,0 +1,915 @@
+{
+    "config": {
+        "title": "Collective Data Governance - Case Database",
+        "apiID": "appY8zDrLxKEZlcFJ"
+    },
+    "tables": {
+        "cases": {
+            "fldKnM1SrMkzVztIr": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldlpqfOLL2L3vy2f": {
+                "short": "description",
+                "long": "Description"
+            },
+            "fldMSnw7XEqbfGhFu": {
+                "short": "attachments",
+                "long": "Attachments"
+            },
+            "fldcVSgLNCKihtrvH": {
+                "short": "initiative_status",
+                "long": "Initiative status"
+            },
+            "fldODs1ka85dgPb8X": {
+                "short": "link",
+                "long": "URL"
+            },
+            "fldYQyoLpT89poq3D": {
+                "short": "",
+                "long": "Notes (Internal)"
+            },
+            "fldwAaNCirSptA3Pi": {
+                "short": "organisation_link",
+                "long": "Organisation"
+            },
+            "fldblJivkF0zfqhb8": {
+                "short": "data_governed",
+                "long": "What is the nature of the data being governed?"
+            },
+            "fld9LnjAnLIkaTvNu": {
+                "short": "governance_issues_description",
+                "long": "What are the particular data governance issues to address?"
+            },
+            "fldsWiIw4rYwqnoy8": {
+                "short": "collective_focus",
+                "long": "How is the case exploring collective data governance?"
+            },
+            "fldnygxDHGE9OHEn4": {
+                "short": "",
+                "long": "Possible actions"
+            },
+            "fldinI3PEZ3Cmrp1j": {
+                "short": "",
+                "long": "Source notes"
+            },
+            "fldOWA9XlwFKDrAWe": {
+                "short": "",
+                "long": "Action notes"
+            },
+            "fldJr2PAXubrValmj": {
+                "short": "methods_tag",
+                "long": "Methods used"
+            },
+            "fldLbQdQqirRovzQ6": {
+                "short": "start_year",
+                "long": "Start Year"
+            },
+            "fldQUcsfVSwLPrazI": {
+                "short": "end_year",
+                "long": "End year"
+            },
+            "fldUnGhU9BZ6Ifwq3": {
+                "short": "",
+                "long": "Ladder of Participation"
+            },
+            "fldiOgGGFbR7dM4QM": {
+                "short": "status",
+                "long": "Case status"
+            },
+            "fldl3own5RMbo0h9y": {
+                "short": "theme_tag",
+                "long": "Theme classificaiton"
+            },
+            "fldAR0AWHIFJ3DXlU": {
+                "short": "components_link",
+                "long": "Components"
+            },
+            "flddd6MQkGy7rDjsG": {
+                "short": "data_governance_issues_tag",
+                "long": "Data governance issues"
+            },
+            "fldUk4ddnuA4Hpzur": {
+                "short": "objectives_tag",
+                "long": "Objectives"
+            },
+            "fldU3me8nonalewdw": {
+                "short": "framing_method_tag",
+                "long": "Framing methodology"
+            },
+            "fldZGkNg3hhaNIJ8k": {
+                "short": "whats_changed",
+                "long": "What changed?"
+            },
+            "fldf6WMX4J8E7zBrC": {
+                "short": "data_types_tag",
+                "long": "Data types"
+            },
+            "fldR79vjvuNoykTeq": {
+                "short": "evaluation_details",
+                "long": "Was there any evaluation?"
+            },
+            "fldVufvpeutvcxCpP": {
+                "short": "sources_link",
+                "long": "Sources"
+            },
+            "fldJvMDwXE5RjsrCw": {
+                "short": "primary_method_link",
+                "long": "Primary Method (from Components)"
+            },
+            "fldZFlqvIf2xuaa71": {
+                "short": "data_subject",
+                "long": "Exploring the governance of data related to..."
+            },
+            "fldDSCR1Dklt8ykcV": {
+                "short": "participant_group",
+                "long": "...involving... (participants in the process)"
+            },
+            "fld2Chs9V6RSKUCvj": {
+                "short": "location_link",
+                "long": "Location"
+            },
+            "fldXNNgeOjtaGxu2P": {
+                "short": "outcomes_tag",
+                "long": "The process..."
+            },
+            "fldj1UrMu4ujDOmDg": {
+                "short": "data_cycle_tag",
+                "long": "...concerning the..."
+            },
+            "fldWMwrwe4ueQaI9s": {
+                "short": "actor_responsible",
+                "long": "...of data by..."
+            },
+            "fldEE5TBvl6z1jjiA": {
+                "short": "lense",
+                "long": "The process adopted..."
+            },
+            "fldhimoEdR1rlVvM0": {
+                "short": "lead_organisation",
+                "long": "Lead organisation"
+            }
+        },
+        "components": {
+            "fldTSJfVaQ87VtIyY": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldwllw9XOm9SIhF5": {
+                "short": "description",
+                "long": "Description"
+            },
+            "fldXz9U7XQVFqNKF6": {
+                "short": "attachments",
+                "long": "Attachments"
+            },
+            "fldXJlWzre8snVhp5": {
+                "short": "case_link",
+                "long": "Cases"
+            },
+            "fldb3EMLLrDU4gIG4": {
+                "short": "link",
+                "long": "URL"
+            },
+            "fldpShoI02Bg4PMAA": {
+                "short": "ladder_of_participation",
+                "long": "Ladder of participation"
+            },
+            "fldoQa6oYMlN8nL3b": {
+                "short": "methods_tag",
+                "long": "Method"
+            },
+            "fldQpyYUsQCqrbgHY": {
+                "short": "temporal_state",
+                "long": "Temporal state"
+            },
+            "fldRITs4kAn3AQeh5": {
+                "short": "nature_of_participants_tag",
+                "long": "Participants"
+            },
+            "fld2HYZCCWrPf9PKH": {
+                "short": "number_of_participants",
+                "long": "Number of participants"
+            },
+            "fldpdVooIqV1JddoK": {
+                "short": "target_groups",
+                "long": "Target groups"
+            },
+            "fldWfV6lW02OtyrLW": {
+                "short": "recruitment",
+                "long": "How were participants recruited?"
+            },
+            "fldATs1dQ7qs7TDdO": {
+                "short": "modality_tag",
+                "long": "Modality"
+            },
+            "fldzl2v0NTJJqQKQJ": {
+                "short": "background_information_tag",
+                "long": "Background information"
+            },
+            "fldg44NoZmd2Z3kQP": {
+                "short": "decision_methods_tag",
+                "long": "Decision making methods"
+            },
+            "fldPAIIFlsCPXoXV9": {
+                "short": "feeds_into",
+                "long": "Feeds into"
+            },
+            "fldGTcCJrWbOm0xz7": {
+                "short": "background_information_described",
+                "long": "Was background information given?"
+            },
+            "fldYiLSjfqSG69oXq": {
+                "short": "primary_component",
+                "long": "Primary component"
+            }
+        },
+        "organisations": {
+            "fldffZ2h2miXZk3xj": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fld3Uzh7U96UqXKwh": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldaLs5ZGlk7yhK9E": {
+                "short": "cases",
+                "long": "Cases"
+            },
+            "fldYNpeW3xF0sbqOX": {
+                "short": "country_link",
+                "long": "Country"
+            },
+            "fldN6Jxbynr8Uko4p": {
+                "short": "geographic_scope_tag",
+                "long": "Geographic scope"
+            },
+            "fld9HLv3m3aI0vD2D": {
+                "short": "sector_tag",
+                "long": "Sector"
+            },
+            "fldO6bD0Xr0cRlxk7": {
+                "short": "link",
+                "long": "URL"
+            },
+            "fldcOrGclN3rAzQX2": {
+                "short": "organisation_type_tag",
+                "long": "Organisation type"
+            },
+            "fld65oCbdlCfzFdwa": {
+                "short": "",
+                "long": "Google"
+            },
+            "fldmTKfxUT9LHKez8": {
+                "short": "description",
+                "long": "Description"
+            }
+        },
+        "methods": {
+            "fldCtok6NrkUIMX8p": {
+                "short": "title",
+                "long": "Method name"
+            },
+            "fld5uoAaTHCNKxIOJ": {
+                "short": "description",
+                "long": "description"
+            },
+            "fldMIBNAh23qaFfkE": {
+                "short": "",
+                "long": "post_date"
+            },
+            "fldKGHzYg3XTHnpxz": {
+                "short": "",
+                "long": "original_language"
+            },
+            "fldujJ1wzODQWAzHz": {
+                "short": "",
+                "long": "facilitators"
+            },
+            "fldTCeP0t7rmpNmuL": {
+                "short": "",
+                "long": "facetoface_online_or_both"
+            },
+            "fldMKzqDY5wRG0OVz": {
+                "short": "",
+                "long": "public_spectrum"
+            },
+            "fldSJcbpEcMPDuJbQ": {
+                "short": "",
+                "long": "open_limited"
+            },
+            "fldWasX88Nxvhvg1x": {
+                "short": "",
+                "long": "recruitment_method"
+            },
+            "fldrWGVe8b00Zot0Y": {
+                "short": "",
+                "long": "level_polarization"
+            },
+            "fldDPIOhElkzClHFK": {
+                "short": "",
+                "long": "level_complexity"
+            },
+            "fldvRsgTwa7k4xcHZ": {
+                "short": "",
+                "long": "method_types_1"
+            },
+            "fldMVjU2AyyzFFOb4": {
+                "short": "",
+                "long": "method_types_2"
+            },
+            "fldD7wVz99PWNEayP": {
+                "short": "",
+                "long": "method_types_3"
+            },
+            "fldhlr6tMbbr8efgq": {
+                "short": "",
+                "long": "number_of_participants_1"
+            },
+            "fldPnrOSEADu7RKTh": {
+                "short": "",
+                "long": "number_of_participants_2"
+            },
+            "fldIYA5ilbWKtoX3L": {
+                "short": "",
+                "long": "number_of_participants_3"
+            },
+            "fldjPRG7W8vTj2X5q": {
+                "short": "",
+                "long": "scope_of_influence_1"
+            },
+            "fld8BhMH5ap7WajXm": {
+                "short": "",
+                "long": "scope_of_influence_2"
+            },
+            "fldk3hIVvRIdQNNTN": {
+                "short": "",
+                "long": "scope_of_influence_3"
+            },
+            "fldGIvAf42NosV8Ql": {
+                "short": "",
+                "long": "participants_interactions_1"
+            },
+            "fldJK9H3YET5VaRhH": {
+                "short": "",
+                "long": "participants_interactions_2"
+            },
+            "fldthB4VPC1DSGOyM": {
+                "short": "",
+                "long": "participants_interactions_3"
+            },
+            "fldQrCLzGpxWDZXz5": {
+                "short": "",
+                "long": "decision_methods_1"
+            },
+            "fldQ8qY9cyqDmw15K": {
+                "short": "",
+                "long": "decision_methods_2"
+            },
+            "fldfBBl2nAXFmqfsB": {
+                "short": "",
+                "long": "decision_methods_3"
+            },
+            "fldqzGXk1b2azVAGa": {
+                "short": "",
+                "long": "if_voting_1"
+            },
+            "fldc6ARV5qvZ2aANx": {
+                "short": "",
+                "long": "if_voting_2"
+            },
+            "fld7wi489mkwTu6sa": {
+                "short": "",
+                "long": "purpose_method_1"
+            },
+            "fldg0847v4RSr0Dij": {
+                "short": "",
+                "long": "purpose_method_2"
+            },
+            "fld0QlV1es2N4VS28": {
+                "short": "",
+                "long": "purpose_method_3"
+            },
+            "fldmjWcba33dFjn1z": {
+                "short": "",
+                "long": "body"
+            },
+            "fldOHfuw6CpJYOP2L": {
+                "short": "",
+                "long": "photos_count"
+            },
+            "fldAlokD589tKFaZQ": {
+                "short": "",
+                "long": "files_count"
+            },
+            "fldAlnefnKWk9pvKd": {
+                "short": "",
+                "long": "videos_count"
+            },
+            "fldr4DWPwHNS9V9kG": {
+                "short": "",
+                "long": "links_count"
+            },
+            "fldfOVgYD22g6TitL": {
+                "short": "",
+                "long": "audio_count"
+            },
+            "fldmVafrIO4n3bSn9": {
+                "short": "",
+                "long": "collections"
+            },
+            "fldHn2GvfvWVn2MMJ": {
+                "short": "",
+                "long": "Participedia ID"
+            },
+            "fldz7OrDShvkU74vB": {
+                "short": "",
+                "long": "Method from"
+            },
+            "fldooOiSDrLKIdyby": {
+                "short": "",
+                "long": "Filtered view"
+            },
+            "fldbpzAOnsYx5D3H0": {
+                "short": "",
+                "long": "Components"
+            },
+            "fldvprruoMMjbSV27": {
+                "short": "",
+                "long": "Sources"
+            }
+        },
+        "sources": {
+            "fldUX3AapTG6XfDXp": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldUOkQB5n9QsBcYU": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fld5KuFRXeUrJLgic": {
+                "short": "attachments",
+                "long": "Attachments"
+            },
+            "fldm1ufvih6SU7v0G": {
+                "short": "status",
+                "long": "Status"
+            },
+            "fldFVXE8rjhNTj9On": {
+                "short": "link",
+                "long": "URL"
+            },
+            "fld8aUrMHnBt1842p": {
+                "short": "peer_review",
+                "long": "Peer reviewed?"
+            },
+            "fldHKL5QqVzebsEZt": {
+                "short": "",
+                "long": "Cases"
+            },
+            "fldZbqPEYVp7x6k2H": {
+                "short": "methods_link",
+                "long": "Methods"
+            }
+        },
+        "locations": {
+            "fldzJFYcxK8Oq5Aid": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fld3pl367DD28og4R": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldw2sYnmgSYpdPsV": {
+                "short": "",
+                "long": "Attachments"
+            },
+            "fldc7NZaPuEFLz7jz": {
+                "short": "",
+                "long": "Status"
+            },
+            "fldwnpLXwJjmsKDO8": {
+                "short": "country",
+                "long": "Country"
+            },
+            "fldo7GPXRWOiRPi0I": {
+                "short": "",
+                "long": "Cases"
+            }
+        },
+        "data_cycle": {
+            "fld0cisO8mKnJTCcT": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldQMExZ3NP9VPpfY": {
+                "short": "",
+                "long": "Cases"
+            },
+            "fldnywxtmVUeV7wOQ": {
+                "short": "description",
+                "long": "Description"
+            }
+        },
+        "themes": {
+            "flduiKxVcIgpmh5Uo": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fld3qrzknRhO32qGa": {
+                "short": "",
+                "long": "Participedia Code"
+            },
+            "fldSpyl4ENPUZumZm": {
+                "short": "",
+                "long": "Cases"
+            },
+            "fldZpJyeEkDOKFw8s": {
+                "short": "",
+                "long": "Organisations"
+            },
+            "fldoOPqC4PUvLT8nV": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldzhCq8rdqefcFF8": {
+                "short": "",
+                "long": "Examples"
+            }
+        },
+        "locations": {
+            "fldWdDzVxcvQe6yu0": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldDcklVTaaOYocBN": {
+                "short": "",
+                "long": "FIFA"
+            },
+            "fldMSHn8i29APwTIw": {
+                "short": "",
+                "long": "Dial"
+            },
+            "fldZTMc8b18uU3ZOA": {
+                "short": "",
+                "long": "ISO3166-1-Alpha-3"
+            },
+            "fldbcFIXVrTpotH5j": {
+                "short": "",
+                "long": "MARC"
+            },
+            "fldTHkrzQ3QgmeImK": {
+                "short": "",
+                "long": "is_independent"
+            },
+            "fldzkl7tbiJKcGwq6": {
+                "short": "",
+                "long": "ISO3166-1-numeric"
+            },
+            "fldHW19vf5tEMrDmT": {
+                "short": "",
+                "long": "GAUL"
+            },
+            "fld675tHQytLkcMGA": {
+                "short": "",
+                "long": "FIPS"
+            },
+            "fldlQJjR4NTtWPI1n": {
+                "short": "",
+                "long": "WMO"
+            },
+            "fldBOHGGU6HJP3wJE": {
+                "short": "",
+                "long": "ISO3166-1-Alpha-2"
+            },
+            "fldXkIChxQQD0Zilw": {
+                "short": "",
+                "long": "ITU"
+            },
+            "fldCOyxg7wWX2SIfW": {
+                "short": "",
+                "long": "IOC"
+            },
+            "fldtVTmT9X6GjZk7L": {
+                "short": "",
+                "long": "DS"
+            },
+            "fldLubErVPoGvPvYW": {
+                "short": "",
+                "long": "UNTERM Spanish Formal"
+            },
+            "fldNg5lur4qmp9wef": {
+                "short": "",
+                "long": "Global Code"
+            },
+            "fld0iEUdKSzWTwdbd": {
+                "short": "",
+                "long": "Intermediate Region Code"
+            },
+            "fldVT6jSjOQp37jN2": {
+                "short": "",
+                "long": "UNTERM French Short"
+            },
+            "fld2m5r4psCfSxcsK": {
+                "short": "",
+                "long": "ISO4217-currency_name"
+            },
+            "flde0t6NTemdPvPGg": {
+                "short": "",
+                "long": "Developed / Developing Countries"
+            },
+            "fldqyuI6MuSZiO9AL": {
+                "short": "",
+                "long": "UNTERM Russian Formal"
+            },
+            "fldQpNy98iFrzt60Q": {
+                "short": "",
+                "long": "UNTERM English Short"
+            },
+            "fld1LhXljJbtHdiSy": {
+                "short": "",
+                "long": "ISO4217-currency_alphabetic_code"
+            },
+            "fldsKWMfOYiy1qs7k": {
+                "short": "",
+                "long": "Small Island Developing States (SIDS)"
+            },
+            "fldd5A8gNDLl48F1M": {
+                "short": "",
+                "long": "UNTERM Spanish Short"
+            },
+            "fldGXXKJM4WIoHHxP": {
+                "short": "",
+                "long": "ISO4217-currency_numeric_code"
+            },
+            "fldSau9iDKlysmqhb": {
+                "short": "",
+                "long": "UNTERM Chinese Formal"
+            },
+            "fldshx7h26a7vE0Rl": {
+                "short": "",
+                "long": "UNTERM French Formal"
+            },
+            "fldbyZNNntJIpq1bJ": {
+                "short": "",
+                "long": "UNTERM Russian Short"
+            },
+            "fldjRSx5DAfwtHZOP": {
+                "short": "",
+                "long": "M49"
+            },
+            "fldG4w8NOTpbe2Zm2": {
+                "short": "",
+                "long": "Sub-region Code"
+            },
+            "fldFgLejz41DTw1jM": {
+                "short": "",
+                "long": "Region Code"
+            },
+            "fldKjV4wROTgGwth3": {
+                "short": "",
+                "long": "official_name_ar"
+            },
+            "fldsUecARDOIKbc6x": {
+                "short": "",
+                "long": "ISO4217-currency_minor_unit"
+            },
+            "fldasyJFM5dZj5QLh": {
+                "short": "",
+                "long": "UNTERM Arabic Formal"
+            },
+            "fldHphWj1fC1SIMb5": {
+                "short": "",
+                "long": "UNTERM Chinese Short"
+            },
+            "fldPLIPP8e7T1THtN": {
+                "short": "",
+                "long": "Land Locked Developing Countries (LLDC)"
+            },
+            "fldjWZQpHYMz4h4Rq": {
+                "short": "",
+                "long": "Intermediate Region Name"
+            },
+            "fldBkuzEMpqmZR5zQ": {
+                "short": "",
+                "long": "official_name_es"
+            },
+            "fld5Jiah8o8Pdd5N8": {
+                "short": "",
+                "long": "UNTERM English Formal"
+            },
+            "fldvZ6QJ2tQh94jcA": {
+                "short": "",
+                "long": "official_name_cn"
+            },
+            "fldcYS3BgxCLjZE4F": {
+                "short": "",
+                "long": "official_name_en"
+            },
+            "fldfA8ucmHdSEqyAV": {
+                "short": "",
+                "long": "ISO4217-currency_country_name"
+            },
+            "fldpxlXJuFI9E4Dbd": {
+                "short": "",
+                "long": "Least Developed Countries (LDC)"
+            },
+            "fldvZzPQ1jFslv985": {
+                "short": "",
+                "long": "Region Name"
+            },
+            "fldb2TDm0Y3muVhJX": {
+                "short": "",
+                "long": "UNTERM Arabic Short"
+            },
+            "fldBfKb125HqjO4R8": {
+                "short": "",
+                "long": "Sub-region Name"
+            },
+            "fldaUPZFaz6HG5AfH": {
+                "short": "",
+                "long": "official_name_ru"
+            },
+            "fldYkgMnykBMOCXAM": {
+                "short": "",
+                "long": "Global Name"
+            },
+            "fldlNmOBEsYrgG2T5": {
+                "short": "",
+                "long": "Capital"
+            },
+            "fldDzPaF5OlhR3kc8": {
+                "short": "",
+                "long": "Continent"
+            },
+            "fldDRseTaz2kPAR2f": {
+                "short": "",
+                "long": "TLD"
+            },
+            "fldb2LxlOjNb6ivez": {
+                "short": "",
+                "long": "Languages"
+            },
+            "fldbabNYt6RJVz4l9": {
+                "short": "",
+                "long": "Geoname ID"
+            },
+            "fldycaaWjij4xxQln": {
+                "short": "",
+                "long": "CLDR display name"
+            },
+            "fldBm9N6wCHiTcWop": {
+                "short": "",
+                "long": "EDGAR"
+            },
+            "fldYrfLxd08CRXiH4": {
+                "short": "",
+                "long": "Organisations"
+            },
+            "fldaMvxm1nWMY0XDz": {
+                "short": "",
+                "long": "Organisations 2"
+            },
+            "fldiQ7j938ijDk5CN": {
+                "short": "",
+                "long": "Locations"
+            }
+        },
+        "data_governance_issues": {
+            "fldMkDzWxkvDzYQ3L": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldcNQHt5kJpH6pgd": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fld6QIlIWHEg3iRQH": {
+                "short": "",
+                "long": "Attachments"
+            },
+            "fldsK3gJ7pQdHnmgy": {
+                "short": "",
+                "long": "Status"
+            },
+            "fldahpSDChkDP8ljQ": {
+                "short": "",
+                "long": "Cases"
+            }
+        },
+        "approaches": {
+            "fldrpATy4vadhYTE8": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldeO7x6SiGDpMr0E": {
+                "short": "",
+                "long": "Participedia Code"
+            },
+            "fld6OrO8C9ckx68ih": {
+                "short": "",
+                "long": "Cases"
+            },
+            "fldWTakUjTIMOK5Fx": {
+                "short": "",
+                "long": "Check Participedia examples"
+            }
+        },
+        "method_type": {
+            "fldRriKKVtakwDHfg": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fld6GiZwdJ9PmwmS3": {
+                "short": "",
+                "long": "Participedia code"
+            },
+            "fldN1sgS9pzpocE7P": {
+                "short": "",
+                "long": "Cases"
+            },
+            "fld9tPPsls4hRMV2O": {
+                "short": "",
+                "long": "Participedia example"
+            },
+            "fldEWQy6UUYO3i6Wr": {
+                "short": "",
+                "long": "Notes"
+            }
+        },
+        "background_information": {
+            "fldHG9DDoSG5TQuGF": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldpdueOfeU2kSQIm": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldAraMscptuzCQaz": {
+                "short": "",
+                "long": "Participedia code"
+            },
+            "fldMBxli3A6r1iG56": {
+                "short": "",
+                "long": "Components"
+            }
+        },
+        "decision_methods": {
+            "fldlcU6CaWCq7Hmoe": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fldE5evKwGW45u4Jf": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldKgXBrV6tLhjV3h": {
+                "short": "",
+                "long": "Participedia code"
+            },
+            "fldJOzUM8mvc555c8": {
+                "short": "",
+                "long": "Components"
+            }
+        },
+        "organisation_types": {
+            "fldll68pHxM71tvud": {
+                "short": "title",
+                "long": "Name"
+            },
+            "fld9MPpLj0O4aikRD": {
+                "short": "",
+                "long": "Notes"
+            },
+            "fldnDPBDoj6GLev0H": {
+                "short": "",
+                "long": "Participedia code"
+            },
+            "fldWkHoqwOGJPRwJv": {
+                "short": "",
+                "long": "Organisations"
+            }
+        }
+    },
+    "tablemap": {
+        "cases": "Cases",
+        "components": "Components",
+        "organisations": "Organisations",
+        "methods": "Methods",
+        "sources": "Sources",
+        "locations": "Locations",
+        "data_cycle": "Config: Data cycle",
+        "themes": "Config: Thematic Classification",
+        "locations": "Config: Countries & Regions",
+        "data_governance_issues": "Config: Data governance issues (grounded)",
+        "approaches": "Config: Approaches",
+        "method_type": "Config: Method type",
+        "background_information": "Config: Background information",
+        "decision_methods": "Config: Decision methods",
+        "organisation_types": "Config: Organisation types"
+    }
+}
