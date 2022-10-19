@@ -163,7 +163,7 @@ layout: default
   {%- assign openJobs = site.jobs | where: "expired", "false" -%}
   {%- capture jobs -%}
     <div class="point">
-      <h3 class="title is-4">Open position{%- if openJobs > 1 -%}s{%- endif -%}</h3>
+      <h3 class="title is-4">Open position{%- if openJobs.size > 1 -%}s{%- endif -%}</h3>
     </div>
   {%- endcapture -%}
   {%- if openJobs.size > 0 -%}

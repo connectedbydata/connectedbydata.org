@@ -5,25 +5,25 @@ subtitle: "Help give communities a powerful say in the data that affects their l
 salary: £200 - £300/day depending on location and experience
 terms: Employed/freelance contract until end of February 2023<br/>(with possibility of renewal)
 working-hours: 7.5 hour days<br>8 - 10 days a month
-location: Remote within the UK<br/>with fortnightly travel (mainly to London for face to face meetings and events) 
+location: Remote within the UK<br/>with fortnightly travel (mainly to London for face to face meetings and events)
 deadline: 8am GMT on Monday 7th November 2022
-expired: 
+expired: false
 ---
 
 We are recruiting a part-time Policy and Campaigns Associate for [Connected by Data](www.connectedbydata.org) on a short-term (renewable) contract.
 
 You will be working with our [Director of Advocacy and Campaigns](https://connectedbydata.org/team/jonathan-smith) to support our mission to give communities a powerful say in the  data and data decisions that affect their lives. Your work will involve developing and delivering research, policy recommendations, briefings, events, blogs, social media and communications outputs alongside other influencing interventions, including one to one meetings and building supportive partnerships and networks.  
 
-Your work will all be part of supporting our wider strategy to transform data governance narratives, policy and practice. You will also work closely with other members of the Connected by Data team including the CEO, Research Director and other Campaigns, Policy and Research Associates. 
+Your work will all be part of supporting our wider strategy to transform data governance narratives, policy and practice. You will also work closely with other members of the Connected by Data team including the CEO, Research Director and other Campaigns, Policy and Research Associates.
 
 You will be contributing to one or more of a number of our strands of our policy and campaigns work, which may include working on:
 
 
-* **Influencing the UK government:** supporting our public affairs strategy to influence the passage of the forthcoming Data Protection and Digital Information bill and development of future party manifestos to ensure the collective impacts of data and AI are recognised and more democratic governance of data and AI are incorporated. 
+* **Influencing the UK government:** supporting our public affairs strategy to influence the passage of the forthcoming Data Protection and Digital Information bill and development of future party manifestos to ensure the collective impacts of data and AI are recognised and more democratic governance of data and AI are incorporated.
 * **Civil Society Support and Coalition building:** researching and building relationships and networks with ‘issue focused’ social justice and civil society organisations to help them understand how data and AI  affects the people they are there to serve. Supporting coalition building work around this, helping communities and the organisations that represent them to act for change on data and AI.
 * **Data narratives development**: building on our ongoing work to understand how the impacts of data are discussed in media narratives, and carrying out primary research to identify and support the development of stories that demonstrate the importance of understanding collective impacts of data collection, sharing and use. Developing these stories into potential comms outputs for range of channels.
-* **Policy research, monitoring and networking:** keeping across data policy developments  and contributing to policy analysis and briefings in other areas both EU and Global. Engaging with and representing Connected by Data in relevant European and Global networks to support this 
-* **Social Media:** helping communicate the above areas through our blog and social media channels 
+* **Policy research, monitoring and networking:** keeping across data policy developments  and contributing to policy analysis and briefings in other areas both EU and Global. Engaging with and representing Connected by Data in relevant European and Global networks to support this
+* **Social Media:** helping communicate the above areas through our blog and social media channels
 
 The exact focus of your work will be agreed with the Advocacy and Campaigns  Director, with regular opportunities to reflect, review and refine the work to fit your skill set, respond to organisational priorities, and support your own professional development.
 
