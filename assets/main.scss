@@ -89,6 +89,11 @@ $navbar-item-hover-background-color: $primary;
 $navbar-dropdown-background-color: $dark-green;
 $navbar-dropdown-border-top: none;
 
+$card-background-color: $lightest-green;
+$card-header-background-color: $lightest-green;
+$card-footer-background-color: $lightest-green;
+$card-footer-border-top: 1px solid $light-green;
+
 $footer-background-color: $primary;
 $footer-color: white;
 
@@ -570,7 +575,7 @@ $footer-color: white;
   }
 }
 
-.post, .person, .job, .event, .resource, .project {
+.post, .person, .job, .event, .resource, .project, .case {
   .content {
     padding: 2rem;
     line-height: 1.75rem;
@@ -603,4 +608,8 @@ $footer-color: white;
     padding-left: 0rem;
     padding-right: 0rem;
   }
+}
+
+.card-content .content {
+  color: $text;
 }

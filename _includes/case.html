@@ -1,0 +1,227 @@
+{%- assign case = include.case -%}
+{%- assign organisation = site.pdg-organisations | where: "title", case.lead_organisation | first %}
+
+{%- capture image -%}
+  {%- if case.attachments -%}
+    <a href="{{ case.link }}">
+      <figure class="image">
+        <img src="{{ case.attachments[0] }}">
+      </figure>
+    </a>
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture more -%}
+  <p>
+    {%- if include.excerpt -%}
+      <a href="{{ case.link }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Learn more
+      </a>
+    {%- else -%}
+      <a href="{{ case.url | relative_url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Read more
+      </a>
+    {%- endif -%}
+  </p>
+{%- endcapture -%}
+
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {{ case.lead_organisation }}
+    &#x25aa;
+		{% if case.start_year == case.end_year -%}
+			{{ case.start_year }}
+		{%- else -%}
+			{{ case.start_year }} - {{ case.end_year }}
+		{%- endif -%}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="case-link" href="{{ case.url | relative_url }}">
+        {{ case.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+  </div>
+{%- endcapture -%}
+
+{%- capture metadata -%}
+  <div class="field is-grouped is-grouped-multiline">
+    {%- for tag in case.theme_tag -%}
+      <div class="control">
+        <div class="tags has-addons">
+          <span class="tag">theme</span>
+          <span class="tag is-link">{{ tag }}</span>
+        </div>
+      </div>
+    {%- endfor -%}
+    {%- for tag in case.primary_method_link -%}
+      {%- assign method = site.pdg-methods | where: "slug", tag | first -%}
+      <div class="control">
+        <div class="tags has-addons">
+          <span class="tag">method</span>
+          <span class="tag is-link">
+            <a href="{{ method.url | relative_url }}" class="has-text-white">
+              {{ method.title }}
+            </a>
+          </span>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="content">
+    {%- if include.excerpt -%}
+      {{ case.content | markdownify }}
+    {%- else -%}
+      <p>
+        {{ image }}
+      </p>
+      <p>
+        {%- if case.start_year == case.end_year -%}In {{case.start_year}},
+        {% else -%}Between {{case.start_year}} and {{case.end_year}}, {% endif -%}
+        <a href="{{ organisation.link }}">{{ organisation.title }}</a> {{case.initiative_status}} a participatory data governance process exploring the governance of data related to <strong>{{case.data_subject}}</strong>.
+      </p>
+
+      <p>
+        The process involved <strong>{{ case.participant_group }}</strong> and <strong>{{ case.outcomes_tag }}</strong> concerning the <strong>{{ case.data_cycle_tag | array_to_sentence_string: 'and' }}</strong> of data by <strong>{{ case.actor_responsible }}</strong>.
+      </p>
+      <p>
+        The process adopted <strong>{{case.lense}}</strong> and involved the following components:
+      </p>
+
+      {%- for component_link in case.components_link -%}
+        {%- assign component = site.pdg-components | where: "slug", component_link | first -%}
+        <div class="card mb-4">
+          <header class="card-header">
+            <p class="card-header-title">
+              {{ component.title }}
+            </p>
+          </header>
+          {%- if component.description -%}
+            <div class="card-content">
+              {%- if component.methods_tag -%}
+                <div class="field is-grouped is-grouped-multiline">
+                  {%- for tag in component.methods_tag -%}
+                    <div class="control">
+                      <div class="tags has-addons">
+                        <span class="tag">method</span>
+                        <span class="tag is-link">{{ tag }}</span>
+                      </div>
+                    </div>
+                  {%- endfor -%}
+                </div>
+              {%- endif -%}
+              <!--#Removing display of this element temporarily
+              {%- if component.temporal_state -%}
+                <p>
+                  This {{component.modality_tag[0] | downcase}} engagement was {{component.temporal_state | downcase}}.
+                </p>
+              {%- endif -%}-->
+
+          		{{ component.content | markdownify }}
+
+              {%- if component.number_of_participants -%}
+                <p>
+                  There were {{ component.number_of_participants }} participants
+                  {%- if component.target_groups %}
+                    from a target group of {{ component.target_groups }}
+                  {%- endif -%}
+                  {%- if component.nature_of_participants_tag %}
+                    ({{ component.nature_of_participants_tag | array_to_sentence_string: 'and' }})
+                  {%- endif -%}
+                  .
+                <p>
+              {%- endif -%}
+
+          		{% if component.recruitment %}
+            		<p>
+                  Participants were recruited {{component.recruitment}}.
+                </p>
+          		{% endif %}
+
+          		{% if component.background_information_tag %}
+            		<p>
+            			Background information was given through {{ component.background_information_tag | array_to_sentence_string: 'and' }}.
+            		</p>
+                {%- if component.background_information_described -%}
+            			{{ component.background_information_described | markdownify }}
+                {%- endif -%}
+          		{%- endif -%}
+            </div>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+
+      <h2>Sources</h2>
+
+      {%- for source_link in case.sources_link -%}
+        {%- assign source = site.pdg-sources | where: "slug", source_link | first -%}
+        <p>
+          <a href="{{ source.link }}">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;{{ source.title }}
+          </a>
+        </p>
+      {%- endfor -%}
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- if include.excerpt -%}
+  <div class="columns is-gapless case is-mobile is-hidden-tablet">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=case.content hidden='tablet' -%}
+      {%- include block.html square=true content=image background=include.caseBackground hidden='tablet' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image background=include.caseBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=case.content hidden='tablet' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless case">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=case.content hidden='touch' -%}
+      {%- include block.html content=title background=include.caseBackground -%}
+      {%- include block.html square=true content=image background=include.caseBackground hidden='mobile' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image  background=include.caseBackground hidden='mobile' -%}
+      {%- include block.html content=title background=include.caseBackground -%}
+      {%- include random-graphic-block.html seed=case.content hidden='touch' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless case">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include block.html square=true background=include.caseContrast hidden='touch' -%}
+      {%- include block.html wide=true content=content background=include.caseBackground -%}
+    {%- else -%}
+      {%- include block.html wide=true content=content background=include.caseBackground -%}
+      {%- include block.html square=true background=include.caseContrast hidden='touch' -%}
+    {%- endif -%}
+  </div>
+{%- else -%}
+  <div class="columns is-gapless case is-mobile is-hidden-desktop">
+    {%- capture nested -%}
+      <div class="content">
+        {{ metadata }}
+      </div>
+    {%- endcapture -%}
+    {%- include random-graphic-block.html seed=case.content hidden='desktop' -%}
+    {%- include block.html content=nested background=include.caseContrast hidden='desktop' -%}
+  </div>
+  <div class="columns is-gapless case">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=case.content nested=true -%}
+        {%- include block.html square=true nested=true content=metadata background=include.caseContrast -%}
+        {%- include block.html square=true nested=true background=include.caseContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.caseBackground -%}
+  </div>
+{%- endif -%}

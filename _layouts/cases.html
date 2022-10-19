@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">Case database</h1>
+<p class="subtitle">Participatory data governance examples and methods</p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+<section class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="subtitle">
+        This case database contains a diverse set of examples of collective and participatory data governance processes. You can read about the cases, or explore the <a href="#methods">different methods</a> that they use.
+      </div>
+      <p>
+        This is an alpha release. <a href="mailto:tim@connectedbydata.org">Let us know what you think.</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- for case in site.pdg-cases -%}
+  {%- capture section -%}
+    {%- capture caseBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture caseContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include case.html case=case excerpt=true imagePosition=imagePosition caseBackground=caseBackground caseContrast=caseContrast -%}
+  {%- endcapture -%}
+  {%- include section.html content=section -%}
+{%- endfor -%}
+
+<section id="methods" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Explore participatory methods
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture methods -%}
+  {%- assign seed = methods | map: "title" | join: "" -%}
+  {%- assign seed2 = methods | map: "content" | join: "" -%}
+  {%- capture methodsBlocks -%}
+    {%- for method in site.pdg-methods -%}
+      {%- capture content -%}
+        <div class="subpoint">
+          <p class="subtitle is-6">
+            <a href="{{ method.url | relative_url }}">
+              {{ method.title }}
+            </a>
+          </p>
+        </div>
+      {%- endcapture -%}
+      {%- include block.html square=true content=content -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include filler-blocks.html size=methods.size blocks=methodsBlocks seed1=seed seed2=seed2 -%}
+{%- endcapture -%}
+{%- include section.html content=methods -%}

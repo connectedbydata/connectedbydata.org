@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/cases">Case database</a></li>
+    <li><a href="/cases#methods">Methods</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- if page.description -%}
+<section class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="subtitle">
+        {{ page.content }}
+      </div>
+    </div>
+  </div>
+</section>
+{%- endif -%}
+
+{%- for case in site.pdg-cases -%}
+  {%- if case.primary_method_link contains page.slug -%}
+    {%- capture section -%}
+      {%- capture caseBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture caseContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include case.html case=case excerpt=true imagePosition=imagePosition caseBackground=caseBackground caseContrast=caseContrast -%}
+    {%- endcapture -%}
+    {%- include section.html content=section -%}
+  {%- endif -%}
+{%- endfor -%}
+
+</article>

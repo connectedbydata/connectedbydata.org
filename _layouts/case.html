@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/cases">Case database</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {{ page.lead_organisation }}
+		&#x25aa;
+		{% if page.start_year == page.end_year -%}
+			{{ page.start_year }}
+		{%- else -%}
+			{{ page.start_year }} - {{ page.end_year }}
+		{%- endif -%}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture caseBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign caseBackground = caseBackground | strip -%}
+{%- capture caseContrast -%}
+  {%- if caseBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif caseBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture case -%}
+  {%- include case.html case=page caseBackground=caseBackground caseContrast=caseContrast -%}
+{%- endcapture -%}
+{%- include section.html content=case -%}
+
+</article>
