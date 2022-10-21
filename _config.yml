@@ -56,6 +56,9 @@ collections:
   projects:
     output: true
     permalink: :collection/:name
+  policies:
+    output: true
+    permalink: :collection/:name
   pdg-cases:
     output: true
     permalink: cases/:name
@@ -86,6 +89,11 @@ defaults:
       type: 'pdg-methods'
     values:
       layout: 'method'
+  - scope:
+      path: ''
+      type: 'policies'
+    values:
+      layout: 'policy'
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:year/:month/:day/:slug

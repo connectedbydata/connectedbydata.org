@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture content -%}
+  <div class="content">
+    {{ page.content }}
+  </div>
+{%- endcapture -%}
+
+{%- capture policy -%}
+  <div class="columns is-gapless post is-mobile is-hidden-desktop">
+    {%- include random-graphic-block.html seed=page.content hidden='desktop' -%}
+    {%- include block.html square=true background='dark-green' hidden='desktop' -%}
+    {%- include block.html square=true nested=true background='dark-green' hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless post">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=page.content nested=true -%}
+        {%- include block.html square=true nested=true background='dark-green' -%}
+        {%- include block.html square=true nested=true background='dark-green' hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background='darkest-green' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=policy -%}
+
+</article>
