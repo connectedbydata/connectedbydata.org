@@ -7,7 +7,7 @@ terms: Employed/freelance contract until end of February 2023<br/>(with possibil
 working-hours: 7.5 hour days<br>7 - 12 days a month
 location: Fully remote<br>able to work hours overlapping UK time-zone
 deadline: 8am GMT Monday 31st October 2022
-expired: false
+expired: true
 ---
 
 We are recruiting a part-time **Research Associate** for Connected by Data on a short-term (renewable) contract.
