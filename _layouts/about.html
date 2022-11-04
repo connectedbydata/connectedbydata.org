@@ -223,6 +223,9 @@ layout: default
 
 {%- capture funding -%}
   {%- for funder in site.funders -%}
+    {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+    {%- capture funderBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
     {%- capture image -%}
       <div class="subpoint has-background-white">
         <figure class="image">
@@ -239,13 +242,26 @@ layout: default
       </div>
     {%- endcapture -%}
     <div class="columns is-gapless is-mobile is-hidden-tablet">
+      {%- if leftright == 'left' -%}
+      {%- include random-graphic-block.html seed=funder.title hidden='touch' -%}
+      {%- endif -%}
       {%- include block.html square=true content=image background='darker-green' hidden='tablet' -%}
-      {%- include block.html background='cube' hidden='tablet' -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=funder.title hidden='touch' -%}
+      {%- endif -%}
     </div>
     <div class="columns is-gapless">
+      {%- if leftright == 'left' -%}
+      {%- include random-graphic-block.html seed=funder.title hidden='touch' -%}
+      {%- else -%}
       {%- include block.html square=true content=image background='darker-green' hidden='mobile' -%}
+      {%- endif -%}
       {%- include block.html content=title background='darker-green' -%}
-      {%- include block.html background='cube' hidden='touch' -%}
+      {%- if leftright == 'right' -%}
+      {%- include random-graphic-block.html seed=funder.title hidden='touch' -%}
+      {%- else -%}
+      {%- include block.html square=true content=image background='darker-green' hidden='mobile' -%}
+      {%- endif -%}
     </div>
   {%- endfor -%}
 {%- endcapture -%}
