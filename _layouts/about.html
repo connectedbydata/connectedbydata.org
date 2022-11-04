@@ -222,30 +222,32 @@ layout: default
 </section>
 
 {%- capture funding -%}
-  {%- capture image -%}
-    <div class="subpoint has-background-white">
-      <figure class="image">
-        <a href="https://shuttleworthfoundation.org/">
-          <img src="/assets/shuttleworth-funded.png">
-        </a>
-      </figure>
+  {%- for funder in site.funders -%}
+    {%- capture image -%}
+      <div class="subpoint has-background-white">
+        <figure class="image">
+          <a href="{{ funder.link }}">
+            <img src="/assets/funders/{{ funder.image }}">
+          </a>
+        </figure>
+      </div>
+    {%- endcapture -%}
+    {%- capture title -%}
+      <div class="point">
+        <h3 class="title is-5"><a href="{{ funder.link }}">{{ funder.title }}</a></h3>
+        <div class="subtitle">{{ funder.content }}</div>
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless is-mobile is-hidden-tablet">
+      {%- include block.html square=true content=image background='darker-green' hidden='tablet' -%}
+      {%- include block.html background='cube' hidden='tablet' -%}
     </div>
-  {%- endcapture -%}
-  {%- capture title -%}
-    <div class="point">
-      <h3 class="title is-5"><a href="https://shuttleworthfoundation.org/">Shuttleworth Funded</a></h3>
-      <p class="subtitle">Jeni is a <a href="https://shuttleworthfoundation.org/fellows/">Shuttleworth Foundation Fellow</a>, which funds her time and contributes $275k to Connected by Data.</p>
+    <div class="columns is-gapless">
+      {%- include block.html square=true content=image background='darker-green' hidden='mobile' -%}
+      {%- include block.html content=title background='darker-green' -%}
+      {%- include block.html background='cube' hidden='touch' -%}
     </div>
-  {%- endcapture -%}
-  <div class="columns is-gapless is-mobile is-hidden-tablet">
-    {%- include block.html square=true content=image background='darker-green' hidden='tablet' -%}
-    {%- include block.html background='cube' hidden='tablet' -%}
-  </div>
-  <div class="columns is-gapless">
-    {%- include block.html square=true content=image background='darker-green' hidden='mobile' -%}
-    {%- include block.html content=title background='darker-green' -%}
-    {%- include block.html background='cube' hidden='touch' -%}
-  </div>
+  {%- endfor -%}
 {%- endcapture -%}
 {%- include section.html content=funding -%}
 

@@ -53,6 +53,8 @@ collections:
   resources:
     output: true
     permalink: :collection/:name
+  funders:
+    output: false
   projects:
     output: true
     permalink: :collection/:name
