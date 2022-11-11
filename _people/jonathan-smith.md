@@ -1,5 +1,8 @@
 ---
 layout: person
+roles:
+  - team
+redirect_from: /team/jonathan-smith
 title: Jonathan Smith
 role: Advocacy and Campaign Director
 order: 3

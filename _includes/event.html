@@ -1,5 +1,5 @@
 {%- assign event = include.event -%}
-{%- assign author = site.team | where: "title", event.author | first %}
+{%- assign author = site.people | where: "title", event.author | first %}
 {%- capture image -%}
   <figure class="image">
     <img src="/assets/events/{{ event.image }}">

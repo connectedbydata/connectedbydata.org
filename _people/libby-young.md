@@ -1,5 +1,8 @@
 ---
 layout: person
+roles:
+  - associate
+redirect_from: /associates/libby-young
 title: Libby Young
 role: Research associate
 picture: libby-young.jpg

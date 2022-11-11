@@ -1,5 +1,8 @@
 ---
 layout: person
+roles:
+  - team
+redirect_from: /team/tim-davies
 title: Tim Davies
 role: Research Director
 order: 2

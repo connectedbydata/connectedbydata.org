@@ -1,5 +1,5 @@
 {%- assign resource = include.resource -%}
-{%- assign author = site.team | where: "title", resource.author | first %}
+{%- assign author = site.people | where: "title", resource.author | first %}
 {%- capture image -%}
   <div class="resource-picture">
     <figure class="image">

@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
 
-{%- assign author = site.team | where: "title", page.author | first %}
+{%- assign author = site.people | where: "title", page.author | first %}
 {%- capture header -%}
   {%- capture breadcrumbs -%}
     <li><a href="/resources">Resources</a></li>

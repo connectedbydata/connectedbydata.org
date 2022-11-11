@@ -1,5 +1,8 @@
 ---
 layout: person
+roles:
+  - associate
+redirect_from: /associates/gavin-freeguard
 title: Gavin Freeguard
 role: Policy associate
 picture: gavin-freeguard.jpg

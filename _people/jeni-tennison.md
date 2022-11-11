@@ -1,5 +1,9 @@
 ---
 layout: person
+roles:
+  - team
+  - board
+redirect_from: /team/jeni-tennison
 title: Jeni Tennison
 role: Founder and Executive Director
 order: 1

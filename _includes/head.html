@@ -31,7 +31,7 @@
     {%- if page.collection == 'post' -%}
       <meta property="article:published_time" content="{{ page.date }}" />
       <meta property="article:author" content="{{ page.author }}" />
-      {%- assign author = site.team | where: "title", post.author | first %}
+      {%- assign author = site.people | where: "title", post.author | first %}
       <meta property="twitter:creator" content="{{ author.twitter }}" />
     {%- else -%}
       <meta property="og:type" content="article" />

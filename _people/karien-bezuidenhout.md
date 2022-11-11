@@ -1,5 +1,8 @@
 ---
 layout: person
+roles:
+  - board
+redirect_from: /team/karien-bezuidenhout
 title: Karien Bezuidenhout
 role: Non-Executive Director
 order: 4
