@@ -7,7 +7,7 @@ terms: Employed/freelance contract until end of February 2023<br/>(with possibil
 working-hours: 7.5 hour days<br>8 - 10 days a month
 location: Remote within the UK<br/>with fortnightly travel (mainly to London for face to face meetings and events)
 deadline: 8am GMT on Monday 7th November 2022
-expired: false
+expired: true
 ---
 
 We are recruiting a part-time Policy and Campaigns Associate for [Connected by Data](www.connectedbydata.org) on a short-term (renewable) contract.
