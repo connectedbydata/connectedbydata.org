@@ -109,7 +109,7 @@ layout: default
       <div class="icon">
         <figure class="image is-128x128">
           <a href="{{ person.url | relative_url }}">
-            <img src="/assets/team/{{ person.picture }}">
+            <img src="/assets/people/{{ person.picture }}">
           </a>
         </figure>
       </div>
@@ -160,6 +160,43 @@ layout: default
       {%- endif -%}
     </div>
   {%- endfor -%}
+  {%- capture content -%}
+    <div class="point">
+      <h3 class="title is-4">Associates</h3>
+      <h4 class="subtitle">Freelancers we work with</h4>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='medium-dots' hidden='touch' -%}
+    {%- include block.html content=content background='darkest-green' -%}
+    {%- include block.html background='darkest-green' hidden='mobile' -%}
+  </div>
+  {%- assign associates = site.associates -%}
+  {%- assign seed = associates | map: "title" | join: "" -%}
+  {%- assign seed2 = content -%}
+  {%- capture associatesBlocks -%}
+    {%- for associate in associates -%}
+      {%- capture content -%}
+        <div class="subpoint">
+          <figure class="image is-128x128">
+            <a href="{{ associate.url }}">
+              <img src="/assets/people/{{ associate.picture }}">
+            </a>
+          </figure>
+          <p class="title is-6">
+            <a href="{{ associate.url }}">{{ associate.title }}</a>
+          </p>
+          <p class="subtitle is-7 has-text-white">{{ associate.role }}</p>
+        </div>
+      {%- endcapture -%}
+      {%- include block.html square=true content=content -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include filler-blocks.html size=associates.size blocks=associatesBlocks seed1=seed seed2=seed2 -%}
+{%- endcapture -%}
+{%- include section.html content=team -%}
+
+{%- capture jobsSection -%}
   {%- assign openJobs = site.jobs | where: "expired", "false" -%}
   {%- capture jobs -%}
     <div class="point">
@@ -209,7 +246,7 @@ layout: default
     </div>
   {%- endfor -%}
 {%- endcapture -%}
-{%- include section.html content=team -%}
+{%- include section.html content=jobsSection -%}
 
 <section id="funding" class="hero has-text-centered has-text-link">
   <div class="hero-body">

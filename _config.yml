@@ -55,6 +55,12 @@ collections:
     permalink: :collection/:name
   funders:
     output: false
+  associates:
+    output: true
+    permalink: :collection/:name
+  fellows:
+    output: true
+    permalink: :collection/:name
   projects:
     output: true
     permalink: :collection/:name
