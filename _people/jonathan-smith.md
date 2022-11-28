@@ -5,7 +5,7 @@ roles:
 redirect_from: /team/jonathan-smith
 title: Jonathan Smith
 role: Advocacy and Campaign Director
-order: 3
+order: 2
 picture: jonathan.jpeg
 twitter: "@alburystreet"
 email: "jonathan@connectedbydata.org"
