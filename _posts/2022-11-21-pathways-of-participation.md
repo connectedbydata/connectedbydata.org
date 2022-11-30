@@ -11,6 +11,8 @@ _This post was originally written to [follow up a workshop of the Data Trusts In
 
 New institutions of data governance, such as data co-operatives and data trusts provide an important framework for enabling data stewardship to be better aligned with community or public interest (by contrast, for example, to corporate structures oriented towards prioritising shareholder interests). However, even with trusts or co-ops, for interest alignment to _actually_ take place, there is a need for ongoing and in-depth participatory practice. 
 
+<!--more-->
+
 This can often present data stewards with a number of challenges:
 
 
