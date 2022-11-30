@@ -14,7 +14,7 @@ We completed recruitment of a researcher [in response to our call](http://connec
 Libby has also been challenging us to think about the specific terminology around collective data governance, using Google NGrams to hold up a mirror to the use of different kinds of terminology that captures concepts beyond the individual, as in the chart below. 
 
 
-![Google NGRAMs viewer comparison for individual, relational, group, community, collective and public, showing public and group as the most used terms, and collective and relational as the least used.](2022-09-02-ngrams-narrative "Google NGRAMs viewer image")
+![Google NGRAMs viewer comparison for individual, relational, group, community, collective and public, showing public and group as the most used terms, and collective and relational as the least used.](/assets/blog/2022-09-02-ngrams-narrative.png "Google NGRAMs viewer image")
 
 
 We’ve got the first project milestone on the narrative research coming up mid-September, so I’m looking forward to sharing a bit more of what we’re learning then. 
