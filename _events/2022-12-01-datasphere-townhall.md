@@ -4,7 +4,7 @@ title: IGF 2022 Town Hall of the Internet & Jurisdiction Policy Network
 image: datasphere-initiative.png
 link: https://www.intgovforum.org/en/content/igf-2022-town-hall-45-town-hall-internet-jurisdiction-policy-network
 upcoming: false
-writeup: false
+writeup: true
 date: 2022-12-01
 author: Tim Davies
 category: partipating
