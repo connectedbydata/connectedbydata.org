@@ -14,7 +14,7 @@ During a session of the 2022 Internet Governance Forum, Tim spoke to the launch 
 
 <!--more-->
 
-Thes paper is one outcome of Tim's Fellowship at the Datasphere Initiative 2021/2022. It provides a preliminary mapping of academic literature on data governance and explores the emerging conceptual framework of the “Datasphere” and how it relates to current research.
+This paper is one outcome of Tim's Fellowship at the Datasphere Initiative 2021/2022. It provides a preliminary mapping of academic literature on data governance and explores the emerging conceptual framework of the “Datasphere” and how it relates to current research.
 
 > "In recent years, the term data governance has garnered growing attention. It has moved from being a niche topic, addressed solely as a technical aspect of data sharing projects, or within enterprise Information Communication Technology disciplines as a companion to data management, to becoming an umbrella for considering issues such as data protection and access to data. It has emerged as a key framework within which to address both the opportunities and the risks of data collection, sharing, and use. 
 > 
