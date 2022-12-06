@@ -4,7 +4,7 @@ title: Examining Cooperative Governance of Data & Technology - from Principles t
 image: CIFAR.png
 link: https://cifar.ca/ai/ai-and-society/cifar-solution-networks/data-communities-for-inclusion/
 upcoming: false
-writeup: false
+writeup: true
 date: 2022-11-04
 author: Tim Davies
 category: partipating
