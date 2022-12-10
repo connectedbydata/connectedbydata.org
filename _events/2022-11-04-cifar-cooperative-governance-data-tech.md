@@ -2,6 +2,7 @@
 layout: event
 title: Examining Cooperative Governance of Data & Technology - from Principles to Action.
 image: CIFAR.png
+add-background: true
 link: https://cifar.ca/ai/ai-and-society/cifar-solution-networks/data-communities-for-inclusion/
 upcoming: false
 writeup: true
