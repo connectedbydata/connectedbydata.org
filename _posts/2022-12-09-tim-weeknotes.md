@@ -65,7 +65,7 @@ And, of course, Land Portal is just one example of an 'insight infrastructure'. 
 
 ## Timely not fast
 
-In preparation for a roundtable next week, I've been reading Shushana Zuboff's latest paper on ['Surveilance Capitalsm or Democracy'](https://journals.sagepub.com/doi/full/10.1177/26317877221129290&source=gmail&ust=1670514920520000), which outlines how 'meaning blind' networks, driven by engagement metric feedback loops, can create a diet of information void of truthful or informative content. I was also exploring a little the 
+In preparation for a roundtable next week, I've been reading Shushana Zuboff's latest paper on ['Surveilance Capitalsm or Democracy'](https://journals.sagepub.com/doi/full/10.1177/26317877221129290&source=gmail&ust=1670514920520000), which outlines how 'meaning blind' networks, driven by engagement metric feedback loops, can create a diet of information void of truthful or informative content. 
 
 This got me reflecting on the traps that an 'insight infrastructure' of the form [we're helping Joseph Rowntree Foundation](https://connectedbydata.org/projects/2022-jrf-ecosystem) to scope out could fall into of prioritising 'fast' over 'deep' insight. 
 
