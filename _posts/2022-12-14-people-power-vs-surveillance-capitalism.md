@@ -7,6 +7,7 @@ category: blog
 
 Beset by train strikes and snow, a small group of us gathered this week in London for a Connected Conversation session with Professor Shoshana Zuboff, author of the 2019 book ‘[The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)’, and a new paper titled ‘[Surveillance Capitalism or Democracy? The Death Match of Institutional Orders and the Politics of Knowledge in Our Information Civilization](https://journals.sagepub.com/doi/full/10.1177/26317877221129290)’. Our discussion was framed by questions of strategy: what are the most promising avenues to encourage a rethinking of how data is governed, and how different strategies of organisations and movements fit together (or not)?
 
+<!--more-->
 
 ## Setting the challenge
 
