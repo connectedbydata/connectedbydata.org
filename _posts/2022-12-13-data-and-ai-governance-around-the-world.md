@@ -11,6 +11,7 @@ In our hour-long discussion we just scratched the surface of the different oppor
 
 Put briefly, contributions pointed to both opportunities to innovate and build models of collective data governance within existing and nascent legal frameworks, and to the need to critically engage with advancing data policy agendas to make sure they don’t narrow, undermine or sideline the space for data governance that takes account of community impacts and democratic voice. 
 
+<!--more-->
 
 ## Around the world
 
