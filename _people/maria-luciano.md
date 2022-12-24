@@ -13,6 +13,8 @@ Maria works at the intersection of law and technology, and has conducted researc
 
 Before joining Connected by data, she worked as a data protection researcher and consultant in Brazil in the private, public and third sectors.
 
+<!--more-->
+
 She participated in the Brazilian version of the Electronic Frontier Foundation’s “[Who has Your Back?](http://quemdefendeseusdados.org.br/en/rep-2018/)” Project. And co-authored the Brazilian chapter of the IT for Change’s grant “[Policy Frameworks for digital platforms – Moving from openness to inclusion](https://projects.itforchange.net/platformpolitics/wp-content/uploads/2020/04/Brazil-PDF.pdf)”. 
 
 Maria was the Brazil Sub-national Lead for the [Oxford COVID-19 Government Response Tracker (OxCGRT)](https://www.bsg.ox.ac.uk/blog/tracking-covid-19-policies-across-brazil-trackers-largest-subnational-project), hosted by the Blavatnik School of Government at University of Oxford. 
