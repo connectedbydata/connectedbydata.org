@@ -98,7 +98,10 @@ defaults:
       layout: 'policy'
 
 excerpt_separator: <!--more-->
-permalink: /:categories/:year/:month/:day/:slug
+permalink: "/:categories/:year/:month/:day/:slug"
+
+paginate: 20
+paginate_path: "/blog/archive:num/"
 
 background-colors:
   - dark-green
@@ -123,10 +126,12 @@ background-graphics:
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-paginate
 
 whitelist:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
