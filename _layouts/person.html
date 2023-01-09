@@ -30,6 +30,15 @@ layout: default
 
 {%- capture metadata -%}
 <div class="content">
+  {%- if page.mastodon -%}
+    {% assign mastodon = page.mastodon | split: '@' %}
+  <a href="https://{{mastodon[2]}}/@{{mastodon[1]}}" class="icon-text">
+    <span class="icon">
+      <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+    </span>
+    <span>{{ page.mastodon }}</span>
+  </a>
+  {%- endif -%}
   {%- if page.twitter -%}
   <a href="https://twitter.com/{{page.twitter}}" class="icon-text">
     <span class="icon">

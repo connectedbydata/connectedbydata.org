@@ -10,6 +10,7 @@ order: 1
 picture: jeni.jpg
 twitter: "@JeniT"
 email: "jeni@connectedbydata.org"
+mastodon: "@JeniT@mastodon.me.uk"
 ---
 Jeni is an expert in all things data, from technology, to governance, strategy, and public policy. She is the founder of [Connected by data](/), a [Shuttleworth Foundation Fellow](https://shuttleworthfoundation.org/fellows/) and an Affiliated Researcher at the [Bennett Institute for Public Policy](https://www.bennettinstitute.cam.ac.uk/).
 
