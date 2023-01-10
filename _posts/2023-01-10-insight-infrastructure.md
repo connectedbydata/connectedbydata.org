@@ -2,6 +2,7 @@
 layout: post
 author: Jeni Tennison
 category: news
+title: What is insight infrastructure?
 ---
 We are working on a [project with the Joseph Rowntree Foundation](https://connectedbydata.org/projects/2022-jrf-ecosystem) to help them understand the ecosystem around [their work to develop an insight infrastructure](https://www.jrf.org.uk/blog/how-we-approach-missing-data-could-unlock-social-and-economic-injustice) for social and economic inequalities, and how to engage with it.
 
