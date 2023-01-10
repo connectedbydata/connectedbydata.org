@@ -32,12 +32,13 @@ layout: default
 <div class="content">
   {%- if page.mastodon -%}
     {% assign mastodon = page.mastodon | split: '@' %}
-  <a href="https://{{mastodon[2]}}/@{{mastodon[1]}}" class="icon-text">
+  <a href="https://{{mastodon[2]}}/@{{mastodon[1]}}" class="icon-text" title="{{ page.mastodon }}">
     <span class="icon">
       <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
     </span>
-    <span>{{ page.mastodon }}</span>
+    <span>@{{ mastodon[1] }}</span>
   </a>
+  <br>
   {%- endif -%}
   {%- if page.twitter -%}
   <a href="https://twitter.com/{{page.twitter}}" class="icon-text">
@@ -46,8 +47,8 @@ layout: default
     </span>
     <span>{{ page.twitter }}</span>
   </a>
-  {%- endif -%}
   <br>
+  {%- endif -%}
   {%- if page.email -%}
   <a href="mailto:{{page.email}}" class="icon-text">
     <span class="icon">
