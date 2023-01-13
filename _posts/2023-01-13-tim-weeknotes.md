@@ -100,6 +100,6 @@ While my undergraduate training leaves me wanting to dig much deeper into this, 
 
 * I’ve been doing some updated work to explore how we have a simple CRM for Connected by Data that allows us to easily implement our data protection policy. I’ve still not found an off-the-shelf option that elegantly handles tracking the legal basis for information processing, supports easy deletion, and is designed for data minimisation rather than invasive data collection. Pointers welcome, but feeling like I might have to return to my ‘Plan b’ of Airtable + custom data management scripts.  
 
-* I added [Mastodon links to the website template](https://github.com/connectedbydata/connectedbydata.org/commit/280e2b4a3e11ef027d6707ed6db369eaf8e3248f). 
+* I added [Mastodon links to the website template](https://github.com/connectedbydata/connectedbydata.org/commit/280e2b4a3e11ef027d6707ed6db369eaf8e3248f) (and Jeni sorted the formatting! Thanks!) 
 
 Next week I’m looking forward to being in York on Monday for a workshop organised by Wellcome and Involve that is asking “How can data policy be informed by sustained and sustainable public engagement?”, and I’ll be digging into our case study collection to put together a lightning talk for that. 
