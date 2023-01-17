@@ -83,14 +83,25 @@ sources_link:
 - the-foundations-of-fairness-for-nhs-health-data-sharing
 start_year: '2019'
 status: Stage 1
+summary: 'A mixed-methods public engagement process exploring the question: ‘What
+  constitutes a fair partnership between the NHS and researchers, charities and industry
+  on the uses of NHS patients’ data and NHS operational data?’.
+
+
+  Three roundtable discussions with patient advocacy groups were used to develop materials
+  and refine research questions. These were used in three citizens’ juries, and findings
+  were validated through a 2000 person nationally representative online survey.'
 table: cases
 theme_tag:
 - Health
 title: 'Foundations of Fairness: NHS Data Sharing'
 whats_changed: "The recommendations have been published. As of project conclusion
   the funders write:\n\n> \"It is now for the UK government and NHS X to take action
-  in order \tto meet these expectations.\"\n> \n(Source: [Ada Lovelace Institute blog
-  post](https://www.adalovelaceinstitute.org/blog/the-foundations-of-fairness-for-nhs-health-data-sharing/))"
+  in order \tto meet these expectations.\"\n\n(Source: [Ada Lovelace Institute blog
+  post](https://www.adalovelaceinstitute.org/blog/the-foundations-of-fairness-for-nhs-health-data-sharing/))\n\nThe
+  project’s final report was used amongst the inputs to the National Data Guardian’s
+  2022 guidance on “[Evaluating public benefit when health and adult social care data
+  is used for purposes beyond individual care](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1124013/NDG_public_benefit_guidance_v1.0_-_14.12.22.pdf)”."
 ---
 
 > In June 2019 Understanding Patient Data and NHS England in association with the Ada Lovelace Institute, commissioned Hopkins Van Mil to carry out a mixed methods public engagement process, exploring the question: ‘What constitutes a fair partnership between the NHS and researchers, charities and industry on the uses of NHS patients’ data and NHS operational data?’ 

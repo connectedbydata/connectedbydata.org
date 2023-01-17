@@ -3,8 +3,10 @@ actor_responsible: New York City
 airtable_createdTime: '2022-05-11T10:49:37.000Z'
 airtable_id: recTUl9yG7JMm3Gjx
 attachments:
-- /assets/pdg/Source-TheDataAssembly-ResponsibleDataRe-useFramework.png
-- /assets/pdg/Findings-Source-TheDataAssembly-ResponsibleDataRe-useFramework.png
+- /assets/pdg/the-data-assembly-Source - The Data Assembly - Responsible Data Re-use
+  Framework.png
+- /assets/pdg/the-data-assembly-Findings - Source - The Data Assembly - Responsible
+  Data Re-use Framework.png
 collective_focus: The outcomes of the COVID-19 mini-publics addressed a range of collective
   or community benefits from data sharing, and expressed concern for communities who
   might be under-represented in current data. They include recommendations for ongoing
@@ -86,7 +88,24 @@ sources_link:
 - the-data-assembly-responsible-data-re-use-framework
 start_year: '2020'
 status: Stage 1
+summary: "The Data Assembly hosted discussions with three 'mini-publics', each representing
+  different stakeholder groups (data holders and policy makers; rights groups and
+  advocacy organisations; and citizens). The first two groups met via online meeting,
+  to discuss a range of data re-use scenarios. The citizen group were engaged through
+  an asynchronous online platform that invited response to key questions, and encouraged
+  engagement with responses from other citizens. \n\nThe organisers synthesised findings
+  into a Responsible Data Re-use Framework, designed to inform both the work of policymakers
+  and data holders, and to inform the development of data literacy programmes with
+  partners from New York Public Library and Brooklyn Public Library. This was presented
+  at an 'online Townhall' meeting."
 table: cases
+takaway: "The use of three separate mini-public approaches helped to:\n\n* ensure
+  that engagement was aligned with different participants’ level of familiarity and
+  experience; \n* avoid having the most experienced dominate the conversation; and\n*
+  allow room for participants representing certain communities or constituencies often
+  hard to reach through regular mini-publics to share their perspectives\n\nBy using
+  mini-publics, organisations can promote more sophisticated deliberations around
+  the use of data, responding to the concerns of additional stakeholders"
 theme_tag:
 - Health
 title: The Data Assembly

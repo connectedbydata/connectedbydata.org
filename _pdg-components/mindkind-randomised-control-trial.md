@@ -2,7 +2,7 @@
 airtable_createdTime: '2022-09-23T12:12:06.000Z'
 airtable_id: recBuPbJwLNbDD1Nq
 attachments:
-- /assets/pdg/image.png
+- /assets/pdg/mindkind-randomised-control-trial-image.png
 background_information_described: ''
 case_link:
 - mindkind-global-mental-health-databank-pilot
