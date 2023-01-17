@@ -78,7 +78,11 @@
 {%- capture content -%}
   <div class="content">
     {%- if include.excerpt -%}
-      {{ case.content | markdownify }}
+      {{ case.summary | markdownify }}
+      <a href="{{ case.url | relative_url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Learn more
+      </a>
     {%- else -%}
       <p>
         {{ image }}
