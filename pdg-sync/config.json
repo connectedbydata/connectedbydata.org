@@ -13,6 +13,21 @@
                 "short": "description",
                 "long": "Description"
             },
+            "fldPPk8Bx2UASepbx":
+            {
+                "short": "summary",
+                "long": "Summary"
+            },
+            "fldTDNfI46gcrHbmF":
+            {
+                "short": "findings",
+                "long": "Selected findings"
+            },
+            "fldCPoxaZlt82w1uh":
+            {
+                "short": "takaway",
+                "long": "Our takeaway"
+            },
             "fldMSnw7XEqbfGhFu": {
                 "short": "attachments",
                 "long": "Attachments"

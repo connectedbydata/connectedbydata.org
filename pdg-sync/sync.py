@@ -156,20 +156,20 @@ def record_map(apiID, on_field='airtable_id'):
 				base_map[filename.replace(".json","")] = table_map
 	return base_map
 
-def fetch_attachment(url):
+def fetch_attachment(url, filename):
 	output = pathlib.Path('../assets/pdg')
 	output.mkdir(parents=True, exist_ok=True)
-	filename = "../assets/pdg/{}".format(url.split("/").pop())
-	if exists(filename):
+	path = "../assets/pdg/{}".format(filename)
+	if exists(path):
 		pass
 	else:
 		print("Downloading {}".format(filename))
 		r = requests.get(url)  
-		with open(filename, 'wb+') as att:
+		with open(path, 'wb+') as att:
 			att.write(r.content)
 			att.close()
 	
-	return filename.replace("../","/")
+	return path.replace("../","/")
 
 def write_markdown(record, table, data, processed_cache):
 	# Make sure path exists
@@ -222,7 +222,7 @@ def write_markdown(record, table, data, processed_cache):
 			elif 'attachments' in field:
 				attachment_list = []
 				for attachment in value:
-					attachment_list.append(fetch_attachment(attachment['url']))
+					attachment_list.append(fetch_attachment(attachment['thumbnails']['large']['url'], "{}-{}".format(slug,attachment['filename'])))
 				post[field] = attachment_list
 			else:
 				post[field] = str(value).strip()
