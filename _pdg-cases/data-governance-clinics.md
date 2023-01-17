@@ -3,7 +3,8 @@ actor_responsible: urban technology projects
 airtable_createdTime: '2022-05-10T12:43:17.000Z'
 airtable_id: rec6J5xteVsCmWGtR
 attachments:
-- /assets/pdg/Source-DataGovernanceClinics-aNewApproachtoPublic-InterestTechnologyinCities.png
+- /assets/pdg/data-governance-clinics-Source - Data Governance Clinics -  a New Approach
+  to Public-Interest Technology in Cities.png
 collective_focus: The data governance clinics frame discussions in terms of public
   interest and value, emphasising a collective framework.
 components_link:
@@ -50,6 +51,9 @@ sources_link:
 - data-governance-clinics-a-new-approach-to-public-interest-technology-in-cities
 start_year: '2019'
 status: Stage 1
+summary: In two data governance clinics run by academics from the University of Tilberg
+  for projects in the city of Amsterdam, leaders of projects facing data governance
+  questions were supported to think through their projects, using a facilitated discussion.
 table: cases
 theme_tag:
 - Urban development & smart cities

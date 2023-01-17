@@ -2,8 +2,8 @@
 airtable_createdTime: '2022-09-23T12:12:22.000Z'
 airtable_id: recTgFxQQrpcndai6
 attachments:
-- /assets/pdg/image.png
-- /assets/pdg/image.png
+- /assets/pdg/mindkind-deliberative-democracy-sessions-image.png
+- /assets/pdg/mindkind-deliberative-democracy-sessions-image.png
 background_information_described: "Written, audio and video materials were provided
   in advance, and participants given an opportunity to ask questions of the research
   team.\t\nThese were carefully designed to be accessible to participants (see final
@@ -19,11 +19,11 @@ decision_methods_tag:
 description: "The project carried out two rounds of deliberative democracy sessions
   in each country.\nThe first round involved cohorts of five to seven participants
   all from the same country, provided with background materials, and invited to discuss
-  different data governance models and to explore= concerns and hopes around data
-  governance for a global mental health databank. \nThe second round involved cohorts
-  of 6 - 8 participants, drawing on participants from the previous cohort, but now
-  combining participants across countries, and holding two 60-minute sessions, seeking
-  to build on prior learning and explore similarities and differences between countries.\nThe
+  different data governance models and to explore concerns and hopes around data governance
+  for a global mental health databank. \nThe second round involved cohorts of 6 -
+  8 participants, drawing on participants from the previous cohort, but now combining
+  participants across countries, and holding two 60-minute sessions, seeking to build
+  on prior learning and explore similarities and differences between countries.\nThe
   study protocol outlines that: \n> \"Deliberative democracy is a distinct qualitative
   research approach, differing from focus groups by the purposeful provision of educational
   intervention to enrich group discussion. Further, there is an emphasis on discussion
@@ -54,7 +54,7 @@ title: 'MindKind: Deliberative Democracy Sessions'
 ---
 
 The project carried out two rounds of deliberative democracy sessions in each country.
-The first round involved cohorts of five to seven participants all from the same country, provided with background materials, and invited to discuss different data governance models and to explore= concerns and hopes around data governance for a global mental health databank. 
+The first round involved cohorts of five to seven participants all from the same country, provided with background materials, and invited to discuss different data governance models and to explore concerns and hopes around data governance for a global mental health databank. 
 The second round involved cohorts of 6 - 8 participants, drawing on participants from the previous cohort, but now combining participants across countries, and holding two 60-minute sessions, seeking to build on prior learning and explore similarities and differences between countries.
 The study protocol outlines that: 
 > "Deliberative democracy is a distinct qualitative research approach, differing from focus groups by the purposeful provision of educational intervention to enrich group discussion. Further, there is an emphasis on discussion leading to iterative revision of opinions as participants integrate new information and others’ perspectives."

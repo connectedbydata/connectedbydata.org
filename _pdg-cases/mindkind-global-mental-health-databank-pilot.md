@@ -87,7 +87,7 @@ governance_issues_description: 'Data should be available to researchers globally
 initiative_status: carried out
 lead_organisation: Wellcome Trust
 lense: both individual and collective data governance lenses
-link: https://wellcome.org/what-we-do/mental-health/projects/building-sustainable-and-fair-global-mental-health-databank
+link: https://wellcome.org/reports/mindkind-global-youth-data
 location_link:
 - missing-item
 - missing-item
@@ -110,10 +110,30 @@ sources_link:
 - mindkind-study-launch-presentation
 start_year: '2020'
 status: Stage 1
+summary: "The MindKind project put the voice of young people with lived experience
+  of mental health challenges at the heart of work to design and test the feasibility
+  of a Global Mental Health Databank. \n\nWorking across three countries, the project
+  involved youth advisors, young people's advisory panels, deliberative workshops
+  and a randomised control trial to explore attitudes towards different models for
+  governing collection and sharing of sensitive mental health data."
 table: cases
+takaway: The MindKind project report provides a wealth of practical learning on embedding
+  affected communities into the governance of a data project, and demonstrates ways
+  to make complex issues of health data governance accessible through careful design
+  and testing of materials for deliberative dialogue.
 theme_tag:
 - Health
 title: 'MindKind: Global mental health databank pilot'
+whats_changed: "The results of this engagement were used to produce an assessment
+  against four ‘Go/No-go’ criteria, resulting in a judgement that the project was
+  viable against ‘data governance and ethics’ and ‘data specification and structure’
+  criteria, uncertain against criteria on engagement levels, and raising a ‘Stop’
+  flag against ‘funding sustainability’ due to concerns about commercialisation of
+  young people’s mental health data. \n\nFindings were also written up as a ‘data
+  governance specification’ to be used in the design of any future stages of the databank
+  development.\n\nAs of December 2022 we have not found evidence on the next steps
+  o the Databank project, and how MindKind ultimately changes final project design
+  or delivery."
 ---
 
 Wellcome trust commissioned Sage Bionetworks (Sage) to carry out feasibility tests and prototype a global mental health databank (GMHD) to capture rich, longitudinal, electronically-derived data from young people with a focus on mental health, and to support research into the approaches, treatments, and interventions that may be relevant to anxiety or depression in 14-24 year olds.

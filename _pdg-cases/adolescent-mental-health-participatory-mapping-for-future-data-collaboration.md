@@ -3,7 +3,7 @@ actor_responsible: future research projects
 airtable_createdTime: '2022-05-20T09:43:02.000Z'
 airtable_id: reccFSXhKtA5xxpFM
 attachments:
-- /assets/pdg/AMH_Topic_Map_Graphic_fullsize-2048x1404.jpeg
+- /assets/pdg/adolescent-mental-health-participatory-mapping-for-future-data-collaboration-AMH_Topic_Map_Graphic_fullsize-2048x1404.jpeg
 collective_focus: "Many of the topics raised in the research map have a collective
   aspect, such as peer-groups, youth engagement, migration and provision of services
   to young people. \n\nHowever, the focus of the participation activity does not appear
@@ -59,6 +59,11 @@ sources_link:
 - adolescent-mental-health-using-a-participatory-mapping-methodology-to-jointly-identify-key-topics-questions-and-priorities-for-future-work-and-data-collaboration-evidence-for-action
 start_year: '2020'
 status: Stage 1
+summary: "The GovLab, in partnership with UNICEF’s Health and HIV team in the Division
+  of Data, Analysis, Planning & Monitoring and the Data for Children Collaborative,
+  ran a rapid process to develop, refine and validate a topic map on research issues
+  in Adolescent Mental Health, with the goal of informing the design and prioritisation
+  of future\t data collaboratives."
 table: cases
 theme_tag:
 - Health
