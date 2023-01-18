@@ -105,60 +105,7 @@ layout: default
     {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
     {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
-    {%- capture image -%}
-      <div class="icon">
-        <figure class="image is-128x128">
-          <a href="{{ person.url | relative_url }}">
-            <img src="/assets/people/{{ person.picture }}">
-          </a>
-        </figure>
-      </div>
-    {%- endcapture -%}
-    {%- capture title -%}
-      <div class="point">
-        <h3 class="title is-5"><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
-        <p class="subtitle">{{ person.role }}</p>
-      </div>
-    {%- endcapture -%}
-    {%- capture bio -%}
-      <div class="content">
-        {{ person.excerpt | markdownify }}
-        <p>
-          <a href="{{ person.url | relative_url }}">
-            <i class="fas fa-arrow-alt-circle-right"></i>
-            &nbsp;Read more
-          </a>
-        </p>
-      </div>
-    {%- endcapture -%}
-    <div class="columns is-gapless is-mobile person is-hidden-tablet">
-      {%- if leftright == 'left' -%}
-      {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
-      {%- endif -%}
-      {%- include block.html square=true content=image background=personBackground hidden='tablet' -%}
-      {%- if leftright == 'right' -%}
-      {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
-      {%- endif -%}
-    </div>
-    <div class="columns is-gapless person">
-      {%- if leftright == 'left' -%}
-      {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
-      {%- endif -%}
-      {%- include block.html square=true content=image background=personBackground hidden='mobile' -%}
-      {%- include block.html short=true content=title background=personBackground -%}
-      {%- if leftright == 'right' -%}
-      {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
-      {%- endif -%}
-    </div>
-    <div class="columns is-gapless person">
-      {%- if leftright == 'left' -%}
-      {%- include block.html square=true background=contrast hidden='touch' -%}
-      {%- endif -%}
-      {%- include block.html wide=true content=bio background=personBackground -%}
-      {%- if leftright == 'right' -%}
-      {%- include block.html square=true background=contrast hidden='touch' -%}
-      {%- endif -%}
-    </div>
+    {%- include person.html person=person personBackground=personBackground contrast=contrast leftright=leftright -%}
   {%- endfor -%}
 
   {%- capture content -%}
@@ -228,6 +175,46 @@ layout: default
     {%- endfor -%}
   {%- endcapture -%}
   {%- include filler-blocks.html size=associates.size blocks=associatesBlocks seed1=seed seed2=seed2 -%}
+
+  {%- capture content -%}
+    <div class="point">
+      <h3 class="title is-4">Fellows</h3>
+      <h4 class="subtitle">People we support and mentor</h4>
+      <p class="is-size-6">
+        <a href="/fellowship">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;Read more
+        </a>
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='mobile' -%}
+    {%- include block.html content=content background='dark-green' -%}
+    {%- include block.html background='small-triangles' hidden='touch' -%}
+  </div>
+  {%- assign fellows = site.people | where: "roles", "fellow" | sort: "title" -%}
+  {%- assign seed = fellows | map: "title" | join: "" -%}
+  {%- assign seed2 = content -%}
+  {%- capture fellowsBlocks -%}
+    {%- for fellow in fellows -%}
+      {%- capture content -%}
+        <div class="subpoint">
+          <figure class="image is-128x128">
+            <a href="{{ fellow.url }}">
+              <img src="/assets/people/{{ fellow.picture }}">
+            </a>
+          </figure>
+          <p class="title is-6">
+            <a href="{{ fellow.url }}">{{ fellow.title }}</a>
+          </p>
+          <p class="subtitle is-7 has-text-white">{{ fellow.role }}</p>
+        </div>
+      {%- endcapture -%}
+      {%- include block.html square=true content=content -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include filler-blocks.html size=fellows.size blocks=fellowsBlocks seed1=seed seed2=seed2 -%}
 {%- endcapture -%}
 {%- include section.html content=team -%}
 

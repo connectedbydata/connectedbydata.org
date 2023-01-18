@@ -1,0 +1,59 @@
+{%- assign person = include.person %-}
+{%- assign personBackground = include.personBackground -%}
+{%- assign contrast = include.contrast -%}
+{%- assign leftright = include.leftright -%}
+
+{%- capture image -%}
+  <div class="icon">
+    <figure class="image is-128x128">
+      <a href="{{ person.url | relative_url }}">
+        <img src="/assets/people/{{ person.picture }}">
+      </a>
+    </figure>
+  </div>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h3 class="title is-5"><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+    <p class="subtitle">{{ person.role }}</p>
+  </div>
+{%- endcapture -%}
+{%- capture bio -%}
+  <div class="content">
+    {{ person.excerpt | markdownify }}
+    <p>
+      <a href="{{ person.url | relative_url }}">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Read more
+      </a>
+    </p>
+  </div>
+{%- endcapture -%}
+<div class="columns is-gapless is-mobile person is-hidden-tablet">
+  {%- if leftright == 'left' -%}
+  {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
+  {%- endif -%}
+  {%- include block.html square=true content=image background=personBackground hidden='tablet' -%}
+  {%- if leftright == 'right' -%}
+  {%- include random-graphic-block.html seed=person.title hidden='tablet' -%}
+  {%- endif -%}
+</div>
+<div class="columns is-gapless person">
+  {%- if leftright == 'left' -%}
+  {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
+  {%- endif -%}
+  {%- include block.html square=true content=image background=personBackground hidden='mobile' -%}
+  {%- include block.html short=true content=title background=personBackground -%}
+  {%- if leftright == 'right' -%}
+  {%- include random-graphic-block.html seed=person.title hidden='touch' -%}
+  {%- endif -%}
+</div>
+<div class="columns is-gapless person">
+  {%- if leftright == 'left' -%}
+  {%- include block.html square=true background=contrast hidden='touch' -%}
+  {%- endif -%}
+  {%- include block.html wide=true content=bio background=personBackground -%}
+  {%- if leftright == 'right' -%}
+  {%- include block.html square=true background=contrast hidden='touch' -%}
+  {%- endif -%}
+</div>
