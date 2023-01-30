@@ -4,11 +4,22 @@ author: Jeni Tennison
 category: news
 title: What is insight infrastructure?
 ---
+
 We are working on a [project with the Joseph Rowntree Foundation](https://connectedbydata.org/projects/2022-jrf-ecosystem) to help them understand the ecosystem around [their work to develop an insight infrastructure](https://www.jrf.org.uk/blog/how-we-approach-missing-data-could-unlock-social-and-economic-injustice) for social and economic inequalities, and how to engage with it.
 
 One of the things that’s been a bit challenging to pin down is how to think about what an “insight infrastructure” actually is or does. Is it just a fancy name for what’s essentially a data portal? Or the long term development of system-wide change? Is it intended to be a set of services that JRF will provide? Or a shared movement they’re building? I’ve been drawing on previous work to provide a couple of ways of thinking about what insight and insight infrastructures actually are.
 
 <!--more-->
+
+> **Call for input: survey and workshops**
+>
+> Does your work address poverty, economic or social inequality in the UK? What difference would it make if you had more granular or real-time data? What lived experience insights could help your planning or practice? Which communities might be affected most?
+>
+> Please take a few minutes to tell us about data, information and insights that you create, steward or use to address poverty, social & economic inequality in the UK [in this short survey](https://jrfinsight.limesurvey.net/472946?lang=en). 
+>
+> You can also opt-in to hear about follow up interview and workshop opportunities.
+>
+> [Respond to the survey here by 10th Feb 2023](https://jrfinsight.limesurvey.net/472946?lang=en).
 
 ## What is insight?
 
