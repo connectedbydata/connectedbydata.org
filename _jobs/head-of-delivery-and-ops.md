@@ -29,7 +29,7 @@ This is a great opportunity to influence the future of how data works in our soc
 
 ## Who are you?
 
-As our Head of Delivery, you’ll be good at:
+As our Head of Delivery and Operations, you’ll be good at:
 
 * Picking things up and trying stuff out
 * Clear and efficient communication
