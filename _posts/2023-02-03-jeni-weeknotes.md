@@ -1,3 +1,8 @@
+---
+layout: post
+author: Jeni Tennison
+category: weeknotes
+---
 ## Strategy day
 
 A couple of weeks ago, I got together with Tim and Jonathan to review where we were and what we want to focus on over the next year.
