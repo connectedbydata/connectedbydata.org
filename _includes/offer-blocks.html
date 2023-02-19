@@ -1,0 +1,43 @@
+{%- capture help -%}
+  {%- capture organisation -%}
+    <div class="point">
+      <h3 class="title is-4">Do you collect, use or share data?</h3>
+      <h4 class="subtitle is-hidden-tablet-only">We can help you build trust with your customers, clients or citizens</h4>
+      <p class="is-size-6">
+        <a href="/offer/organisation">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;Read more
+        </a>
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='imperfect-circle' hidden='mobile' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+    {%- include block.html content=organisation background='dark-green' -%}
+  </div>
+
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='imperfect-circle' -%}
+    {%- include block.html background='darkest-green' -%}
+  </div>
+
+  {%- capture community -%}
+    <div class="point">
+      <h3 class="title is-4">Do you want data to be used in your community’s interests?</h3>
+      <h4 class="subtitle is-hidden-tablet-only">We can help you organise to ensure that data benefits your community</h4>
+      <p class="is-size-6">
+        <a href="/offer/community">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;Read more
+        </a>
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html content=community background='darkest-green' -%}
+    {%- include block.html background='triangle' hidden='touch' -%}
+    {%- include block.html background='darker-green' hidden='mobile' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=help -%}
