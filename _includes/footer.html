@@ -1,3 +1,17 @@
+{%- assign firstPartOfPath = page.path | slice: 0, 5 -%}
+{%- if firstPartOfPath != "offer" -%}
+<section id="offer" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Need help?
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- include offer-blocks.html -%}
+{%- endif -%}
 
 <section id="involved" class="hero is-halfheight has-text-centered has-text-link">
   <div class="hero-body">

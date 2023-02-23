@@ -1,0 +1,110 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">{{ page.title }}</h1>
+<p class="subtitle">{{ page.subtitle }}</p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- if page.content != "" -%}
+  {%- capture offer -%}
+    {%- capture content -%}
+      <div class="content">
+        {{ page.content | markdownify }}
+      </div>
+    {%- endcapture -%}
+
+    <div class="columns is-gapless post">
+      <div class="column has-nested is-hidden-touch">
+        <div class="columns is-gapless">
+          {%- include random-graphic-block.html seed=page.content nested=true -%}
+          {%- include random-color-block.html seed=page.content square=true nested=true -%}
+          {%- include random-color-block.html seed=page.content square=true nested=true -%}
+        </div>
+      </div>
+      {%- include block.html wide=true content=content background=include.postBackground -%}
+    </div>
+  {%- endcapture -%}
+  {%- include section.html content=offer -%}
+{%- else -%}
+  {%- include offer-blocks.html -%}
+{%- endif -%}
+
+<section class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        How we work
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture howWeWork -%}
+  {%- assign heading1 = "We work openly, collaboratively and relationally" -%}
+  {%- capture text1 -%}
+    <div class="point">
+      <h3 class="subtitle">
+        We will blog and tweet about our work, while being aware and respectful of confidentiality and the impact on those involved. We will share outputs via Google Docs early and often, and work collaboratively on them with our partners.
+      </h3>
+    </div>
+  {%- endcapture -%}
+
+  {%- assign heading2 = "We work with an awareness of power, privilege and pluralism" -%}
+  {%- capture text2 -%}
+    <div class="point">
+      <h3 class="subtitle">
+        We will strive to engage a representative and diverse set of people in the delivery of our work, and to amplify the voices of those who are typically under-represented.
+      </h3>
+    </div>
+  {%- endcapture -%}
+
+  {%- assign heading3 = "We play a bridging&nbsp;role&nbsp;and connect&nbsp;communities" -%}
+  {%- capture text3 -%}
+    <div class="point">
+      <h3 class="subtitle">
+        We translate between technology, policy and research worlds. We make connections between grassroots groups and global networks. After delivering our work, we will continue to drive its dissemination into our future work and wider communities.
+      </h3>
+    </div>
+  {%- endcapture -%}
+
+  <div class="columns is-gapless">
+    {%- include page-block.html content=heading1 background='dark-green' -%}
+    {%- include block.html background='mountain' hidden='mobile' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html content=text1 background='dark-green' wide=true -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='mountain' -%}
+    {%- include block.html background='darkest-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='rainbow' hidden='mobile' -%}
+    {%- include page-block.html content=heading2 background='darkest-green' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include block.html content=text2 background='darkest-green' wide=true -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darker-green' -%}
+    {%- include block.html background='rainbow' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include block.html background='stairs' hidden='touch' -%}
+    {%- include page-block.html content=heading3 background='darker-green' -%}
+    {%- include block.html background='stairs' hidden='desktop is-hidden-mobile' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- include block.html content=text3 background='darker-green' wide=true -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=howWeWork -%}
