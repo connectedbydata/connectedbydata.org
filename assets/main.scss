@@ -107,6 +107,10 @@ $footer-color: white;
   font-size: 1.2em;
 }
 
+.content li + li {
+  margin-top: 0.75em;
+}
+
 .has-background-dark-green {
   background-color: $dark-green;
 }

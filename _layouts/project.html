@@ -36,4 +36,26 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=project -%}
 
+{%- if page.resources -%}
+  <section id="drafts" class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Project reports
+        </p>
+      </div>
+    </div>
+  </section>
+{%- capture resources -%}
+  {%- for resourceRef in page.resources -%}
+    {%- assign resource = site.resources | where: "reference", resourceRef | first -%}
+    {%- capture resourceBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
+    {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+    {%- include resource.html resource=resource excerpt=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=resources -%}
+{%- endif -%}
+
 </article>
