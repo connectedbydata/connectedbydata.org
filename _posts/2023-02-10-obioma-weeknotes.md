@@ -2,6 +2,8 @@
 layout: post
 author: Obioma Egemonye
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
 ---
 As we progress through the stages of our work with the Joseph Rowntree foundation, I’ve picked up a lot of different nuggets of information; both practical and theoretical.
 

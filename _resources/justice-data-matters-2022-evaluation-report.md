@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Justice Data Matters 2022: Evaluation Report"
+project: Justice Data Matters Evaluation
 reference: justice-data-matters-2022-evaluation-report
 author: Tim Davies
 date: 2023-02-23

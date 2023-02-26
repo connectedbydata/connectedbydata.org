@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 I enjoy the summer weeks, which events are scheduled to avoid and when everything just happens at a slower pace. It's a good time for doing those important-but-not-urgent tasks and tying up loose ends.
 

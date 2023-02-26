@@ -2,6 +2,9 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
+  - Justice Data Matters Evaluation
 ---
 
 ## The swimming pool problem

@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 I wrote my three reflections for the week below and then realised that they were all really negative! I’m sorry about that; it must be the general state of the nation rubbing off on me…
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 author: Tim Davies
-title: Discovering what works - thinking about effective insight infrastructures.
+title: Discovering what works - thinking about effective insight infrastructures
+projects: 
+  - Ecosystem Mapping and Engagement
 category: blog
 ---
 

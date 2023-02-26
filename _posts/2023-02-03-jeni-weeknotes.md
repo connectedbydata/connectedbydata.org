@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 ## Strategy day
 

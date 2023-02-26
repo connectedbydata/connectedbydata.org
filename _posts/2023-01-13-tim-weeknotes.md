@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
 ---
 
 

@@ -3,8 +3,6 @@ layout: project
 title: Justice Data Matters Evaluation
 subtitle: The Legal Education Foundation
 image: the-legal-education-foundation.png
-resources:
-  - justice-data-matters-2022-evaluation-report
 ---
 Connected by Data has been commissioned by the [Legal Education Foundation](https://thelegaleducationfoundation.org/) to conduct an evaluation of the public deliberation exercise that led to the report [Justice Data Matters: Building a public mandate for court data use](https://research.thelegaleducationfoundation.org/research-learning/funded-research/justice-data-matters-building-a-public-mandate-for-court-data-use) in order to surface lessons for similar future exercises within and outside the UK justice system.
 

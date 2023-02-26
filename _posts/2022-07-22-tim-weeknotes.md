@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 
 Well, as Jonathan said but two weeks ago, a week’s a long time… Just as we thought ministerial mayhem might mean we had a bit longer before the ‘Data Reform Bill’ (DRB) would be out, on Monday this week the ‘Data Protection and Digital Information Bill’ dropped (DPDIB) revealing not only the new name, but the scope, for the DRB. We’ve got a team retreat next week where we’ll be digging into the detail of the Connected by Data response, but suffice to say that, right now, collective impacts and public voice do not feature as strongly as we think they could and should. 

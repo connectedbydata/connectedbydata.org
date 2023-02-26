@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 
 There are a couple of themes that have run through this week that I've been trying to reflect on for this week's weeknotes. The first of those is around the role of narratives and imagination, and the second, on approaches to legislating around data protection and sharing. 

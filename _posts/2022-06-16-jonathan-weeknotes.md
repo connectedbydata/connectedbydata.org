@@ -2,6 +2,8 @@
 layout: post
 author: Jonathan Smith
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 These notes cover a couple of weeks. I don’t seem to have found Jeni and Tim’s rhythm yet  - but fortnightly seems ok at the moment. Otherwise I’ll be in danger of repeating myself, which is something I’m occasionally accused of…
 

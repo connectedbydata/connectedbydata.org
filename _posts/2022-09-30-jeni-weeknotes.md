@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 OK, I’m cheating, and actually writing this on 7th October. But I wanted to make sure that I recorded what was a really good week :) Three good things…
 

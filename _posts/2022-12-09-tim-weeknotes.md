@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
 ---
 
 Bumper weeknotes this week, as I've had lots of time on trains for writing ([and some sightseeing too](https://social.coop/@timdavies/109472214242075072)).

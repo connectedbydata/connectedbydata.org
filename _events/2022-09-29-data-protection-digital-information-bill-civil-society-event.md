@@ -8,6 +8,7 @@ writeup: true
 date: 2022-09-29
 author: Jonathan Smith
 category: organising
+project: Our Data Futures
 ---
 
 **On 30th September 2022, CONNECTED** BY **DATA organised a civil society workshop to explore the Data Protection and Digital Information Bill.**

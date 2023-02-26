@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 The last couple of weeks have really been focused on our response to the Data Protection and Digital Information Bill, and starting to coordinate with other people and organisations who have Opinions about it.
 

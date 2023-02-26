@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 I had a busy start to the week with two trips into London, and a frustrating end to it, waking up on Friday morning without any power (or heat) in my house, just as a cold snap hit the UK. The latter made me think a lot about those hit badly by the cost of living crisis, and having to [choose between heating and eating](https://www.jrf.org.uk/report/not-heating-eating-or-meeting-bills-managing-cost-living-crisis-low-income). Talking of which, I noticed [Stuart Lowe](https://mastodon.me.uk/@slowe) put together a [warm spaces finder](https://open-innovations.github.io/warm-spaces/find).
 

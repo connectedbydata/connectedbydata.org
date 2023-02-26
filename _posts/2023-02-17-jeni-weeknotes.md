@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
 ---
 It's been a couple of weeks since my last weeknotes, so here's a quick overview of some of what I've been up to.
 

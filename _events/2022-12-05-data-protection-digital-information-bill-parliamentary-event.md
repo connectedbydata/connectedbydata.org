@@ -8,6 +8,7 @@ writeup: true
 date: 2022-12-05
 author: Gavin Freeguard
 category: organising
+project: Our Data Futures
 ---
 
 **On 5th December 2022, CONNECTED** BY **DATA organised an event in parliament, hosted and chaired by Lord Tim Clement-Jones, to explore three key areas around the future of data governance: automated decision-making, data at work and data in schools.**

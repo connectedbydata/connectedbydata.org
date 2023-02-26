@@ -2,6 +2,9 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Justice Data Matters Evaluation
+  - Our Data Futures
 ---
 
 As it turned out, most weeks in August I’ve was spending my Friday afternoons pitching a tent in different campsites or fields for summer holiday travels, and that rather wiped out time for weeknote reflections. So, with the tent now stowed in the garage until next year (or perhaps, one last outing if we get a warm October half-term), I’m looking back over August for a month-note of project updates.

@@ -2,6 +2,10 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
+  - Justice Data Matters Evaluation
+  - Our Data Futures
 ---
 The main thing I want to muse over a little this week arose from a lovely conversation with [Renate](https://twitter.com/renatesamson) that I had, in which I got fixated on the word “harmony” as a way of describing the kind of societal settlement (around data) that we should be aiming towards.
 

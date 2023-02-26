@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 I have to admit this week has been somewhat disrupted due to the arrival of a lovely but very active puppy (an 11 week old Gordon Setter) in our lives! I am having to relearn the lessons of early parenthood, both about managing on diminished sleep and fitting work around naptimes.
 

@@ -2,6 +2,9 @@
 layout: post
 author: Obioma Egemonye
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
+  - Our Data Futures
 ---
 
 ## Joining Connected BY Data

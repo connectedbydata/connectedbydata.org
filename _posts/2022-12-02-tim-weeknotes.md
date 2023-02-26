@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Justice Data Matters Evaluation
 ---
 
 ## Research team news

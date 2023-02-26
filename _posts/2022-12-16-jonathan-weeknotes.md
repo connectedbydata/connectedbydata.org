@@ -2,6 +2,8 @@
 layout: post
 author: Jonathan Smith
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 
 Having failed to publish any week notes for sometime - here’s a bumper Christmas addition to see you though the whole of December.

@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 First, a confession. I have been really struggling with writing weeknotes, as have Tim and Jonathan. Fitting them in amongst everything else is difficult, especially when only working part time. We had our monthly meetup this week (more below) and decided we’d set the bar too high. Our weeknotes have been a place for exploring ideas, and sometimes writing those ideas up just takes longer than a week. It also means that content is not very findable. So we made the decision to experiment with a shorter and simpler form of weeknotes: three brief takeaways in no more than 500 words (and preferably much less).
 

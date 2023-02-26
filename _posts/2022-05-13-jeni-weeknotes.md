@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 The big news this week is that our new Advocacy and campaign director’s contract is signed, so I can share who it is! [Jonathan Smith](https://www.linkedin.com/in/jonathan-smith-01aa7716/) has been Head of Campaigns at [Shelter](https://www.shelter.org.uk/) for the last four years and before that at the [Fairtrade Foundation](https://www.fairtrade.org.uk/) as well as having previously worked at other organisations such as [Save the Children](https://www.savethechildren.org.uk/), [Help the Aged](https://en.wikipedia.org/wiki/Help_the_Aged) and [Comic Relief](https://www.comicrelief.com/). He isn’t from the world of data, but I definitely count this as an advantage, as we want to find ways of talking about collective data governance in ways that make sense for people who aren’t embedded in this space. I’m very much looking forward to Jonathan joining the team and introducing him to everyone!
 

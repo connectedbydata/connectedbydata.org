@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 News of the week is that I finally managed to complete my written response to the [Paradox of Open essay](https://paradox.openfuture.eu/). It's with [Alek Tarkowski](https://twitter.com/atarkowski?lang=en) at [Open Future](https://openfuture.eu/) now and will get published soonish. The basic argument is that openness is about working together, building creative communities, and that requires us to look beyond licensing of assets.
 

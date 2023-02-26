@@ -2,6 +2,8 @@
 layout: post
 author: Tim Davies
 category: weeknotes
+projects:
+  - Justice Data Matters Evaluation
 ---
 
 This has been a week of many threads, some starting to weave together, others just emerging as threads to pull at and explore more. I’ve tried to capture some in the bigger block of reflection below, in addition to which, the last few weeks have involved:

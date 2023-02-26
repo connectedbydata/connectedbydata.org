@@ -2,6 +2,8 @@
 layout: post
 author: Obioma Egemonye
 category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
 ---
 
 Beginning this January, we’ve really begun to get deeper into our work with the Joseph Rowntree Foundation and have started to engage with a variety of different stakeholders for the ecosystem mapping project. So a lot of my learning from the past weeks has been understood in the context of the project.

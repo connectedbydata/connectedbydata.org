@@ -3,6 +3,8 @@ layout: post
 author: Jeni Tennison
 title: What’s our vision of British data protection?
 category: blog
+projects:
+  - Our Data Futures
 ---
 Michelle Donelan, the Secretary of State for the Department of Digital, Culture, Media and Sport (DCMS), [announced a new, British, approach to data protection](https://www.ukpol.co.uk/michelle-donelan-2022-speech-to-conservative-party-conference/) at the October 2022 Conservative Party Conference. It seems the Johnson government’s [new direction for data](https://www.gov.uk/government/consultations/data-a-new-direction), which culminated in the [Data Protection and Digital Information Bill](https://bills.parliament.uk/bills/3322) introduced in Parliament in July, is to be revised through [more consultation](https://techmonitor.ai/policy/geopolitics/data-protection-bill-uk-gdpr-replacement-brexit), though it appears [not a public one](https://www.linkedin.com/feed/update/urn:li:activity:6996075713674027009/).
 

@@ -2,6 +2,8 @@
 layout: post
 author: Jonathan Smith
 category: weeknotes
+projects:
+  - Our Data Futures
 ---
 
 ## A week’s a long time….
