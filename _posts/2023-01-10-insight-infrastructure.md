@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jeni Tennison
-category: news
+category: blog
 title: What is insight infrastructure?
 ---
 
