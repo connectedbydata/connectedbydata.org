@@ -7,7 +7,7 @@ terms: Permanent
 working-hours: 7.5 hour days<br>3-4 days/week
 location: Fully remote or hybrid (London)<br>UK timezone
 deadline: 8am GMT Monday 27th February
-expired: false
+expired: true
 ---
 **CONNECTED** BY **DATA** was established in March 2022 as a campaigning organisation working to put community at the heart of data narratives, policy and practices, and to advocate for collective and open data governance. Since then, we’ve grown from a single founder and funder, to a team of six on two continents, attracted funding from seven more donors and clients, and are working on a growing range of research, practice and policy projects, almost all involving a range of UK or international partners.
 
