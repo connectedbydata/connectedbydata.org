@@ -12,7 +12,7 @@ The central thrust of the Connected by Data campaign is that the use of data-dri
 
 This has been my work over the past couple of weeks. A task that a contact at a UK trade union described as “the elusive human stories. The holy grail no one has yet nailed”. Finding these stories is tough, but important for bringing to life – and down to earth – an area that is too often marked with dystopian hyperbole or the sort of technocratic boosterism that Harold Wilson described in his [historic speech](https://raw.githubusercontent.com/SubtleEngine/Political-Parties-Technology/master/White%20Heat%20of%20Technology/White%20Heat%20of%20Technology.txt) as the “blind imposition of technological advance”. Both versions lose sight of the human. 
 
-As well as a more rounded and accurate story, it can also serve to elevate the voices of people who are both data and ‘decision subjects’ – people who will be affected by decisions, whether or not their personal data is involved or not. 
+As well as a more rounded and accurate story, it can also serve to elevate the voices of people who are both data and ‘decision subjects’ – people who will be affected by decisions, whether their personal data is involved or not. 
 
 Starting with a focus on how datafication is affecting workers, I’ve been speaking with trade unionists and organisers across various sectors from universities, creative industries and parcel logistics.  
 
