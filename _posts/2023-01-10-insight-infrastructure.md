@@ -3,6 +3,7 @@ layout: post
 author: Jeni Tennison
 category: blog
 title: What is insight infrastructure?
+redirect_from: /news/2023/01/10/insight-infrastructure
 projects: 
   - Ecosystem Mapping and Engagement
 ---
