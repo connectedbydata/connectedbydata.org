@@ -13,15 +13,12 @@ One of the things that’s been a bit challenging to pin down is how to think ab
 
 <!--more-->
 
-> **Call for input: survey and workshops**
+> **Call for input: workshops**
 >
 > Does your work address poverty, economic or social inequality in the UK? What difference would it make if you had more granular or real-time data? What lived experience insights could help your planning or practice? Which communities might be affected most?
 >
-> Please take a few minutes to tell us about data, information and insights that you create, steward or use to address poverty, social & economic inequality in the UK [in this short survey](https://jrfinsight.limesurvey.net/472946?lang=en). 
+> [Register here](https://airtable.com/shrSucwiRDPdEchuU) to take part in our upcoming workshops in March and April.
 >
-> You can also opt-in to hear about follow up interview and workshop opportunities.
->
-> [Respond to the survey here by 10th Feb 2023](https://jrfinsight.limesurvey.net/472946?lang=en).
 
 ## What is insight?
 
