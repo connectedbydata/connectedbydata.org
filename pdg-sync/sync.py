@@ -219,7 +219,7 @@ def write_markdown(record, table, data, processed_cache):
 						links.append("missing-item")
 
 				post[field] = links
-			elif 'attachments' in field:
+			elif field in ['attachments','impact_photo','issue_photo']:
 				attachment_list = []
 				for attachment in value:
 					attachment_list.append(fetch_attachment(attachment['thumbnails']['large']['url'], "{}-{}".format(slug,attachment['filename'])))

@@ -23,23 +23,6 @@ data_governed: Health data
 data_subject: patient health
 data_types_tag:
 - Health data
-description: "> In June 2019 Understanding Patient Data and NHS England in association
-  with the Ada Lovelace Institute, commissioned Hopkins Van Mil to carry out a mixed
-  methods public engagement process, exploring the question: ‘What constitutes a fair
-  partnership between the NHS and researchers, charities and industry on the uses
-  of NHS patients’ data and NHS operational data?’ \n> \n> The research was supported
-  by the UK Government’s Office for Life Sciences. It was designed to ensure public
-  views could feed into their developing policy framework for NHS Trusts entering
-  into data access partnerships with third parties,1 which complements the Code of
-  Conduct for data-driven health and care technology.2 The process involved three
-  roundtable discussions with patient advocacy groups to develop materials and hone
-  the research questions, followed by three citizens’ juries and a nationally representative
-  online survey of over 2000 people.\n\n(Source: Summary report)\n\nThe detailed methodology
-  report notes that:\n\n> \"the process design team and commissioning bodies worked
-  hard to shift juror thinking away from individual levels of consent and control.
-  The team asked ask jurors to reflect on how they would want these partnerships to
-  work, how they should be designed and to systematically consider the issues inherent
-  in their operation and governance.\""
 end_year: '2020'
 evaluation_details: Unknown.
 framing_method_tag:
@@ -77,24 +60,41 @@ primary_method_link:
 - roundtable-discussion
 - citizens-jury
 - survey
+problem_and_purpose: "> In June 2019 Understanding Patient Data and NHS England in
+  association with the Ada Lovelace Institute, commissioned Hopkins Van Mil to carry
+  out a mixed methods public engagement process, exploring the question: ‘What constitutes
+  a fair partnership between the NHS and researchers, charities and industry on the
+  uses of NHS patients’ data and NHS operational data?’ \n> \n> The research was supported
+  by the UK Government’s Office for Life Sciences. It was designed to ensure public
+  views could feed into their developing policy framework for NHS Trusts entering
+  into data access partnerships with third parties,1 which complements the Code of
+  Conduct for data-driven health and care technology.2 The process involved three
+  roundtable discussions with patient advocacy groups to develop materials and hone
+  the research questions, followed by three citizens’ juries and a nationally representative
+  online survey of over 2000 people.\n\n(Source: Summary report)\n\nThe detailed methodology
+  report notes that:\n\n> \"the process design team and commissioning bodies worked
+  hard to shift juror thinking away from individual levels of consent and control.
+  The team asked ask jurors to reflect on how they would want these partnerships to
+  work, how they should be designed and to systematically consider the issues inherent
+  in their operation and governance.\""
 sources_link:
 - foundations-of-fairness-views-on-uses-of-nhs-patients-data-and-nhs-operational-data-a-mixed-methods-public-engagement-programme-with-integrated-citizens-juries
 - foundations-of-fairness-where-next-for-nhs-health-data-partnerships
 - the-foundations-of-fairness-for-nhs-health-data-sharing
 start_year: '2019'
 status: Stage 1
-summary: 'A mixed-methods public engagement process exploring the question: ‘What
-  constitutes a fair partnership between the NHS and researchers, charities and industry
-  on the uses of NHS patients’ data and NHS operational data?’.
+table: cases
+theme_tag:
+- Health
+title: 'Foundations of Fairness: NHS Data Sharing'
+two_line_summary: 'A mixed-methods public engagement process exploring the question:
+  ‘What constitutes a fair partnership between the NHS and researchers, charities
+  and industry on the uses of NHS patients’ data and NHS operational data?’.
 
 
   Three roundtable discussions with patient advocacy groups were used to develop materials
   and refine research questions. These were used in three citizens’ juries, and findings
   were validated through a 2000 person nationally representative online survey.'
-table: cases
-theme_tag:
-- Health
-title: 'Foundations of Fairness: NHS Data Sharing'
 whats_changed: "The recommendations have been published. As of project conclusion
   the funders write:\n\n> \"It is now for the UK government and NHS X to take action
   in order \tto meet these expectations.\"\n\n(Source: [Ada Lovelace Institute blog
@@ -103,13 +103,3 @@ whats_changed: "The recommendations have been published. As of project conclusio
   2022 guidance on “[Evaluating public benefit when health and adult social care data
   is used for purposes beyond individual care](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1124013/NDG_public_benefit_guidance_v1.0_-_14.12.22.pdf)”."
 ---
-
-> In June 2019 Understanding Patient Data and NHS England in association with the Ada Lovelace Institute, commissioned Hopkins Van Mil to carry out a mixed methods public engagement process, exploring the question: ‘What constitutes a fair partnership between the NHS and researchers, charities and industry on the uses of NHS patients’ data and NHS operational data?’ 
-> 
-> The research was supported by the UK Government’s Office for Life Sciences. It was designed to ensure public views could feed into their developing policy framework for NHS Trusts entering into data access partnerships with third parties,1 which complements the Code of Conduct for data-driven health and care technology.2 The process involved three roundtable discussions with patient advocacy groups to develop materials and hone the research questions, followed by three citizens’ juries and a nationally representative online survey of over 2000 people.
-
-(Source: Summary report)
-
-The detailed methodology report notes that:
-
-> "the process design team and commissioning bodies worked hard to shift juror thinking away from individual levels of consent and control. The team asked ask jurors to reflect on how they would want these partnerships to work, how they should be designed and to systematically consider the issues inherent in their operation and governance."

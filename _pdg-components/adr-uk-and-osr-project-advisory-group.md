@@ -4,6 +4,8 @@ airtable_id: recBp52H2oIuN04NH
 background_information_described: ''
 case_link:
 - adr-uk-and-osr-public-dialogue-on-public-good-use-of-data-for-research-and-statistics
+decision_methods_tag:
+- Not Applicable (e.g. votes are not typically taken at protest demonstrations)
 description: "A Project Advisory Group was created to ensure key stakeholders were
   involved to inform how the dialogue was conducted. \nThe group included representatives
   from:\n\n1.  Office for Statistics Regulation\n2. Economic ADR UK Strategic Hub \n3.

@@ -5,7 +5,7 @@
   {%- if case.attachments -%}
     <a href="{{ case.link }}">
       <figure class="image">
-        <img src="{{ case.attachments[0] }}">
+        <img src="{{ case.issue_photo[0] }}">
       </figure>
     </a>
   {%- endif -%}
@@ -21,7 +21,7 @@
     {%- else -%}
       <a href="{{ case.url | relative_url }}">
         <i class="fas fa-arrow-alt-circle-right"></i>
-        &nbsp;Read more
+        &nbsp;Read now
       </a>
     {%- endif -%}
   </p>
@@ -29,7 +29,7 @@
 
 {%- capture subtitle -%}
   <p class="subtitle is-6">
-    {{ case.lead_organisation }}
+    {{ case.lead_organisation }} - {{organisation.organisation_type_tag[0]}} - {{ case.data_types_tag[0]}}
     &#x25aa;
 		{% if case.start_year == case.end_year -%}
 			{{ case.start_year }}
@@ -78,7 +78,7 @@
 {%- capture content -%}
   <div class="content">
     {%- if include.excerpt -%}
-      {{ case.summary | markdownify }}
+      {{ case.two_line_summary | markdownify }}
       <a href="{{ case.url | relative_url }}">
         <i class="fas fa-arrow-alt-circle-right"></i>
         &nbsp;Learn more

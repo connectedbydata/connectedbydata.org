@@ -33,22 +33,18 @@ data_subject: sensor networks, smart grids and other technologies that might be 
 data_types_tag:
 - Urban sensor data
 - Energy data
-description: "Researchers from Monash University in Australia carried out a series
-  of participatory workshops, and a 'Multi-Criteria Mapping (MCM)' exercise to identify
-  promising approaches to deliver democratic engagement and citizen empowerment in
-  the governance of data related to a smart-cities style Net-Zero Precinct project.\n\nThe
-  project identified four of candidate designs for processes, tools or platforms that
-  might support citizens to have greater oversight of, involvement in, or say over,
-  the deployment of technologies including sensor networks, micro-grids, and other
-  innovations that would help Monash University achieve net zero carbon emissions
-  on its four campus locations by 2030. \n\nThere is no evidence to show whether or
-  not these designs have been adopted."
 end_year: '2021'
 framing_method_tag:
 - Co-design
 governance_issues_description: 'WIP: Participants were concerned with how data about
   them might be used.'
+impact_photo:
+- /assets/pdg/monash-net-zero-precinct-impact photo.jpg
+impact_photo_credit: '[Yeshi Kangrang](https://unsplash.com/pt-br/@omgitsyeshi)'
 initiative_status: carried out
+issue_photo:
+- /assets/pdg/monash-net-zero-precinct-octavian-rosca-issue photo.jpg
+issue_photo_credit: Octavian Rosca
 lead_organisation: Monash Data Futures Institute
 lense: both individual and collective data governance lenses
 link: https://www.monash.edu/msdi/initiatives/projects/net-zero-precincts
@@ -64,25 +60,29 @@ participant_group: local residents, university students and staff, and governmen
 primary_method_link:
 - workshop
 - multi-criteria-decision-analysis
+problem_and_purpose: "Researchers from Monash University in Australia carried out
+  a series of participatory workshops, and a 'Multi-Criteria Mapping (MCM)' exercise
+  to identify promising approaches to deliver democratic engagement and citizen empowerment
+  in the governance of data related to a smart-cities style Net-Zero Precinct project.\n\nThe
+  project identified four of candidate designs for processes, tools or platforms that
+  might support citizens to have greater oversight of, involvement in, or say over,
+  the deployment of technologies including sensor networks, micro-grids, and other
+  innovations that would help Monash University achieve net zero carbon emissions
+  on its four campus locations by 2030. \n\nThere is no evidence to show whether or
+  not these designs have been adopted."
 sources_link:
 - a-participatory-approach-for-empowering-community-engagement-in-data-governance-the-monash-net-zero-precinct
 start_year: '2020'
 status: Stage 1
-summary: Researchers from Monash University in Australia carried out a series of participatory
-  workshops, and a 'Multi-Criteria Mapping (MCM)' exercise to identify promising approaches
-  to deliver democratic engagement and citizen empowerment in the governance of data
-  related to a smart-cities style Net-Zero Precinct project.
 table: cases
 theme_tag:
 - Urban development & smart cities
 - Environment
 title: Monash Net Zero Precinct
+two_line_summary: Researchers from Monash University in Australia carried out a series
+  of participatory workshops, and a 'Multi-Criteria Mapping (MCM)' exercise to identify
+  promising approaches to deliver democratic engagement and citizen empowerment in
+  the governance of data related to a smart-cities style Net-Zero Precinct project.
 whats_changed: It is not clear if any of the ideas developed through the workshops
   will be adopted as part of the wider Monash Net Zero project.
 ---
-
-Researchers from Monash University in Australia carried out a series of participatory workshops, and a 'Multi-Criteria Mapping (MCM)' exercise to identify promising approaches to deliver democratic engagement and citizen empowerment in the governance of data related to a smart-cities style Net-Zero Precinct project.
-
-The project identified four of candidate designs for processes, tools or platforms that might support citizens to have greater oversight of, involvement in, or say over, the deployment of technologies including sensor networks, micro-grids, and other innovations that would help Monash University achieve net zero carbon emissions on its four campus locations by 2030. 
-
-There is no evidence to show whether or not these designs have been adopted.

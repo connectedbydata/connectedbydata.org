@@ -10,8 +10,8 @@
                 "long": "Name"
             },
             "fldlpqfOLL2L3vy2f": {
-                "short": "description",
-                "long": "Description"
+                "short": "problem_and_purpose",
+                "long": "Problem and purpose"
             },
             "fldPPk8Bx2UASepbx":
             {
@@ -163,6 +163,50 @@
             "fldhimoEdR1rlVvM0": {
                 "short": "lead_organisation",
                 "long": "Lead organisation"
+            },
+            "fldPPk8Bx2UASepbx": {
+               "short": "two_line_summary",
+               "long": "Two line summary"
+           },
+           "fldTDNfI46gcrHbmF": {
+               "short": "selected_findings",
+               "long": "Selected findings"
+           },
+           "fldCPoxaZlt82w1uh": {
+               "short": "our_takeaway",
+               "long": "Our takeaway"
+           },
+           "fldFeJ4c4G5bHsi64": {
+                "short": "issue_photo",
+                "long": "Issue photo (What is this case about?)"
+            },
+            "fldxs2aBtsfII9kKK": {
+                "short": "impact_photo",
+                "long": "Impact photo (What kind of change did this create?)"
+            },
+            "flddFbOt1eFtZ0ax5": {
+                "short": "impact_photo_credit",
+                "long": "Impact photo credit"
+            },
+            "fldg0nxd8gwCDp3Qt": {
+                "short": "",
+                "long": "Issue photo (second suggestion)"
+            },
+            "fldM76Guk3WmwgxEg": {
+                "short": "",
+                "long": "Issue photo (second suggestion) credit"
+            },
+            "fld3vvNCIafcoQROM": {
+                "short": "issue_photo_credit",
+                "long": "Issue photo credit"
+            },
+            "fldZWIxf0chrZ5fSc": {
+                "short": "process_description",
+                "long": "Process"
+            },
+            "fldKBuimo8dezv4hh": {
+                "short": "outcomes",
+                "long": "Outcomes"
             }
         },
         "components": {

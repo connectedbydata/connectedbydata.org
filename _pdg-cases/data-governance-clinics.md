@@ -19,20 +19,19 @@ data_governed: Not specified.
 data_subject: a series of urban technology projects
 data_types_tag:
 - Urban sensor data
-description: "In two data governance clinics run by academics from the University
-  of Tilberg for projects in the city of Amsterdam, leaders of projects facing data
-  governance questions were supported to think through their projects, using a facilitated
-  discussion. \n\nThe process helped project engineers and leaders to formalise a
-  conception of how their work served the public interest, and to assess:\n\n- How
-  to secure acceptance of a specific controversial project (clinic 1); and\n- How
-  to decide whether or not to engage with a new data source (2)."
 end_year: '2021'
 evaluation_details: Unknown
 framing_method_tag:
 - Co-design
 governance_issues_description: Citizen trust & decisions over whether or not to use
   particular data sources.
+impact_photo:
+- /assets/pdg/data-governance-clinics-impact photo.jpg
+impact_photo_credit: '[Ryoji Iwata](https://unsplash.com/pt-br/@ryoji__iwata)'
 initiative_status: piloted
+issue_photo:
+- /assets/pdg/data-governance-clinics-yeo-yonghwan-issue photo.jpg
+issue_photo_credit: Yeo Yonghwan
 lead_organisation: Tilburg Institute for Law, Technology and Society
 lense: a collective data governance lens
 link: https://papers.ssrn.com/abstract=3880961
@@ -47,23 +46,24 @@ outcomes_tag: informed decision making
 participant_group: project leaders
 primary_method_link:
 - data-governance-clinic
+problem_and_purpose: "In two data governance clinics run by academics from the University
+  of Tilberg for projects in the city of Amsterdam, leaders of projects facing data
+  governance questions were supported to think through their projects, using a facilitated
+  discussion. \n\nThe process helped project engineers and leaders to formalise a
+  conception of how their work served the public interest, and to assess:\n\n- How
+  to secure acceptance of a specific controversial project (clinic 1); and\n- How
+  to decide whether or not to engage with a new data source (2)."
 sources_link:
 - data-governance-clinics-a-new-approach-to-public-interest-technology-in-cities
 start_year: '2019'
 status: Stage 1
-summary: In two data governance clinics run by academics from the University of Tilberg
-  for projects in the city of Amsterdam, leaders of projects facing data governance
-  questions were supported to think through their projects, using a facilitated discussion.
 table: cases
 theme_tag:
 - Urban development & smart cities
 title: Data Governance Clinics
+two_line_summary: In two data governance clinics run by academics from the University
+  of Tilberg for projects in the city of Amsterdam, leaders of projects facing data
+  governance questions were supported to think through their projects, using a facilitated
+  discussion.
 whats_changed: Unknown
 ---
-
-In two data governance clinics run by academics from the University of Tilberg for projects in the city of Amsterdam, leaders of projects facing data governance questions were supported to think through their projects, using a facilitated discussion. 
-
-The process helped project engineers and leaders to formalise a conception of how their work served the public interest, and to assess:
-
-- How to secure acceptance of a specific controversial project (clinic 1); and
-- How to decide whether or not to engage with a new data source (2).

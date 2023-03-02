@@ -11,7 +11,6 @@ description: Rather than seeking a perfect demographic sample of the UK populati
   15 people. The community researchers were tasked with considering how to break down
   local barriers to participation, to identify appropriate modes of invitations and
   to consider different methods of participation in the project.
-feeds_into: '[''recMvaUWiElaENNAV'']'
 link: https://www.adruk.org/fileadmin/uploads/adruk/Documents/PE_reports/ADR_UK_OSR_Public_Dialogue_final_report_October_2022.pdf
 modality_tag:
 - face to face
