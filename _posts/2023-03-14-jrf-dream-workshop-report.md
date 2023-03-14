@@ -13,6 +13,7 @@ This was the second workshop in an appreciative inquiry series. The first[‘Dis
 
 In this post, we summarise some of the key themes explored in the workshop, and document the ideas and suggestions made that will feed into the next workshop, which will focus on the design of stakeholder engagement, and governance proposals for insight infrastructure. 
 
+<!--more-->
 
 > ## About
 > **About the JRF Insight Infrastructure Project**
