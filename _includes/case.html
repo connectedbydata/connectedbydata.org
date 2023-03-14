@@ -6,6 +6,7 @@
     <a href="{{ case.link }}">
       <figure class="image">
         <img src="{{ case.issue_photo[0] }}">
+        <figcaption>{{ case.issue_photo_credit }}</figcaption>
       </figure>
     </a>
   {%- endif -%}
@@ -87,6 +88,30 @@
       <p>
         {{ image }}
       </p>
+
+      <hr/>
+      <p><strong>Box 1</strong></p>
+      <p><strong>Facilitators</strong>
+        <ul>
+        {% for org in case.organisation_link %}
+          {%- assign org_details = site.pdg-organisations | where: "slug", org | first %}
+          <li><a href="{{ org_details.link }}" target="_blank">{{ org_details.title }}</a> 
+            <span class="only_show_with_readmore">{{ org_details.organisation_type_tag | join ", " }} &#x25aa; {{ org_details.sector_tag | join ", " }} &#x25aa; {{ org_details.geographic_scope_tag | join ", "}}</span> 
+          </li>
+        {% endfor %}
+        </ul>
+      </p>
+      <p>
+        The process {{ case.outcomes_tag }}</strong> concerning the <strong>{{ case.data_cycle_tag | array_to_sentence_string: 'and' }}</strong> of data by <strong>{{ case.actor_responsible }}</strong>
+      </p>
+      <p>
+        <strong>Aspect of society</strong>: {{case.theme_tag | join ", "}}
+
+        <strong>Key data</strong>:  {{ case.data_types_tag | join ", "}}       
+
+      </p>
+      <hr/>
+
       <p>
         {%- if case.start_year == case.end_year -%}In {{case.start_year}},
         {% else -%}Between {{case.start_year}} and {{case.end_year}}, {% endif -%}
@@ -94,7 +119,7 @@
       </p>
 
       <p>
-        The process involved <strong>{{ case.participant_group }}</strong> and <strong>{{ case.outcomes_tag }}</strong> concerning the <strong>{{ case.data_cycle_tag | array_to_sentence_string: 'and' }}</strong> of data by <strong>{{ case.actor_responsible }}</strong>.
+        The process involved <strong>{{ case.participant_group }}</strong> and <strong>.
       </p>
       <p>
         The process adopted <strong>{{case.lense}}</strong> and involved the following components:
