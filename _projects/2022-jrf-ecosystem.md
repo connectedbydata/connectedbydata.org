@@ -3,6 +3,7 @@ layout: project
 title: Ecosystem Mapping and Engagement
 subtitle: Joseph Rowntree Foundation
 image: jrf.jpeg
+completed: false
 ---
 **CONNECTED** BY **DATA** has been commissioned by the [Joseph Rowntree Foundation (JRF)](https://www.jrf.org.uk/) to improve their understanding of the current landscape and stakeholders they want to support, work with, influence and inspire as they create a [new insight and analysis infrastructure](https://www.jrf.org.uk/blog/how-we-approach-missing-data-could-unlock-social-and-economic-injustice) to help improve how the ecosystem understands inequalities, and how to solve them.
 

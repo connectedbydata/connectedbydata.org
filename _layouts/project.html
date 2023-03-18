@@ -70,7 +70,7 @@ layout: default
     </div>
   </section>
   {%- capture eventsSection -%}
-    {%- for event in events -%}
+    {%- for event in events reversed -%}
       {%- capture eventBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
       {%- capture eventContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
       {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}

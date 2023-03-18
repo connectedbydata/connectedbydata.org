@@ -4,6 +4,7 @@ title: Research ICT Africa
 subtitle: Africa Just AI Project
 image: ria-logo-web-header.webp
 add-background: true
+completed: false
 ---
 [Research ICT Africa](https://researchictafrica.net/) (RIA) is running the [Africa Just AI project](https://researchictafrica.net/project/ai-policy-research-centre/) with a three-year grant from the International Development Research Centre (IDRC) and the Swedish International Development Cooperation Agency (SIDA). Their intention is to serve as an AI Policy think tank in Africa using knowledge grounded in the historical and contemporary contexts of African countries; advocating for people-centred, beneficial AI innovation; and building local capacity and awareness – not only to develop AI systems, but also to govern them justly.
 

@@ -8,8 +8,31 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
+{%- assign currentProjects = site.projects | where: "completed", false -%}
+{%- assign completedProjects = site.projects | where: "completed", true -%}
+
 {%- capture projects -%}
-  {%- for project in site.projects -%}
+  {%- for project in currentProjects -%}
+    {%- capture projectBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture projectContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include project.html project=project excerpt=true imagePosition=imagePosition projectBackground=projectBackground projectContrast=projectContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=projects -%}
+
+<section id="plans" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Completed projects
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture projects -%}
+  {%- for project in completedProjects -%}
     {%- capture projectBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
     {%- capture projectContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
     {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}

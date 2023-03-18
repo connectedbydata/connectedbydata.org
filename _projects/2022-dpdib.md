@@ -4,6 +4,7 @@ title: Our Data Futures
 subtitle: Influencing UK data policy
 image: jrrt.png
 add-background: true
+completed: false
 ---
 Over the next year the UK government will be looking at how it replaces GDPR following Brexit, through the Data Protection and Digital Information Bill.  At the same time all the major political parties will be developing their manifestos in the run up to the next General Election, scheduled for 2024 if not before.
 
