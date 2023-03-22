@@ -4,6 +4,8 @@ airtable_id: recx9CUdZ0IW1HXKn
 description: A Citizens’ Jury is a small group of randomly selected citizens, representative
   of the demographics in the area, that come together to reach a collective decision
   or recommendation on a policy issue through informed deliberation.
+icon:
+- /assets/pdg/citizens-jury-noun-jury-2360473.png
 table: methods
 title: Citizens' Jury
 ---

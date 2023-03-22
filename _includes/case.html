@@ -39,6 +39,7 @@
 		{%- endif -%}
   </p>
 {%- endcapture -%}
+
 {%- capture title -%}
   <div class="point">
     <h2 class="title is-4">
@@ -47,32 +48,6 @@
       </a>
     </h2>
     {{ subtitle }}
-  </div>
-{%- endcapture -%}
-
-{%- capture metadata -%}
-  <div class="field is-grouped is-grouped-multiline">
-    {%- for tag in case.theme_tag -%}
-      <div class="control">
-        <div class="tags has-addons">
-          <span class="tag">theme</span>
-          <span class="tag is-link">{{ tag }}</span>
-        </div>
-      </div>
-    {%- endfor -%}
-    {%- for tag in case.primary_method_link -%}
-      {%- assign method = site.pdg-methods | where: "slug", tag | first -%}
-      <div class="control">
-        <div class="tags has-addons">
-          <span class="tag">method</span>
-          <span class="tag is-link">
-            <a href="{{ method.url | relative_url }}" class="has-text-white">
-              {{ method.title }}
-            </a>
-          </span>
-        </div>
-      </div>
-    {%- endfor -%}
   </div>
 {%- endcapture -%}
 
@@ -90,7 +65,7 @@
       </p>
 
       <hr/>
-      <p><strong>Box 1</strong></p>
+      <!--BOX 1-->
       <p><strong>Facilitators</strong>
         <ul>
         {% for org in case.organisation_link %}
@@ -102,38 +77,78 @@
         </ul>
       </p>
       <p>
-        The process {{ case.outcomes_tag }}</strong> concerning the <strong>{{ case.data_cycle_tag | array_to_sentence_string: 'and' }}</strong> of data by <strong>{{ case.actor_responsible }}</strong>
+        The process {{ case.outcomes_tag }} concerning the {{ case.data_cycle_tag | array_to_sentence_string: 'and' }} of data by {{ case.actor_responsible }}
       </p>
       <p>
-        <strong>Aspect of society</strong>: {{case.theme_tag | join ", "}}
+        <strong>Aspect of society</strong>: {{case.theme_tag | array_to_sentence_string: 'and'}}
 
-        <strong>Key data</strong>:  {{ case.data_types_tag | join ", "}}       
+        <strong>Key data</strong>:  {{ case.data_types_tag |  array_to_sentence_string: 'and' | downcase }}.       
 
       </p>
       <hr/>
+      <!--BOX 2-->
 
+      <h2>In brief</h2>
       <p>
-        {%- if case.start_year == case.end_year -%}In {{case.start_year}},
-        {% else -%}Between {{case.start_year}} and {{case.end_year}}, {% endif -%}
-        <a href="{{ organisation.link }}">{{ organisation.title }}</a> {{case.initiative_status}} a participatory data governance process exploring the governance of data related to <strong>{{case.data_subject}}</strong>.
+        Summary: {{case.two_line_summary}}
+      </p>
+      <p>
+        Our takeaway: {{case.our_takeaway}}
       </p>
 
+      <!--BOX 3-->
+      <h2>Problem and purpose</h2>
       <p>
-        The process involved <strong>{{ case.participant_group }}</strong> and <strong>.
+        Data governance issues: {{case.data_governance_issues_tag }} <!--RENDER AS TAGS?-->
       </p>
       <p>
-        The process adopted <strong>{{case.lense}}</strong> and involved the following components:
+        {% assign purpose = case.problem_and_purpose | split: '<!--more-->' %}
+        
+        {{ purpose | first | markdownify}}
+        
+        {% if purpose.size > 1 %} 
+        <details>
+          <summary>Read more</summary>
+          {{purpose | last | markdownify}}
+        </details>
+        {%endif%}
+        
       </p>
+      
+      <!--BOX 4-->
+      <h2>Process</h2>
+      <p>
+        
+        Framing methods: {{case.framing_method_tag}} <!--RENDER AS TAGS?-->
+      </p>
+      <p>
+        {% assign process = case.process_description | split: '<!--more-->' %}
+        
+        {{ process | first | markdownify}}
+        
+        {% if process.size > 1 %} 
+        <details>
+          <summary>Read more</summary>
+          {{process | last | markdownify}}
+        </details>
+        {%endif%}
+      </p>
+
 
       {%- for component_link in case.components_link -%}
         {%- assign component = site.pdg-components | where: "slug", component_link | first -%}
+        {%- assign method = site.pdg-methods | where: "title", component.methods_tag | first %}
         <div class="card mb-4">
           <header class="card-header">
             <p class="card-header-title">
-              {{ component.title }}
+              {{ method.icon }} - {{ component.title }}
             </p>
           </header>
-          {%- if component.description -%}
+            
+            {{ component.content | markdownify }}
+
+            <details>
+              <summary>Read more</summary>
             <div class="card-content">
               {%- if component.methods_tag -%}
                 <div class="field is-grouped is-grouped-multiline">
@@ -146,15 +161,7 @@
                     </div>
                   {%- endfor -%}
                 </div>
-              {%- endif -%}
-              <!--#Removing display of this element temporarily
-              {%- if component.temporal_state -%}
-                <p>
-                  This {{component.modality_tag[0] | downcase}} engagement was {{component.temporal_state | downcase}}.
-                </p>
-              {%- endif -%}-->
-
-          		{{ component.content | markdownify }}
+              
 
               {%- if component.number_of_participants -%}
                 <p>
@@ -185,10 +192,25 @@
           		{%- endif -%}
             </div>
           {%- endif -%}
+
+           </details>
         </div>
       {%- endfor -%}
 
-      <h2>Sources</h2>
+      <!-- BOX 5-->
+      <h2>Outcomes</h2>
+
+      <figure class="image">
+        <img src="{{ case.impact_photo[0] }}">
+        <figcaption>{{ case.impact_photo_credit }}</figcaption>
+      </figure>
+
+      {{outcomes}} <!-- this field will not always be present -->
+
+      What's changed: {{whats_changed}} <!-- this field will not always be present -->
+
+      <!-- BOX 6-->
+      <h2>Learn more</h2>
 
       {%- for source_link in case.sources_link -%}
         {%- assign source = site.pdg-sources | where: "slug", source_link | first -%}

@@ -117,7 +117,7 @@ problem_and_purpose: 'Administrative Data Research UK (ADR UK) was created in 20
   records on individuals. This requires making, and advising on, decisions about when
   data should or should not be shared, and how its use should be governed. 
 
-  Under the  UK Digital Economy Act (2017) legal framework, ‘public good’ (sometimes
+  Under the UK Digital Economy Act (2017) legal framework, ‘public good’ (sometimes
   referred to as ‘public interest’ or ‘public benefit’) is broadly defined. Legal
   public good uses of data may include: to provide evidence for public policies, services
   or decisions which benefit our economy, society, or quality of life; to extend understanding

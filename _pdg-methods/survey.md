@@ -5,6 +5,8 @@ description: A survey is a tool used to gather information from a given populati
   Generally, a survey comprises a collection of questions or statements requiring
   a response from participants. Surveys can be used to collect background information
   or gather opinions.
+icon:
+- /assets/pdg/survey-noun-survey-5208960.png
 table: methods
 title: Survey
 ---

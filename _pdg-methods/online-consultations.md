@@ -5,6 +5,8 @@ description: Online consultations or e-consultations refer to an exchange betwee
   government and citizens using the Internet. Online consultation consists in using
   the Internet to ask a group of people their opinion on one or more specific topics,
   allowing for trade-offs between participants.
+icon:
+- /assets/pdg/online-consultations-noun-online-consultation-2017223.png
 table: methods
 title: Online Consultations
 ---

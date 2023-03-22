@@ -86,34 +86,34 @@ problem_and_purpose: "Remote mobile phone-based data collection offers a key opp
   by their ability to be involved in how their data is collected, shared, and used.\"
   [1] The MindKind project put the voice of young people with lived experience of
   mental health challenges at the heart of work to design and test the feasibility
-  of a Global Mental Health Databank. \n<--more-->\n## Background History and Context\nWellcome
+  of a Global Mental Health Databank. \n<!--more-->\n## Background History and Context\nWellcome
   trust commissioned Sage Bionetworks (Sage) to carry out feasibility tests and prototype
   a global mental health databank (GMHD) to capture rich, longitudinal, electronically-derived
   data from young people with a focus on mental health, and to support research into
   the approaches, treatments, and interventions that may be relevant to anxiety or
-  depression in 14-24 year olds.\n\n##"
+  depression in 14-24 year olds."
 process_description: "The project placed a focus on understanding appropriate models
   of data governance. The research project addressed the question of \"How do we create
   a data governance structure that gives real voice to youth?\" and worked with an
-  initial set of principles:\n- \"Those banking their data shall have a high degree
+  initial set of principles:\n\n- \"Those banking their data shall have a high degree
   of involvement in decisions about the use of data and opportunities to act as citizen
   scientists. \n- The data collected shall be made readily accessible to a wide range
   of researchers under conditions that protect the privacy of research participants
   to the extent agreed upon by those banking their data and consistent with any legal
   requirements. \n- To support cutting-edge scientific research, there shall be sufficient
   ongoing engagement with those banking their data and with those who might analyse
-  it to answer important research questions.\"\n\nWorking across three countries (India,
-  South Africa, and the UK), the project established national Young People's Advisory
-  Group (YPAG), and had a Professional Youth Advisor (PYA) working with each team,
-  as well as a Global Youth Panel, and ad-hoc International Youth Panel. \nA Data
-  Usability Advisory Group (DAUG) was also formed, bringing together researchers who
-  may use the databank in their research, and to provide guidance on the usability
-  of data collected. \nThese groups were consulted on potential data collection and
-  governance strategies, with input used to design models for how potential youth
-  contributors of data might engage with data governance through the project's platform
-  and app. \nThese models were evaluated through a quantitative study, using a Randomised
-  Control Trial design, and through a two-stage deliberative dialogue process exploring
-  qualitative perspectives in each of the study countries."
+  it to answer important research questions.\"\n<!--more-->\nWorking across three
+  countries (India, South Africa, and the UK), the project established national Young
+  People's Advisory Group (YPAG), and had a Professional Youth Advisor (PYA) working
+  with each team, as well as a Global Youth Panel, and ad-hoc International Youth
+  Panel. \nA Data Usability Advisory Group (DAUG) was also formed, bringing together
+  researchers who may use the databank in their research, and to provide guidance
+  on the usability of data collected. \nThese groups were consulted on potential data
+  collection and governance strategies, with input used to design models for how potential
+  youth contributors of data might engage with data governance through the project's
+  platform and app. \nThese models were evaluated through a quantitative study, using
+  a Randomised Control Trial design, and through a two-stage deliberative dialogue
+  process exploring qualitative perspectives in each of the study countries."
 sources_link:
 - mindkind-final-report
 - mindkind-project-launch-blog-post
