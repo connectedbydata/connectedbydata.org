@@ -10,3 +10,5 @@ Gemfile.lock
 .ve
 pdg-sync/cache/*
 pdg-sync/api-key-no-commit.sh
+logseq/
+pages/
