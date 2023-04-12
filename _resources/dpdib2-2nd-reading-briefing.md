@@ -2,6 +2,7 @@
 layout: resource
 title: "Data Protection and Digital Information (No.2) Bill: 2nd Reading Briefing"
 reference: dpdib2-2nd-reading-briefing
+project: Our Data Futures
 author: Jeni Tennison
 date: 2023-04-12
 status: final
