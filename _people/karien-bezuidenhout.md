@@ -5,7 +5,7 @@ roles:
 redirect_from: /team/karien-bezuidenhout
 title: Karien Bezuidenhout
 role: Non-Executive Director
-order: 4
+order: 2
 picture: karien.jpg
 twitter: "@karienbez"
 email: "karien@shuttleworthfoundation.org"
