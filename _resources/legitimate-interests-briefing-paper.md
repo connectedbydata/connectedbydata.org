@@ -4,6 +4,7 @@ title: Legitimate interests briefing paper
 reference: legitimate-interests-briefing-paper
 author: Jeni Tennison
 status: draft
+listed: false
 date: 2022-03-04
 link: https://docs.google.com/document/d/1fg7_bVkJ3xQ1biaATdmJNwPpa2e1TrTvRqHi4dIGWoc/edit?usp=sharing
 image: legitimate-interests-briefing-paper.jpg

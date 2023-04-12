@@ -8,8 +8,10 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- assign drafts = site.resources | where: "status", "draft" | sort: "date" | reverse -%}
-{%- if drafts -%}
+{%- assign resources = site.resources | where: "listed", "true" -%}
+
+{%- assign drafts = resources | where: "status", "draft" | sort: "date" | reverse -%}
+{%- if drafts.size > 0 -%}
   <section id="drafts" class="hero has-text-centered has-text-link">
     <div class="hero-body">
       <div class="container is-max-desktop">
@@ -31,23 +33,49 @@ layout: default
   {%- include section.html content=drafts-content -%}
 {%- endif -%}
 
-{%- assign final = site.resources | where: "status", "final" | sort: "date" | reverse -%}
+{%- assign final = resources | where: "status", "final" | sort: "date" | reverse -%}
+
 <section id="final" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
-        Read more
+        About data
       </p>
     </div>
   </div>
 </section>
 
-{%- capture resources-content -%}
+{%- capture project-content -%}
   {%- for resource in final -%}
-    {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
-    {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
-    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
-    {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+    {%- if resource.project.size > 0 -%}
+      {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+    {%- endif -%}
   {%- endfor -%}
 {%- endcapture -%}
-{%- include section.html content=resources-content -%}
+{%- include section.html content=project-content -%}
+
+<section id="final" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        About us
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture organisation-content -%}
+  {%- for resource in final -%}
+    {%- if resource.project == nil -%}
+      {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=organisation-content -%}
+

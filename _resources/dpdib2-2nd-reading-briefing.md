@@ -6,6 +6,7 @@ project: Our Data Futures
 author: Jeni Tennison
 date: 2023-04-12
 status: final
+listed: true
 link: https://docs.google.com/document/d/1ZPFQnQlE52vcz7yql2z9orKSiE6gONLR4s3B1vTJpGQ/edit?usp=sharing
 image: dpdib2-2nd-reading-briefing.jpg
 ---

@@ -6,6 +6,7 @@ reference: justice-data-matters-2022-evaluation-report
 author: Tim Davies
 date: 2023-02-23
 status: final
+listed: true
 link: https://docs.google.com/document/d/102B85N3Ay46lZlg6Jq3I6LtGySbDnZH0yT2uNlTgwvM/edit?usp=sharing
 image: justice-data-matters-2022-evaluation-report.jpg
 ---

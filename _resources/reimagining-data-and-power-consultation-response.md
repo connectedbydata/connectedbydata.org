@@ -2,8 +2,10 @@
 layout: resource
 title: Data Values Project - Reimagining Data and Power Roadmap feedback
 reference: reimagining-data-power-feedback
+project: Policy
 author: Tim Davies
 status: final
+listed: true
 date: 2022-05-06
 link: https://docs.google.com/document/d/1W-7aKzHscQgz7L8D7OnGRTBWQGoQrkPTBeBAgtfqCPk/edit#
 image: data-values-project-consultation-draft-response.png

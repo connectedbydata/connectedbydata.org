@@ -5,6 +5,7 @@ reference: brand-narrative
 author: Jonathan Smith
 date: 2022-08-11
 status: draft
+listed: false
 link: https://docs.google.com/document/d/1d5nrywu5QkmLQf0u1BMvTXb5OurY6koxZANyLihsd2M/edit#
 image: brand-narrative.jpg
 ---

@@ -5,6 +5,7 @@ reference: theory-of-change-2022
 author: Jeni Tennison
 date: 2022-08-18
 status: final
+listed: true
 link: https://docs.google.com/document/d/1uI500_Qsu3NK-8zIpm2GML0LKJPA6vpMZDbJbjZm1kE/edit?usp=sharing
 image: theory-of-change-2022.jpg
 ---
