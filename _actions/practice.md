@@ -1,6 +1,7 @@
 ---
 layout: page
 title: We can change how organisations make decisions about data
+more: changing practice
 previous-url: /actions/narrative.html
 next-url: /actions/policy.html
 points:
@@ -41,5 +42,8 @@ points:
     opinion: We are developing an evidence base to learn from experience and inspire organisations to change their practices
     references:
       - public-engagement-evidence
-more: changing practice
+projects:
+  - Gloucestershire Data Day
+  - Ecosystem Mapping and Engagement
+  - Justice Data Matters Evaluation
 ---

@@ -96,6 +96,28 @@ layout: default
   {%- include section.html content=content -%}
 {%- endfor -%}
 
+{%- if page.projects -%}
+  <section id="plans" class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Projects
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- capture projects -%}
+    {%- for projectRef in page.projects -%}
+      {%- assign project = site.projects | where: "title", projectRef | first -%}
+      {%- capture projectBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture projectContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include project.html project=project excerpt=true imagePosition=imagePosition projectBackground=projectBackground projectContrast=projectContrast -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=projects -%}
+{%- endif -%}
+
 {%- include pagination.html -%}
 
 </article>

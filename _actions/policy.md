@@ -22,7 +22,7 @@ points:
       - endangered-animals
   -
     heading: We're arguing for regulation to require organisations to take these wider considerations into account
-    opinion: The law should build on the **legitimate interest balancing test**, and encourage organisations to look at a wide range of interests
+    opinion: The law should require **risk assessments** and the **legitimate interest balancing test** to consider at a wide range of interests
     subpoints:
       -
         icon: noun-interest.png
@@ -59,4 +59,7 @@ points:
   -
     heading: We're pressing for the law to **enable and encourage** organisations to engage their communities in all data decisions
     opinion: Organisations need to have permission to use collective approaches to make decisions about data, while continuing to protect us and our rights
+projects:
+  - Our Data Futures
+  - Measuring Data Values Around the World
 ---
