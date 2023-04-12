@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">Governance Board</h1>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture boardDescription -%}
+  {%- capture content -%}
+    <div class="content">
+      {{ page.content | markdownify }}
+    </div>
+  {%- endcapture -%}
+
+  <div class="columns is-gapless post">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=page.content nested=true -%}
+        {%- include random-color-block.html seed=page.content square=true nested=true -%}
+        {%- include random-color-block.html seed=page.content square=true nested=true -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.postBackground -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=boardDescription -%}
+
+
+<section id="team" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Current board
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture currentBoard -%}
+  {%- assign board = site.people | where: "roles", "board" | sort: "order" | reverse -%}
+  {%- for member in board -%}
+    {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+    {%- include person.html person=member personBackground=personBackground contrast=contrast leftright=leftright -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=currentBoard -%}
+
+
+<section id="team" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Terms of reference
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture tors -%}
+  {%- assign tor = site.resources | where: "reference", "governance-board-tors" | first -%}
+  {%- include resource.html resource=tor excerpt=true headingonly=true imagePosition=left resourceBackground=darkGreen resourceContrast=darkestGreen -%}
+{%- endcapture -%}
+{%- include section.html content=tors -%}
+
+
+{%- assign minutes = site.resources | where: "board-minutes", "true" | sort: "date" | reverse -%}
+<section id="final" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Meeting minutes
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture minutesSection -%}
+  {%- for resource in minutes -%}
+    {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=minutesSection -%}
+
+
