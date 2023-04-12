@@ -36,7 +36,7 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=project -%}
 
-{%- assign resources = site.resources | where: "project", page.title -%}
+{%- assign resources = site.resources | where: "project", page.title | sort: "date" | reverse -%}
 {%- if resources.size > 0 -%}
   <section class="hero has-text-centered has-text-link">
     <div class="hero-body">
