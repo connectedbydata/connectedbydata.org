@@ -10,6 +10,7 @@ With such a lot going on in data policy world at the moment – including the re
 
 If we’ve missed anything, you’d like to add something for next time, you have a view on whether this is useful or not, or you’d like to get more involved with our activities (especially around the Data Protection and Digital Information Bill), please get in touch on **[jonathan@connectedbydata.org](mailto:jonathan@connectedbydata.org)**
 
+<!--more-->
 
 ## Data policy developments
 
