@@ -110,7 +110,7 @@ A few days back UNESCO [gently pointed out](https://www.unesco.org/en/articles/a
 
 ### Element 9: Recognise multiple pathways to impact
 
-This point I owe to Richard Wilson's presentation of [the IZWE Theory of Change](https://docs.google.com/document/d/1uXzuzGC4M1fMfZtuNxMdGIvvUv5igTEgCSmWOem8-8Q/edit), and [Gaventa's Power Cube](https://www.powercube.net/wp-content/uploads/2009/12/finding_spaces_for_change.pdf) - highlighting the multiple levels, spaces and forms of power that could be addressed by an effective deliberation on AI governance.
+This point I owe to Richard Wilson's presentation of the IZWE Theory of Change, and [Gaventa's Power Cube](https://www.powercube.net/wp-content/uploads/2009/12/finding_spaces_for_change.pdf) - highlighting the multiple levels, spaces and forms of power that could be addressed by an effective deliberation on AI governance.
 
 In short, a deliberative process has the potential not only to feed into some global decision, but also to forge new relationships, and educate and activate citizens to act on issues within their local contexts. From the Connected by Data perspective this is particularly important: AI and data governance is not just about setting global rules, or shaping large-scale systems - it is also about helping communities develop voice and power to have a say over how data and AI are adopted in, and impact on, local settings such as schools, workplaces, and local public services.
 
