@@ -15,7 +15,11 @@ layout: default
       </figure>
     </div>
     <div class="column" style="align-self: center">
-      <h1 class="title">{{ page.title }}</h1>
+      <h1 class="title">
+        {{ page.title }}
+        {%- assign pronouns = page.pronouns | strip -%}
+        {%- if pronouns != '' %} <span class="is-size-6">({{ pronouns }})</span>{%- endif -%}
+      </h1>
       <h2 class="subtitle">{{ page.role }}</h2>
     </div>
   </div>

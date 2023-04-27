@@ -14,7 +14,11 @@
 {%- endcapture -%}
 {%- capture title -%}
   <div class="point">
-    <h3 class="title is-5"><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+    <h3 class="title is-5">
+      <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+      {%- assign pronouns = person.pronouns | strip -%}
+      {%- if pronouns != '' %} <span class="is-size-6">({{ pronouns }})</span>{%- endif -%}
+    </h3>
     <p class="subtitle">{{ person.role }}</p>
   </div>
 {%- endcapture -%}

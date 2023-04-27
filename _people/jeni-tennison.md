@@ -5,6 +5,7 @@ roles:
   - board
 redirect_from: /team/jeni-tennison
 title: Jeni Tennison
+pronouns: she/her
 role: Founder and Executive Director
 order: 1
 picture: jeni.jpg
