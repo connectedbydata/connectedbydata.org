@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Global Observations on the State of Open Data
+title: Gloucestershire Data Day
 image: dataday.jpg
 add-background: true
 upcoming: false

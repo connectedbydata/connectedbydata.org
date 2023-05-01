@@ -49,7 +49,7 @@ In short, I’ve taken away a new set of reflections about how supporting [effec
 
 Also on the theme of grassroots engagement, last week we had the opportunity, as part of our JRF Ecosystem Mapping & Engagement project, to engage with Joseph Rowntree Foundation’s [Grassroots Poverty Action Group](https://medium.com/inside-jrf/blending-expertise-to-create-a-better-understanding-of-uk-poverty-a64186c49ba3), and explore their input to draft governance strategies for [the proposed poverty insight infrastructure](https://connectedbydata.org/projects/2022-jrf-ecosystem). 
 
-The short session was packed with fantastic insight from the group (written up by Alan Hudson here), responding to a set of stylised scenarios we presented, based on potential aspects of the insight infrastructure. 
+The short session was packed with fantastic insight from the group ([written up by Alan Hudson here](http://connectedbydata.org/events/2023-04-20-jrf-gpag)), responding to a set of stylised scenarios we presented, based on potential aspects of the insight infrastructure. 
 
 Putting these together involved a couple of iterations to get towards clear language (and in the session we were (rightly) still called out on a few places where we were expressing ideas in inaccessible form), and developing of a set of diagram sketches (thanks to Virgil at [Convincible](https://www.convincible.media/)) to illustrate each scenario and draw out some additional elements for participants to respond to. 
 
