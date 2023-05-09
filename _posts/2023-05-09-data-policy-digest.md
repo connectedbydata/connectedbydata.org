@@ -8,6 +8,7 @@ Hello, and welcome to Connected by Data’s second Data Policy Digest!
 
 This is our attempt to keep track of the many things currently going on in data policy world. If there’s something we’ve missed, something you’re up to that you’d like us to include next time or you have any thoughts on how useful the Digest is or could be, please get in touch via [jonathan@connectedbydata.org](mailto:jonathan@connectedbydata.org). We’re on Twitter @ConnectedByData and @DataReform, and [Digest #1 is here](https://connectedbydata.org/news/2023/04/21/data-policy-digest).
 
+<!--more-->
 
 ## Data policy developments
 
