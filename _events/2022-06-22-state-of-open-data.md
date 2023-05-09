@@ -16,4 +16,3 @@ category: speaking
 
 A [recording of the session is available on YouTube here](https://www.youtube.com/watch?v=OBdNy7o-Gt4).
 
-Full notes coming shortly. 
