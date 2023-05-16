@@ -1,0 +1,21 @@
+---
+layout: post
+author: Obioma Egemonye
+category: weeknotes
+projects:
+  - Ecosystem Mapping and Engagement
+  - Gloucestershire Data Day
+---
+## JRF Grassroots Poverty Action Group and Design Workshop Sessions
+
+As the JRF project draws to a close, we’ve been moving away from exploration and engagement to validating and consulting with different stakeholders on our recommendations. Over the past two weeks, we have held 2 workshops for the Insight Infrastructure project that assessed our governance and stakeholder engagement strategies with a diverse range of stakeholders. This really made for very insightful and interesting discussions, as many participants pointed out parts of our recommendations that we may have missed. It especially highlighted the importance of diversity of viewpoint, experience and background for both its utility in making a better final product and its benefits in truly opening up access to all.
+
+Our session with the Grassroots Poverty Action Group was extremely productive as the participants were able to talk from both lived experience and their experiences working within the sector. One thing that was constantly hammered home was the importance of actively including the voices of people with lived experience at all stages of the project. This was emphasised not only through the practical experience of working with the Grassroots Poverty Action Group, but it was also a key point for many participants. It was also emphasised that their inclusion should not be tokenistic and that their views should be adequately received and integrated into project plans. Whether that be designing survey questionnaires, determining research priorities at the pre-programme stage or analysing responses.
+
+Additionally, particularly in the group I worked with, they highlighted the importance of data being presented in a variety of formats so that the information and experiences are accessible to everyone. Examples such as the [‘Changing Realities’ Project](https://changingrealities.org/) were shared, which also helped to provide a concrete example of publishing poverty and social inequality data in a creative and accessible format. Others highlighted how they liked the option to have both the raw and digested data but noted that it is important that the analysis is unbiased.
+
+## Gloucestershire Data Day
+
+I also have had the pleasure of attending the inaugural Gloucestershire Data Day! It was a really fun day with a diverse group of speakers, performers and participants. It was personally my first time in Gloucestershire so it was really interesting to hear about the local community projects, their specific needs and how each organisation approached data to best serve their community. What really stood out to me was the real variety in backgrounds and experiences of people which was really made clear in the variety of workshops. I attended the ‘Illustrating Data’ workshop hosted by Jo Magee, which was super interactive and encouraged the participants to explore different ways to visually describe data. I also attended the ‘Gateway Trust & Venture Play’ and ‘Un-dizzying the data norms’ sessions which each provided their unique spins on data, one including a video and the other including a song. This created a really holistic experience and just really expanded the common ways I thought about describing data.
+
+I also pitched a session in the Open Space to discuss our work with the Joseph Rowntree Foundation and had a really valuable discussion about the best ways that we can collect data from vulnerable groups without being extractive. There was a general consensus that surveys were not always the best way to get an accurate picture of how people felt and the group I discussed with made that really clear to me. You can read the summary notes from our discussion [here](https://docs.google.com/document/d/1ejzf6kI_B0sZCpMWXmTtOfvsngd35OaRvGnTVKWDC-M/edit#bookmark=id.abrixlqki8l9), and also the notes from the rest of the day [here](https://docs.google.com/document/d/1ejzf6kI_B0sZCpMWXmTtOfvsngd35OaRvGnTVKWDC-M/edit#heading=h.a058y1yxw6dl).
