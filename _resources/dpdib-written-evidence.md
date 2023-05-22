@@ -6,7 +6,7 @@ project: Our Data Futures
 author: Jeni Tennison
 date: 2023-05-22
 status: final
-listed: false
+listed: true
 link: https://docs.google.com/document/d/1ar6m85AZUEbPN4XnKycS1CBAg36mt3u5zOXgMalC4Uw/edit?usp=share_link
 image: dpdib-written-evidence.png
 ---
