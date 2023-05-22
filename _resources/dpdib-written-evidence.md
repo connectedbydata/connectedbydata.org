@@ -8,7 +8,7 @@ date: 2023-05-22
 status: final
 listed: true
 link: https://docs.google.com/document/d/1ar6m85AZUEbPN4XnKycS1CBAg36mt3u5zOXgMalC4Uw/edit?usp=share_link
-image: dpdib-written-evidence.png
+image: dpdib-written-evidence.jpg
 ---
 * Data is a driver of power and progress in modern democratic societies. It has become the medium of relationships between citizens and the state, and between consumers and companies, as well as being the foundation of AI and automated decision making. How it’s regulated affects almost every aspect of our work and lives.
 * The [Data Protection and Digital Information (No.2) Bill](https://bills.parliament.uk/bills/3430) removes important citizen data rights and undermines existing safeguards, parliamentary sovereignty, and democratic governance of data. It misses a critical opportunity to build public confidence in technology and innovation and deliver business and public benefit.
