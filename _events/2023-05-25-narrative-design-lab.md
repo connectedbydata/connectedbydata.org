@@ -3,7 +3,7 @@ layout: event
 title: Future Data Narratives Design Lab
 project: Growing Data Governance Communities
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-05-25
 author: Jonathan Smith
