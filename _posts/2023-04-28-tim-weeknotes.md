@@ -5,6 +5,7 @@ category: weeknotes
 projects:
   - Ecosystem Mapping and Engagement
   - Gloucestershire Data Day
+  - Growing Data Governance Communities
 ---
 
 These will have to count as month-notes, as April has been rather packed, and with bank holidays and lots of workshops, end-of-week reflection time has been short. 

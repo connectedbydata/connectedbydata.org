@@ -1,6 +1,7 @@
 ---
 layout: event
 title: Future Data Narratives Design Lab
+project: Growing Data Governance Communities
 image: cbd-logo.png
 upcoming: true
 writeup: false
