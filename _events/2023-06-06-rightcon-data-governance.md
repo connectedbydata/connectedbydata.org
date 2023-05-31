@@ -7,8 +7,10 @@ writeup: false
 date: 2023-06-06
 author: Jeni Tennison
 category: organising
-link: https://rightscon.org/
+link: https://rightscon.summit.tc/t/rightscon-costa-rica-2023/events/collective-democratic-and-just-towards-a-new-global-agenda-on-data-governance-policy-and-practice-v3LEscnERWSJBSJ3kV856w
 ---
+
+**Jeni will be chairing this RightsCon roundtable, bringing together Astha Kapoor from the Aapti Institute, Alison Gillwald from Research ICT Africa, and Carolina Rossini from the Datasphere Initiative.**
 
 To date, most data governance laws, policies and frameworks around the world have focussed on addressing individual data harms, and creating individual rights. However, we believe the governance of data needs to better account for data’s relational qualities, collective harms and public value.
 
