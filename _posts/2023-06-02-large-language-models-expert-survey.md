@@ -11,6 +11,8 @@ As part of our project exploring how the [Global Data Barometer](https://globald
 
 This post contains some initial notes from this exploration.
 
+<!--more-->
+
 [Disclaimer: I was the initial project director of the Global Data Barometer, but do not work for the GDB any more, and my comments here do not represent any positions of the Barometer project.]
 
 ## How do expert survey studies work?
