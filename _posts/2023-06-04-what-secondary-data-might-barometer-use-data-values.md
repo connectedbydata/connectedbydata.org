@@ -70,22 +70,6 @@ Following assessments, we have made use of the following datasets in the working
    <td><strong>DVT & 2ndEd: </strong>Proxy to identify cases where countries may be collecting disaggregated, and intersectional, data (Manifesto 1 > Outcome metric) <strong> </strong>
    </td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
 </table>
 
 We also explored potential further sources, [as documented in the notebook](https://colab.research.google.com/drive/1LZWHzEPnFjho6Am-td0MYLWKwBcBWNiq), but these do not feature in the prototype or suggestions for future GDB secondary data.

@@ -54,7 +54,7 @@ The situation created is an interesting one:
 
 But:
 
-* The answers are not based on research, and do not _actually _track the truth of the situation in each country. 
+* The answers are not based on research, and do not _actually_ track the truth of the situation in each country. 
 *  Because of the convincing justification offered, it is likely that LLM generated answers would pass many of the current review processes in which regional, or domain (but not country) experts quality assure responses.
 
  So, we’re in a situation where, at the very least,
@@ -62,7 +62,7 @@ But:
 * Some researchers may be incentivised to use LLMs to respond to their surveys (after all, they are generally paid a flat rate for completing the survey, and this could mean saving a _lot_ of time) and it may be hard to detect when this has happened; 
 * Even researchers who don’t directly use LLMs are now operating in an environment where there may be more LLM generated text online, and they need to be more critical about source texts and references.
 
-In all the hype around LLMs, some might argue that we should simply ‘lean in’ to completing expert surveys by machine: arguing that, over time, such systems will improve in their ability to generate ‘true’ answers (for example, newer systems have live access to the Internet to look up sources, not just generate text based on their existing corpora). I don’t subscribe to this view (not least because _until _such time as machines are reliable and truthful, [not just truthy](https://en.wikipedia.org/wiki/Truthiness), it risks further polluting the epistemic environment, and there are significant issues of bias in the information LLMs are trained on that need to be intentionally redressed). However, I do think there may be:
+In all the hype around LLMs, some might argue that we should simply ‘lean in’ to completing expert surveys by machine: arguing that, over time, such systems will improve in their ability to generate ‘true’ answers (for example, newer systems have live access to the Internet to look up sources, not just generate text based on their existing corpora). I don’t subscribe to this view (not least because _until_ such time as machines are reliable and truthful, [not just truthy](https://en.wikipedia.org/wiki/Truthiness), it risks further polluting the epistemic environment, and there are significant issues of bias in the information LLMs are trained on that need to be intentionally redressed). However, I do think there may be:
 
 * **Positive strategies** for the careful application of LLMs to support human-led expert survey studies; and
 * **Defensive strategies** that need to be adopted to maintain the robustness of expert survey evidence in light of the negative impacts of LLMs on the epistemic environment.  
