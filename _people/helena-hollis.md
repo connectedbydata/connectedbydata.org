@@ -6,7 +6,7 @@ title: Helena Hollis
 pronouns: she/her
 role: Field Building Associate
 order: 3
-picture: helena.jpg
+picture: helena.jpeg
 twitter: "@llis_lena"
 email: "helena@connectedbydata.org"
 ---
