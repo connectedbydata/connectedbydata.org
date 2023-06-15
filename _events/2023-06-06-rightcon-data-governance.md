@@ -2,7 +2,7 @@
 layout: event
 title: Collective, democratic and just. Towards a new global agenda on data governance policy and practice
 image: RightsCon2023.jpg
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-06-06
 author: Jeni Tennison
