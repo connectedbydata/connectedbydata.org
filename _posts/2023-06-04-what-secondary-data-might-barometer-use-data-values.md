@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can the Global Data Barometer support action on Data Values?
+title: What can other (non-Barometer) secondary datasets tell us about data values?
 author: Tim Davies
 category: blog
 projects:
