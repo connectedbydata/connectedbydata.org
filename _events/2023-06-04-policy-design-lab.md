@@ -4,7 +4,7 @@ title: Policy Design Lab - A global policy agenda on collective data governance
 image: DesignLabPartnerLogos.png
 upcoming: false
 writeup: true
-date: 2023-04-06
+date: 2023-06-04
 author: Tim Davies
 category: organising
 link: https://docs.google.com/document/d/1fCAMdKYy4FFsGn_-3rWQHIWxh3XPYjCV11dDiScI3Lw/edit
