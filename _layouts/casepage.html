@@ -1,0 +1,109 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/cases">Case database</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {{ page.subtitle }}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture caseBackground -%}
+  {%- include rand-color.html seed=page.title -%}
+{%- endcapture -%}
+{%- assign caseBackground = caseBackground | strip -%}
+{%- capture caseContrast -%}
+  {%- if caseBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif caseBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- assign post = page -%}
+
+{%- capture post-content -%}
+  {%- capture image -%}
+    <div class="icon">
+      
+    </div>
+  {%- endcapture -%}
+
+  {%- capture title -%}
+    <div class="point">
+      <h2 class="title is-4">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h2>
+      {{ subtitle }}
+    </div>
+  {%- endcapture -%}
+  {%- capture content -%}
+    <div class="content">
+      {%- if include.excerpt -%}
+        {{ post.excerpt }}
+        <p>
+          <a href="{{ post.url | relative_url }}">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Read more
+          </a>
+        </p>
+      {%- else -%}
+        {{ post.content | markdownify }}
+      {%- endif -%}
+    </div>
+  {%- endcapture -%}
+  {%- if include.excerpt -%}
+    <div class="columns is-gapless post">
+      {%- include random-graphic-block.html seed=post.content -%}
+      {%- include block.html content=title background=include.postBackground -%}
+      {%- include block.html square=true content=image background=include.postBackground hidden='touch' -%}
+    </div>
+    <div class="columns is-gapless post is-mobile is-hidden-tablet">
+      {%- include block.html square=true content=image background=include.postBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=post.content hidden='tablet' -%}
+    </div>
+    <div class="columns is-gapless post">
+      {%- include block.html square=true background=include.postContrast hidden='touch' -%}
+      {%- include block.html wide=true content=content background=include.postBackground -%}
+    </div>
+  {%- else -%}
+    {%- capture metadata -%}
+      <div class="subpoint">
+      
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless post is-mobile is-hidden-desktop">
+      {%- include random-graphic-block.html seed=post.content hidden='desktop' -%}
+      {%- include block.html square=true content=metadata background=include.postContrast hidden='desktop' -%}
+      {%- include block.html square=true nested=true background=include.postContrast hidden='mobile' -%}
+    </div>
+    <div class="columns is-gapless post">
+      <div class="column has-nested is-hidden-touch">
+        <div class="columns is-gapless">
+          {%- include random-graphic-block.html seed=post.content nested=true -%}
+          {%- include block.html square=true nested=true content=metadata background=include.postContrast -%}
+          {%- include block.html square=true nested=true background=include.postContrast hidden='mobile' -%}
+        </div>
+      </div>
+      {%- include block.html wide=true content=content background=include.postBackground -%}
+    </div>
+  {%- endif -%}
+{%- endcapture -%}
+{%- include section.html content=post-content -%}
+
+
+
+</article>

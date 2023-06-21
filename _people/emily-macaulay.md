@@ -8,7 +8,7 @@ role: Head of Delivery and Operations
 order: 3
 picture: emily.jpg
 mastodon: "@emilyjmacaulay@mastodonapp.uk"
-email: "emilyconnectedbydata.org"
+email: "emily@connectedbydata.org"
 ---
 Emily joins **CONNECTED** BY **DATA** from a service delivery and operations background, for the last nine years working for [the charity](https://www.librariesunlimited.org.uk) that runs all public libraries across Devon and Torbay.  Before that, after completing her Criminology degrees, she worked in the criminal justice system across Devon, Cornwall and the Isles of Scilly for nine years.
 

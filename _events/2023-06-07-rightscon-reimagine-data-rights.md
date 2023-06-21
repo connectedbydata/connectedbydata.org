@@ -3,7 +3,7 @@ layout: event
 title: Re-imagine Data Rights Now!
 subtitle: Protecting individual data isn't enough when the harm is collective
 image: RightsCon-2023-2.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-06-07
 author: Jeni Tennison
