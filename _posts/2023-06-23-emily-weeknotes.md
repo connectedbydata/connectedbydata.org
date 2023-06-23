@@ -14,8 +14,8 @@ This week we had our first ever whole Team Retreat. I loved having the whole tea
 
 The rest of the Team Retreat was structured around us having discussions about strategic plans but with a practical lens too. We scoped out some timelines, flagged some potential issues on the horizon and grappled with some working practices too. Earlier this week I’d introduced the new programme management process to help us keep oversight of what’s going on / when / how and with who. I really enjoyed live noting and updating that system as team chums were chatting through their thoughts.
 
-![Photo of the Connected by Data team working together]({{site.baseurl}}/assets/blog/2023-06-23-team-retreat.jpg)
+![Photo of the Connected by Data team working together]({{site.baseurl}}/assets/blog/2023-06-23-team-retreat.JPG)
 
 We also wanted to maximise the impact of our being together in a physical space and nurturing relationships. So we got ourselves locked in a room where only collaborative problem solving (or I guess complete abdication to a dictator) would get us out (an ‘escape room’, not just some random room). Luckily we demonstrated our high functioning team strengths, escaped with time to spare, and everyone’s still talking to each other!
 
-![Photo of the Connected by Data team having escaped the Escape Room]({{site.baseurl}}/assets/blog/2023-06-23-escape-room.jpg)
+![Photo of the Connected by Data team having escaped the Escape Room]({{site.baseurl}}/assets/blog/2023-06-23-escape-room.JPG)
