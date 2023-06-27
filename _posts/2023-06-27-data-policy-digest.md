@@ -184,7 +184,7 @@ It’s been…. somewhat busy:
 
 ## Events
 
-* On Tuesday 27 June, the Open Rights Group, Big Brother Watch, TUC, Keep Our NHS Public and Bates Wells were talking DPDIB in parliament [at an event](https://www.eventbrite.co.uk/e/what-will-it-mean-to-weaken-the-uks-data-protection-regime-tickets-651939758367?aff=ebdsoporgprofile) organised by SOAS’s Influencing the Corridors of Power project. (SOAS ICOP have produced their own briefing on the Bill.)
+* Today (Tuesday 27 June), the Open Rights Group, Big Brother Watch, TUC, Keep Our NHS Public and Bates Wells are talking DPDIB in parliament [at an event](https://www.eventbrite.co.uk/e/what-will-it-mean-to-weaken-the-uks-data-protection-regime-tickets-651939758367?aff=ebdsoporgprofile) organised by SOAS’s Influencing the Corridors of Power project. (SOAS ICOP have produced their own briefing on the Bill.)
 
 * Also today, the Global Government Forum has a discussion, [‘AI for all? Addressing the biases in automation’](https://twitter.com/globegov/status/1671488428637143041?s=20)
 
