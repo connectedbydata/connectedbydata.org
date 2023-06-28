@@ -31,7 +31,7 @@ In the meantime…
 
 * And [MLex reports](https://mlexmarketinsight.com/news/insight/uk-data-reform-worries-prompt-eu-lawmakers-to-call-for-commission-s-opinion) that UK data reform is back on the EU’s radar, too. And while we’re on the EU, Johnny Ryan, of the Irish Council for Civil Liberties, calls GDPR [an enforcement flop](https://www.economist.com/by-invitation/2023/05/24/dont-be-fooled-by-metas-fine-for-data-breaches-says-johnny-ryan) (or more accurately, the subeditor at The Economist does). Politico has [a similar take](https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/record-meta-fine-masks-shortcomings-of-europes-privacy-regime/amp/).
 
-* Finally Javier Ruiz produced an excellent report for the Digital Trade Alliance covering DPDIB and much more looking at ]The United Kingdom’s Post-Brexit Push for Deregulation in Global Data Governance](https://dtalliance.org/uk-global-data-governance-report/).
+* Finally Javier Ruiz produced an excellent report for the Digital Trade Alliance covering DPDIB and much more looking at [The United Kingdom’s Post-Brexit Push for Deregulation in Global Data Governance](https://dtalliance.org/uk-global-data-governance-report/).
 
 ### Bills, bills, bills
 
@@ -152,8 +152,6 @@ It’s been…. somewhat busy:
 * ORG published a report on the [Information Commissioner’s Office during the pandemic](https://www.openrightsgroup.org/press-releases/org-report-finds-that-ico-failed-to-hold-the-government-to-account-over-use-of-public-health-data-during-pandemic/). The ICO has also been criticised by lawyers and data protection experts, [according to Computer Weekly](https://www.computerweekly.com/news/366542617/ICO-under-fire-for-taking-limited-action-over-serious-data-breaches)
 
 * techUK launched a [UK Tech Plan](https://www.techuk.org/resource/a-uk-tech-plan-how-the-next-government-can-use-technology-to-build-a-better-britain.html) at their Policy leadership Conference
-
-* The Digital Trade Alliance have published a report on [‘The United Kingdom’s Post-Brexit Push for Deregulation in Global Data Governance’](https://dtalliance.org/uk-global-data-governance-report/)
 
 * Demos published [‘Rewiring The Web: The future of personal data’](https://demos.co.uk/research/rewiring-the-web-the-future-of-personal-data/)
 
