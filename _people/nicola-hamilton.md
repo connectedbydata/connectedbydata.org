@@ -6,7 +6,6 @@ title: Nicola Hamilton
 role: Fellow
 picture: nicola.jpg
 twitter: "@patient_data"
-mastodon: "@jtownend@mas.to"
 email: "Nicola.hamilton@understandingpatientdata.org.uk"
 ---
 [Nicola](https://www.linkedin.com/in/nicola-hamilton-025b885a/) is the Head of [Understanding Patient Data](https://understandingpatientdata.org.uk/), an independent initiative hosted at the NHS Confederation which aims to make the way health data is used more visible, transparent and trustworthy, for patients, the public and health professionals. 
