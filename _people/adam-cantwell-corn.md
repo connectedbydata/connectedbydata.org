@@ -3,7 +3,7 @@ layout: person
 roles:
   - team
 title: Adam Cantwell-Corn
-role: Policy and Campaigns Associate
+role: Senior Campaigns and Policy Officer
 order: 3
 picture: adam.jpeg
 twitter: "@AdamC_C"
