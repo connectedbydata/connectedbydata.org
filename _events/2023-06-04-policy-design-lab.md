@@ -14,7 +14,7 @@ On 4th June, **CONNECTED** BY **DATA**, in partnership with Aapti Institute, Res
 
 The session explored building shared language, mapping policy landscapes, developing policies for collective data governance, and prioritising local and global advocacy opportunities. 
 
-<!--more -->
+<!--more-->
 
 A [write up from the workshop can be accessed here](https://docs.google.com/document/d/1fCAMdKYy4FFsGn_-3rWQHIWxh3XPYjCV11dDiScI3Lw/edit)
 
