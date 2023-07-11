@@ -3,7 +3,7 @@ layout: event
 title: Cloud Cafe - Are the machines taking over?
 image: green-party-logo.png
 upcoming: false
-writeup: false
+writeup: true
 date: 2023-06-14
 author: Tim Davies
 category: speaking
