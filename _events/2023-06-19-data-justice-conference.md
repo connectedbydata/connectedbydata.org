@@ -11,6 +11,7 @@ category: Attending
 
 Three members of the Connected by Data team (Maria, Helena and Tim) attended the Data Justice conference in Cardiff on 19th and 20th June. On the 20th we [ran a workshop to trial our game-based activity for exploring data governance](http://connectedbydata.org/blog/2023/07/07/governance-game-playtest), and we engaged in [sessions across the rest of the conference](https://datajusticelab.org/data-justice-2023-conference-programme/), capturing notes on a number of these as written up below. 
 
+<!--more-->
 
 ## Keynote: Experiences at the margins
 
