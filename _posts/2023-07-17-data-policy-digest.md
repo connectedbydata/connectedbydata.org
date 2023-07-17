@@ -135,7 +135,7 @@ Well, it’s briefer than last time:
 
 * [‘2024 will be a litmus test for AI’s effect on elections – and voters’ faith in them’](https://www.theguardian.com/commentisfree/2023/jul/07/2024-litmus-test-ai-elections-voters-trust), writes Demos’ Ellen Judson in The Guardian
 
-* Jean Innes is the [new CEO of the Alan Turing Institute](https://www.turing.ac.uk/news/jean-innes-appointed-lead-alan-turing-institute. And the Turing’s Centre for Emerging Technology and Security (CETaS) has just announced it will be [providing the secretariat for the All-Party Parliamentary Group (APPG) on Technology and National Security](https://cetas.turing.ac.uk/all-party-parliamentary-group-technology-national-security), chaired by Darren Jones
+* Jean Innes is the [new CEO of the Alan Turing Institute](https://www.turing.ac.uk/news/jean-innes-appointed-lead-alan-turing-institute). And the Turing’s Centre for Emerging Technology and Security (CETaS) has just announced it will be [providing the secretariat for the All-Party Parliamentary Group (APPG) on Technology and National Security](https://cetas.turing.ac.uk/all-party-parliamentary-group-technology-national-security), chaired by Darren Jones
 
 * The Institute for Government hosted its [44th Data Bites event](https://www.instituteforgovernment.org.uk/event/data-bites-44-getting-things-done-data-government), with speakers covering topics including the ONS consultation on the future of population statistics mentioned above
 
