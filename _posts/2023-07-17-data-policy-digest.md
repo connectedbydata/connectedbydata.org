@@ -15,7 +15,7 @@ If there’s something we’ve missed, something you’re up to that you’d lik
 
 ### Deeply DPDIB
 
-<iframe src="https://giphy.com/embed/5x89XRx3sBZFC" width="480" height="221" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tumbleweed-landscape-5x89XRx3sBZFC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/5x89XRx3sBZFC" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/tumbleweed-landscape-5x89XRx3sBZFC">via GIPHY</a></p>
 
 We’re [not expecting](https://twitter.com/CommonsLeader/status/1679445051770896394) the Data Protection and Digital Information (No 2) Bill to return to parliament before summer [recess](https://www.parliament.uk/about/faqs/house-of-commons-faqs/business-faq-page/recess-dates/) - we’ll probably meet it again either before or after party conference season in the autumn. It’s [very likely to be ‘carried over’ to the next parliamentary session](https://liveapp.inews.co.uk/2023/07/09/rishi-sunak-forced-to-delay-hs2-law-and-six-other-bills-until-at-least-2024/content.html) - it won’t finish all the bill stages before this parliamentary session ends (at some point in the autumn), so it’ll continue into the next one.
 
