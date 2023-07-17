@@ -14,11 +14,13 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 
 <!--more-->
 
-**Data & AI transparency** can take many forms, including: transparency registers that record information on data collected, or AI systems deployed; model cards that describe how algorithms work; industry transparency reports detailing issues arising; and reactive transparency rights. Numerous voluntary transparency schemes have emerged in recent years, but few are able to guarantee that there will be meaningful transparency whenever data and AI impact on communities. 
+* **Data & AI transparency** can take many forms, including: transparency registers that record information on data collected, or AI systems deployed; model cards that describe how algorithms work; industry transparency reports detailing issues arising; and reactive transparency rights. Numerous voluntary transparency schemes have emerged in recent years, but few are able to guarantee that there will be meaningful transparency whenever data and AI impact on communities. 
 
-**Public participation** can be used to shape policy, inform regulatory action, and establish social licence for data re-use. Both governments and industry have expressed significant interest in using deliberative participation mechanisms to address complex technology governance issues. At the same time, tokenism and ‘participation-washing’ are major risks, and participation around data and AI governance remains ad-hoc.  
 
-**Redress** is a vital part of ensuring accountability for the impacts of data and AI. Providing meaningful redress requires rights of action (both individual and collective), as well as engaged regulators and mechanisms for cross-border redress. 
+* **Public participation** can be used to shape policy, inform regulatory action, and establish social licence for data re-use. Both governments and industry have expressed significant interest in using deliberative participation mechanisms to address complex technology governance issues. At the same time, tokenism and ‘participation-washing’ are major risks, and participation around data and AI governance remains ad-hoc.  
+
+
+* **Redress** is a vital part of ensuring accountability for the impacts of data and AI. Providing meaningful redress requires rights of action (both individual and collective), as well as engaged regulators and mechanisms for cross-border redress. 
 
 **CONNECTED** BY **DATA**, the campaign for communities to have a powerful voice in data governance, are convening a workshop ahead of the Open Government Partnership Global Summit on 4th September 2023 in Tallin, Estonia, to co-design concrete policy commitments on data and AI governance. 
 
