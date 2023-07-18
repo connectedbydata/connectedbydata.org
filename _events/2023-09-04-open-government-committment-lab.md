@@ -24,7 +24,7 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 
 **CONNECTED** BY **DATA**, the campaign for communities to have a powerful voice in data governance, are convening a workshop ahead of the Open Government Partnership Global Summit on 4th September 2023 in Tallin, Estonia, to co-design concrete policy commitments on data and AI governance. 
 
-If you are interested in participating, please contact [tim@connectedbydata.org](mailto:tim@connectedbydata.org) 
+If you are interested in participating, please contact [tim@connectedbydata.org](mailto:tim@connectedbydata.org) or [register your interested here](https://docs.google.com/forms/d/e/1FAIpQLSdqwFePKqbjKguueKCxceINTjsavs6inrNM0mEI6EnwUMzcng/viewform?usp=sf_link).
 
 ### About the Open Government Partnership
 
