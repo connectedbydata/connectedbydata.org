@@ -4,6 +4,7 @@ roles:
   - team
 order: 3
 title: Maria Luciano
+pronouns: she/her
 role: Research associate
 picture: maria.jpg
 twitter: "@malu_luciano"

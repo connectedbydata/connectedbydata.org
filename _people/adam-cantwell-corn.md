@@ -3,6 +3,7 @@ layout: person
 roles:
   - team
 title: Adam Cantwell-Corn
+pronouns: he/him
 role: Senior Campaigns and Policy Officer
 order: 3
 picture: adam.jpeg

@@ -4,6 +4,7 @@ roles:
   - team
 redirect_from: /team/jonathan-smith
 title: Jonathan Smith
+pronouns: he/him
 role: Advocacy and Campaign Director
 order: 2
 picture: jonathan.jpeg

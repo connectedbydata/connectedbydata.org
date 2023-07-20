@@ -4,6 +4,7 @@ roles:
   - team
 redirect_from: /team/tim-davies
 title: Tim Davies
+pronouns: he/him
 role: Research Director
 order: 2
 picture: tim.jpg
