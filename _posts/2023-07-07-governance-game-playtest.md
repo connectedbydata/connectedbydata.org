@@ -42,7 +42,7 @@ At the Data Justice Lab we had three different groups testing the game, running 
 
 This felt like a success right away: though we need to explore more to see if people pick up on _appropriate_ methods for the kinds of context they are working in, and to explore how far awareness of a wider range of methods _raises_ ambition for including participants, rather than encourages choice of low cost/low impact satisficing options. 
 
-**Discussing individual methods**.** **We had a number of conversations about the cost (1 - 5), evaluation scales (for levels of participation, deliberation, scalability and power) and attributes (tags for things like ‘inclusive’ or ‘invite only’) on the cards. For example: “Why are surveys labelled as deliberative?” (Our error!), or “Would this really cost that much to deliver?”. 
+**Discussing individual methods**. We had a number of conversations about the cost (1 - 5), evaluation scales (for levels of participation, deliberation, scalability and power) and attributes (tags for things like ‘inclusive’ or ‘invite only’) on the cards. For example: “Why are surveys labelled as deliberative?” (Our error!), or “Would this really cost that much to deliver?”. 
 
 The cards are an early draft, and we want to go through more of this detailed discussion to make sure the data we include on them is as grounded as possible - although there will always be room for debate. 
 
