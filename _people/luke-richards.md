@@ -5,7 +5,6 @@ roles:
 title: Luke Richards
 role: Fellow
 picture: luke.jpg
-twitter: "@hypnotic"
 mastodon: "@hypnotic@mathstodon.xyz"
 linkedin: "http://www.linkedin.com/in/luke-w-richards/"
 email: "lukerichards.data@gmail.com"
