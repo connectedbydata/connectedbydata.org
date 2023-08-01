@@ -25,6 +25,23 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=mission -%}
 
+<section id="report" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        What we've done
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture annualReports -%}
+  <a href="/assets/resources/connected-by-data-annual-report-2022-2023.pdf">
+    <img src="/assets/resources/connected-by-data-annual-report-2022-2023.jpg" alt="Connected by Data Annual Report 2022-2023">
+  </a>
+{%- endcapture -%}
+{%- include section.html content=annualReports -%}
+
 <section id="plans" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
