@@ -6,9 +6,9 @@ category: blog
 
 ---
 
-* Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies.
+**Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies**
 
-Wales TUC - supported by Dr Juan Grigera from Kings College London and [Adam Cantwell-Corn](https://connectedbydata.org/people/adam-cantwell-corn) from [Connected by Data](https://connectedbydata.org/) - are investigating how workers in a range of sectors are responding to digitalisation and AI at work. This write up is intended to capture the key comments by the workers, which will later inform a full report. 
+_Wales TUC - supported by Dr Juan Grigera from Kings College London and [Adam Cantwell-Corn](https://connectedbydata.org/people/adam-cantwell-corn) from [Connected by Data](https://connectedbydata.org/) - are investigating how workers in a range of sectors are responding to digitalisation and AI at work. This write up is intended to capture the key comments by the workers, which will later inform a full report._ 
  
 Artificial intelligence is having a dehumanising effect on workers as they are continuously monitored.  What's more, it's leading to workers being deskilled, their tasks restructured and sometimes managed out of their jobs.  
 
@@ -92,4 +92,4 @@ Initiatives such as the Workforce Partnership digitalisation principles are cruc
  
 This industrial level organising would be supported by the legislative and regulatory changes recommended by the TUC. 
  
-This write up is from the first workshop in a project investigating the impact and understanding of AI and digitalisation among Welsh workers, led by Wales TUC and supported by Dr Juan Grigera from King's College London and Adam Cantwell-Corn from Connected by Data. 
+_This write up is from the first workshop in a project investigating the impact and understanding of AI and digitalisation among Welsh workers, led by Wales TUC and supported by Dr Juan Grigera from King's College London and Adam Cantwell-Corn from Connected by Data._ 
