@@ -6,7 +6,7 @@ category: blog
 
 ---
 
-## Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies.
+* Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies.
 
 Wales TUC - supported by Dr Juan Grigera from Kings College London and [Adam Cantwell-Corn](https://connectedbydata.org/people/adam-cantwell-corn) from [Connected by Data](https://connectedbydata.org/) - are investigating how workers in a range of sectors are responding to digitalisation and AI at work. This write up is intended to capture the key comments by the workers, which will later inform a full report. 
  
