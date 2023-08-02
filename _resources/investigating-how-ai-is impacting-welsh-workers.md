@@ -7,7 +7,7 @@ author: Adam Cantwell-Corn
 date: 2023-08-02
 status: final
 listed: true
-link: https://connectedbydata.org/resources/investigating-how-ai-is-impacting-welsh-workers
+link: https://www.tuc.org.uk/blogs/investigating-how-ai-understood-and-impacting-welsh-workers-and-trade-unionists
 image: AI-image-MaxGruber-ClickworkerAbyss.jpg
 
 ---
@@ -99,4 +99,5 @@ This industrial level organising would be supported by the legislative and regul
 _This write up is from the first workshop in a project investigating the impact and understanding of AI and digitalisation among Welsh workers, led by Wales TUC and supported by Dr Juan Grigera from King's College London and Adam Cantwell-Corn from Connected by Data._ 
 
 Image credit: Max Gruber / Better Images of AI / Clickworker Abyss / CC-BY 4.0
+
 Image description: Plastic figures resembling humans who sit at tables in front of laptops. The lack of background makes their envoronment look bleak.
