@@ -1,8 +1,14 @@
 ---
-layout: post
+layout: resource
 title: "Investigating how AI is understood and impacting Welsh workers and trade unionists"
+reference: investigating-ai-welsh-workers
+project: Our Data Futures
 author: Adam Cantwell-Corn
-category: blog
+date: 2023-08-02
+status: final
+listed: true
+link: 
+image: AI-image-MaxGruber-ClickworkerAbyss.jpg
 
 ---
 
