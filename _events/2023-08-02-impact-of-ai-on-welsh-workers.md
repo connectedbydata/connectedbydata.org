@@ -1,15 +1,13 @@
 ---
-layout: resource
+layout: event
 title: "Investigating how AI is understood and impacting Welsh workers and trade unionists"
-reference: investigating-ai-welsh-workers
-project: Our Data Futures
-author: Adam Cantwell-Corn
+image: cbd-logo.png
+upcoming: false
+writeup: true
 date: 2023-08-02
-status: final
-listed: true
-link: https://www.tuc.org.uk/blogs/investigating-how-ai-understood-and-impacting-welsh-workers-and-trade-unionists
-image: AI-image-MaxGruber-ClickworkerAbyss.jpg
-
+author: Adam Cantwell-Corn
+category: organising
+project: Our Data Futures
 ---
 
 **Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies**
@@ -17,6 +15,8 @@ image: AI-image-MaxGruber-ClickworkerAbyss.jpg
 _Wales TUC - supported by Dr Juan Grigera from Kings College London and [Adam Cantwell-Corn](https://connectedbydata.org/people/adam-cantwell-corn) from [Connected by Data](https://connectedbydata.org/) - are investigating how workers in a range of sectors are responding to digitalisation and AI at work. This write up is intended to capture the key comments by the workers, which will later inform a full report._ 
  
 Artificial intelligence is having a dehumanising effect on workers as they are continuously monitored.  What's more, it's leading to workers being deskilled, their tasks restructured and sometimes managed out of their jobs.  
+
+<!--more-->
 
 These were the views of an experienced group of trade union representatives in the public sector in the first in a series of workshops. 
    
@@ -97,7 +97,3 @@ Initiatives such as the Workforce Partnership digitalisation principles are cruc
 This industrial level organising would be supported by the legislative and regulatory changes recommended by the TUC. 
  
 _This write up is from the first workshop in a project investigating the impact and understanding of AI and digitalisation among Welsh workers, led by Wales TUC and supported by Dr Juan Grigera from King's College London and Adam Cantwell-Corn from Connected by Data._ 
-
-Image credit: Max Gruber / Better Images of AI / Clickworker Abyss / CC-BY 4.0
-
-Image description: Plastic figures resembling humans who sit at tables in front of laptops. The lack of background makes their envoronment look bleak.
