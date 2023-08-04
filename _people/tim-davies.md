@@ -5,7 +5,7 @@ roles:
 redirect_from: /team/tim-davies
 title: Tim Davies
 pronouns: he/him
-role: Research Director
+role: Research and Practice Director
 order: 2
 picture: tim.jpg
 mastodon: "@timdavies@social.coop"
