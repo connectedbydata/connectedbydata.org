@@ -25,7 +25,7 @@ My focus over the next while will be working to strengthen the forums and means 
 
 ## What I’m reading
 
-[I’m a Luddite (and So Can You!) | The Nib](https://thenib.com/im-a-luddite/) - an excellent short comic on how - despite its association with mindless technophobia - the Luddites were a sophisticated and forward thinking movement with strong relevance for our times
+[I’m a Luddite (and So Can You!) – The Nib](https://thenib.com/im-a-luddite/) - an excellent short comic on how - despite its association with mindless technophobia - the Luddites were a sophisticated and forward thinking movement with strong relevance for our times
 
 [Owen Bennett-Jones · Anti-Anglicisation: Welsh Second Homes · LRB 27 July 2023](https://www.lrb.co.uk/the-paper/v45/n15/owen-bennett-jones/anti-anglicisation) - Not data or AI related, but an excellent narrative and analysis of how well-meaning policies get entangled in complexity
 
