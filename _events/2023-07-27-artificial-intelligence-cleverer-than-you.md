@@ -16,6 +16,8 @@ project: Our Data Futures
 
 _Wales TUC - supported by Dr Juan Grigera from Kings College London and Adam Cantwell-Corn from [Connected by Data](https://connectedbydata.org/) - are investigating how workers in a range of sectors are responding to digitalisation and AI at work. This write up is from the second workshop in the project. The first write up is available [here](http://connectedbydata.org/events/2023-08-02-impact-of-ai-on-welsh-workers)._ 
 
+<!--more-->
+
 “Artificial intelligence is cleverer than you”. That’s what some workers are being told when they challenge the use of the new technology to manage their work.    
 
 Convened by Wales TUC, a group of full-time trade union officials in Wales who represent workers from a range of sectors including retail, logistics, care and health met to discuss digitalisation and AI.  
