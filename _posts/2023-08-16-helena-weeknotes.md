@@ -1,0 +1,21 @@
+---
+layout: post
+author: Helena Hollis
+category: weeknotes
+---
+
+I’ve been conducting interviews in the runup to our [Open Government Partnership workshop](https://connectedbydata.org/events/2023-09-04-open-government-committment-lab). This has firstly reminded me how much I love interviewing people, and secondly made me think about some of the themes emerging across these conversations.
+
+How the design of governance intersects with the design and use of technology is somewhat of a new area for me, as in my previous life as a researcher I was more concerned with charting impacts, and understanding lived experiences, than necessarily coming up with policy. What I’ve been hearing from my interviewees, however, is that there is a core of values or principles (such as “do no harm” or “work in the open”) which we can all think about and contribute to discussion on. This is heartening, as I don’t feel my usual imposter syndrome engaging philosophically, where I would do with the practical detail. As someone who advocates for public engagement and insists the “lay person” is more able to engage in complex deliberations than is often assumed, this has also made me feel somewhat validated.
+
+**Things I've been reading**
+
+I’ve been following the Hollywood strikes with an interest in the ramifications for how we think about “good” work, and creativity. [This article](https://slate.com/culture/2023/08/writers-actors-strike-sag-aftra-wga-hollywood-fans-scabbing-solidarity.html) discussing “content creation” versus perhaps more traditional framings of creativity and art (and the labour of content creators versus artists) presents an interesting perspective. Though AI is mentioned only briefly, I think in many ways the content/creativity distinction is at the heart of how we should understand generative AI and points to how we should boundary its use.
+
+Jack Stilgoe has [a great piece on a “Weizenbaum Test”](https://www.science.org/doi/10.1126/science.adk0176), and for me the most important question on the value of AI technologies is number four: “What will be the implications not just for economies and international security, but also for our sense of what it means to be human?” I think this ties together most of my interests to do with AI and related technologies - what is “good” work, creativity and art, language, and more.
+
+I’ve also just started [The Dawn of Everything](https://www.penguin.co.uk/books/314162/the-dawn-of-everything-by-wengrow-david-graeber-and-david/9780141991061) by the late great David Graeber and David Wengrow. The opening gambit of taking the Hobbes/Rousseau dichotomy and arguing it’s built on false premises appeals to me. I think there is something there which connects the Hobbes/Rousseau world view to ideas of AI returning us to blissful leisure while also governing us impartially, and maybe the Graeber/Wengrow refutation will apply here too, but I need to keep reading to find out. See also [my all time favourite poet’s take](https://allpoetry.com/All-Watched-Over-By-Machines-Of-Loving-Grace). 
+
+I’ve also been enjoying the various articles showing how LLMs fail to provide good answers to basic questions, [such as this Ketchup spelling piece](https://www.theverge.com/2023/5/16/23725747/bard-chatbot-google-neither-artificial-nor-intelligent) commenting on language versus copy. The article references a [Rodney Brooks’ classic](https://people.csail.mit.edu/brooks/papers/representation.pdf) where he imagines people who have only ever seen the inside of a 747 trying to build a plane - they make perfectly good seats, storage lockers, they nail the carpet, but ultimately they are not going to achieve flight. The Verge piece connects Brooks’ parable to language and intelligence, and I think there could also be a connection here to the content/art distinction mentioned above.
+
+To leave you with an entertaining note, the  tweet which inspired the Verge article made me giggle, where [AI gloriously fails to spell mayonnaise](https://twitter.com/Standplaats_KRK/status/1656993644107255809). 
