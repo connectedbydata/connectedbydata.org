@@ -258,8 +258,11 @@ This section offers an initial outline of selected questions that might be inclu
 
 > ### Common definitions
 > Questions make use of the following common terms:
+>
 > **Data governance** refers to decisions made about the data to collect (including the ways data will be disaggregated, and the way variables are described), the way it is collected, how data is secured and/or shared, how data is used, and how concerns about data are addressed.
+>
 > **Key public datasets** refers to any significant dataset used to support public sector decision making or the delivery of public services. For example, the Census, health service records, household or farm surveys, budget and spending data, or operational data from the delivery of frontline services.
+>
 > **Affected communities** refers to any group (constituted or not) that feel effects of the collection or use of a particular public dataset. Particular attention should be paid to marginalised groups who may have additional needs, or whose needs are often not taken into account adequately in public policy.
 
 ### To what extent are there established mechanisms to enable broad and inclusive public input into the design of key public datasets? {#to-what-extent-are-there-established-mechanisms-to-enable-broad-and-inclusive-public-input-into-the-design-of-key-public-datasets}
