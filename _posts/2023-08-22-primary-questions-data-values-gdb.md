@@ -83,7 +83,7 @@ In the table below a set of potential questions have been outlined from an initi
 <tr>
 <td>
 </td>
-<td colspan="3" ><strong>Understanding support for public participation to shape data (</strong>Manifesto points 1 & 2; Barometer Governance and Capability pillars<strong>)</strong>
+<td colspan="3"><strong>Understanding support for public participation to shape data</strong> (Manifesto points 1 & 2; Barometer Governance and Capability pillars)
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ In the table below a set of potential questions have been outlined from an initi
 <tr>
 <td>D2
 </td>
-<td>To what extent are there established mechanisms to enable broad and inclusive public input into the design of key public datasets? *
+<td>To what extent are there established mechanisms to enable broad and inclusive public input into the design of key public datasets?
 </td>
 <td>This option offers a route to a question that is mid-way between a Barometer ‘Governance’ and ‘Capability’ question, by asking about mechanisms, and allowing us to identify cases where these are as a result of comprehensive government action vs. ad-hoc agency decisions. This should generate evidence which might be used to develop D1 in future.
 </td>
@@ -207,11 +207,7 @@ In the table below a set of potential questions have been outlined from an initi
 </td>
 <td>Is there evidence that data collection (and use) practices have been altered to take account of the needs of commonly marginalised communities?
 </td>
-<td>As a ‘evidence’ question this does not try to provide full evaluation, but assumes that the presence (or absence) of evidence in response to this question (particularly when limited to changes during the two-year study period) will be able to offer some discrimination between countries.
-<p>
- 
-<p>
-We assume that all countries have changes they need to make to improve data collection, and so the absence of change in any two year study period can be reasonably judged as negative.
+<td>As a ‘evidence’ question this does not try to provide full evaluation, but assumes that the presence (or absence) of evidence in response to this question (particularly when limited to changes during the two-year study period) will be able to offer some discrimination between countries. We assume that all countries have changes they need to make to improve data collection, and so the absence of change in any two year study period can be reasonably judged as negative.
 </td>
 <td>Yes
 </td>
