@@ -4,7 +4,7 @@ roles:
   - team
 title: Helena Hollis
 pronouns: she/her
-role: Field Building Associate
+role: Field Building Lead
 order: 3
 picture: helena.jpg
 twitter: "@llis_lena"
