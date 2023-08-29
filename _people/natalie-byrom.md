@@ -2,7 +2,7 @@
 layout: person
 roles:
   - fellow
-title: Natalie Bryom
+title: Natalie Byrom
 role: Fellow
 picture: natalie.jpg
 twitter: "@NatalieByrom"
