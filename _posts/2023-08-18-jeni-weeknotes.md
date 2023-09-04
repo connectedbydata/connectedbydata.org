@@ -3,8 +3,6 @@ layout: post
 author: Jeni Tennison
 category: weeknotes
 ---
-# 18th August – Jeni
-
 I’ve had some wonderfully stimulating conversations this week and it’s been a real luxury being able to have time for them.
 
 
@@ -29,7 +27,7 @@ I think it's fair to say that as a group we were somewhat critical of the framin
 
 I'm not sure how much to lean into the "collective intelligence" concept when we're talking about data governance. Collective intelligence (or the wisdom of the crowd) posits that a group, through independent voting, is more able to come to the right answer about something than any individual. I can see this is useful when trying to predict the future or guess the weight of something, but with data governance I'm not sure there ever _is_ a right answer. Data governance questions aren't questions about facts, but questions about morality, ethics, and values and therefore inherently political.
 
-The counterpoint is that collective intelligence approaches might be a way of discovering what Rousseau called "[the general will](https://en.wikipedia.org/wiki/General_will)". Ask people what they think _others_ think, and you might reveal the truth of that. But this is also dangerous. We know that [people assume others have more conservative views than they actually do](https://theconversation.com/politicians-believe-voters-to-be-more-conservative-than-they-really-are-208053) (the link is about a study of politicians but I'm sure I've seen polling that shows it's a more widespread phenomenon).
+The counterpoint is that collective intelligence approaches might be a way of discovering what Rousseau called "[the general will](https://en.wikipedia.org/wiki/General_will)". Ask people what they think _others_ think, and you might reveal the truth of that. But this is also dangerous. We know that [people assume others have more conservative views than they actually do](https://theconversation.com/politicians-believe-voters-to-be-more-conservative-than-they-really-are-208053) (the link is about a study of politicians but I'm sure I've seen polling that shows it's a more widespread phenomenon). \[Ed 2023-09-04: See for example this study of [what Americans think other Americans think about climate change](https://www.nature.com/articles/s41467-022-32412-y.)\]
 
 Better, perhaps, to use Rawls' "[veil of ignorance](https://en.wikipedia.org/wiki/Original_position)" where people have to imagine they could end up as anyone in a society, and are asked about the rules they would want. Indeed, [DeepMind have done some research on this](https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai) and found that (per Rawls' prediction) behind a veil of ignorance, people favour rules where AI systems help the most disadvantaged. This also reinforces what has come out in the [Living with Data research](https://livingwithdata.org/resources/data-matters-are-human-matters-summary-of-living-with-data-findings/) about how people in deliberations about data can demonstrate data solidarity: more of a concern about what _others_ might experience than worried on their own behalf.
 
