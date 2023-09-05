@@ -2,7 +2,7 @@
 layout: event
 title: Data and AI Governance - securing meaningful commitments on transparency, participation and redress (Design Lab)
 image: 2023-09-OGP-Summit.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-09-04
 author: Tim Davies
@@ -10,9 +10,13 @@ category: organising
 link: 
 ---
 
-As datafication accelerates, and algorithmic or artificial intelligence systems are adopted across public and private sectors, governments need to adopt bold measures that can deliver effective governance of data and AI. Three critical aspects of this will be transparency, public participation, and redress. However, policy advocacy in these areas is relatively underdeveloped.
+As datafication accelerates, and algorithmic or artificial intelligence systems are adopted across public and private sectors, governments need to adopt bold measures that can deliver effective governance of data and AI. Three critical aspects of this will be transparency, public participation, and redress. However, policy advocacy in these areas has been relatively underdeveloped. This design lab developed model committment drafts to inform future open government action.
 
 <!--more-->
+
+You can [read an initial write-up from the workshop here, along with early model committment drafts](https://connectedbydata.org/blog/2023/09/05/meeting-digital-governance-challenge-policy-commitments)
+
+## Original invite
 
 * **Data & AI transparency** can take many forms, including: transparency registers that record information on data collected, or AI systems deployed; model cards that describe how algorithms work; industry transparency reports detailing issues arising; and reactive transparency rights. Numerous voluntary transparency schemes have emerged in recent years, but few are able to guarantee that there will be meaningful transparency whenever data and AI impact on communities. 
 
@@ -21,8 +25,6 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 * **Redress** is a vital part of ensuring accountability for the impacts of data and AI. Providing meaningful redress requires rights of action (both individual and collective), as well as engaged regulators and mechanisms for cross-border redress. 
 
 **CONNECTED** BY **DATA**, the campaign for communities to have a powerful voice in data governance, are convening a workshop ahead of the Open Government Partnership Global Summit on 4th September 2023 in Tallin, Estonia, to co-design concrete policy commitments on data and AI governance. 
-
-If you are interested in participating, please contact [tim@connectedbydata.org](mailto:tim@connectedbydata.org) or [register your interested here](https://docs.google.com/forms/d/e/1FAIpQLSdqwFePKqbjKguueKCxceINTjsavs6inrNM0mEI6EnwUMzcng/viewform?usp=sf_link).
 
 ### About the Open Government Partnership
 

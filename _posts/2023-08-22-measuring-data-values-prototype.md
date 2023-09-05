@@ -40,7 +40,7 @@ The prototype draws on both aggregate quantitative, and individual question qual
 
 We’ve put these under an observatory category, and in a separate post will outline some considerations on which of these themes might be addressed through new primary questions in future editions of the Barometer.
 
-![IOmage of early version of google sheets prototype dashboard]({{ site.baseurl }}/assets/blog/2023-08-GDB-dashboard-spreadsheet.png)
+![Image of early version of google sheets prototype dashboard]({{ site.baseurl }}/assets/blog/2023-08-GDB-dashboard-spreadsheet.png)
 Image 2: Early version of Google sheets prototype
 
 
