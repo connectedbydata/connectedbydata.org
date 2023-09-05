@@ -2,6 +2,7 @@
 layout: post
 title: Meeting the digital governance challenge - prospective open government actions
 author: Tim Davies
+category: blog
 ---
 
 How should the toolkit of open government be applied to the governance of data and AI? That’s the question we set out to ask with our design lab workshop on the fringes of the Open Government Partnership (OGP) summit earlier this week.
