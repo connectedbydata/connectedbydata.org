@@ -155,8 +155,6 @@ Elsewhere … we are no longer waiting for Sue Gray to start as Keir Starmer’s
 
 * [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy) - The Guardian
 
-* Merchant ahead of Luddites book, [https://twitter.com/bcmerchant/status/1697300515003183574](https://twitter.com/bcmerchant/status/1697300515003183574) 
-
 * [As Militaries Adopt AI, Hype Becomes a Weapon](https://daily.jstor.org/as-militaries-adopt-ai-hype-becomes-a-weapon/) - JSTOR Daily
 
 * [How robotaxis are dividing San Francisco](https://www.bbc.co.uk/news/technology-66611513) - BBC News
