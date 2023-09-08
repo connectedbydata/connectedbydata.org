@@ -52,7 +52,7 @@ Our goal in this work is to provide resources that can catalyse and support mean
 ## We could use your help
 
 * **What should we be building on?** We’re not the first to be thinking about this, and are anticipating we’ll be remixing rather than starting from scratch. Are there resources we should be aware of? Case studies to learn from? [Let us know!](mailto:tim@connectedbydata.org?subject=Resources%20for%20data%20and%20AI%20dialogue)
-* **If you are interested in joining us for the lab** (on 22nd - 24th November) please [do get in touch](mailto:tim@connctedbydata.org): particularly if you feel you can bring insights or lived experience from a group that is often not represented in these sorts of discussions. \
+* **If you are interested in joining us for the lab** (on 22nd - 24th November) please [do get in touch](mailto:tim@connctedbydata.org): particularly if you feel you can bring insights or lived experience from a group that is often not represented in these sorts of discussions. 
 * **Join us in September for a pre-lab conversation** to talk about existing public deliberations on data and AI, what we can learn, and where the gaps are. (Date tbc, and sign up coming shortly). 
 
 
