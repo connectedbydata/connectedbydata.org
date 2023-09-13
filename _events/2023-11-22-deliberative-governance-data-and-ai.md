@@ -16,7 +16,7 @@ We’re convening a group of 20 thinkers and practitioners who work on public en
 
 <!--more-->
 
-With support for [Iswe foundation](https://iswe.org/), we’ll be looking at three main problem areas below, and spending 2 days together (in the beautiful retreat center setting of the Hawkwood Centre) to sketch out possible solutions.
+With support from [Iswe foundation](https://iswe.org/), we’ll be looking at three main problem areas below, and spending 2 days together (in the beautiful retreat center setting of the Hawkwood Centre) to sketch out possible solutions.
 
 
 <table>
