@@ -29,19 +29,19 @@ With support from [Iswe foundation](https://iswe.org/), we’ll be looking at th
   <tr>
    <td>Decision makers are not convinced that they should be listening to public voices in the shaping of data and AI
    </td>
-   <td>Targetted materials that make the case for public deliberation on technology and AI policy.
+   <td>Targeted materials that make the case for public deliberation on technology and AI policy.
    </td>
   </tr>
   <tr>
    <td>Running an effective deliberation on AI requires good background materials - focussing on the right topics, and recognising the different frames applied to discussion of AI
    </td>
-   <td>A toolkit of background materials and curicula, evaluated, categorised and tested for use within public dialogue
+   <td>A toolkit of background materials and curiculum, evaluated, categorised and tested for use within public dialogue
    </td>
   </tr>
   <tr>
    <td>Running a powerful deliberation on AI requires tailored facilitation processes
    </td>
-   <td>Facilitators guidance on how to put together a focussed deliberation on particilar AI governance decisions. 
+   <td>Facilitators guidance on how to put together a focussed deliberation on particular AI governance decisions. 
    </td>
   </tr>
 </table>
