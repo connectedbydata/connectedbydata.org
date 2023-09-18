@@ -13,7 +13,7 @@ AI, data rights, the power of big tech, online safety… digital, data and techn
 
 <!--more-->
 
-**CONNECTED** BY **DATA** and the [Fabian Society](https://fabians.org.uk/) are bringing together a wide spectrum of voices for a vibrant discussion on one of the hot button issues of our time. Following short contributions from the panel, there will be plenty of opportunity for the audience to participate in the discussion.
+On Monday 9 October 2023, from 17:30 at The Tate Liverpool, **CONNECTED** BY **DATA** and the [Fabian Society](https://fabians.org.uk/) are bringing together a wide spectrum of voices for a vibrant discussion on one of the hot button issues of our time. Following short contributions from the panel, there will be plenty of opportunity for the audience to participate in the discussion.
 
 **CONNECTED** BY **DATA** will also be introducing a progressive vision for data and tech policy, based on contributions from across civil society, to support future discussions.
 
