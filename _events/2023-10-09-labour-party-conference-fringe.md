@@ -1,8 +1,8 @@
 ---
 layout: event
 title: What Labour should(n't)do on data and AI policy in the first 100 days 
-image: labour-conference.jpeg
-link: https://www.eventbrite.com/e/what-labour-shouldntdo-on-data-and-ai-policy-in-the-first-100-days-tickets-705164113847?aff=oddtdtcreator
+image: labour-conference.png
+link: 
 upcoming: true
 writeup: false
 date: 2023-10-09
