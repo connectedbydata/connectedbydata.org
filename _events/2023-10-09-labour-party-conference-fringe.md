@@ -1,7 +1,7 @@
 ---
 layout: event
 title: What Labour should(n't)do on data and AI policy in the first 100 days 
-image: labour-conference.png
+image: labour-conference-2023.png
 link: 
 upcoming: true
 writeup: false
@@ -30,4 +30,4 @@ There will be a short time to continue the conversation at the venue following t
 
 Note: The Tate Liverpool is outside the formal Conference zone so you will not need a Party Conference ticket to attend.
 
-[Book your ticket on Eventbrite by clicking here](https://www.eventbrite.com/e/what-labour-shouldntdo-on-data-and-ai-policy-in-the-first-100-days-tickets-705164113847?aff=oddtdtcreator).
+> [Book your ticket on Eventbrite by clicking here](https://www.eventbrite.com/e/what-labour-shouldntdo-on-data-and-ai-policy-in-the-first-100-days-tickets-705164113847?aff=oddtdtcreator).
