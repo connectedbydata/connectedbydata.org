@@ -2,7 +2,7 @@
 layout: event
 title: Protecting and empowering communities in an era of artificial intelligence 
 image: 
-link: 
+link: cbd.png
 upcoming: true
 writeup: false
 date: 2023-10-07
