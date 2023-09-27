@@ -19,6 +19,7 @@ On Monday 9 October 2023, from 17:30 at The Tate Liverpool, **CONNECTED** BY **D
 
 [Gavin Freeguard](https://connectedbydata.org/people/gavin-freeguard), policy associate at Connected by Data, will host the conversation featuring:
 
+* [Matt Rodda](https://members.parliament.uk/member/4654/contact), MP for Reading East and Shadow Minister for AI and Intellectual Property
 * [Chris Bryant](https://members.parliament.uk/member/1446/contact), MP for Rhondda and Shadow Minister for Creative Industries and Digital
 * [Jeni Tennison](https://connectedbydata.org/people/jeni-tennison), executive director, Connected by Data
 * [Sasjkia Otto](https://www.linkedin.com/in/sasjkia/), senior researcher, Fabian Society
