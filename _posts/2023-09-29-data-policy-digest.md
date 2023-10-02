@@ -10,6 +10,7 @@ And Happy [International Access to Information Day](https://www.unesco.org/en/ar
 
 If there’s something we’ve missed, something you’re up to that you’d like us to include next time or you have any thoughts on how useful the Digest is or could be, please get in touch via **[gavin@connectedbydata.org](mailto:gavin@connectedbydata.org)**. We’re on Twitter @ConnectedByData and @DataReform. You can also catch up on **[Digest #1](https://connectedbydata.org/news/2023/04/21/data-policy-digest)**, **[Digest #2](https://connectedbydata.org/news/2023/05/09/data-policy-digest)**, **[Digest #3](https://connectedbydata.org/news/2023/06/27/data-policy-digest)**, **[Digest #4](https://connectedbydata.org/news/2023/07/17/data-policy-digest)**, **[Digest #5](https://connectedbydata.org/news/2023/08/15/data-policy-digest)** and **[Digest #6](https://connectedbydata.org/news/2023/09/05/data-policy-digest)**, or [sign up to the Digest and/or Connected by Data’s monthly newsletter via email](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
 
+<!--more-->
 
 ## Conference calls
 
