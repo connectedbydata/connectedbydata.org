@@ -9,7 +9,7 @@ author: Emily Macaulay
 category: attending
 ---
 
-**CONNECTED BY DATA** is pleased to have been accepted to be part of the 2023 cohort of [Hogan Lovell’s BaSE training programme](https://www.hoganlovellsbase.com/about/our-practice/base-training).
+**CONNECTED BY DATA** is pleased to have been accepted to be part of the 2023 cohort of [Hogan Lovells' BaSE training programme](https://www.hoganlovellsbase.com/about/our-practice/base-training).
 
 <!--more-->
 
