@@ -12,6 +12,8 @@ project: Connected Conversations
 
 Last week, as part of our Connected Conversations series, we brought together a fantastic group of panellists and discussants to look at how communities are gaining voice in the governance of data and AI in different settings around the world. The session focused on examples of efforts to engage affected communities in the governance of AI at different levels, internationally. This is particularly important and interesting in the run up to the UK AI Summit.
 
+<!--more-->
+
 Our panellists for the session, sharing their experience to start the conversation, were:
 * [Richard Gevers: Open Cities Lab](https://www.opencitieslab.org/about), Durban, South Africa
 * [Zoe Kahn: University of California](https://www.ischool.berkeley.edu/people/zoe-kahn), Berkeley, USA
