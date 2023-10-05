@@ -22,5 +22,3 @@ Our strategic roadmap of what we want to achieve as an organisation includes how
 Over a six month period we’ll be working with a team of lawyers who are taking part in a mini-MBA style programme to develop their skills and we get some great advice too.
 
 At the kick off event Emily met with the team that will be engaging with us and had good conversations about our missions, how we envisaged making the change we want to see and probing questions to see how they can best help us. We’re looking forward to seeing how the relationship develops.
-
-![Photo of a large model duck in the style of a rubber duck. It is black with an orange beak. On its chest is the Hogan Lovells logo. It is sitting in glass fronted office building]({{site.baseurl}}/assets/events/2023-09-27-HL-duck.jpeg)
