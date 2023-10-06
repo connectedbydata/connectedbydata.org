@@ -6,7 +6,7 @@ link:
 upcoming: true
 writeup: false
 date: 2023-10-09
-author: Jonathan Smith
+author: Adam Cantwell-Corn
 category: organising
 ---
 AI, data rights, the power of big tech, online safety… digital, data and technology policy is breaking into the political mainstream like never before. Any incoming Labour government will need to make the most of the opportunities afforded by new tech and the better use of data to deliver on its industrial strategy and public services plans – while protecting the public against the risks, hype and vested interests. So what should a Labour administration do – and not do?
@@ -20,7 +20,6 @@ On Monday 9 October 2023, from 17:30 at The Tate Liverpool, **CONNECTED** BY **D
 [Gavin Freeguard](https://connectedbydata.org/people/gavin-freeguard), policy associate at Connected by Data, will host the conversation featuring:
 
 * [Matt Rodda](https://members.parliament.uk/member/4654/contact), MP for Reading East and Shadow Minister for AI and Intellectual Property
-* [Chris Bryant](https://members.parliament.uk/member/1446/contact), MP for Rhondda and Shadow Minister for Creative Industries and Digital
 * [Jeni Tennison](https://connectedbydata.org/people/jeni-tennison), executive director, Connected by Data
 * [Sasjkia Otto](https://www.linkedin.com/in/sasjkia/), senior researcher, Fabian Society
 * [Mat Lawrence](https://www.linkedin.com/in/mathew-lawrence-0391b134/), director, Common Wealth
