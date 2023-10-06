@@ -8,6 +8,7 @@ date: 2023-11-22
 author: Tim Davies
 category: organising
 link: 
+project: Growing Data Governance Communities
 ---
 
 **What does it take to have informed, empowered and deliberative dialogue about the impacts of data and artificial intelligence?** 

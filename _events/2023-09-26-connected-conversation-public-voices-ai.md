@@ -8,6 +8,7 @@ date: 2023-09-26
 author: Nicola Hamilton
 category: organising
 project: Connected Conversations
+project: Growing Data Governance Communities
 ---
 
 Last week, as part of our Connected Conversations series, we brought together a fantastic group of panellists and discussants to look at how communities are gaining voice in the governance of data and AI in different settings around the world. The session focused on examples of efforts to engage affected communities in the governance of AI at different levels, internationally. This is particularly important and interesting in the run up to the UK AI Summit.

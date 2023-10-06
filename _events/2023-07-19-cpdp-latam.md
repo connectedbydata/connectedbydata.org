@@ -7,6 +7,7 @@ writeup: true
 date: 2023-07-19
 author: Maria Luciano
 category: attending
+project: Growing Data Governance Communities
 ---
 
 In July, we attended the [Latin America edition](https://cpdp.lat/en/) of [the most important conference](https://www.cpdpconferences.org/) in the field of data protection after being kindly offered a complimentary ticket by the organisers. It was an amazing opportunity to meet up with colleagues I had not seen since the pandemic and honour Danilo Doneda, who, on top of being the first to engage with data protection discussions in Brazil, was also my first boss in the field. And, as any good [paulistana](https://en.wiktionary.org/wiki/paulistano), make fun of [cariocas’](https://en.wikipedia.org/wiki/Carioca) accent.

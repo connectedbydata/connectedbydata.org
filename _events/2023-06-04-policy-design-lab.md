@@ -8,6 +8,7 @@ date: 2023-06-04
 author: Tim Davies
 category: organising
 link: https://docs.google.com/document/d/1fCAMdKYy4FFsGn_-3rWQHIWxh3XPYjCV11dDiScI3Lw/edit
+project: Growing Data Governance Communities
 ---
 
 On 4th June, **CONNECTED** BY **DATA**, in partnership with Aapti Institute, Research ICT Africa, Aapti Institute and The Datasphere Initiative convened  a workshop to explore global policy agendas on collective data governance. 

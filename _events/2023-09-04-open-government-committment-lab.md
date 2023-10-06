@@ -8,6 +8,7 @@ date: 2023-09-04
 author: Tim Davies
 category: organising
 link: 
+project: Growing Data Governance Communities
 ---
 
 As datafication accelerates, and algorithmic or artificial intelligence systems are adopted across public and private sectors, governments need to adopt bold measures that can deliver effective governance of data and AI. Three critical aspects of this will be transparency, public participation, and redress. However, policy advocacy in these areas has been relatively underdeveloped. This design lab developed model committment drafts to inform future open government action.

@@ -8,6 +8,7 @@ writeup: false
 date: 2023-10-07
 author: Tim Davies
 category: organising
+project: Our Data Futures
 ---
 What should the Green approach be to the governance of data and AI? Join Natalie Bennett, Andy Stirling and Connected by Data, a campaign for communities to have a powerful voice in data and AI, to explore the philosophies, politics and policies that should guide how these fast changing technologies impact our communities and world. 
 
