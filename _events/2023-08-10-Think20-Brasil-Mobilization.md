@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Think20 Brasil Mobilization"
-image: 
+image: G20-brasil.png
 upcoming: false
 writeup: true
 date: 2023-08-10
