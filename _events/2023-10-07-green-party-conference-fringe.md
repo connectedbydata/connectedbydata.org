@@ -3,7 +3,7 @@ layout: event
 title: Protecting and empowering communities in an era of artificial intelligence 
 image: cbd-logo.png
 link: 
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-10-07
 author: Tim Davies
