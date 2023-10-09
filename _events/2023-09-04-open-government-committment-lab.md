@@ -27,7 +27,7 @@ Governments should focus on:
 2. **Deliberative development of data and AI strategies** at both national and local levels through use of both open, and more targeted, participation processes.
 3. **Strengthening citizen voice within sectoral regulators** to create a robust feedback loop and ensure data and AI firms have social licence to operate in the way they do.
 
-[The full report](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit) ([PDF]("/assets/resources/2023-10-09-Open Government, Data and AI_ Developing Commitments (Workshop Report).pdf)") provides more details on the case for these commitments, and how to make them effective open government measures.
+[The full report](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit) ([PDF]({{ site.baseurl }}/assets/resources/2023-10-09-Open Government Data and AI Developing Commitments Workshop Report.pdf)) provides more details on the case for these commitments, and how to make them effective open government measures.
 
 [![Write-up: Data and AI Governance - securing meaningful commitments on transparency, participation and redress #shared]({{ site.baseurl }}/assets/events/2023-10-09-OGP-Report.png)](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit)
 
