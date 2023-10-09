@@ -18,8 +18,8 @@ Last week, as part of our Connected Conversations series, we brought together a 
 Our panellists for the session, sharing their experience to start the conversation, were:
 * [Richard Gevers: Open Cities Lab](https://www.opencitieslab.org/about), Durban, South Africa
 * [Zoe Kahn: University of California](https://www.ischool.berkeley.edu/people/zoe-kahn), Berkeley, USA
-* [Safiya Hussain: Karya](https://www.karya.in/about.html), Bangalore, India
-* [Renee Seiber: McGill University](https://www.mcgill.ca/geography/people-0/sieber), Montreal, Canada
+* [Safiya Husain: Karya](https://www.karya.in/about.html), Bangalore, India
+* [Renee Sieber: McGill University](https://www.mcgill.ca/geography/people-0/sieber), Montreal, Canada
 
 The wide-ranging discussion, recounted in more depth below, touched on a number of themes, including:
 * **Problem-centred participation**. Often engagement is framed around technologies rather than the services they are used within. Instead of inviting communities to the table to discuss technical questions, switching engagement around to start from tangible policy problems can open up new discussions and solutions.
