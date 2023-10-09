@@ -3,11 +3,11 @@ layout: event
 title: Data and AI Governance - securing meaningful commitments on transparency, participation and redress (Design Lab)
 image: 2023-09-OGP-Summit.png
 upcoming: false
-writeup: false
+writeup: true
 date: 2023-09-04
 author: Tim Davies
 category: organising
-link: 
+link: https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit
 project: Growing Data Governance Communities
 ---
 
@@ -15,7 +15,21 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 
 <!--more-->
 
-You can [read an initial write-up from the workshop here, along with early model committment drafts](https://connectedbydata.org/blog/2023/09/05/meeting-digital-governance-challenge-policy-commitments)
+## Workshop report 
+
+In September 2023, Connected by Data brought together a diverse group of civil society, government and academic stakeholders on the fringes of the 2023 Open Government Partnership Summit in Tallinn, Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance.
+
+The three concepts outlined in this report directly respond to the [Open Government Challenge](https://www.opengovpartnership.org/the-open-gov-challenge/) on Public Participation and Digital Governance and set out concrete proposals for national and local government action. We encourage governments and civil society to build on these concepts in developing policy commitments both within, and beyond, the Open Government Partnership action planning process.
+
+Governments should focus on:
+
+1. **Participatory oversight of technology procurement** through creation of multi-stakeholder oversight groups that are empowered to advise, question and publicly report on public sector data and AI procurement.  
+2. **Deliberative development of data and AI strategies** at both national and local levels through use of both open, and more targeted, participation processes.
+3. **Strengthening citizen voice within sectoral regulators** to create a robust feedback loop and ensure data and AI firms have social licence to operate in the way they do.
+
+[The full report](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit) ([PDF]("/assets/resources/2023-10-09-Open Government, Data and AI_ Developing Commitments (Workshop Report).pdf)") provides more details on the case for these commitments, and how to make them effective open government measures.
+
+[![Write-up: Data and AI Governance - securing meaningful commitments on transparency, participation and redress #shared]({{ site.baseurl }}/assets/events/2023-10-09-OGP-Report.png)](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit)
 
 ## Original invite
 
