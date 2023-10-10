@@ -1,0 +1,44 @@
+---
+layout: post
+author: Maria Luciano
+category: weeknotes
+---
+
+It’s been a couple of months (and three different countries) since my last weeknotes. As I try to understand why it’s been so difficult for me to keep up with them, a few things come to mind. Alongside our busy organisational schedule (as I’ve been taking on some engagement and outreach work around G20 conversations while continuing to do research work), I think some personal things have a play in it. Navigating different tasks at work (which I always enjoy) while taking on new caregiving responsibilities and addressing some health hiccups has made me feel as if I was dropping some balls, something I’m not really used to, and that the perfectionist side of me struggles with. But the chats I’ve been having (how British of me to “chat,” right?) with the incredible people I’ve been getting to know during our engagement work have sparked some reflections about the importance of sharing our experiences and how strongly we can end up relating to one another.
+
+### UN Global Digital Compact - Thematic Deep Dives: Data Protection
+“There is no AI governance without data governance.” That was the final statement given by Amandeep Singh Gill, the UN Secretary-General's Envoy on Technology, on April 24th’s [informal public consultation on data protection](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/CoFacilitators-letter_GDC-thematic_deep_dive_24_April.pdf) (or “thematic deep dives”) held by the UN General Assembly and co-facilitated by the Permanent Representatives of Rwanda and of Sweden. According to him, “Protecting human rights today means protecting data.”
+
+The three guiding questions of this specific Thematic Deep Dive Session were: 
+* Art. 17 ICCPR recognizes the individual right to privacy. How can governments, data protection authorities’ private companies, the scientific community and civil society work together to ensure personal data is processed, stored, secured and protected against misuse?
+* What principles would support quality and interoperable data so that governments, international organisations, the private sector, civil society and individuals can contribute to and benefit from digital trade and economy and leave no one behind?
+* Data is a key enabler of innovation and research. How can stakeholders leverage tools such as (pseudo)anonymization, encryption, portability, etc. to drive innovation and interoperability while protecting personal data?
+
+**CONNECTED** BY **DATA** participated, sharing a brief summary of our [written submission](https://docs.google.com/document/d/1okAwM6KE4tD6RDSSJgeaiE0vi45y5a93EUK2uAGw9rY/edit#heading=h.jgmduqp1336).
+
+It was interesting to see how most statements were framed around the need for _trust_ in data governance - something Tim and I also picked up from our [case study research](https://connectedbydata.org/cases). To the EU’s representative, privacy is one of the mechanisms to “allow citizens to fully trust innovation and use it safely.”
+
+**Linda Bonyo**, CEO and founder of the Lawyers Hub, a Pan-African Law-Tech organisation that works on Digital policy and Justice innovation, argued that there is a fragmentation of data protection legislation in Africa and questioned how we can promote collaboration and “become the owner of this data.” Her and **Declan Kirrane**, Chairman Science Summit at UNGA78, advocated for inclusive and broader consultations regarding data governance, with him adding that since the GDPR has global application, “why is this done without any consultation with developing nations?”. As we join the chorus in the pursuit of methods that ensure meaningful participation, it is worth mentioning that the political dynamics and procedural design of the UN deep dives themselves [have been questioned](https://www.article19.org/resources/civil-society-global-digital-compact/) by civil society organisations. 
+
+From a Global South perspective, it was interesting to learn more about the [Southern Alliance for the Global Digital Compact](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/GDC-submission_Southern_Alliance.pdf), an alliance formed in 2023 by Data Privacy Brasil (Brazil), Aapti Institute (India), Internet Bolivia Foundation (Bolivia), KICTANet (Kenya), and Paradigm Initiative (Pan African), “dedicated to advocating for policies and regulations that take into account the realities of the Global South and the unique challenges faced by people in these regions.” 
+
+### AI in Courts
+On April 24th, I also had the pleasure to attend Hertie School’s research event “[Transforming the Guardians? AI in the Courtroom](https://www.youtube.com/watch?v=dKOUEgtsWGw)”, and learn about Giulia Gentile’s work.
+
+Gentile has been studying the adoption of AI systems by the Judiciary in two contexts: the UK and Estonia. It was fascinating to see how different narratives culminated in this movement of using technology in courts and the repercussions of different implementations. In the UK, it all started with the legal aid cuts of 2013, which created more restraints for those who could not afford legal fees and services. Around that time, Gentile identified a narrative within the public debate supporting the digitalization of courts as a tool to ensure access to courts (buildings) and adjudication (efficiency and lower costs). However, implementation has been limited in practice, being restricted to family and county courts - which poses obstacles and unfair advantages for those who are not tech-savvy.
+
+In Estonia, on the other hand, digitalization took place in the context of discussions around government efficiency and the country being included in the European Union. There, implementation started in the Supreme Court due to its fewer cases.
+
+Comparing these two scenarios, Gentile identifies three types of transformation: (1) internal perception of justice, i. e. how judges see their role; (2) public perception of justice, regarding the issue of trust in these systems; and (3) the epistemology of justice, as the complexity and opacity of AI broadens the knowledge gap for both judges and the general public. She then makes a case for adjudication of public _human_ good: the constitutional legitimacy of judicial decisions is linked to judges' humanity, allowing their essential role of holding the government accountable (separation of powers).
+
+A fascinating and necessary discussion relating to our work about collective governance and trust: on the one hand, the narrative of efficiency does not hold up if systems pose obstacles to those using it (issues with authentication, for example, have been reported by the judges); on the other, the narrative of ensuring access to justice backfires as knowledge gaps further exclusion. A collective approach to the decision-making processes surrounding these policies could prevent or address these fundamental implementation problems.
+
+### RightCon Costa Rica and Data Justice Conference 2023
+Since we have published specific blog posts about our attendance at these events, I’ll just share a couple of brief comments about my personal experience attending them.
+
+As well organised as this year’s [Data Justice Conference](https://connectedbydata.org/events/2023-06-19-data-justice-conference) was, it was a bit disappointing to see an outstanding homogeneity among participants: mostly white Europeans and Americans. Having witnessed RightsCon's efforts to ensure diversity in the previous month, it was frustrating to see a conference aiming to discuss “justice” in a more academic setting (as opposed to the strong participation of civil society organisations in Costa Rica) failing to invite so many important voices for the debate. A very symbolic example for me was seeing the Brazilian and Indian identity systems being presented by U.S. researchers, as we had less than a handful of Brazilians and Indians participating in the conference at all. Questioning the structures behind knowledge production is a necessary step on the path of rethinking governance structures.
+
+Additionally, creating knowledge and fostering conversations involves acknowledging all sorts of abilities, skills, and positionality. Because of my previous law school experience, based on hierarchical lectures exclusively on legal doctrines, I was particularly fascinated and excited to experience the most creative and enlightening kinds of workshops and alternative sessions during both events!
+
+### Other events
+I also attended [CPDP LatAm 2023](https://connectedbydata.org/events/2023-07-19-cpdp-latam), [Think20 Brasil Mobilization Meeting](https://connectedbydata.org/events/2023-08-10-think20-brasil-mobilization) and [CGI.br’s and NIC.br’s Privacy and Personal Data Protection Seminar](https://connectedbydata.org/events/2023-08-14-privacy-personal-data-protection-seminar), all of which have their own writeups accessible via the links. 
