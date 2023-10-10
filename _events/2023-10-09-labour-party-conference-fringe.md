@@ -3,7 +3,7 @@ layout: event
 title: What Labour should(n't)do on data and AI policy in the first 100 days 
 image: labour-conference-2023.png
 link: 
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-10-09
 author: Adam Cantwell-Corn
