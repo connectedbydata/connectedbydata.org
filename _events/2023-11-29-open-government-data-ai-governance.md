@@ -11,7 +11,7 @@ link:
 project: Connected Conversations
 ---
 
-This Connected Conversation on Zoom will present the [outcomes of a workshop convened alongside the 2023 OGP Summit](http://connectedbydata.org/events/2023-09-04-open-government-committment-lab) that developed a set of targetted and robust model open government commitments on transparency, participation and redress in data and AI governance. 
+This Connected Conversation on Zoom (29th November 2023 - 2pm UTC / 9am EST) will present the [outcomes of a workshop convened alongside the 2023 OGP Summit](http://connectedbydata.org/events/2023-09-04-open-government-committment-lab) that developed a set of targetted and robust model open government commitments on transparency, participation and redress in data and AI governance. 
 
 <!--more-->
 
