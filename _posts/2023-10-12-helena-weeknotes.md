@@ -1,0 +1,21 @@
+---
+layout: post
+author: Helena Hollis
+category: weeknotes
+---
+
+In a connected conversation we hosted about [participation in AI](https://connectedbydata.org/events/2023-09-26-connected-conversation-public-voices-ai), “AI literacy” or “data literacy” prompted debate - are these concepts important in driving capacity building to enable people to engage with data and AI issues? Or are they exclusionary, putting the onus on people to make themselves ‘literate’ as an entry barrier?
+
+This reminded me of my former profession as a librarian, and as a researcher in information studies, where literacies abound (e.g. information, digital, media, etc.). My view was that [“information literacy” by and large means the same thing as “critical thinking”](https://discovery.ucl.ac.uk/id/eprint/10074076/8/Hollis%20Hollis2019CoLIS.pdf), but is something of an ‘in’ term exclusive to the information studies world. I felt uncomfortable telling my research participants I’m studying “information literacy” which none of them would ever have heard of, making it sound very fancy and academic, when really I was talking about what most people would comfortably call “critical thinking” and feel quite familiar with.
+
+Thinking about this terminology now, I feel a lingering discomfort with the term “literacy”, not just because it may not be familiar, but also because I think it does imply some kind of achievement of a status. To be literate in something conveys a sense of work put in to obtain some sufficient standard of knowledge.
+
+Coming back to data and AI, I’ve been mulling this over and I’ve landed on thinking that “literacy” is not the term I’d want to use in the context of enabling people to engage in debate and decision making. Would I call myself “AI literate” or “Data literate”? Probably not, being keenly aware of the immense array of things I don’t know. And yet I do feel able to form robust opinions on data and AI governance, and would be comfortable discussing my views.
+
+I think what people need in order to understand and shape opinions on data and AI, and the impacts these have on our lives, jobs, relationships, and the society we live in, is a combination of access to _good information and critical thinking_.
+
+I say access to good information, because I don’t think any of us needs to become au fait with (or literate in) computer science, law, policy, geopolitics, and all the other relevant fields of knowledge that come into play when we talk about how AI and data is governed. I think we need to be able to find good answers to the questions we will have across these fields, as and when we think through different issues that face us. And perhaps we need access to AI/data literate people who are good at explaining their deeper knowledge.
+
+Critical thinking is also not uncontroversial (I spent three years of PhD down that particular rabbit hole and will not replicate my thesis here!). We may have different definitions of the terminology, but we can all point to differences between critical and uncritical engagement in issues. Critical thinking can be trained and improved, but I don’t think it carries a binary connotation - we can all think critically, you don’t need a stamp to proclaim you a ‘critical thinker’. Importantly, I think there is broad acceptance that critical thinking can be done in different ways, with different approaches all potentially able to offer something valuable. And I think most of us would acknowledge that critical thinking is not something we always do, it does require effort, and motivation, and often support.
+
+I’m now thinking about what is needed to _provide access_ to good information, in conjunction with _motivating and supporting_ critical thinking, when it comes to data and AI. I think that can be an endeavour that takes place under the AI/data/digital/information or any other literacy banner, and utilises the rich knowledge in those fields.  We can be pluralistic about what we call it, so long as we remain pluralistic about who is included. 
