@@ -1,13 +1,13 @@
 ---
 layout: resource
 title: "Response to EC Consultation on Draft G7 Guiding Principles for Organizations Developing Advanced AI systems"
-reference: 
+reference: ec-ai-g7-principles
 project: 
 author: Tim Davies
 date: 2023-10-19
 status: final
 listed: true
-image: 
+image: Fritzchens-Fritz_GPU-shot-etched-5_4000x2667.jpg
 ---
 
 The European Commission ran a [short consultation](https://ec.europa.eu/eusurvey/runner/G7AISurvey2023) on the draft [G7 Hiroshima ‘Guiding Principles for Organizations Developing Advanced AI systems’](https://ec.europa.eu/eusurvey/files/087f0af0-4044-46d7-b2a8-fd06b6230a81/0684424b-c8b1-4f8e-b06b-aa7caea0446f) asking for comments on 11 draft principles, and comments on additional principles. Connected by Data provided the following response.
@@ -77,3 +77,6 @@ In Principle 7, rather than using the language of "where possible and appropriat
 Principle 9 should focus on making AI resources and skill-sets widely available as public good resources to researchers and institutions already focussed on priority issues of sustainable development. The current framing risks (a) allowing AI firms to capture and control supply-chains for addressing global challenges; (b) trying to solve problems with AI, rather than starting from deep understanding of the problems and supporting sensitive, responsible and appropriate adoption of AI; (c) cultivating a narrative of 'ethical offsets' in which use of AI for public good in one setting is treated as a justification of it creating disbenefit and harm in others.
 
 Due to limits of space for consultation responses, we did not provide comments on principle 6 (cybersecurity), principle 8 (research and investment to mitigate risks), principle 10 (advancing technical standards) or principle 11 (data input controls and audits).
+
+
+Post image credit: Fritzchens Fritz / Better Images of AI / GPU shot etched 5 / CC-BY 4.0
