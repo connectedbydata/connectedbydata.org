@@ -11,6 +11,8 @@ The People’s Panel on AI will bring together 12 representative members of the 
 
 <!--more-->
 
+> **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSczHuF7dIMGuPVegZ8kNBB4oZmOwvmSxV8Ic7WMx0HTerY2UQ/viewform) for updates on the People's Panel, or to express interest in pre-briefing and final presentation events.**
+
 Through a deliberative process facilitated by [Hopkins Van Mil](http://www.hopkinsvanmil.co.uk/), they will produce a public report giving their verdict on AI and their recommendations to government, industry, civil society and academia for further action.
 
 The People’s Panel on AI is being organised by [Connected by Data](https://connectedbydata.org/) with support from the [Mozilla Foundation](https://foundation.mozilla.org/), the [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate), the [Kavli Centre for Ethics, Science, and the Public](https://www.kcesp.ac.uk/), and the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/).
