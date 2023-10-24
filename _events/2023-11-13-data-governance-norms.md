@@ -22,7 +22,7 @@ From 2018 to 2023 the [Global Data Justice research programme](https://globaldat
 
 In this Connected Conversation we will hear from Siddharth and Linnet on the opportunity for new norms, before turning to learning from work-in-progress in the Stop Ecocide Campaign with Jojo Mehta. 
 
-[Register now to take parst](https://us06web.zoom.us/meeting/register/tZEkcOigqzgiGt3-cx3PM9g6tUfQKfGYYa02).
+[Register now to take part](https://us06web.zoom.us/meeting/register/tZEkcOigqzgiGt3-cx3PM9g6tUfQKfGYYa02).
 
 ### Contributors and respondents
 
