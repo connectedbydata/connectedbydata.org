@@ -12,7 +12,7 @@ Connected conversations are a programme of informal, virtual discussion sessions
 <!--more-->
 
 The goals of the programme are to:
-* build a body of understanding, knowledge and evidence on topics relevant to the vision and mission of CONNECTED BY DATA
+* build a body of understanding, knowledge and evidence on topics relevant to the vision and mission of **CONNECTED** BY **DATA**
 * amplify the work of experts in the field
 * create connections between those interested in the area
 * build our internal capacity on these topics
