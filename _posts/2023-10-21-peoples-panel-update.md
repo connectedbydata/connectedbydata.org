@@ -11,6 +11,8 @@ projects:
 
 One month ago, after listening to an episode of the [Facilitating Public Deliberation podcast](https://facilitatingpublicdeliberation.libsyn.com/episode-1-ned-and-pat-mixdown-1) on Citizen's Juries and the [Oregon Citizens Initiative Review](https://participedia.net/method/592) I put together and shared around [a rough concept note](https://docs.google.com/document/d/1X4fHh0yJ8DI-X7UKkM_ODnunTyLVOPZFKrw52wzioUM/edit) to propose a deliberative citizen's review of the upcoming AI Safety Summit and AI Fringe. The idea is simple: if the impacts of AI are going to be felt by everyone, then we need more than just industry, government or elite institutional voices to be shaping the debate. 
 
+<!--more-->
+
 While we can't have direct access to the invite-only government-run [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction), by looking to the materials that are are due to be shared (webcasts and communiques), and the broad range of sessions and speakers brought together at the [AI Fringe](https://aifringe.org/) that we can access, we have an opportunity for diverse members of the public to engage with a substantial breadth of the AI Safety and governance debate, and to develop considered positions on where future priorities for action should be. 
 
 Much like the Citizens Initiative Review adapts the citizens jury model for members of the public to interpret a complex ballot measure for their fellow voters, we wanted to explore how a Citizens' Review of the AI Summit week could support a diverse group to provide insight and informed opinions that might feed new perspectives into the crowded (albeit unrepresentative) public debate on AI.
