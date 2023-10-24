@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: Community negotiation on data rights"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-10-19
 author: Helena Hollis
