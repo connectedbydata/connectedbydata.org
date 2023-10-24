@@ -19,5 +19,5 @@ There is a huge opportunity for these groups to learn from each other, and to to
 
 The [Omidyar Network](https://omidyar.com/) is supporting two strands of activity towards this community-building and community-shaping, over 18 months between May 2023 and October 2024:
 
-* **Networking:** ongoing activities focused on developing connections between different actors working in the space. These include shared online spaces; newsletters and mailing lists; and monthly informal curated events focused on information sharing and discussion.
+* **Networking:** ongoing activities focused on developing connections between different actors working in the space. These include shared online spaces; newsletters and mailing lists; and monthly informal curated events focused on information sharing and discussion (including our [Connected Conversations](https://connectedbydata.org/projects/2023-connected-conversations))
 * **Design Labs:** intensive, in-person, output-oriented workshops, bringing together experts to explore specific challenges around our three strands of activity – on narrative, practice, and policy – followed by collaborative work to refine and polish that output into a useful common resource.
