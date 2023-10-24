@@ -12,6 +12,8 @@ project: Connected Conversations
 
 Join us at 11am UK time on Zoom for this Connected Conversation exploration of the potential, and practicalities, of norm entrepreneurship for better data governance. [Register here to participate](https://us06web.zoom.us/meeting/register/tZEkcOigqzgiGt3-cx3PM9g6tUfQKfGYYa02). 
 
+<!--more-->
+
 ## Introduction
 
 From 2018 to 2023 the [Global Data Justice research programme](https://globaldatajustice.org/) explored an inclusive global conversation on data governance, engaging with groups across the world to explore how far current governance and rights frameworks match with people’s subjective needs. The work shone a light on the gulf between exploitative data practices, and those that could command public backing. This has led Siddharth de Souza & Linnet Taylor to advance the idea of developing new global norms. As they explain:
