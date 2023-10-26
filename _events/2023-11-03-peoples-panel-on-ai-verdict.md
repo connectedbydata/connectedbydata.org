@@ -10,7 +10,7 @@ category: organising
 project: People's Panel on AI
 ---
 
-The [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) is bringing together 12 diverse members of the public to attend, observe and discuss Fringe events. Hear the Panel's reflections and recommendations from the week at **12:30 UK time on Friday 3rd November**.
+The [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) is bringing together 12 diverse members of the public to attend, observe and discuss Fringe events. Hear the Panel's reflections and recommendations from the week at **13:30 UK time on Friday 3rd November**.
 
 After engaging with the [AI Fringe](https://aifringe.org/), looking at the outcomes of the [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction), and talking to experts about their hopes and fears for AI, what priorities do members of the public have for the future governance of AI?
 
