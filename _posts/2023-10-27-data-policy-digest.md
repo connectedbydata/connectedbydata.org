@@ -10,9 +10,9 @@ If there’s something we’ve missed, something you’re up to that you’d lik
 
 <!--more-->
 
-## Data policy developments
+# Data policy developments
 
-### Deeply DPDIB
+## Deeply DPDIB
 
 It will be Commons report stage (when MPs discuss [amendments](https://bills.parliament.uk/bills/3430/publications) suggested in committee stage) and then the Lords for DPDIB. Expect it some time after [the state opening on 7 November](https://www.parliament.uk/about/how/occasions/stateopening/) (we hear rumours it could be at the end of November). A DCMS official suggested the Bill ‘[will not be adopted until around middle of 2024](https://twitter.com/LauraLinkomies/status/1709132212392636669)’.
 
@@ -23,14 +23,14 @@ A statutory instrument we flagged [last time out](https://connectedbydata.org/ne
 And… DSIT has published the [Data Protection and Journalism Code of Practice 2023](https://www.gov.uk/government/publications/explanatory-memorandum-to-the-data-protection-and-journalism-code-of-practice-2023) … The Register looked at [what to expect when the UK-US Data Bridge comes into force](https://www.theregister.com/2023/10/11/uk_us_data_bridge/) this week… and government published an [evaluation of the International Data Transfer Agreement](https://www.gov.uk/government/publications/evaluation-of-the-international-data-transfer-agreement).
 
 
-### Bills, bills, bills
+## Bills, bills, bills
 
 **Online Safety Bill** [The Bill is now law](https://www.gov.uk/government/news/uk-children-and-adults-to-be-safer-online-as-world-leading-bill-becomes-law), prompting reactions from organisations including [Glitch](https://glitchcharity.co.uk/online-safety-act/), [Carnegie UK](https://carnegieuktrust.org.uk/blog-posts/online-safety-and-carnegie-uk/), [Which?](https://www.which.co.uk/news/article/which-celebrates-new-online-safety-laws-ae9O50W9NGUk), [5Rights](https://5rightsfoundation.com/in-action/the-online-safety-act-has-reached-royal-assent-but-what-does-this-new-law-mean-for-children.html), and [ORG](https://twitter.com/OpenRightsGroup/status/1717564492001755163), and stories from outlets including [the BBC](https://www.bbc.co.uk/news/technology-67221691) and [Wired](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/). The Secretary of State also [discussed antisemitism and violence with social media companies](https://www.gov.uk/government/news/readout-of-technology-secretarys-meeting-with-social-media-companies-on-antisemitism-and-violence-online).
 
 **Digital Markets, Competition and Consumers Bill** Like DPDIB, it’s Commons report stage next. The Digital Competition Expert Panel - who made the original recommendation for the Bill - are [unhappy about proposed changes](https://twitter.com/drphilipmarsden/status/1715702777932906658), saying they would upset the balance between the interests of big tech platforms and their users. The chair of the Lords digital committee is [similarly unimpressed](https://committees.parliament.uk/publications/41683/documents/206515/default/). As are newspapers including [the Mail](https://www.dailymail.co.uk/news/article-12606155/PM-giving-tech-giants-like-Google-Facebook-bid-avoid-paying-media-outlets-use-news.html) (their angle includes tech giants bidding ‘to avoid paying media outlets to use their news’, who could possibly have predicted etc), which also carries [criticism of big tech from former digital secretary, Nadine Dorries](https://www.dailymail.co.uk/debate/article-12663701/NADINE-DORRIES-Googled-learnt-Big-Tech.html). Meanwhile the CMA launched [a market investigation into cloud services](https://www.gov.uk/government/news/cma-launches-market-investigation-into-cloud-services). 
 
 
-### AI got ‘rithm
+## AI got ‘rithm
 
 ONLY FIVE SLEEPS UNTIL (FRONTIER) AI POLICY CHRISTMAS!
 
@@ -40,12 +40,12 @@ Day 2 will see the PM convene ‘convene a small group of governments, companies
 
 The four ‘road to the summit’ events have all happened, at [the Turing](https://twitter.com/turinginst/status/1712111067311092073), the [British Academy](https://twitter.com/JonathanCamrose/status/1712768495497224652), [techUK](https://twitter.com/techUK/status/1714286680017179129) and [the Royal Society](https://twitter.com/royalsociety/status/1717837677976867109). Michelle Donelan [answered questions on LinkedIn](https://www.linkedin.com/posts/michelledonelan_aisafetysummit-activity-7117904986692349952-Pmkf), while one of the PM’s representatives to the Summit, Matt Clifford, [answered questions on Twitter](https://twitter.com/matthewclifford/status/1707423037128138856) (and [blogged](https://www.linkedin.com/posts/mattcliffordef_after-last-weeks-piece-on-ai-for-good-activity-7119713090849361920-WM9n) on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7117097828664909824), as well as [podcasting](https://twitter.com/matthewclifford/status/1717802074396606852)).
 
-#### The Fringe
+### The Fringe
 For those not heading to Bletchley, there are [lots of events at the AI Fringe](https://aifringe.org/events) at the British Library (Monday to Friday) and elsewhere. On Tuesday, there’s [the AI and Society Forum](https://www.aisocietyforum.net/), where Jeni and I will be running a session on ‘Writing an alternative agenda for the AI Safety Summit’. The Citizens have a [‘People’s AI Summit’](https://the-citizens.com/campaign/peoples-ai-campaign/) going on.
 
 **CONNECTED** BY **DATA** is also running a [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai), where twelve randomly selected, representative members of the public will attend, observe and discuss key events at the AI Fringe and produce a public report giving their verdict on AI and their recommendations to government, industry, civil society and academia for further action. You can hear their initial verdict [at an event on Friday](https://connectedbydata.org/events/2023-11-03-peoples-panel-on-ai-verdict), and [sign up for updates](https://connectedbydata.org/blog/2023/10/21/peoples-panel-update). 
 
-#### What will come out of the Summit
+### What will come out of the Summit
 There’s been a lot of speculation about who is - and isn’t - going to be at Bletchley. I had [a freedom of information request delayed](https://twitter.com/GavinFreeguard/status/1716510659007951208), while Byline Times have criticised the lack of transparency. We know of some world leaders [who](https://www.ft.com/content/6a615c49-5bd9-4a81-8c31-cacbf3db1e2c) [will](https://www.ft.com/content/e0574e79-d723-4d94-9681-fae22648e3ad) and [won’t](https://www.bbc.co.uk/news/technology-67118264) be going, but we’ll just have to wait until Wednesday.
 
 And there’s been lots of speculation about what would be agreed. Politico [reported on the 3rd](https://www.politico.eu/article/uk-pitch-ai-safety-institute-rishi-sunak/) that the UK might create a new AI Safety Institute (perhaps evolving from the Frontier Model Taskforce)... The Guardian [reported on 10th](https://www.theguardian.com/technology/2023/oct/10/downing-street-trying-to-agree-statement-about-ai-risks-with-world-leaders) that the focus wasn’t on a single new institution… on a Politico podcast [on the 17th](https://www.politico.eu/article/michelle-donelan-global-ai-regulator/), Michelle Donelan dampened rumours that the Summit would lead to a new global regulator but did not deny the Frontier Taskforce could develop into an AI Safety Institute…  the FT [reported on the 19th](https://www.ft.com/content/700dd87c-d040-4215-9d1e-d36ba42c7655) that a global advisory group on AI (distinct from a planned UK AI safety institute) might come out of the Summit (and Politico that [China would be invited](https://www.politico.eu/article/rishi-sunak-set-to-invite-china-to-new-global-ai-research-body/) to be part of a global research body)… and then on the 26th Politico [parsed leaked communiques](https://www.politico.eu/newsletter/london-playbook/and-now-for-some-ai-doom/) to detect a ‘blow’ to create a global research body.
@@ -56,14 +56,14 @@ What are the prospects for success? [Politico thinks the odds](https://www.polit
 
 We’ll be holding **an open call online at 2pm on Tuesday 7 November** to reflect on all the Summit-related activity - [drop us a line if you’d like an invite](mailto:jonathan@connectedbydata.org).
 
-#### Summit to use as a media hook
+### Summit to use as a media hook
 Naturally, many organisations have published reports or previews ahead of the Summit, including… [BCS](https://www.bcs.org/articles-opinion-and-research/pm-should-make-ethics-a-priority-at-ai-safety-summit-say-tech-professionals/) (the PM should put ethics at the top of the Summit agenda)... [the RSS](https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/evaluating-ai.html) (‘statistics and data science are at the heart of the AI movement’)... the [Minderoo Centre’s Gina Neff](https://www.mctd.ac.uk/ai-safety-summit-diary-the-lead-up/) (who will be keeping a summit diary)... [RUSI](https://rusi.org/explore-our-research/publications/commentary/countdown-ai-safety-summit-six-expert-views-what-expect) (six expert views)... [Global Counsel](https://www.global-counsel.com/insights/report/regulating-generative-ai) (on regulating generative AI)... the [Royal Academy of Engineering](https://raeng.org.uk/engineering-responsible-ai) (expert views)... the [Adam Smith Institute](https://www.adamsmith.org/research/tipping-point-on-the-edge-of-superintelligence-1) (on the tipping point towards superintelligence)... [CPS](https://cps.org.uk/research/regulating-artificial-intelligence-the-risks-and-opportunities/) (on the risks and opportunities of regulation)... Onward, [TBI](https://www.institute.global/insights/public-services/as-the-uks-ai-safety-summit-approaches-governments-must-take-steps-to) and the Startup Coalition (with [a startup roadmap](https://api.startupcoalition.io/news/the-uks-ai-startup-roadmap/))... [IPPR](https://www.ippr.org/research/publications/ai-for-public-value-creation) (on AI for public value creation and three policy pillars)... [medConfidential’s Sam Smith](https://www.disruptiveproactivity.com/2023/10/the-ai-summit/) (‘it is the summit it is’)... [King’s College London](https://www.kcl.ac.uk/news/expectations-for-the-ai-safety-summit) (expert views)... [Chatham House](https://www.chathamhouse.org/2023/10/uk-ai-summit-can-succeed-generating-momentum-effective-governance) (generating momentum for effective governance)... and the Bennett Institute, Minderoo Centre and ai@cam at Cambridge ([on generative AI](https://www.mctd.ac.uk/which-path-should-the-uk-take-to-build-national-capability-for-generative-ai/)).
 
 There’s also been the [Godfathers](https://www.theverge.com/2019/3/27/18280665/ai-godfathers-turing-award-2018-yoshua-bengio-geoffrey-hinton-yann-lecun) part whatever-we’re-on-now, with Meta’s Yann LeCun saying [AI will never threaten humans](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6) while Geoffrey Hinton and Yoshua Bengio are among those being among the co-authors of a paper criticising some AI development as [‘utterly reckless’](https://www.theguardian.com/technology/2023/oct/24/ai-firms-must-be-held-responsible-for-harm-they-cause-godfathers-of-technology-say). Elsewhere, Mustafa Suleyman and Eric Schmidt [called for an AI equivalent of the IPCC](https://www.ft.com/content/d84e91d0-ac74-4946-a21f-5f82eb4f1d2d) (Ada’s Andrew Strait is [less convinced](https://twitter.com/agstrait/status/1714970119795827130)), Demis Hassabis said AI risk must be [treated as seriously as climate crisis](https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation), and the Guardian looked at the divides between (exclusively male) [AI pioneers](https://theguardian.com/technology/2023/oct/24/hope-or-horror-the-great-ai-debate-dividing-its-pioneers). They also ran a useful piece on [‘a day in the life of AI’](https://www.theguardian.com/technology/ng-interactive/2023/oct/25/a-day-in-the-life-of-ai). 
 
 And on a lighter note… DSIT used AI to [generate 1990s yearbook-style photos of its leadership team](https://twitter.com/SciTechgovuk/status/1712721134712475944), and like some predictive supercomputer I already know which two are your favourites.
 
-#### Let’s talk about summit else
+### Let’s talk about summit else
 Rattling through everything else… The chief secretary to the Treasury [held a roundtable](https://www.gov.uk/government/news/chief-secretary-hosts-ai-meeting-to-boost-public-sector-productivity) with ‘AI experts’ on driving public sector productivity (some of them visible [in a tweet](https://twitter.com/JohnGlenUK/status/1712084252303519857))... [The House has an interview with AI minister, Viscount Camrose](https://www.politicshome.com/thehouse/article/ai-minister-interview-tech-bro) (his favourite film is 2001: A Space Odyssey and he found ChatGPT ‘so much better than people’ at summarising the Online Safety Bill)... one tech boss urged the UK to [‘use Brexit freedom to become global AI force’](https://www.thetimes.co.uk/article/asana-chief-urges-britain-to-use-brexit-freedoms-to-become-ai-leader-kjk8l2jxn) ... and a UK tribunal agreed with Clearview AI that [the ICO had no jurisdiction](https://www.theregister.com/2023/10/19/uk_tribunal_agrees_with_clearview/), as the ICO issues a preliminary enforcement notice [against Snap’s genAI chatbot](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2023/10/uk-information-commissioner-issues-preliminary-enforcement-notice-against-snap/) … 
 
 The UN’s AI advisory body [has its first meeting today](https://www.un.org/ai-advisory-body) … Brookings looks at [the Global South’s stake](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance/) in AI governance dialogues… Freedom House found that [in at least 16 countries](https://twitter.com/freedomhouse/status/1709418352085520580), ‘this new tech was used to sow doubt, smear opponents, & influence the public debate'...
@@ -85,7 +85,7 @@ An interview with Kate Crawford includes [exposing artificial intelligence’s t
 And after all that, the LSE says [‘Artificial Intelligence’ is a misnomer anyway](https://blogs.lse.ac.uk/politicsandpolicy/why-artificial-intelligence-is-a-misnomer/). 
 
 
-### DSIT up and take notice
+## DSIT up and take notice
 
 Continuing with AI… an independent report [praised the UK’s AI Standards Hub](https://www.gov.uk/government/news/independent-report-finds-uk-leads-the-way-with-ai-standards-hub) … the Frontier AI Taskforce has brought in [‘leading technical organisations’ to help research risks](https://www.gov.uk/government/news/frontier-ai-taskforcebrings-in-leading-technical-organisations-to-research-risks) … there’s [a new innovation challenge around tackling bias](https://www.gov.uk/government/news/new-innovation-challenge-launched-to-tackle-bias-in-ai-systems) in AI systems (the dedicated website describes CDEI as a directorate of DSIT, for those studying the finer details of CDEI’s institutional form - we know you’re out there)… and (I think I missed this last time) CDEI have published [some research on public perceptions towards the use of foundation models in the public sector](https://www.gov.uk/government/publications/public-perceptions-towards-the-use-of-foundation-models-in-the-public-sector) (the public are open to their use, but want human accountability). 
 
@@ -96,7 +96,7 @@ Policing minister generated controversy at party conference when he suggested th
 Over at the Cabinet Office… deputy prime minister [Oliver Dowden told the Future Investment Initiative](https://www.gov.uk/government/speeches/deputy-prime-minister-oliver-dowdens-speech-to-the-future-investment-initiative-24-october-2023) (aka [‘Davos in the desert’](https://www.ft.com/content/c233373f-f937-421f-89b9-734110709fee)) that the next big global shock could be a ‘tech shock’ that could make what we’ve seen so far look like ‘relative skirmishes’... minister for the Cabinet Office Jeremy Quin [gave a speech](https://www.publictechnology.net/2023/09/27/government-and-politics/cabinet-office-minister-i-want-to-rebuild-the-system-to-unlock-transformation/) about digital transformation as government said it [would recruit 2,500 ‘ambitious tech talents’](https://www.gov.uk/government/news/government-steps-up-digital-skills-with-2500-new-tech-recruits) to digital roles bu June 2025… and another Jeremy, Chancellor Hunt [‘suggested that AI could be used](https://www.thetimes.co.uk/article/jeremy-hunt-benefits-welfare-reform-public-services-costs-rising-taxes-h3jdr2njq) by teachers to mark papers, by police officers to prevent crimes and by doctors and nurses to diagnose illnesses’. 
 
 
-### Conference calls
+## Conference calls
 
 It’s now been a few weeks since the end of party conference season; my body has sufficiently adjusted to processing less alcohol, more normal hours and having access to salad again. 
 
@@ -111,7 +111,7 @@ At Labour conference, we held a discussion with the Fabian Society and a brillia
 Elsewhere at Labour conference… [a motion on AI and technology in the workplace](https://labourlist.org/2023/10/labour-conference-2023-motions-debate-votes-delegates/) from the Unite and CWU unions passed… new shadow DSIT secretary Peter Kyle [trailed](https://www.thesun.co.uk/news/politics/24329382/scale-of-jobless-brits-is-horrible-painful-toll/?s=03) and [delivered](https://policymogul.com/key-updates/31440/peter-kyle-s-speech-at-labour-conference) his first speech in post… Keir Starmer touched on technology and the economy, and for health, [in his speech](https://labour.org.uk/updates/press-releases/keir-starmers-speech-at-labour-conference/) … [an apparent deepfake of Starmer](https://fullfact.org/news/keir-starmer-audio-swearing/) was [widely condemned](https://twitter.com/SimonClarkeMP/status/1710979175589290434), with [one shadow minister worried](https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-sunak-calls-in-cobra/) about how resources like Hansard could make future fakes easier and [a suggestion of legislation](https://www.mirror.co.uk/news/politics/labour-considers-new-laws-ai-31191047) to tackle the problem … [policy announcements](https://twitter.com/LabourList/status/1712089217692467354) included money for health tech and more certain R&D funding… and in general, [Politico thought pro-innovation frontbench messages](https://www.politico.eu/article/friend-or-foe-labour-party-keir-starmer-looming-battle-ai-artificial-intelligence/) might cause problems with the unions.
 
 
-### Parly-vous data?
+## Parly-vous data?
 
 What’s the collective noun for a group of regulators? Because one of those - consisting of Ofcom, the ICO, the CMA, the FCA and the Digital Regulation Cooperation Forum - was up in front of the Science, Innovation and Technology select committee yesterday [discussing AI governance](https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/). Ofcom’s Melanie Dawes is also one of those appearing before the Public Accounts Committee [talking online safety regulation today](https://committees.parliament.uk/event/19280/formal-meeting-oral-evidence-session/).
 
@@ -120,7 +120,7 @@ POST, the Parliamentary Office of Science and Technology, is [looking for contri
 Over in the Lords, the Communications and Digital Committee has been [taking evidence on large language models](https://committees.parliament.uk/committee/170/communications-and-digital-committee/events/) and was [unimpressed by the government response to its report on digital exclusion](https://www.publictechnology.net/2023/10/23/society-and-welfare/not-good-enough-government-declines-to-create-new-digital-exclusion-unit-and-strategy/), while in the Chamber there was [a discussion of AI](https://hansard.parliament.uk/lords/2023-10-24/debates/86A5DE73-DF1D-4E65-B18F-B2750DDC7261/Debate) the importance of public engagement - and metaphorical sandwiches. 
 
 
-### Labour movement
+## Labour movement
 
 Most of these are covered in our ‘Conference call’ section, above, including [our new pamphlet (and longer doc) on what a progressive vision for data and AI policy could look like](https://connectedbydata.org/resources/progressive-vision).
 
@@ -139,7 +139,7 @@ Elsewhere, [LabourList summarised the policy outputs](https://labourlist.org/202
 * And the CEO of Europe’s largest tech conference [resigned over Israel-Hamas comments](https://www.politico.eu/article/paddy-cosgrave-web-summit-ceo-europe-tech-conference-resign-israel-hamas-comment/). 
 
 
-## What we’ve been up to
+# What we’ve been up to
 
 * We’ve been planning lots of [Connected Conversations](https://connectedbydata.org/projects/2023-connected-conversations), with one already done on [collective data rights](https://connectedbydata.org/events/2023-09-27-connected-conversation-collective-data-rights) (do we need them and what should they look like?), and others to come on [open government](https://connectedbydata.org/events/2023-11-29-open-government-data-ai-governance) and data and AI; the potential, and practicalities, of [norm entrepreneurship](https://connectedbydata.org/events/2023-11-13-data-governance-norms) for better data governance; and [deliberative governance](https://connectedbydata.org/events/2023-11-22-deliberative-governance-data-and-ai)
 * Helena wrote about the [language of data literacy](https://connectedbydata.org/weeknotes/2023/10/12/helena-weeknotes), while Maria’s touched on [language and law](https://connectedbydata.org/weeknotes/2023/10/19/maria-weeknotes) and Emily’s included [our recent team retreat](https://connectedbydata.org/weeknotes/2023/10/02/emily-weeknotes) 
@@ -147,7 +147,7 @@ Elsewhere, [LabourList summarised the policy outputs](https://labourlist.org/202
 * Did we mention our [progressive vision for data and AI policy](https://connectedbydata.org/resources/progressive-vision)?
 
 
-## What everyone else has been up to
+# What everyone else has been up to
 
 * The Ada Lovelace Institute published [an evidence review on the use of foundation models in the public sector](https://www.adalovelaceinstitute.org/evidence-review/foundation-models-public-sector/) (with a [shorter policy briefing](https://www.adalovelaceinstitute.org/policy-briefing/foundation-models-public-sector/) alongside)
 * The Civic AI Observatory published [their first newsletter](https://civicai.uk/p/issue-1-organisational-policies) which includes, among other things, some links to organisational policies on AI (I’ve also spotted policies from [Demos](https://demos.co.uk/generative-ai-policy-paper/) and the [BBC](https://www.bbc.co.uk/mediacentre/articles/2023/generative-ai-at-the-bbc)) 
@@ -160,7 +160,7 @@ Elsewhere, [LabourList summarised the policy outputs](https://labourlist.org/202
 * And women miss out on AI venture capital investment, according to [new analysis from the Turing](https://www.turing.ac.uk/news/women-miss-out-ai-venture-capital-investment-new-analysis-finds). 
 
 
-## Events
+# Events
 
 * [AI Fringe AI Fringe AI Fringe AI Fringe AI Fringe AI Fringe AI Fringe AI Fringe](https://aifringe.org/)
 * Open Data Manchester are [holding workshops to refresh the Declaration on Responsible and Intelligent Data Practice](https://www.eventbrite.com/cc/declaration-refresh-workshops-2575609)
@@ -169,7 +169,7 @@ Elsewhere, [LabourList summarised the policy outputs](https://labourlist.org/202
 * Reform have [a few tech-relevant things](https://reform.uk/events/upcoming-events/) coming up 
 
 
-## Good reads
+# Good reads
 
 * [“Things are not normal”](https://www.bbc.co.uk/rd/blog/2023-10-projections-things-are-not-normal?s=03), concluded a BBC Research & Development foresight report. I also happened to spot [this from the BBC’s Bill Thompson](https://www.bbc.co.uk/blogs/internet/entries/1c6fd26f-fcd5-473f-9535-f3652ada92ca), from earlier this year: ‘When ChatGPT engages with you it’s basically taking a drunkard’s walk through the forest of word frequencies, calling out the names of each tree as it leans on it before staggering onward’ 
 * More on health data, from [how to make Britain’s health service AI-ready](https://www.economist.com/leaders/2023/10/19/how-to-make-britains-health-service-ai-ready) (The Economist), to [data donation and privacy fears](https://www.theguardian.com/commentisfree/2023/oct/17/sharing-medical-data-vital-research-patient-trust) (The Guardian), [to smart watches not being so smart as heart monitors](https://www.newstatesman.com/politics/health/2023/10/as-personal-heart-monitors-smart-watches-are-not-so-smar) (New Statesman), to [AI therapists](https://www.newstatesman.com/science-tech/big-tech/2023/10/artificial-intelligence-mental-health-therapists) (New Statesman)
