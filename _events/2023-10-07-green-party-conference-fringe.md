@@ -10,7 +10,7 @@ author: Tim Davies
 category: organising
 project: Our Data Futures
 ---
-How can we protect and empower communities in an era of artificial intelligence – and how should the Green Party approach the governance of data and AI? These were the overarching questions posed by our executive director, Jeni Tennison, to Natalie Bennett (former leader of the Green Party and now a member of the House of Lords) and Andy Stirling (Professor of Science and Technology Policy at the Science Policy Research Unit at the University of Sussex) at the [reen Party conference in Brighton.
+How can we protect and empower communities in an era of artificial intelligence – and how should the Green Party approach the governance of data and AI? These were the overarching questions posed by our executive director, Jeni Tennison, to Natalie Bennett (former leader of the Green Party and now a member of the House of Lords) and Andy Stirling (Professor of Science and Technology Policy at the Science Policy Research Unit at the University of Sussex) at the Green Party conference in Brighton.
 
 
 <!--more-->
