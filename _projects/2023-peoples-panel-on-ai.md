@@ -11,7 +11,7 @@ The People’s Panel on AI will bring together 12 representative members of the 
 
 <!--more-->
 
-> **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSczHuF7dIMGuPVegZ8kNBB4oZmOwvmSxV8Ic7WMx0HTerY2UQ/viewform) for updates on the People's Panel, or to express interest in pre-briefing and final presentation events.**
+> **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSczHuF7dIMGuPVegZ8kNBB4oZmOwvmSxV8Ic7WMx0HTerY2UQ/viewform) for updates on the People's Panel, or to express interest in the final presentation event.**
 
 Through a deliberative process facilitated by [Hopkins Van Mil](http://www.hopkinsvanmil.co.uk/), they will produce a public report giving their verdict on AI and their recommendations to government, industry, civil society and academia for further action.
 
