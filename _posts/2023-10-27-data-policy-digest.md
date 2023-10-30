@@ -10,6 +10,8 @@ If there’s something we’ve missed, something you’re up to that you’d lik
 
 <!--more-->
 
+To receive the next edition of the Data Policy Digest direct to your inbox [sign up here](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
+
 # Data policy developments
 
 ## Deeply DPDIB
