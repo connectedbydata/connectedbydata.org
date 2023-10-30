@@ -17,7 +17,7 @@ More than 100 civil society organisations from across the UK and world have toda
 
 In an open letter to Prime Minister Rishi Sunak, the groups warn that the “communities and workers most affected by AI have been marginalised by the Summit” while a select few corporations seek to shape the rules.
 
-The letter has been coordinated by the Connected by Data, TUC and Open Rights Group and is released ahead of the official AI Summit at Bletchley Park on 1 and 2 November.
+The letter has been coordinated by Connected by Data, TUC and Open Rights Group and is released ahead of the official AI Summit at Bletchley Park on 1 and 2 November.
 
 [The full letter and signatories can be found here](https://ai-summit-open-letter.info/) and include:
 * Major and international trade union confederations – such as the **TUC, AFL-CIO, European Trade Union Confederation, International Trade Union Confederation, UNI Global and UNI Europe representing tens of millions of workers worldwide**
@@ -89,7 +89,7 @@ Open Rights Group Policy Manager for Data Rights and Privacy **Abby Burke** said
 **ENDS**
 
 **Notes to editors:**
-* The letter has been coordinated by the Connected by Data, TUC and Open Rights Group. 
+* The letter has been coordinated by Connected by Data, TUC and Open Rights Group. 
 * **The list of signatories and the open letter can be found here**: [https://ai-summit-open-letter.info/](https://ai-summit-open-letter.info/)
 * Each organisation will be speaking at the [AI and Society Forum](https://www.aisocietyforum.net/) taking place at the Wellcome Collection, London on Tuesday 31st October, NW1 2BE. 
 * Additional quotes from signatories can be found [here](https://docs.google.com/spreadsheets/d/1Ze5ecfsNMxO5R28iNKAJCo70Lr3T9Xwa6z8tSN6m4W8/edit?usp=sharing). 
