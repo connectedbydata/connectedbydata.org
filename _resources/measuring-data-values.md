@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Developing a progressive vision for data and AI policy
+title: Measuring Data Values In Action​​ - Policy Brief
 reference: measuring-data-values
 project: Measuring Data Values Around the World
 author: Tim Davies
