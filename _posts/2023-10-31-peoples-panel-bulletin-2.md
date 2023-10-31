@@ -32,7 +32,7 @@ After kicking off our discussions with introductions, and by looking at the diff
 
 ## Panel insights - Day 1
 
-A question of trust?
+### A question of trust?
 
 In their [summary of official Pre-Summit engagement](https://www.gov.uk/government/publications/ai-safety-summit-introduction/ai-safety-summit-summary-of-pre-summit-engagement), the government report concerns that ‘public scepticism and fears’ are hindering AI adoption. Yet, the official engagement involved few (if any) direct discussions with members of the public to explore the particular trust issues that AI might face, and seems to suggest the solution might be in communication campaigns about benefits of AI. 
 
@@ -44,7 +44,7 @@ As the panel discussed some of the existing ways AI affects our lives, from soci
 
 Working out how to build trust may well call for more time and focus on conversation, rather than on public education or communication campaigns.
 
-## Making sense of AI
+### Making sense of AI
 
 Does AI have common sense? Can AI systems be ‘taught’ to behave in common sense ways? What is common sense? 
 
@@ -52,7 +52,7 @@ What about the kind of ‘sixth sense’ that humans might use, judging body lan
 
 Understanding the kinds of ‘sense’ that people value in the everyday may offer clues to the roles (and regulations) they want to see prescribed for AI tools. 
 
-## Dealing with our data
+### Dealing with our data
 
 Discussions of the data underlying AI models was a common thread through today. 
 
