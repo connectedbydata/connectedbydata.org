@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People's Panel on AI Bulletin 2
+title: People's Panel on AI Bulletin 3
 author: Tim Davies
 category: news
 projects:
