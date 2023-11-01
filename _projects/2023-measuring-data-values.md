@@ -4,7 +4,7 @@ title: Measuring Data Values Around the World
 subtitle: Using and developing the Global Data Barometer
 image: gdb.jpg
 add-background: true
-completed: false
+completed: true
 ---
 
 **CONNECTED** BY **DATA** has been commissioned by the [International Development Research Center (IDRC)](https://idrc.ca) to explore how the [Global Data Barometer](https://globaldatabarometer.org) can be used to provide a baseline and measurement tool for the realisation of the [Data Values Manifesto](https://www.data4sdgs.org/datavaluesproject). 
