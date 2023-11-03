@@ -62,7 +62,7 @@ As part of their deliberation, this morning the Panel also reflected on the stre
 
 ![Slide showing the we were glad to hear, and we wanted to hear more points listed below]({{site.baseurl}}/assets/blog/2023-11-panel-review-slide.jpg)
 
-We were glad to hear...
+**We were glad to hear...**
 
 -   A focus on creative industries, education, jobs and elections
 
@@ -72,7 +72,7 @@ We were glad to hear...
 
 -   The politics of AI, and that not everyone thinks this is a good idea
 
-We wanted to hear more...
+**We wanted to hear more...**
 
 -   Meaningful focus on AI and climate
 
@@ -98,7 +98,7 @@ At the end of today's presentation event, I asked everyone in the room and onlin
 
 -   How could you embed public voice in your work in future?
 
-If you have a response to add please hit reply on this e-mail and share your thoughts. 
+If you have a response to add please drop a message to tim@connectedbydata.org with your thoughts. 
 
 I will be collating responses over the next week to share with the members of the People's Panel on AI, and we're committed to helping the voices raised through the Panel be heard as widely as possible. 
 
