@@ -53,7 +53,7 @@ Please do spare 15 minutes to watch the Panel's presentation, and then you can a
 >
 > In terms of your recommendations, first of all, well done. A list of seven recommendations in this field is really impressive. You really got down to the most important points. Some of those points I think are very much part of the debate, but I think the crucial point that you've made time and again is the need to involve people in these discussions. 
 >
-> AI is about technology and it's about people. We hear a lot about technology and we hear a lot from the technologists and the business leaders and the politicians and the academics, but we haven't heard enough from the people." **Anthony Walker, Deputy CEO, TechUK**
+> AI is about technology and it's about people. We hear a lot about technology and we hear a lot from the technologists and the business leaders and the politicians and the academics, but we haven't heard enough from the people." **Antony Walker, Deputy CEO, TechUK**
 
 And as lead facilitator [Henrietta Hopkins](mailto:henrietta@hopkinsvanmil.co.uk), of [Hopkins van Mil](http://www.hopkinsvanmil.co.uk/), explained, these recommendations are just the tip of the iceberg of panel discussions. In the coming days the whole team will be collating notes from the last four days, and producing an additional report of the discussions, which will be in your inboxes soon.
 
