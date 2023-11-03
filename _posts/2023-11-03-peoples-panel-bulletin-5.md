@@ -17,29 +17,29 @@ This is the fifth People's Panel on AI Bulletin, and our last daily update - cov
 
 After a week of deliberation, engaging with experts, discussing lived experience, attending events at the AI Fringe, and following updates from the UK AI Safety Summit, the members of the People's Panel on AI, drawn from across England, recommend:
 
--   (1) A global governing body for AI.
+-   **(1) A global governing body for AI.**
 
     This should bring together citizens, impartial experts and governments from across the world, and to ensure regulatory collaboration that includes the global south.
 
--   (2) A system of governance for AI in the UK that places citizens at the heart of decision making.
+-   **(2) A system of governance for AI in the UK that places citizens at the heart of decision making.**
 
     Roundtables of scientists, researchers, ethicists, civil society, academia and industry should inform and provide evidence for government and citizens to then work with roundtables on decisions.
 
--   (3) Awareness raising about AI across society.
+-   **(3) Awareness raising about AI across society.**
 
     From the classroom to the home. From the workplace to the community. This should highlight risks such as addiction to social media, as well as the opportunities that AI offers.
 
--   (4) A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.
+-   **(4) A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.**
 
     This could include a tax pot dedicated to training and reskilling, funded by employer contributions.
 
--   (5) A continued national conversation on AI, including retaining the People's Panel to keep public voice live in a fast-changing AI landscape.
+-   **(5) A continued national conversation on AI, including retaining the People's Panel to keep public voice live in a fast-changing AI landscape.**
 
     We citizens can do jury service and as such are already trusted to make life-impacting and significant decisions.
 
--   (6) Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.
+-   **(6) Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.**
 
--   (7) Stakeholders acting with transparency at all times.
+-   **(7) Stakeholders acting with transparency at all times.**
 
     An example of this might include a 'black box flight recorder' approach to AI models, which protects intellectual property, but can be shared openly when things go wrong. 
 
@@ -49,11 +49,11 @@ You can find a recording of the panel presenting these recommendations [availabl
 
 Please do spare 15 minutes to watch the Panel's presentation, and then you can also catch on the recording responses to the recommendations from attendees from TechUK, Mozilla, Ada Lovelace Institute, Google and others
 
-Anthony Walker, Deputy CEO, TechUK, said: "This initiative, this People's Panel, has been incredibly important. There have been a ton of AI events that I wanted to get to this week, but this was the most important one for me to come to, because I wanted to hear what you had to say. 
-
-In terms of your recommendations, first of all, well done. A list of seven recommendations in this field is really impressive. You really got down to the most important points. Some of those points I think are very much part of the debate, but I think the crucial point that you've made time and again is the need to involve people in these discussions. 
-
-AI is about technology and it's about people. We hear a lot about technology and we hear a lot from the technologists and the business leaders and the politicians and the academics, but we haven't heard enough from the people."
+> "This initiative, this People's Panel, has been incredibly important. There have been a ton of AI events that I wanted to get to this week, but this was the most important one for me to come to, because I wanted to hear what you had to say. 
+>
+> In terms of your recommendations, first of all, well done. A list of seven recommendations in this field is really impressive. You really got down to the most important points. Some of those points I think are very much part of the debate, but I think the crucial point that you've made time and again is the need to involve people in these discussions. 
+>
+> AI is about technology and it's about people. We hear a lot about technology and we hear a lot from the technologists and the business leaders and the politicians and the academics, but we haven't heard enough from the people." **Anthony Walker, Deputy CEO, TechUK**
 
 And as lead facilitator [Henrietta Hopkins](mailto:henrietta@hopkinsvanmil.co.uk), of [Hopkins van Mil](http://www.hopkinsvanmil.co.uk/), explained, these recommendations are just the tip of the iceberg of panel discussions. In the coming days the whole team will be collating notes from the last four days, and producing an additional report of the discussions, which will be in your inboxes soon.
 
