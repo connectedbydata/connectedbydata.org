@@ -15,6 +15,8 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 
 <!--more-->
 
+> Join us to **[discuss the findings from this workshop on 29th November 2023](http://connectedbydata.org/events/2023-11-29-open-government-data-ai-governance)**
+
 ## Workshop report 
 
 In September 2023, Connected by Data brought together a diverse group of civil society, government and academic stakeholders on the fringes of the 2023 Open Government Partnership Summit in Tallinn, Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance.
