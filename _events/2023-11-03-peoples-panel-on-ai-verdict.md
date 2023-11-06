@@ -2,21 +2,19 @@
 layout: event
 title: "People's Panel on AI: Verdict"
 image: cbd-logo.png
-upcoming: true
-writeup: false
+upcoming: false
+writeup: true
 date: 2023-11-03
 author: Tim Davies
 category: organising
 project: People's Panel on AI
 ---
 
-The [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) is bringing together 12 diverse members of the public to attend, observe and discuss Fringe events. Hear the Panel's reflections and recommendations from the week at **13:30 UK time on Friday 3rd November**.
+The [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) is bringing together 12 diverse members of the public to attend, observe and discuss Fringe events. The Panel presented reflections and recommendations from the week at **13:30 UK time on Friday 3rd November**.
 
-After engaging with the [AI Fringe](https://aifringe.org/), looking at the outcomes of the [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction), and talking to experts about their hopes and fears for AI, what priorities do members of the public have for the future governance of AI?
+After engaging with the [AI Fringe](https://aifringe.org/), looking at the outcomes of the [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction), and talking to experts about their hopes and fears for AI, what priorities did members of the public have for the future governance of AI?
 
-Join us in person or online to hear the reflections and recommendations of the People's Panel on AI, and to explore what their messages might mean for your work.
-
-Limited space. Please [register your interest to attend here](https://docs.google.com/forms/d/e/1FAIpQLSczHuF7dIMGuPVegZ8kNBB4oZmOwvmSxV8Ic7WMx0HTerY2UQ/viewform).
+> **Read [the Panel's Recommendations here](http://connectedbydata.org/news/2023/11/03/peoples-panel-bulletin-5)**.
 
 <!--more-->
 
