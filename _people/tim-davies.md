@@ -11,7 +11,7 @@ picture: tim.jpg
 mastodon: "@timdavies@social.coop"
 email: "tim@connectedbydata.org"
 ---
-Tim has spent the last 20 years working at the intersection of technology, participation and governance as both a researcher and practitioner. From piloting digital tools bringing youth voice into local decisions, to developing data standards the enable community scrutiny of billions of dollars of public spending, or writing about the political dynamics of open data initiatives, his work has explored how shared social challenges need participatory, collaborative and collective responses.
+Tim has spent the last 20 years working at the intersection of technology, participation and governance as both a researcher and practitioner. From piloting digital tools bringing youth voice into local decisions, to developing data standards that enable community scrutiny of billions of dollars of public spending, or writing about the political dynamics of open data initiatives, his work has explored how shared social challenges need participatory, collaborative and collective responses.
 
 <!--more-->
 
