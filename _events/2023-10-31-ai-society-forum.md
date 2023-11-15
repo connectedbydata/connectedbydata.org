@@ -40,7 +40,7 @@ The **equity summit** noted that ‘Five Guys is a great burger chain, but not a
 
 The **democratic challenge summit** made six key points. They started by citing the stories around Cambridge Analytica, and how people’s data may have been used. They noted the anti-democratic potential of AI, positing a China-led AI world without values of openness and transparency at the core, a ‘rabbit hole’ that would not align with western, liberal democratic standards. A discussion about technical standards (and ‘objectivity’ and ‘alignment’) prompted them to think about a (non-warfare-related) ‘NATO for AI’ reflecting a diversity of perspectives. The fourth point was the need to lock in democratic values at the core of the approach to AI – and the fifth, to give some room for the approach to evolve. Their final point was wanting a treaty committing to regulatory standards reflective of a diversity of perspectives and democracy.
 
-![Image showing the post its and notes from the democratic challenge discussions]({{site.baseurl}}/assets/events/2023-10-31-democratic.jpg)
+![Image showing the post its and notes from the democratic challenge discussions]({{site.baseurl}}/assets/events/2023-10-31-democratic.png)
 
 The **regulatory capture summit** (very much against big tech capturing the regulatory system, not in favour) wanted the headline: ‘UK leads global effort to focus regulation on people and planet ahead of profit for shareholders’. They wanted the government to publish an ‘AI human rights framework’, and for the summit to prompt international collaboration and agreement with global partners.
 
