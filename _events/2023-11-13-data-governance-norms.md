@@ -2,7 +2,7 @@
 layout: event
 title: "Robust norms: creating and enforcing new data governance defaults at scale?"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-11-13
 author: Tim Davies
