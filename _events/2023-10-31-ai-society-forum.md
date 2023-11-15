@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "What would an alternative AI Summit look like?"
-image: cbd-logo.png
+image: 2023-10-31-ai-society-forum.png
 upcoming: false
 writeup: true
 date: 2023-10-31
@@ -20,6 +20,7 @@ We began with our own prior assumptions about summits: namely, that the ‘event
 Given the short time available (just 45 minutes) we suggested 12 possible starting points for an alternative summit – the [12 ‘governance challenges’](https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/news/197236/ai-offers-significant-opportunities-but-twelve-governance-challenges-must-be-addressed-says-science-innovation-and-technology-committee/) proposed by the Science, Innovation and Technology Committee in their interim report on AI governance. These range from bias, privacy and misinformation, to infrastructural issues like access to data and compute, to the impact on work, to existential risks. We added a few of our own – on the environment, democracy, people power and competition.
 
 ![The 12 AI governance challenges suggested by the Science, Innovation and Technology select committee - and some additions from our workshop]({{site.baseurl}}/assets/events/2023-10-31-twelve-governance-challenges.png)
+
 _The 12 AI governance challenges suggested by the Science, Innovation and Technology select committee - and some additions from our workshop_
 
 People at our workshop felt, on the whole, these challenges weren’t human enough – they were about things, not people. They suggested additional challenges: equity, economic growth, regulatory capture, skills and literacy, identifiability, snake oil, hidden labour, and online safety. We asked everyone to vote on one summit theme they’d like to develop. The five selected were all additions to the original select committee list: people power, equity, democracy, regulatory capture and economic growth.
