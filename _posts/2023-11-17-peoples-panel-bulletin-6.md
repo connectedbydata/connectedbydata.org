@@ -11,7 +11,7 @@ This is a brief follow-up bulletin from the People’s Panel on AI, sharing the 
 
 <!--more-->
 
-**Deliberation in depth: Summary Findings Report**
+## Deliberation in depth: Summary Findings Report
 
 Panel facilitators [Hopkins Van Mil](http://www.hopkinsvanmil.co.uk/) have been typing up flip-charts and transcribing sessions to [produce this summary findings]({{site.baseurl}}/assets/projects/peoplespanel/Peoples Panel on AI Summary Findings - Final.pdf) report which shows the thinking behind the Panel’s recommendations, and offers more in-depth insights into the hopes and concerns around AI that we explored, as well as public priorities and expectations for government, industry, academia and civil society. 
 
@@ -25,7 +25,7 @@ Plus, the report contains quotes from the panel on their experiences of being in
 
 We’re looking forward next week to the completion of the independent evaluation of the Panel, and we’ll be drawing on that, alongside the [Summary Findings Report]({{site.baseurl}}/assets/projects/peoplespanel/Peoples Panel on AI Summary Findings - Final.pdf), to produce a final write-up. 
 
-**The People’s Panel is not over: Upcoming opportunities**
+## The People’s Panel is not over: Upcoming opportunities
 
 The fifth recommendation of the Panel was for “a continued national conversation on AI, including retaining the People’s Panel” and we’re exploring how to make this happen. 
 
@@ -34,14 +34,14 @@ The fifth recommendation of the Panel was for “a continued national conversati
 
 > _“Taking part has been an absolute privilege. It has been insightful – it has left me with a lot of hope. I would like to think we can continue this process. I would like to think we can be a part of a journey.” _Panel member
 
-**Ripples: AI & Climate**
+## Ripples: AI & Climate
 
 We were happy to see a reference to the People’s Panel in[ this write-up from Global Action Plan of their recent event on the relationship between AI and climate change](https://www.globalactionplan.org.uk/news/5-things-you-need-to-know-about-the-relationship-between-ai-and-climate-changeby-tanya-goodin). 
 
 We’d love to hear about other places the recommendations or outputs of the panel are being referenced or used.
 
-**For more from the AI Fringe and Summit...**
+## For more from the AI Fringe and Summit...
 
-We’ll only send this bulletin in future when there are particular updates to share from the People’s Panel on AI outputs, or to let you know how to opt-in to updates about ongoing activities. 
+We’ll only publish this bulletin in future when there are particular updates to share from the People’s Panel on AI outputs, or to let you know how to opt-in to updates about ongoing activities. 
 
 However, you might like to know that Connected by Data also [produce a regular ‘Data Policy Digest’](http://connectedbydata.org/news/2023/11/16/data-policy-digest). The latest edition was out this week, and includes lots on the AI Summit and Fringe. You can [sign-up to get a copy in your inbox here](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804) or [read the latest one online.](http://connectedbydata.org/news/2023/11/16/data-policy-digest)
