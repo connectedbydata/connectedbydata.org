@@ -13,6 +13,8 @@ project: Connected Conversations
 
 Described as an “essential part of [a data processor’s] accountability obligations” [by the ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/data-protection-impact-assessments-dpias/what-is-a-dpia/), Data Protection Impact Assessments are intended to support the identification and preemption of harms prior to data processing, and are a key piece of evidence for effectively contesting processes or decisions by companies, the government and other data processors.
 
+<!--more-->
+
 As with other aspects of the Data Protection Act 2018 (implementing the GDPR) the [Data Protection and Digital Information Bill](https://publications.parliament.uk/pa/bills/cbill/58-04/0001/230001.pdf) rolls back the strength of DPIAs, replacing it with a narrower provision for the ‘Assessment of high risk processing’. 
 
 As the Bill heads for the House of Lords, join us for a focused conversation on the implications and potential responses.

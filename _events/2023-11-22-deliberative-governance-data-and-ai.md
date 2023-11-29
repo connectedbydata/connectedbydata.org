@@ -2,7 +2,7 @@
 layout: event
 title: Resources for Effective & Inclusive Public Deliberation on Data & AI Governance (Design Lab)
 image: Hawkwood_Centre_for_Future_Thinking.jpg
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-11-22
 author: Tim Davies
