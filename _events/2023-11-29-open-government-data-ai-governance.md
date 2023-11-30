@@ -2,7 +2,7 @@
 layout: event
 title: "Powerful Actions on Open Government, Data & AI"
 image: OGP_Logo_RGB.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-11-29
 author: Tim Davies
