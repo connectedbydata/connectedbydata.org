@@ -15,7 +15,9 @@ Through a deliberative process facilitated by [Hopkins Van Mil](http://www.hopki
 
 ## Read
 
-You can **[download a copy of the People's Panel on AI recommendations here](({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)**, along with details about the panel process. 
+[![Image of leaflet available for download]({{site.baseurl}}/assets/projects/peoplespanel/peoples-panel-recommendations.png)]({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)
+
+You can **[download a copy of the People's Panel on AI recommendations here]({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)**, along with details about the panel process. 
 
 A detailed [Summary Findings Report]({{site.baseurl}}/assets/projects/peoplespanel/Peoples Panel on AI Summary Findings - Final.pdf), and an [independent evaluation of the panel]({{site.baseurl}}/assets/projects/peoplespanel/People's Panel on AI - Evaluation report v5 FINAL.pdf) are also available.
 
