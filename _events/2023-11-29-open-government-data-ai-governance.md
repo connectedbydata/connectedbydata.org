@@ -3,7 +3,7 @@ layout: event
 title: "Powerful Actions on Open Government, Data & AI"
 image: OGP_Logo_RGB.png
 upcoming: false
-writeup: false
+writeup: true
 date: 2023-11-29
 author: Helena Hollis
 category: organising
