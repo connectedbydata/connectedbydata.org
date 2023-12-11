@@ -2,7 +2,7 @@
 layout: event
 title: "Impact Assessments and the Data Protection  Digital Information Bill"
 image: law.jpg
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-12-05
 author: Adam Cantwell-Corn

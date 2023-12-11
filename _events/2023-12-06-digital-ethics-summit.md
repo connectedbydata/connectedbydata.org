@@ -2,7 +2,7 @@
 layout: event
 title: "Digital Ethics Summit 2023"
 image: 2023-12-06-Digital-ethics-summit.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2023-12-06
 author: Tim Davies
