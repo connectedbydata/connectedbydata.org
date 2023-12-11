@@ -11,7 +11,7 @@ link:
 project: Growing Data Governance Communities
 ---
 
-**What does it take to have informed, empowered and deliberative dialogue about the impacts of data and artificial intelligence? **
+**What does it take to have informed, empowered and deliberative dialogue about the impacts of data and artificial intelligence?**
 
 From 22nd to 24th November 2023, [Connected by Data](https://connectedbydata.org/) and [Iswe](https://iswe.org/) convened a group of thinkers and practitioners who work on public engagement, data and artificial intelligence to explore interventions that could support greater deliberative governance of technology. 
 
