@@ -5,10 +5,10 @@ category: weeknotes
 ---
 
 It has been a busy month for engagement, but it is always remarkable how discussing with others can teach us and help us challenge ourselves.  You can read event writeups for the following:
-* Democratizing AI: Principles for Public Meaningful Participation
-* C20 Brasil First Meeting
-* Collective intelligence and AI governance
-* Data Governance and Artificial Intelligence in Mercosur
+* [Democratizing AI: Principles for Public Meaningful Participation](https://connectedbydata.org/events/2023-10-23-democratizing-ai-webinar)
+* [C20 Brasil First Meeting](https://connectedbydata.org/events/2023-10-30-c20-first-meeting)
+* [Collective intelligence and AI governance](https://connectedbydata.org/events/2023-11-08-collective-intelligence-ai-governance-webinar)
+* [Data Governance and Artificial Intelligence in Mercosur](https://connectedbydata.org/events/2023-11-13-democracy-network-webinars)
 
 ### Book Launch: The Quantified Worker, by Ifeoma Ajunwa
 As I continued to think about workers’ rights through the lens of data governance, I attended this [book talk](https://www.youtube.com/watch?v=lMGdsUE6cNI) hosted by the Berkman Klein Center for Internet and Society. I came into contact with [Ifeoma Ajunwa](https://ifeomaajunwa.com/)’s work last year, so it was very exciting to learn about her newest project.
