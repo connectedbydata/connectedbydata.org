@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Collective intelligence and AI governance"
-image: 
+image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2023-11-08

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Data Governance and Artificial Intelligence in Mercosur"
-image: 
+image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2023-12-13

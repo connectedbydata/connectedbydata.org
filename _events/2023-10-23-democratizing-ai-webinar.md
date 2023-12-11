@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Democratizing AI: Principles for Public Meaningful Participation"
-image: 
+image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2023-10-23
