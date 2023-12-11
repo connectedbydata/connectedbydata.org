@@ -13,14 +13,14 @@ project: Connected Conversations
 
 In September 2023, Connected by Data brought together a diverse group of civil society, government and academic stakeholders on the fringes of the 2023 Open Government Partnership Summit in Tallinn, Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance.
 
+<!--more-->
+
 The workshop developed [three commitment drafts](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit#heading=h.oifmd7o1xo3q), focusing on:
 * Participatory oversight of technology procurement through creation of multi-stakeholder oversight groups that are empowered to advise, question and publicly report on public sector data and AI procurement.
 * Deliberative development of data and AI strategies at both national and local levels through use of both open, and more targeted, participation processes.
 * Strengthening citizen voice within sectoral regulators to create a robust feedback loop and ensure data and AI firms have social licence to operate in the way they do.
 
 This [Connected Conversation](https://connectedbydata.org/projects/2023-connected-conversations) shared these commitment areas in more detail, and invited responses from a range of experts to explore the opportunities and challenges for putting these ideas into practice.
-
-<!--more-->
 
 ### Invited responses
 We started the conversation with three invited responses:
