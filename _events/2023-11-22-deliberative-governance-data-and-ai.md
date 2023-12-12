@@ -27,7 +27,7 @@ We’ll explored three main challenges:
 * Running an effective deliberation on AI requires good background materials - focussing on the right topics, and recognising the different frames applied to discussion of AI;
 * Running a powerful deliberation on AI requires tailored facilitation. 
 
-![Collage of four photos. Across the top is a group photo of the Lab attendees.  Beneath are three photos showing people sitting, talking and walking in groups"]({{site.baseurl}}/assets/blog/2023-11-22-hawkwood.png)
+![Collage of four photos. Across the top is a group photo of the Lab attendees.  Beneath are three photos showing people sitting, talking and walking in groups"]({{site.baseurl}}/assets/events/2023-11-22-hawkwood.png)
 
 In response to these, the participants developed a set of outline resources and plans for action, including:
 
