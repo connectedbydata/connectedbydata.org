@@ -2,7 +2,7 @@
 layout: post
 title: "Data Protection and Digital Information Bill: what happened at Commons Report Stage?"
 author: Gavin Freeguard
-category: blog
+category: news
 ---
 On Wednesday 29 November, the Data Protection and Digital Information Bill came back to the House of Commons for [report stage and Third Reading](https://hansard.parliament.uk/commons/2023-11-29/debates/46EF0AA6-C729-4751-A3DA-6A3683EB8B87/DataProtectionAndDigitalInformationBill). (You can also [watch the video](https://parliamentlive.tv/event/index/d085ef77-40fd-4d4d-824e-fcddf2b4335c?in=13:15:28), or catch up on live tweeting from [the Open Rights Group](https://twitter.com/ds_m4riano/status/1729846362454344086).) Report stage is where MPs vote on the amendments made during committee stage (back in May) – and on the 150+ pages of (mainly government) amendments that appeared a few days before the debate on the 29th. A vote on Third Reading sends the Bill to the Lords.
 Here’s what happened, seen through the various votes (or divisions) on the Bill.
