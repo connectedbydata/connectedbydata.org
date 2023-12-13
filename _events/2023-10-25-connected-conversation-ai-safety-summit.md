@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "What does AI “Safety” mean from a civil society perspective?"
+title: "Connected Conversation: What does AI “Safety” mean from a civil society perspective?"
 image: cbd-logo.png
 upcoming: false
 writeup: true

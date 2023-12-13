@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Powerful Actions on Open Government, Data & AI"
+title: "Connected Conversation: Powerful Actions on Open Government, Data & AI"
 image: OGP_Logo_RGB.png
 upcoming: false
 writeup: true
