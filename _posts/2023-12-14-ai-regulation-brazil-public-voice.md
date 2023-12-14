@@ -34,11 +34,17 @@ Following the inclusion of the right to data protection in the list of [constitu
 
 
 >  Article 5. Individuals affected by artificial intelligence systems have the following rights, to be exercised in the manner and under the conditions described in this Chapter:
+>
 > I – the right to prior information regarding their interactions with artificial intelligence systems;
+>
 > II – the right to an explanation of the decision, recommendation, or prediction made by artificial intelligence systems;
+>
 > III – the right to contest decisions or predictions made by artificial intelligence systems that have legal effects or significantly impact the interests of the affected party; 
+>
 > IV – the right to determination and human participation in decisions made by artificial intelligence systems, taking into account the context and the state of the art in technological development;
+>
 > V – the right to non-discrimination and correction of direct, indirect, illegal, or abusive discriminatory biases; and
+>
 > VI – the right to privacy and data protection, in accordance with relevant legislation.
 
 Overall, it establishes two main mechanisms to empower individuals to exercise their rights: open data and impact (or risk) assessments. 
@@ -52,27 +58,49 @@ The initial idea of some of the jurists was to propose a centralised public data
 The bill also establishes impact assessments as the tool to classify a system’s risk category. By describing its methodological steps and public nature, the text puts the risk classifications under scrutiny and, ultimately, as the result of public deliberation.
 
 > Article 24. The methodology for impact assessment shall include, at least, the following stages:
+>
 > I – preparation;
+>
 > II – risk awareness;
+>
 > III – mitigation of identified risks;
+>
 > IV – monitoring.
+>
 > § 1. The impact assessment shall consider and record, at least:
+>
 > a) known and foreseeable risks associated with the artificial intelligence system at the time of its development, as well as risks reasonably expected from it;
+>
 > b) benefits associated with the artificial intelligence system;
+>
 > c) probability of adverse consequences, including the number of potentially affected individuals;
+>
 > d) severity of adverse consequences, including the effort required to mitigate them;
+>
 > e) logic of operation of the artificial intelligence system;
+>
 > f) process and results of tests and evaluations, and mitigation measures conducted to verify potential impacts on rights, with special emphasis on potential discriminatory impacts;
+>
 > g) training and awareness actions regarding the risks associated with the artificial intelligence system;
+>
 > h) mitigation measures and indication and justification of the residual risk of the artificial intelligence system, accompanied by frequent quality control tests;
+>
 > i) transparency measures to the public, especially to potential system users, regarding residual risks, particularly when involving a high degree of harm or danger to the health or safety of users, in accordance with articles 9 and 10 of Law No. 8,078, dated September 11, 1990 (Consumer Protection Code);
+>
 > § 2. In compliance with the precautionary principle, when using artificial intelligence systems that may generate irreversible or difficult-to-reverse impacts, the algorithmic impact assessment will also take into account incipient, incomplete, or speculative evidence.
+>
 > § 3. The competent authority may establish other criteria and elements for the preparation of impact assessments, including the participation of different social segments affected, according to risk and economic size of the organisation.
+>
 > § 4. The competent authority shall regulate the periodicity of updating impact assessments, considering the life cycle of high-risk artificial intelligence systems and the fields of application, and may incorporate sectoral best practices.
+>
 > § 5. Artificial intelligence agents that, after their introduction to the market or use in service, become aware of unexpected risks that pose a threat to the rights of natural persons, shall immediately communicate this fact to the competent authorities and to the individuals affected by the artificial intelligence system.
+>
 > Article 26. While preserving industrial and commercial secrets, the conclusions of the impact assessment will be public, containing at least the following information:
+>
 > I – description of the intended purpose for which the system will be used, as well as its context of use and territorial and temporal scope;
+>
 > II – risk mitigation measures, as well as their residual level once such measures are implemented;
+>
 > III – a description of the participation of different affected segments, if it has occurred, in accordance with the provisions of Article 24, Paragraph 3 of this Law.
 
 Lastly, it is worth mentioning how the draft bill addresses one of the most debated topics around AI within the Brazilian public debate: the use of facial recognition systems by the public sector. 
