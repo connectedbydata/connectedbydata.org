@@ -21,7 +21,7 @@ You can [access the full workshop notes here](https://docs.google.com/document/d
 
 ## Executive Summary
 
-We’ll explored three main challenges:
+We explored three main challenges:
 
 * Decision makers are often not convinced that they should be listening to public voices in the shaping of data and AI;
 * Running an effective deliberation on AI requires good background materials - focussing on the right topics, and recognising the different frames applied to discussion of AI;
