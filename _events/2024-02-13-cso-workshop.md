@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "'Datified': How data and AI policy will impact all areas of progressive action, and what civil society can do about it?"
+title: "'Datafied': How data and AI policy will impact all areas of progressive action, and what civil society can do about it?"
 image: cbd-logo.png
 upcoming: true
 writeup: false
@@ -14,7 +14,7 @@ A free virtual workshop for civil society and campaigners to get to grips with h
 
 <!--more-->
 
-**Friday 13th February 2024 from 2.00-3.30pm UK time**
+**Tuesday 13th February 2024 from 2.00-3.30pm UK time**
 
 Register [here](https://us06web.zoom.us/meeting/register/tZYpcuqorTspGdGgHIoSMVgXgomliwXiuFLQ) for the Zoom link.
 
