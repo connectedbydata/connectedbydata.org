@@ -14,4 +14,4 @@ The research found that there is a high degree of general awareness by workers t
 
 You can read a [web-based version of the report here](https://www.tuc.org.uk/research-analysis/reports/snapshot-workers-wales-understanding-and-experience-ai?page=0#section_header).  An [English version](https://www.tuc.org.uk/sites/default/files/2024-01/ENG%20Workers%20in%20Wales%27%20understanding%20and%20experience%20of%20AI%20-%20Wales%20TUC_1.pdf) of the PDF format report is also available as is a [Welsh version](https://www.tuc.org.uk/sites/default/files/2024-01/CYM%20Workers%20in%20Wales%27%20understanding%20and%20experience%20of%20AI%20-%20TUC%20Cymru_1.pdf).
 
-[Image of front cover of English PDF version of the report]({{site.baseurl}}/assets/blog/2024-01-wales-tuc.png)
+![Image of front cover of English PDF version of the report]({{site.baseurl}}/assets/blog/2024-01-wales-tuc.png)
