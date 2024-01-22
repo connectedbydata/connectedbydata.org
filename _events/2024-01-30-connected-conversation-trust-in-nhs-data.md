@@ -15,7 +15,7 @@ In this conversation, we will share findings from and have a wider discussion ab
 
 <!--more-->
 
-This Connected Conversation is an invitation for more in-depth discussion around the current context in UK policy, the state of play within the NHS, and in light of the upcoming general election considering what action is needed, and by who, to make health data collection and use meet patients’ concerns and needs? If you are interested in joining the conversation, contact [Helena](mailto:helena@connectedbydata.org)
+This Connected Conversation is an invitation for more in-depth discussion around the current context in UK policy, the state of play within the NHS, and in light of the upcoming general election considering what action is needed, and by who, to make health data collection and use meet patients’ concerns and needs? If you are interested in joining the conversation, contact [Helena](mailto:helena@connectedbydata.org).
 
 
 ### Contributors and respondents
