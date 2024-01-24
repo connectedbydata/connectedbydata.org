@@ -4,7 +4,7 @@ roles:
   - team
 title: Adam Cantwell-Corn
 pronouns: he/him
-role: Senior Campaigns and Policy Officer
+role: Head of Campaigns and Policy
 order: 3
 picture: adam.jpeg
 twitter: "@AdamC_C"
