@@ -31,5 +31,5 @@ Speaking at the event will be:
 * **Eugene Caparros** is the South Wales Branch Secretary for the CWU and BT worker
 * **Sarah Murphy,** MS for Bridgend and Chair of the Digital Rights and Democracy cross party group
 * **Jack Sargeant**, MS for Deeside
-* **Shavanah Ta**j, General Secretary of Wales TUC
+* **Shavanah Taj**, General Secretary of Wales TUC
 * **Adam Cantwell-Corn**, Head of Campaigns and Policy, **CONNECTED** BY **DATA**
