@@ -70,7 +70,7 @@ Data driven and AI technologies are increasingly a feature of our justice system
 
 Dr Natalie Byrom, an expert in justice system reform and data-driven technologies will introduce how these changes impact access to justice, particularly for those who already struggle to secure their rights, and your issues of concern.
 
-### The government is trying to restrict your right to know what information is held on you**
+### The government is trying to restrict your right to know what information is held on you
 **_Facilitated by Open Rights Group_**
 
 Whether you have been ‘robo-fired’ in the gig economy or feel you have been unfairly treated by a public authority, a Subject Access Requests (SARs) gives you the ability to obtain information held about you. 
