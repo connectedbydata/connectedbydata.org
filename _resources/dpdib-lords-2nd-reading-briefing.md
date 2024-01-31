@@ -2,9 +2,7 @@
 layout: resource
 title: "Data Protection and Digital Information Bill: Lords 2nd Reading Briefing"
 reference: dpdib-lords-2nd-reading-briefing
-projects: 
-  - Our Data Futures
-  - Seizing The Moment
+project: Our Data Futures
 author: Jeni Tennison
 date: 2023-12-14
 status: final
