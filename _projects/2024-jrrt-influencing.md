@@ -17,4 +17,4 @@ We seek to see:
 * The Data Protection and Digital Information (No 2) Bill is either heavily amended or blocked
 * A strong and diverse network of civil society organisations and research and academic institutions supports and scrutinises progressive policymakers on AI and data
 
-We are particularly grateful to the [Joseph Rowntree Reform Trust](https://www.jrrt.org.uk/) for their generous help and support for this work.
+We are particularly grateful to the [Joseph Rowntree Reform Trust](https://www.jrrt.org.uk/) for their generous help and support for this work. Our previous JRRT funded project '[Our Data Futures](https://connectedbydata.org/projects/2022-dpdib)' has now ended.
