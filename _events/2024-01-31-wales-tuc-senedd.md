@@ -2,7 +2,7 @@
 layout: event
 title: "Workers in Wales’ understanding and experience of AI"
 image: wales-tuc.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-01-31
 author: Adam Cantwell-Corn

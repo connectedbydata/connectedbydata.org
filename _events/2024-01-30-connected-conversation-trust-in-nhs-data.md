@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: What would it take to secure full public support for NHS data re-use?"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-01-30
 author: Helena Hollis
