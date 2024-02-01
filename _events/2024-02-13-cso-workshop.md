@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "'Datafied': How data and AI policy will impact all areas of progressive action, and what civil society can do about it?"
+title: "'Datafied': How data and AI policy will impact all areas of progressive action, and what civil society can do about it"
 image: cbd-logo.png
 upcoming: true
 writeup: false
