@@ -1,17 +1,23 @@
 ---
 layout: resource
-title: "Data Protection and Digital Information Bill: Lords 2nd Reading Briefing"
+title: "Data Protection and Digital Information Bill: Lords 2nd Reading Summary"
 reference: dpdib-lords-2nd-reading-summary
 project: Seizing The Moment
 author: Gavin Freeguard
 date: 2024-02-05
 status: final
 listed: true
+image: assets/graphicsx1/circles.png
 
 ---
 ## **Data Protection and Digital Information Bill: what happened at Lords Second Reading?** 
 
-[Introduction](#introduction)
+## Introduction
+On Tuesday 19 December 2023 – the last day before their Christmas break – the House of Lords got to debate the Data Protection and Digital Information Bill for the first time.
+
+This is known as Second Reading – First Reading is a formality, where the Bill is introduced to the House after moving through the Commons, and it will next go to Committee stage (for detailed scrutiny), then Report Stage and Third Reading (for amendments and further debate in the Chamber).
+
+Below is a brief summary of the debate (starting with a table of contents). You can also[ read the debate in full](https://hansard.parliament.uk/lords/2023-12-19/debates/2960AC9B-D86E-4EA1-8E4E-F3198BEE702F/DataProtectionAndDigitalInformationBill),[ read my live tweeting](https://twitter.com/GavinFreeguard/status/1737027214359576879),[ watch the debate](https://parliamentlive.tv/event/index/0c632bf5-6d02-4e6f-a774-3755d70d6ba0?in=12:19:19) or check out our[ page of resources](https://connectedbydata.org/resources/dpdib-resources) on the Bill and its parliamentary passage.
 
 [Opening statements from government and opposition](#opening-statements-from-government-and-opposition)
 
@@ -47,12 +53,7 @@ listed: true
 
 [Next steps](#next-steps)
 
-## **[Introduction](#introduction)**
-On Tuesday 19 December 2023 – the last day before their Christmas break – the House of Lords got to debate the Data Protection and Digital Information Bill for the first time.
 
-This is known as Second Reading – First Reading is a formality, where the Bill is introduced to the House after moving through the Commons, and it will next go to Committee stage (for detailed scrutiny), then Report Stage and Third Reading (for amendments and further debate in the Chamber).
-
-Below is a brief summary of the debate. You can also[ read the debate in full](https://hansard.parliament.uk/lords/2023-12-19/debates/2960AC9B-D86E-4EA1-8E4E-F3198BEE702F/DataProtectionAndDigitalInformationBill),[ read my live tweeting](https://twitter.com/GavinFreeguard/status/1737027214359576879),[ watch the debate](https://parliamentlive.tv/event/index/0c632bf5-6d02-4e6f-a774-3755d70d6ba0?in=12:19:19) or check out our[ page of resources](https://connectedbydata.org/resources/dpdib-resources) on the Bill and its parliamentary passage.
 
 ## **[Opening statements from government and opposition](#opening-statements-from-government-and-opposition)** 
 Opening for the government, AI minister Viscount Camrose said the proposed reforms to the UK’s existing data protection regime (including the General Data Protection Regulation, or GDPR) ‘deliver on the Government’s promise to use the opportunity afforded to us by leaving the European Union to create a new and improved UK data rights regime’. He ran through the[ five parts of the Bill](https://connectedbydata.org/resources/dpdib-resources), arguing it would unlock the potential of data ‘not only for businesses but for people going about their everyday lives’, while ‘continu[ing] to maintain the highest standards of data protection that people rightly expect’; these are not ‘contradictory objectives’. He noted the Bill as it now stood – following some amendments tabled below Report Stage in the Commons (many of them[ very late and some of them controversial](https://connectedbydata.org/news/2023/12/12/dpdib-commons-third-reading)) – had doubled the estimated economic benefits, to £10.6bn over 10 years.
