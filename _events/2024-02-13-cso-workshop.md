@@ -79,8 +79,8 @@ SARs provide a powerful tool for transparency to finding out what data is held a
 
 This breakout will explore more about what rights the public have, potential changes and what we might do about them.	
 
-### Data and AI are changing how people engage with democracy? [tbc]
-**_Facilitated by Gavin Freeguard, Policy Associate at Connected By Data and the Institute for Government_**
+### Data and AI are changing how people engage with democracy?
+**_Facilitated by Gavin Freeguard, Policy Associate at Connected By Data_**
 
 From the Cambridge Analytica scandal to AI generated misinformation to predicting voter behaviour, AI and data are changing our democracy. How the use of data and AI is regulated and shaped in the future is going to be vital. Yet in recent additions to their Data Protection Legislation, the Government is proposing [loosening the regulation](https://www.ft.com/content/3ed68928-b727-48ae-91a7-993508d9398b) for the sort of data driven voter targeting that lies behind mass digital and social media political marketing campaigns. 
 
