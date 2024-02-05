@@ -7,7 +7,7 @@ author: Gavin Freeguard
 date: 2024-02-05
 status: final
 listed: true
-image: assets/graphicsx1/circles.png
+image: dpdib-lords-2nd-reading-briefing.jpg
 
 ---
 ## **Data Protection and Digital Information Bill: what happened at Lords Second Reading?** 
