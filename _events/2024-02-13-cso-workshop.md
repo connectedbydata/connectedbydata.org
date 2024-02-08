@@ -84,4 +84,12 @@ This breakout will explore more about what rights the public have, potential cha
 
 From the Cambridge Analytica scandal to AI generated misinformation to predicting voter behaviour, AI and data are changing our democracy. How the use of data and AI is regulated and shaped in the future is going to be vital. Yet in recent additions to their Data Protection Legislation, the Government is proposing [loosening the regulation](https://www.ft.com/content/3ed68928-b727-48ae-91a7-993508d9398b) for the sort of data driven voter targeting that lies behind mass digital and social media political marketing campaigns. 
 
-This breakout explores how data and AI policy may affect democratic engagement, what these sort of legislative changes might mean and what sort of regulation we might campaign for in the future
+This breakout explores how data and AI policy may affect democratic engagement, what these sort of legislative changes might mean and what sort of regulation we might campaign for in the future.
+
+### What is the right role for data and AI in the NHS?
+**_Facilitated by Nicola Hamilton, Head of Understanding Patient Data_**
+
+The NHS is under pressure, with longer life expectancies, more treatments, a complex workforce and significant backlogs. Medicine and healthcare have always relied on data, but its role has been increasing. With all major political parties extolling the virtues of joining up health data and giving people access via apps, it’s seen as a bit of a panacea. But where do we draw the lines so that everyone can access person-centred health and care without losing data rights? This breakout will cover current trends in data and AI in health, and how these affect people’s rights and their experience of the health service.
+
+### Welfare
+**_Facilitated by Susannah Copson, Big Brother Watch_**
