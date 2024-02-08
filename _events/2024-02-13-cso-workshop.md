@@ -93,3 +93,5 @@ The NHS is under pressure, with longer life expectancies, more treatments, a com
 
 ### Welfare
 **_Facilitated by Susannah Copson, Big Brother Watch_**
+
+The welfare state is being increasingly leveraged as a system for surveillance. The move towards a digital welfare state has been expedited by AI, automated-decision making, and data-driven systems, with serious impact on human rights and fundamental freedoms. This breakout will explore how AI and data-driven systems have transformed the welfare landscape. We'll look at the implications of these systems for people in receipt of benefits by exploring the complex relationship between technology, privacy, and data protection. It will also focus on the latest developments, such as the Government's recent proposals to permit financial surveillance of everyone in the welfare system - and beyond.
