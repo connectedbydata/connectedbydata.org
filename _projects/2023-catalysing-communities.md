@@ -31,7 +31,7 @@ We’ll design the programme to meet participant needs, and expect to cover:
 
 Download a [summary of the cohort here]({{site.url}}/assets/projects/2024_Community_Data_Campaigns_Cohort.pdf), or view below. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj-8HP-CnBpAsdHrg3_IGrzMVC8zwDuP_cONrmlH1fDgU7BqcKiCY2QusEPfcCMfmf7A_79pzciwly/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj-8HP-CnBpAsdHrg3_IGrzMVC8zwDuP_cONrmlH1fDgU7BqcKiCY2QusEPfcCMfmf7A_79pzciwly/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
