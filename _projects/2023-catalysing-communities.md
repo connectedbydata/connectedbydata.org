@@ -18,12 +18,20 @@ They may be made the target of damaging or biassed policies as a result of profi
 This project will be launching a 'Community Campaigns on Data' cohort. The cohort will bring together up to five different campaigns to explore together through monthly shared learning sessions, access to 1-to-1 advice, and bespoke expert input to advance community led campaigns on data. 
 
 We’ll design the programme to meet participant needs, and expect to cover: 
+
 * Engaging and mobilising communities around data and technology; 
 * Creating compelling media stories on data issues; 
 * Local and national policy engagement on data;
 * Using data and legal rights as a campaign tool;
 * Expert advice on in-depth technology issues.
 
-Expressions of interest are [open until 4th March](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link).
+**[Expressions of interest are open her until 4th March](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link)**.
+
+### About the Community Campaigns on Data Cohort
+
+Download a [summary of the cohort here]({{site.url}}/assets/projects/2024_Community_Data_Campaigns_Cohort.pdf), or view below. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj-8HP-CnBpAsdHrg3_IGrzMVC8zwDuP_cONrmlH1fDgU7BqcKiCY2QusEPfcCMfmf7A_79pzciwly/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
