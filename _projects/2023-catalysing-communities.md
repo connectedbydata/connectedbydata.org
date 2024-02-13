@@ -24,6 +24,6 @@ We’ll design the programme to meet participant needs, and expect to cover:
 * Using data and legal rights as a campaign tool;
 * Expert advice on in-depth technology issues.
 
-Expressions of interest will be opening soon!
+Expressions of interest are [open until 4th March](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link).
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
