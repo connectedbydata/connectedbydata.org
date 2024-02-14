@@ -2,7 +2,7 @@
 layout: resource
 title: "Involving the public in AI policymaking - Experiences from the People's Panel on AI"
 reference: involving-the-public-in-ai-policymaking
-project: People's Panel on AI
+project: "People's Panel on AI"
 author: Tim Davies
 date: 2024-02-12
 status: final
