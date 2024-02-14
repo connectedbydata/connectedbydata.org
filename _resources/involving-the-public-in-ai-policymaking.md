@@ -7,7 +7,7 @@ author: Tim Davies
 date: 2024-02-12
 status: final
 listed: true
-link: {{site.baseurl}}/assets/projects/peoplespanel/2024 - Peoples Panel on AI - Final Report (10 Pages).pdf
+link: "/assets/projects/peoplespanel/2024 - Peoples Panel on AI - Final Report (10 Pages).pdf"
 image: 2024 - Involving the Public in AI Policymaking.png
 ---
 
