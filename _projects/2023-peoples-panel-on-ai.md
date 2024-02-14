@@ -15,11 +15,11 @@ Through a deliberative process facilitated by [Hopkins Van Mil](http://www.hopki
 
 ## Read
 
-> **Final Report**: [Involving the public in AI policymaking - Experiences from the People's Panel on AI]({{site.baseurl}}/assets/projects/peoplespanel/2024 - Peoples Panel on AI - Final Report (10 Pages).pdf) 
+> Report: [Involving the public in AI policymaking - Experiences from the People's Panel on AI]({{site.baseurl}}/assets/projects/peoplespanel/2024 - Peoples Panel on AI - Final Report (10 Pages).pdf) (10 Page, PDF)
 
 [![Image of leaflet available for download]({{site.baseurl}}/assets/projects/peoplespanel/peoples-panel-recommendations.png)]({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)
 
-You can **[download a copy of the People's Panel on AI recommendations here]({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)**, along with details about the panel process. 
+You can also **[download a copy of the People's Panel on AI recommendations here]({{site.baseurl}}/assets/projects/peoplespanel/CBD Peoples Panel Leaflet.pdf)**, along with summary details about the panel process. 
 
 A detailed [summary findings report]({{site.baseurl}}/assets/projects/peoplespanel/Peoples Panel on AI Summary Findings - Final.pdf), and an [independent evaluation of the panel]({{site.baseurl}}/assets/projects/peoplespanel/People's Panel on AI - Evaluation report v5 FINAL.pdf) are also available.
 
