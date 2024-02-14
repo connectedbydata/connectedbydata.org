@@ -25,7 +25,7 @@ We’ll design the programme to meet participant needs, and expect to cover:
 * Using data and legal rights as a campaign tool;
 * Expert advice on in-depth technology issues.
 
-**[Expressions of interest are open her until 4th March](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link)**.
+**[Expressions of interest are open here until 4th March](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link)**.
 
 ### About the Community Campaigns on Data Cohort
 
