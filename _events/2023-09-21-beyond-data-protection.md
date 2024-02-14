@@ -25,6 +25,7 @@ To Professor Lokke Moerel (Tilburg University), the idea that you could get cons
 There was also discussion about the concept of ensuring ‘fairness’ in the use of data and code, the proliferation of GDPR compliance as an industry, privacy and data protection being linked but separate concepts, and whether we should focus on ‘harms’ or ‘being wronged’.
 
 ![Image of a large screen showing a presentation"]({{site.baseurl}}/assets/events/Michael_Veale.png)
+
 _Professor Michael Veale (UCL) presented at the conference_
 
 ## Day 02
@@ -34,9 +35,11 @@ To that end, we used a “futures wheel”, “a form of structured brainstormin
 
 
 ![Image of a large screen showing a presentation"]({{site.baseurl}}/assets/events/tools_for-future_thinking.png)
+
 _Credit: Tools for Futures Thinking and Foresight Across UK Government. Edition 1.0, November 2017, p. 110_
 
 ![Image of a large screen showing a presentation"]({{site.baseurl}}/assets/events/futures_wheel.png)
+
 _“Futures wheel” created by participants of session 3C of the 2023 Beyond Data Protection Conference_
 
 The group decided to focus on specific data (weight and blood pressure) to enable reflections on more concrete scenarios. There were some positives to begin with, such as individuals being able to understand their personal health more, and supporting health researchers with understanding disease. Short-term concerns of the participants were around individual repercussions of having those pieces of information, such as its impact on self-image and lifestyle, and the immediate financial burden of having it informing insurance companies prices. As profiling and citizen scoring had been concepts that were discussed earlier in the conference, some participants came back to these ideas in this context, considering bleaker impacts of interventions, e.g. by the state, that might intend to help, but actually over-surveil and reduce autonomy.
