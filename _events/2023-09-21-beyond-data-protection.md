@@ -24,7 +24,7 @@ To Professor Lokke Moerel (Tilburg University), the idea that you could get cons
 
 There was also discussion about the concept of ensuring ‘fairness’ in the use of data and code, the proliferation of GDPR compliance as an industry, privacy and data protection being linked but separate concepts, and whether we should focus on ‘harms’ or ‘being wronged’.
 
-![Image of a large screen showing a presentation"]({{site.baseurl}}/assets/events/michael_veale.png)
+![Image of a large screen showing a presentation"]({{site.baseurl}}/assets/events/Michael_Veale.png)
 _Professor Michael Veale (UCL) presented at the conference_
 
 ## Day 02
