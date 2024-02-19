@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello, and welcome to our eighth Data Policy Digest, bringing you all the latest data and AI policy developments.   
 

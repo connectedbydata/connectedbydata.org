@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello, and welcome to our twelfth Data Policy Digest, bringing you all the latest data and AI policy developments. Rest assured, this is [one DPD that won’t use AI to swear at you](https://www.theguardian.com/technology/2024/jan/20/dpd-ai-chatbot-swears-calls-itself-useless-and-criticises-firm). (Though may have you swearing at AI.)
 

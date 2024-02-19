@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Jonathan Smith
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello, and welcome to the first Data Policy Digest from Connected by Data!
 

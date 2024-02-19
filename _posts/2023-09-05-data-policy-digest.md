@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello! Or rather, tere! 
 

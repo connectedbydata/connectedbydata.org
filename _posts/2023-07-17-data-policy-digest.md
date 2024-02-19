@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Welcome to the fourth edition of Connected By Data’s Data Policy Digest, your one stop shop for all things data and AI policy. You’ll be pleased to know it’s shorter than our previous epic - but there’s still been plenty going on.
 

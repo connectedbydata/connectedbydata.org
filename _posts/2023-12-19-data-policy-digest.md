@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello, and welcome to our tenth Data Policy Digest, bringing you all the latest data and AI policy developments. I don’t know about you, but after a long (if fun and interesting) year, I feel like I’m stumbling towards the finishing line - though with a steeplechase-sized hurdle, in the form of the Lords debating DPDIB today, now firmly in view.
 

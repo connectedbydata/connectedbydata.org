@@ -3,6 +3,8 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+projects:
+  - Data Policy Digest
 ---
 Hello, and welcome to our ninth Data Policy Digest, bringing you all the latest data and AI policy developments.  We have a wrap up of the AI Summit - and [fully endorse this sentiment](https://twitter.com/techUKdepCEO/status/1720407325339521194) - but there’s also a lot about to happen, Bills-wise.
 
