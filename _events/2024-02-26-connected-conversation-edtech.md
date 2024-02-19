@@ -19,7 +19,6 @@ Notable by its absence, have been the voices of educators, school leaders, stude
 
 In January 2024, Connected by Data convened a Design Lab to discuss these issues with EdTech in schools. In this Connected Conversation, we will be sharing our findings and discussing future directions.
 
-> When: 15:30 - 16:30 UK time on Monday 26th February 2024
-> Where: Zoom
-> A slide deck will be circulated in advance of the session.
-> If you're interested in attending please email [Helena](mailto:helena@connectedbydata.org).
+A slide deck will be circulated in advance of the session.
+
+> This conversation will take place 15:30 - 16:30 UK time, Monday 26th February 2024 on Zoom. If you're interested in attending please email [Helena](mailto:helena@connectedbydata.org).
