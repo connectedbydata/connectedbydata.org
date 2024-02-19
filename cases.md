@@ -16,7 +16,7 @@ Our **observatory** of participatory data governance practice collects together 
 * Browse projects that have deployed participatory methods to govern data 
 * Explore methods for involving communities in data governance
 * Download the dataset
-* Tell us about a project we should include
+* Share [your feedbasck or tell us about a project we should include](https://docs.google.com/forms/d/e/1FAIpQLScwpMcT58NNWT27EDAxybgQw5b6rWhdc1VJGithga7-qTX5uA/viewform?usp=sf_link)
 
 ## Browse projects
 
@@ -34,9 +34,11 @@ There are a wide range of methods that can be used to engage communities in data
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrU8BcKyfP29tvbZ?backgroundColor=green&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Tell us about other projects
+## Share updates or tell us about other projects
 
-Have you got an example of participatory data governance that we should explore? [Drop us an e-mail with details](mailto:maria@connectedbydata.org).
+Have you got comments or updates on how we have covered a case? Share [your feedback through this form](https://docs.google.com/forms/d/e/1FAIpQLScwpMcT58NNWT27EDAxybgQw5b6rWhdc1VJGithga7-qTX5uA/viewform?usp=sf_link).
+
+Have you got an example of participatory data governance that we should explore? [Drop us an e-mail with details](mailto:tim@connectedbydata.org).
 
 ## Download the dataset
 
