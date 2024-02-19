@@ -65,23 +65,23 @@ Our conversation surfaced high levels of concern about schemes like the Palantir
 
 [Our Health Data Stories](https://justtreatment.org/news/2023/11/22/our-health-data-stories) sets out a number of recommendations for addressing the risks of low  public trust in health data use. Our discussions explored and built on these: 
 
-* Opt out: we need a co-designed replacement for the National Data Opt-Out.
+* **Opt out:** we need a co-designed replacement for the National Data Opt-Out.
 
 In the conversation, participants discussed that granular opt-outs are unlikely to be well engaged with, and there is a tension between simplicity and the need for flexibility on which data is shared and when. 
 
-* Procurement: we need a strong requirement for revised ethical procurement system that includes public voice.
+* **Procurement:** we need a strong requirement for revised ethical procurement system that includes public voice.
 
 We discussed the importance of diversity in public voice, and the challenge in including the perspectives of those who may not be highly engaged or interested in data issues to begin with. 
 
-* Federated Data Platform: local deployment brings local community control opportunity, earning social licence to operate.
+* **Federated Data Platform:** local deployment brings local community control opportunity, earning social licence to operate.
 
 During the conversation, there was a tension raised between the opportunity for action at the local level, with the trend of disempowerment of local anchor institutions. We discussed the imbalance of power between local decision makers and tech providers, which requires broader national policy and action to be redressed.
 
-* Health data in the private sector: we need to think beyond the NHS (e.g. health apps) and to provide better controls on data use in the private sector.
+* **Health data in the private sector:** we need to think beyond the NHS (e.g. health apps) and to provide better controls on data use in the private sector.
 
 We heard how, from a patient perspective, understanding which apps are owned by which providers, and when and to whom consent is given, can be highly challenging. 
 
-* Civil society orgs have a role in assisting those who handle health data in becoming more trustworthy in what they're doing and supporting the ability of public voice to reach decision-makers.
+* **Civil society orgs have a role** in assisting those who handle health data in becoming more trustworthy in what they're doing and supporting the ability of public voice to reach decision-makers.
 
 We focused the final part of our conversation on action arising from the report and the discussion around it, and asked participants to discuss: what should our demands be, to make health data collection and use meet patients’ concerns and needs? What action is needed, and by who?
 
