@@ -14,7 +14,7 @@ We’ve got a Board meeting next week so another focus has been the papers for t
 We’ve also got two members of the team leaving this month (keep an eye out for their “leaver’s blogs”) and with that comes some administration (and another learning experience of calculating someone’s final pay / pensions etc).
 
 ### What I need to take care of
-We’ve got a big project kicking off and I need to get on top of the project management for that.  That’s actually the focus for the rest of my day.  I’m not delivering anything directly but need to ensure time is booked in diaries, milestones and leads are explicit and that we start promoting the opportunity for community campaigns to join a cohort of others to access advice and funding for their work around data and AI (read more here).
+We’ve got a big project kicking off and I need to get on top of the project management for that.  That’s actually the focus for the rest of my day.  I’m not delivering anything directly but need to ensure time is booked in diaries, milestones and leads are explicit and that we start promoting the opportunity for community campaigns to join a cohort of others to access advice and funding for their work around data and AI [(read more here)](https://connectedbydata.org/projects/2023-catalysing-communities).
 
 I also want to make sure our two leavers leave well.  I will miss Jonathan’s input to conversations and the social but also world focussed chats we’ve had.  Jonathan and I have a similar career background to this point and have often swapped note about our experiences and adjustments to new working contexts.  Jonathan is a huge people person and I know he’ll do great things in his next role.
 
