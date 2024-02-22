@@ -5,7 +5,7 @@ image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2023-11-13
-author: Tim Davies
+author: Helena Hollis
 category: organising
 project: Connected Conversations
 ---
