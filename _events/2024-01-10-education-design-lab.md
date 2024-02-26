@@ -3,7 +3,7 @@ layout: event
 title: "Design lab: EdTech and data-driven technology in schools"
 image: cbd-logo.png
 upcoming: false
-writeup: false
+writeup: true
 date: 2024-01-10
 author: Helena Holis
 category: organising
