@@ -20,4 +20,4 @@ We brought together 17 participants for two online workshop sessions in January 
 
 Participants included teachers and school counselors, teaching union representatives, and education researchers. Sessions were designed with support from [Defend Digital Me](https://defenddigitalme.org/).
 
-The full slide deck capturing the write up of the sessions is [available here](assets2024-01-EdTech-Design Lab-Summary.pdf).
+The full slide deck capturing the write up of the sessions is [available here]({{site.url}}/assets/events/2024-01-EdTech-Design Lab-Summary.pdf).
