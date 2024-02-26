@@ -10,7 +10,7 @@ category: organising
 project: Growing Data Governance Communities
 ---
 
-## How can affected communities have a powerful voice in shaping the adoption of data-driven technology in schools?
+How can affected communities have a powerful voice in shaping the adoption of data-driven technology in schools?
 
 <!--more-->
 We brought together 17 participants for two online workshop sessions in January 2024 to explore:
