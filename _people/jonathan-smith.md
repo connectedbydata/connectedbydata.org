@@ -8,7 +8,6 @@ pronouns: he/him
 role: Former Advocacy and Campaign Director
 picture: jonathan.jpeg
 twitter: "@alburystreet"
-email: "jonathan@connectedbydata.org"
 ---
 Jonathan has worked in campaigning and comms for quite a while now. Most recently he was Head of Campaigns at Shelter and before that the Fairtrade Foundation. He has also worked for Save the Children, Comic Relief and Christian Aid in his time.
 
