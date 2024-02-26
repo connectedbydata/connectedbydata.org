@@ -10,13 +10,14 @@ category: organising
 project: Growing Data Governance Communities
 ---
 
-Data-driven technologies are seeing increasing adoption in education. But how are the stakeholders affected by this: from students and teachers, to parents and communities, involved in shaping decisions about it? That's the focus for our two-part online design lab in January. 
+How can affected communities have a powerful voice in shaping the adoption of data-driven technology in schools?
 
 <!--more-->
+We brought together 17 participants for two online workshop sessions in January 2024 to explore:
+* the growing use of data-driven educational technologies (EdTech) in UK schools;
+* challenges around who has, and who does not, have a say in EdTech adoption;
+* possible approaches to give affected communities a more powerful voice in EdTech decision making.
 
-By the end of this lab we aim to have:
+Participants included teachers and school counselors, teaching union representatives, and education researchers. Sessions were designed with support from [Defend Digital Me](https://defenddigitalme.org/).
 
-* Produced a  map of some of the ways data and AI technologies are being used in schools, and how decisions are being made about them;
-* Identified a set of policy and practice interventions that could enable affected communities to have more say in EdTech decision-making. 
-
-For more information, contact [Helena Hollis](mailto:helena@connectedbydata.org)
+The full slide deck capturing the write up of the sessions is [available here](assets2024-01-EdTech-Design Lab-Summary.pdf).
