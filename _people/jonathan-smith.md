@@ -1,12 +1,11 @@
 ---
 layout: person
 roles:
-  - team
+  - alumni
 redirect_from: /team/jonathan-smith
 title: Jonathan Smith
 pronouns: he/him
-role: Advocacy and Campaign Director
-order: 2
+role: Former Advocacy and Campaign Director
 picture: jonathan.jpeg
 twitter: "@alburystreet"
 email: "jonathan@connectedbydata.org"
