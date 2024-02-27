@@ -9,7 +9,7 @@ completed: false
 
 Data and AI are changing our world… community led campaigns can reshape how.
 
-We are launching a 'Community Campaigns on Data' cohort. The cohort will bring together up to five different campaigns to explore together through monthly shared learning sessions, access to 1-to-1 advice, and bespoke expert input to advance community led campaigns on data.
+We are launching a **'Community Campaigns on Data'** cohort. The cohort will bring together up to five different campaigns to explore together through monthly shared learning sessions, access to 1-to-1 advice, and bespoke expert input to advance community led campaigns on data.
 
 <!--more-->
 
