@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: How can affected communities have a powerful voice in shaping the adoption of data-driven technology in schools?"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-02-26
 author: Helena Hollis
