@@ -4,7 +4,7 @@ title: "Connected Conversation: Combining Strategies to Confront Data Power"
 image: cbd-logo.png
 upcoming: true
 writeup: false
-date: 2024-02-26
+date: 2024-03-20
 author: Tim Davies
 category: organising
 link: 
