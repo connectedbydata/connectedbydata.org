@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Connected Conversation: Involving the public in AI policymaking: Experiences from the People’s Panel on AI at the UK AI Summit Fringe"
-image: cbd-logo.png
+image: 2024-03-07-ai_uk.png
 upcoming: true
 writeup: false
 date: 2024-03-07
