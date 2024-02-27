@@ -40,9 +40,9 @@ We’ll design the programme to meet participant needs, and expect to cover:
 We are running a [short expression of interest process](https://docs.google.com/forms/d/e/1FAIpQLSeQe0Yf5hbj5e79gemoB8Ar0uI3Q6_E6rVnG03w2KHjPCPqmQ/viewform?usp=sf_link) to identify potential participants and are open to applications from grassroots, local and national campaigns (UK based).  We particularly welcome expressions of interest from campaigners from underrepresented communities and will make adaptations where we can to remove barriers to participation. We will select participants for the cohort to maximise the opportunities for shared learning across the cohort.  Participants will be asked to write a short blog post about their experience at the end of the project. This will be the only reporting requirement. 
 
 ### Key dates
-12 noon (UK time) Monday 11 March 2024: Closing date for expressions of interest
-You will hear from us by 29th March 2024
-Project runs: April to September 2024
+* 12 noon (UK time) Monday 11 March 2024: Closing date for expressions of interest
+* You will hear from us by 29th March 2024
+* Project runs: April to September 2024
 
 ### For more information
 Read our [summary of the cohort here]({{site.url}}/assets/projects/2024_Community_Data_Campaigns_Cohort.pdf), or view below. 
