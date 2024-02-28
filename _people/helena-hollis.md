@@ -10,7 +10,7 @@ picture: helena.jpg
 twitter: "@llis_lena"
 email: "helena@connectedbydata.org"
 ---
-Helena is a social researcher with a strong participatory focus, committed to building participatory approaches through her work at CONNECTED BY DATA as Field Building Associate.
+Helena is a social researcher with a strong participatory focus, committed to building participatory approaches through her work at CONNECTED BY DATA as Field Building Lead.
 
 <!--more-->
 
