@@ -11,7 +11,7 @@ This week we had a Governance Board at which I notetake and support the collatio
 
 We launched a [new project to fund (with stipends and expenses) a cohort of community campaigns about data](https://connectedbydata.org/projects/2023-catalysing-communities).  Part of my role was getting it out on social media and wrapping the project management infrastructure around it.  The timelines are tight so it’ll be one to keep an eye on - on a pretty much daily basis at the moment. Do share the opportunity if you know anyone wanting some support around a campaign about data and/or AI.
 
-We’ve also got an event next week (free and online) ‘Involving the public in AI policymaking: lessons from the People’s Panel on AI’ and I’ve been helping organise the speakers for that.  
+We’ve also got an event next week (free and online) ‘[Involving the public in AI policymaking: lessons from the People’s Panel on AI](https://connectedbydata.org/events/2024-03-07-connected-conversation-peoples-panel)’ and I’ve been helping organise the speakers for that.  
 
 ### What I need to take care of
 I’ve made a bit of a shift in 2024 to try and be more useful around project oversight and delivery.  This has (kind of inevitably) led to some organisational bits dropping down the TODO list.  I need to move them up a bit and plan to try and block a day a week for head down work on them.
