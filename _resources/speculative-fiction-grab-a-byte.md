@@ -4,7 +4,7 @@ title: "Grab a Byte"
 reference: speculative-fiction-story-grab-a-byte
 project: Growing Data Governance Communities
 author: Maria Luciano
-date: 2023-10-03
+date: 2024-02-29
 status: final
 listed: true
 link: https://docs.google.com/document/d/15bx3NVsa0utfngJxnEEEgBUAWKMyUQmNFw_EIiAnBZk/edit
