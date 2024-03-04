@@ -1,14 +1,13 @@
 ---
 layout: person
 roles:
-  - team
-order: 3
+  - fellow
 title: Maria Luciano
 pronouns: she/her
-role: Research associate
+role: Fellow / Former Research associate
 picture: maria.jpg
 twitter: "@malu_luciano"
-email: "maria@connectedbydata.org"
+email: "marialucsp@gmail.com"
 ---
 Maria works at the intersection of law and technology, and has conducted research on a wide variety of topics such as privacy and data protection, internet access, platform regulation, as well as democratic theory and political participation.
 
