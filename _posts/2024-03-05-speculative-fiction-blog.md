@@ -35,3 +35,5 @@ As we reflected on the short story that emerged, we thought about how this could
 It is a very initial and experimental exercise. An attempt to fill the public knowledge gap left and exploited by tech corporations to perpetuate their political, economic and narrative power. 
 
 Hopefully, many more will come.
+
+> [You can read 'Grab A Byte' here](https://connectedbydata.org/resources/speculative-fiction-grab-a-byte).
