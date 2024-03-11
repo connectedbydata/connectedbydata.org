@@ -4,7 +4,7 @@ title: "Data Protection and Digital Information (No.2) Bill: Resources"
 reference: dpdib-resources
 project: Our Data Futures
 author: Jeni Tennison
-date: 2023-04-17
+date: 2024-03-01
 status: final
 listed: true
 link: https://docs.google.com/document/d/1_UjXyrbn19xjEaFUX9LCgHlSr3BVTyqQgu9b8aCfLW0/edit?usp=sharing
