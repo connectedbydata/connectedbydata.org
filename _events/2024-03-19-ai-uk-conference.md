@@ -7,10 +7,10 @@ writeup: false
 date: 2024-03-19
 author: Helena Hollis
 category: attending
-link: https://ai-uk.turing.ac.uk/
+link: 
 ---
 
-Helena Hollis will be speaking at the The Alan Turing Institute's #AIUK Conference next week, alongside a member of the People's Panel on AI.
+Helena Hollis will be speaking at The Alan Turing Institute's [AI UK Conference](https://ai-uk.turing.ac.uk/) next week, alongside a member of the People's Panel on AI.
 
 <!--more-->
 
