@@ -6,7 +6,7 @@ upcoming: false
 writeup: false
 date: 2023-12-06
 author: Tim Davies
-category: organising
+category: attending
 project: People's Panel on AI
 ---
 
