@@ -6,7 +6,7 @@ upcoming: false
 writeup: false
 date: 2024-01-31
 author: Adam Cantwell-Corn
-category: organising
+category: attending
 project: 
 ---
 

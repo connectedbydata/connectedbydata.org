@@ -15,7 +15,7 @@ As datafication accelerates, and algorithmic or artificial intelligence systems 
 
 <!--more-->
 
-> Join us to **[discuss the findings from this workshop on 29th November 2023](http://connectedbydata.org/events/2023-11-29-open-government-data-ai-governance)**
+> Read up on our **[Connected Conversation discussion of workshop findings](http://connectedbydata.org/events/2023-11-29-open-government-data-ai-governance)**
 
 ## Workshop report 
 

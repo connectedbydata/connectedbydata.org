@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: Involving the public in AI policymaking"
 image: 2024-03-07-ai_uk.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-03-07
 author: Emily Macaulay
