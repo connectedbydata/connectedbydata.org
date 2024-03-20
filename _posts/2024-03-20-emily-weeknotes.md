@@ -19,7 +19,7 @@ I suspect accountancy is going to fill most of my coming weeks.  As mentioned we
 
 
 ### What I’ve been inspired or challenged or moved by
-Perhaps “inspiration” is slightly overstating it but I’ve really loved time spent in GatherTown recently.  We’ve got our own office space and from co-working to quick chats it has certainly achieved (for me) some element of replicating an office.  I particularly enjoyed a leaving do we had for a colleague where we ended up playing what was essentially pictionary - it felt relaxed, fun, social despite us being scattered across the UK / world. I also learned that I really struggle to spell broccoli!  (if I don’t have autocorrect to help).
+Perhaps “inspiration” is slightly overstating it but I’ve really loved time spent in [GatherTown](https://www.gather.town/) recently.  We’ve got our own office space and from co-working to quick chats it has certainly achieved (for me) some element of replicating an office.  I particularly enjoyed a leaving do we had for a colleague where we ended up playing what was essentially pictionary - it felt relaxed, fun, social despite us being scattered across the UK / world. I also learned that I really struggle to spell broccoli!  (if I don’t have autocorrect to help).
 
 
 ### What I’ve been reading
