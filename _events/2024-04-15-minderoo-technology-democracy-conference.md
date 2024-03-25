@@ -1,7 +1,7 @@
 ---
 layout: event
 title: The Technology and Democracy Conference
-image: minderoo.png
+image: Minderoo.png
 link: https://www.mctd.ac.uk/the-technology-and-democracy-conference/
 add-background: true
 date: 2024-04-15
