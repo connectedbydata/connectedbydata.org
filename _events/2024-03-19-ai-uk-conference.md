@@ -2,7 +2,7 @@
 layout: event
 title: "AI UK Conference: Nothing About Us, Without Us Panel"
 image: 2024-03-07-ai_uk.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-03-19
 author: Helena Hollis
