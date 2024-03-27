@@ -1,8 +1,8 @@
 ---
 layout: resource
 title: "Response to UN AI Advisory Body Interim Report"
-reference: unhlabai-interim-response
-project: 
+reference: un-ai-advisory-board-interim-response
+project: Growing Data Governance Communities
 author: Tim Davies
 date: 2024-03-27
 status: final
