@@ -7,7 +7,7 @@ author: Tim Davies
 date: 2024-03-27
 status: final
 listed: true
-link: "2024-03 - Feedback on the Interim Report of the UN AI Advisory Body.pdf"
+link: "/assets/resources/2024-03 - Feedback on the Interim Report of the UN AI Advisory Body.pdf"
 image: un_ai_advisory_body_governing.png
 ---
 
