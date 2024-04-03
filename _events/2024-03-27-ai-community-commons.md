@@ -2,7 +2,7 @@
 layout: event
 title: "AI and the Commons Call: involving publics in shaping AI "
 image: openfuture.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-03-27
 author: Tim Davies
