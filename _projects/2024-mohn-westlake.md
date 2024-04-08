@@ -15,13 +15,13 @@ However, uses of data and AI can also be damaging to and contentious with the pu
 
 Research on public attitudes on data finds that deliberation enables the public to navigate these tensions between risks and benefits with the necessary nuance. Citizens are generally happy for data to be used for public benefit, as long as safeguards are in place, and research by ADR UK and the Office for Statistics Regulation has found that “the public want to be involved in making decisions about whether public good is being served”. Public engagement exercises are already being run by the public sector, such as the £2m investment by DHSC for large scale public engagement. But these need to be scaled at the same rate as governments develop the use of data and AI to improve public services.
 
-This programme of work, focused on the public sector, seeks to plug three main gaps:
-* **Narrative:** The need for public participation in shaping the use of data and AI by the public sector is not universally recognised. Narratives often focus on individual consent as a mechanism for data governance, which is rarely suitable for public services. We need to develop shared terminologies, frameworks, arguments and stories that are effective in shifting public, political and civil service perceptions about the need for collective and participatory data governance within the public sector.
-* **Practice:** Even if persuaded of the need for public participation, public bodies are often at a loss about how to do it. We need to develop good practice for collective and participatory data governance by public bodies and build a community of practitioners who can shape, procure and lead these activities.
-* **Policy:** Existing policy and guidance such as the Code of Practice for Statistics, the GDS Service Manual or the Public Sector Procurement Policy do not incorporate processes to bring in public voice. We need to develop evidence-based public policy recommendations and language to create an environment that enables and encourages the public sector to engage in collective and participatory data governance.
+### Our approach
 
+This programme aims to develop narratives, practice and policy around the public participation in public sector data and AI projects through the following activities.
 
-
-
+* Identifying and creating **case studies** about the ways in which communities are affected by public sector uses of data and AI – similar to our existing Data Stories reports on [Work](https://connectedbydata.org/resources/our-data-stories) and [Health](https://connectedbydata.org/resources/our-health-data-stories) – and about how public bodies are engaging with the public around data and AI.
+* Running a series of partnership-driven practical **design labs** to explore, collaboratively develop and catalyse practical guidance and support for public participation in a range of different scenarios, such as during data/digital/AI policy development; public sector tech procurement; the development of new AI systems; or the creation of national statistics.
+* Convening a **peer network** of practitioners across the public sector who are interested in public engagement around data and AI, providing a mechanism for them to learn from each other and external experts on topics of their choosing.
+* Running a series of **events** and meetings with a wider set of stakeholders inside and outside the public sector, to raise awareness of this work and increase adoption of the recommendations emerging from it.
 
 We are particularly grateful to [The Mohn Westlake Foundation](https://www.themohnwestlakefoundation.co.uk/) for their generous help and support for this work.
