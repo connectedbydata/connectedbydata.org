@@ -23,7 +23,7 @@ _Attendee at the People’s Panel on AI “verdict” session_
 
 The People’s Panel on AI spent four intense days in London hearing from a range of expert witnesses, participating in a [Hopes and Fears Lab](https://www.kcesp.ac.uk/hopes-and-fears-lab-ai-edition-videos/), listening to a breadth of panel sessions at the AI Summit Fringe and deliberating on it all before ending the week in a “verdict” session where [seven recommendations](https://connectedbydata.org/assets/projects/peoplespanel/CBD%20Peoples%20Panel%20Leaflet.pdf) for the future development and implementation of AI were made.
 
-![Image of a CBD slide. It lists the seven recommendations made by the People's Panel on AI"]({{site.baseurl}}/assets/events/2024-03-07-cc-recommendations.png)
+![Image of a CBD slide. It lists the seven recommendations made by the People's Panel on AI"]({{site.baseurl}}/assets/events/2024-03-07-cc-recommendations.jpg)
 
 In our Connected Conversation entitled ‘Involving the public in AI policymaking: Experiences from the People’s Panel on AI at the UK AI Summit Fringe’ we brought together members of the Panel, representatives from the Advisory Group with an open audience to explore what lessons we could learn from the People’s Panel on AI process.  Our speakers were:
 
@@ -44,7 +44,7 @@ _Henrietta Hopkins from Hopkins Van Mil, our delivery partner_
 
 At the end of the process Hopkins Van Mil produced [their report of the deliberation outcomes](https://connectedbydata.org/assets/projects/peoplespanel/Peoples%20Panel%20on%20AI%20Summary%20Findings%20-%20Final.pdf) and we authored our reflective [piece on the experience](https://connectedbydata.org/assets/projects/peoplespanel/2024%20-%20Peoples%20Panel%20on%20AI%20-%20Final%20Report%20(10%20Pages).pdf) and how to build on the lessons learned to involve the public in AI policymaking.  We suggest:
 
-![Image of a CBD slide. It has a graphical representation of how to bring publics to the table"]({{site.baseurl}}/assets/events/2024-03-07-cc-publics.png)
+![Image of a CBD slide. It has a graphical representation of how to bring publics to the table"]({{site.baseurl}}/assets/events/2024-03-07-cc-publics.jpg)
 
 There was power in creating the deliberative moment, where people are listening and talking to each other, by focusing around a summit and this can be carried in other key points of policy making discussions and developments.  Using deliberation in this way, rather than ongoing “assemblies” may not result in the public as decision makers but certainly as voices and perspectives to influence the policymakers.  Doing deliberative review in this way isn’t free but as a percentage of the total event costs, it is a small amount and **CONNECTED** BY **DATA** encourages organisations hosting appropriate events to build the costs and process into their budgets and plans.
 
