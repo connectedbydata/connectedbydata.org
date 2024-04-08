@@ -3,4 +3,4 @@ link: https://shuttleworthfoundation.org/
 image: shuttleworth-funded.png
 title: Shuttleworth Funded
 ---
-Jeni is a [Shuttleworth Foundation Fellow](https://shuttleworthfoundation.org/fellows/), which funds her time and contributes $275k to Connected by Data.
+Jeni was a [Shuttleworth Foundation Fellow](https://shuttleworthfoundation.org/fellows/), this funded her time and contributed $275k to Connected by Data from set-up to February 2024.
