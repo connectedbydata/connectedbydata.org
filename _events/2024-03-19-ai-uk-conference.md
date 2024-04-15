@@ -16,7 +16,7 @@ I attended the Turing Institute’s [AI UK conference](https://ai-uk.turing.ac.u
 
 In our session, I kept my contribution short and simple: inclusivity comes from the starting point of how we frame questions; if I ask “what can the technology do?” then only certain people will be invited to answer, but if I ask “what kind of future do we want?” with technology considered secondary, then everyone can and should be invited to answer.
 
-Margaret shared her experience of being on the People’s Panel, and the journey it has taken her on. She touched on worries and hopes, and the importance of public dialogue to make AI work across society. I think she made it abundantly clear that ‘everyday people’ are perfectly able to engage in conversation about the direction of AI, and after the session many conference delegates came to speak with her to take the conversation forward.
+[Margaret shared her experience](https://connectedbydata.org/blog/2024/03/19/margaret-guest-blog) of being on the People’s Panel, and the journey it has taken her on. She touched on worries and hopes, and the importance of public dialogue to make AI work across society. I think she made it abundantly clear that ‘everyday people’ are perfectly able to engage in conversation about the direction of AI, and after the session many conference delegates came to speak with her to take the conversation forward.
 
 We then saw some AI applications in performing arts, heard about AI use in health diagnostics and the complex issues it presents, and learned about worker experiences in the new forms of labour AI has brought. Margaret also took part in discussions around AI and environment, and the impacts upon and rights of young people. 
 
