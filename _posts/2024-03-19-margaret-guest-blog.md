@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech at AI UK Conference by member of People's Panel on AI"
-author: Margaret 
+author: Guest 
 category: blog
 ---
 Here we have a guest blog from Margaret, a member of the [People's Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai), with words shared at the [2024 AI UK Conference](https://connectedbydata.org/events/2024-03-19-ai-uk-conference).
