@@ -21,7 +21,7 @@ In this Connected Conversation, we will share the progress of this work, hear fr
 
 ### Contributors and respondents
 * Tim Davies will share work on “Pathfinder for designing deliberation on AI“
-* Johnny Stormont-Darling, Lara Groves, and Joe Massey.
+* Johnny Stormont-Darling, Lara Groves, and Joe Massey will share progress on "The AI Deliberation Incentive Map: mapping actor incentives for participation in AI".
 * Helena Hollis, Anna Colom, Octavia Reeve, and Diane Beddoes will share progress on “Empowering publics to co-design a positive future living with AI”
 * Anna Beckett will share progress on work with the Royal Academy of Engineering on visions for AI
 * Flynn Devine and Jennifer Ding will share scoping work on community-led benchmarking and  connecting the participatory AI space
