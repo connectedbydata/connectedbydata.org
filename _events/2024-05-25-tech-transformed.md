@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Tech Transformed
-image: 2024-05-25-tech-transformed.jpef
+image: 2024-05-25-tech-transformed.png
 link: https://www.tickettailor.com/events/cada1/1198455
 add-background: true
 date: 2024-05-25
