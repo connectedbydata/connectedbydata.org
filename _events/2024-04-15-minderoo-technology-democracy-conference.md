@@ -5,7 +5,7 @@ image: Minderoo.png
 link: https://www.mctd.ac.uk/the-technology-and-democracy-conference/
 add-background: true
 date: 2024-04-15
-upcoming: true
+upcoming: false
 writeup: false
 author: Jeni Tennison
 category: speaking
