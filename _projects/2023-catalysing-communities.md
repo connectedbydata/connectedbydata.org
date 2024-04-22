@@ -2,7 +2,7 @@
 layout: project
 title: Catalysing Communities Campaigns
 subtitle: To protect and build data rights in the UK
-image: luminate.png
+image: community data campaigns.png
 add-background: true
 completed: false
 ---
@@ -53,3 +53,4 @@ Information to follow.
 This cohort is running from April to September 2024.  If you would like to speak to us about this work please contact [Tim](mailto:tim@connectedbydata.org).
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
+![Image of Luminate logo"](/assets/projects/luminate.png)
