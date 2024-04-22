@@ -9,33 +9,44 @@ completed: false
 
 Data and AI are changing our world… community led campaigns can reshape how.
 
-We are launching a **'Community Campaigns on Data'** cohort. The cohort will bring together up to five different campaigns to explore together through monthly shared learning sessions, access to 1-to-1 advice, and bespoke expert input to advance community led campaigns on data.
+We are running a community data campaigns cohort with five wonderful groups. Together we will be exploring through monthly shared learning sessions, access to 1-to-1 advice, and bespoke expert input ways to advance community led campaigns on data.
 
 <!--more-->
 
-The cohort is for community led campaigns that are seeking to:
-
-* Change how data is collected in relation to a particular community;
-* Stop or modify proposed uses of data;
-* Give affected communities ongoing voice in how data is governed; or
-* Get community-generated data taken into account when policy is made
-
 ### About the Community Campaigns on Data Cohort
+
+Communities are affected daily by data governance decisions made by others, whether corporations, local and national government, or civil society organisations, at home, in education, and at work.
+
+They may be made the target of damaging or biassed policies as a result of profiling; miss the opportunity to benefit from cutting edge research by being absent or underrepresented in key datasets; or feel caricatured and disenfranchised through the way data is collected about them. At the same time this is increasingly intensified through the use of AI and automated decision making built on this data, where a lack of transparency and accountability or redress has the potential for even great harms.
 
 **Community** A group or organisation brought together by geography, identity, or the impacts of particular data and technology …
 **Campaigns** … seeking to bring about a clearly defined change in …
 on **data** … how data is collected, used or governed - so that it better serves community interests.
 
-The Action Learning Cohort will run from April to September 2024
+![Image of four logos of community campaigns as listed in text of webpage below"](/assets/projects/community data campaigns.png)
 
-### For more information
-Read our [summary of the cohort here]({{site.url}}/assets/projects/2024_Community_Data_Campaigns_Cohort.pdf), or view below. 
+### Care Full
+Our campaign for a [Care Full](https://carefulleconomy.co.uk/) economy is focused on shifting our economy to one which is actively designed to enable and centre relationships and acts of care. We believe this will benefit the community of people who care - which includes unpaid carers, parents, legal guardians, foster carers - those who benefit from this support and more. A care full economy is a contrast to our current economic model which individualises care and forces us to care in the margins.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj-8HP-CnBpAsdHrg3_IGrzMVC8zwDuP_cONrmlH1fDgU7BqcKiCY2QusEPfcCMfmf7A_79pzciwly/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+To meaningfully design an economy around care, we need easy to understand data reflecting the role of care in our lives, capturing all the nuance and breadth of experiences. This requires addressing how we capture data on care.
 
-### Catalysing Communities
-Communities are affected daily by data governance decisions made by others, whether corporations, local and national government, or civil society organisations, at home, in education, and at work.
+Specifically, we want to co-design definitions of care in the data about our economy, and regular updates to data on the labour market.
 
-They may be made the target of damaging or biassed policies as a result of profiling; miss the opportunity to benefit from cutting edge research by being absent or underrepresented in key datasets; or feel caricatured and disenfranchised through the way data is collected about them. At the same time this is increasingly intensified through the use of AI and automated decision making built on this data, where a lack of transparency and accountability or redress has the potential for even great harms.
+### Just Treatment
+[Just Treatment ](https://justtreatment.org/)is a patient-led campaign working to ensure patients and the NHS always come before corporate profits. We have been working for a number of years on campaigns to give patients more understanding and say over how their health data is used - and to fight government action that we believe undermines the vital trust patient doctor relationships rely on. We believe that there are real risks to patients and our public health system from having the private sector dominate the development and use of our health data, especially with low levels of accountability and scrutiny of their work.
+
+Through this collaborative work with Connected by Data we aim to identify more patients who have direct experience of the new ways our health data is being used, develop more powerful communication tools explaining the issue to the public, and refine a set of demands that go beyond criticisms of current government policy to defining a vision of alternative governance, regulation, ownership models, and incentives for the use of health data within and beyond the NHS.
+
+### No Excuses
+No Excuses is focused on preventing childhood online harm by securing tech accountability for young people. Our campaign has been created by a UK based group of campaigners who have experienced online sexual abuse. No Excuses believes that for online harm to be understood and prevented by regulators and government we need participatory data that does not exist now. We want to create community generated data on victims’ experiences of childhood online harms to ensure online safety regulation and policy is grounded in the reality of online harm.
+
+### London Renters Union
+The [London Renters Union](https://londonrentersunion.org/) (LRU) is a membership organisation consisting of city-wide community of renters. A key issue for our organising efforts in London is the poor state of rental licensing data provided by different local authorities across the city. Improving access to the data and consistency across boroughs would allow members to better hold landlords and estate agents who exploit and mistreat tenants to account. This would grow renter power across the city in our shared struggle to transform the housing system so that it provides decent, safe and affordable homes for everyone.
+
+### See Me, Hear Me
+Information to follow.
+
+### Catalysing data communities
+This cohort is running from April to September 2024.  If you would like to speak to us about this work please contact [Tim](mailto:tim@connectedbydata.org).
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
