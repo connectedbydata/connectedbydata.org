@@ -53,4 +53,5 @@ Information to follow.
 This cohort is running from April to September 2024.  If you would like to speak to us about this work please contact [Tim](mailto:tim@connectedbydata.org).
 
 We are particularly grateful to [Luminate](https://www.luminategroup.com/) for their generous help and support for this work.
+
 ![Image of Luminate logo"](/assets/projects/luminate.png)
