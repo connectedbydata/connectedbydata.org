@@ -20,8 +20,11 @@ Communities are affected daily by data governance decisions made by others, whet
 They may be made the target of damaging or biassed policies as a result of profiling; miss the opportunity to benefit from cutting edge research by being absent or underrepresented in key datasets; or feel caricatured and disenfranchised through the way data is collected about them. At the same time this is increasingly intensified through the use of AI and automated decision making built on this data, where a lack of transparency and accountability or redress has the potential for even great harms.
 
 **Community** A group or organisation brought together by geography, identity, or the impacts of particular data and technology …
+
 **Campaigns** … seeking to bring about a clearly defined change in …
+
 on **data** … how data is collected, used or governed - so that it better serves community interests.
+
 
 ![Image of four logos of community campaigns as listed in text of webpage below"](/assets/projects/community data campaigns.png)
 
