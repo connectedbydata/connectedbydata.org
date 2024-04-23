@@ -1,4 +1,18 @@
+---
+layout: event
+title: "Outside In Project: Finance, Utilities, Healthcare and AI"
+image: 2024-04-23-outside-in-project.png
+upcoming: false
+writeup: true
+date: 2024-04-23
+author: Tim Davies
+category: attending
+project: People's Panel on AI
+---
+
 Alongside other invited participants, Tim and three members of the [People's Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) took part in a session of the [Three Hands Outside In Project](https://www.threehands.co.uk/news/2023/the-outside-in-project-returns-for-2024/), sharing public perspectives on the use and governance of artificial intelligence with over 40 representatives of 11 businesses from finance, healthcare and utilities.
+
+<!--more-->
 
 Over 90 minutes, the discussions touched on themes including:
 
@@ -9,19 +23,3 @@ Over 90 minutes, the discussions touched on themes including:
 * **The need for inclusive, informed and ongoing dialogue** to guide decisions about AI adoption based on a more rounded understanding of how it impacts on staff, company and communities. 
 
 Over the coming months at Connected by Data we'll be continuing to explore how businesses can embed participatory practices in order to give communities a stronger role in shaping the future of data and AI. If you would like to find out more, [do get in touch](https://connectedbydata.org/offer/organisation).
-
-On 22nd - 24th November 2023 Connected by Data and Iswe convened a Design Sprint to create a toolkit for distributed deliberation on Artificial Intelligence. Following this, work has continued on a series of resources and projects to support practitioners in making the case for, and scaling delivery of, public deliberation on how AI impacts our lives. 
-
-<!--more-->
-
-In this Connected Conversation, we will share the progress of this work, hear from other related projects, share learning to date, and explore opportunities for future collaboration.
-
-> This Connected Conversation will take place on Zoom on Thursday 23 May 2024 at 12 noon UK time. [Register here to attend](https://us06web.zoom.us/meeting/register/tZAqde6hrz0uGdchg77QagvQP9jUZf2rhBoa#/registration).
-
-### Contributors and respondents
-* Tim Davies will share work on “Pathfinder for designing deliberation on AI“
-* Johnny Stormont-Darling, Lara Groves, and Joe Massey will share progress on "The AI Deliberation Incentive Map: mapping actor incentives for participation in AI".
-* Helena Hollis, Anna Colom, Octavia Reeve, and Diane Beddoes will share progress on “Empowering publics to co-design a positive future living with AI”
-* Anna Beckett will share progress on work with the Royal Academy of Engineering on visions for AI
-* Flynn Devine and Jennifer Ding will share scoping work on community-led benchmarking and  connecting the participatory AI space
-* **You?** If you have a project seeking to provide support for public deliberation on data and AI, get in touch.   
