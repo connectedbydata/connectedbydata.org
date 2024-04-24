@@ -2,7 +2,7 @@
 layout: project
 title: Options for a Global Citizens Assembly on AI
 subtitle: A policy and practice design lab
-image: 
+image: gca-ai.png
 add-background: true
 completed: false
 ---
