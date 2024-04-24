@@ -30,7 +30,7 @@ If you would like to get involved, please respond to our brief sign-up survey he
 
 ## About the team
 
-This is a collaborative process hosted by Connected by Data, working in partnership with ISWE Foundation. It is organised as a design lab under our [Growing Data Governance Communities grant from The Omidyar Network](https://connectedbydata.org/projects/2023-growing-data-governance-communities).
+This is a collaborative process hosted by Connected by Data, working in partnership with [ISWE Foundation](https://iswe.org/). It is organised as a design lab under our [Growing Data Governance Communities grant from The Omidyar Network](https://connectedbydata.org/projects/2023-growing-data-governance-communities).
 
 This project is being coordinated by Tim Davies and Claire Mellier. 
 
