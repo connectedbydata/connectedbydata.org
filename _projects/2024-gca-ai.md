@@ -26,7 +26,7 @@ Over May and June we’re carrying out a series of interviews, focus groups and 
 
 By the end of July we’ll produce a draft options paper for comment and feedback.
 
-If you would like to get involved, please respond to our brief sign-up survey here, and we will be in touch with tim@connectedbydata.org.  
+If you would like to get involved, please respond to [our brief sign-up survey here](https://docs.google.com/forms/d/e/1FAIpQLSet2DKr2AImjDKtGPqD54rQysfbpz9bvoUsCljCUVG0AvrCeQ/viewform?usp=sf_link), and we will be in touch. 
 
 ## About the team
 
