@@ -21,7 +21,7 @@ I reflected in a 1:1 with Jeni earlier this week that I’m a little disappointe
 I need to improve around our fundraising management too.  Giving clear leadership on its operationalisation and getting the balance right to ensure we get more funds coming in beyond the end of this financial year, without using all our capacity to write those bids.
 
 ### What I’ve been inspired or challenged or moved by
-Almost daily I am inspired and/or challenged by my team.  Their knowledge and generosity of spirit and desire to see better democratisation of data and AI governance is compelling to be around.  I enjoy sessions where we’re exploring political influencing too and learning more about the 
+Almost daily I am inspired and/or challenged by my team.  Their knowledge and generosity of spirit and desire to see better democratisation of data and AI governance is compelling to be around.  I enjoy sessions where we’re exploring political influencing too and learning more about the parliamentary and legislative process.
 
 I’ve also enjoyed the humour (of many) around data and AI.  I think humour can be trivialising but it can be also a mechanism for addressing issues in a wider reach media.  I enjoyed this short sketch from Kerry Godliman - “[Robots! AI! Data Harvesting!](https://www.instagram.com/reel/C58JB0pM0Ih/)” (CW: swearing).
 
