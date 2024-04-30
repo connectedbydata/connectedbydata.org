@@ -5,11 +5,11 @@ author: Maria Luciano
 category: news
 ---
 
-Last December, India passed the baton of the G20 presidency to Brazil after reaching the first-ever multilateral consensus on digital public infrastructures (DPIs). The Brazilian presidency this year offers a unique opportunity for Brazil to share its world-renowned experiences on the matter with the world.
+**Last December, India passed the baton of the G20 presidency to Brazil after reaching the first-ever multilateral consensus on digital public infrastructures (DPIs). The Brazilian presidency this year offers a unique opportunity for Brazil to share its world-renowned experiences on the matter with the world**.
 
 <!--more-->
 
-This is blog post of a op-ed written by [Maria Luciano](https://connectedbydata.org/people/maria-luciano) - Fellow at Connected by Data and Research Associate at IEA-USP; [Carolina Rossini](https://www.thedatasphere.org/about-us/our-team/carolina-rossini/) - Co-founder and Director for Policy & Research at Datasphere Initiative; and [CV Madhukar](https://www.linkedin.com/in/cvmadhukar/) - CEO at Co-develop Fund.  It was [published by Estadao](https://www.estadao.com.br/opiniao/espaco-aberto/transformacao-digital-e-prosperidade-inclusiva/) on 30 April 2024. A pdf version in Brazilian Portuguese is [available here](https://drive.google.com/file/d/1cwBvaGLBGy-O2Db2ktwshk4SBDBLIJ5l/view?usp=sharing).
+_This is blog post of a op-ed written by [Maria Luciano](https://connectedbydata.org/people/maria-luciano) - Fellow at Connected by Data and Research Associate at IEA-USP; [Carolina Rossini](https://www.thedatasphere.org/about-us/our-team/carolina-rossini/) - Co-founder and Director for Policy & Research at Datasphere Initiative; and [CV Madhukar](https://www.linkedin.com/in/cvmadhukar/) - CEO at Co-develop Fund.  It was [published by Estadao](https://www.estadao.com.br/opiniao/espaco-aberto/transformacao-digital-e-prosperidade-inclusiva/) on 30 April 2024. A pdf version in Brazilian Portuguese is [available here](https://drive.google.com/file/d/1cwBvaGLBGy-O2Db2ktwshk4SBDBLIJ5l/view?usp=sharing)._
 
 If, in the physical world, transportation networks, electrical grids, and telecommunications systems create infrastructures that enable public and private goods, digital public infrastructures (DPIs) play a similar role in the digital economy. Digital infrastructures that ensure, at the very least, digital identity verification, secure money transfers, and safe data sharing are necessary for us to make online purchases and access public services, and for businesses to operate.
 
