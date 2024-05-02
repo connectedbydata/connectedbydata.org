@@ -20,13 +20,13 @@ To receive the next edition of the Data Policy Digest direct to your inbox **[si
 **[Data policy developments](#data-policy-developments)**
 * [Deeply DPDIB](#deeply-dpdib)
 * [Bills, bills, bills](#bills-bills-bills)
-* [AI got ‘rithm](#ai-got-‘rithm)
+* [AI got ‘rithm](#ai-got-rithm)
 * [DSIT up and take notice](#dsit-up-and-take-notice)
 * [Parly-vous data?](#parly-vous-data)
 * [Labour movement](#labour-movement)
 * [In brief](#in-brief)
 
-**[What we’ve been up to](#what-we’ve-been-up-to)**
+**[What we’ve been up to](#what-weve-been-up-to)**
 
 **[What everyone else has been up to](#what-everyone-else-has-been-up-to)**
 
@@ -35,6 +35,7 @@ To receive the next edition of the Data Policy Digest direct to your inbox **[si
 **[Good reads](#good-reads)**
 
 ## **Data policy developments** {#data-policy-developments}
+
 ### **Deeply DPDIB** {#deeply-dpdib}
 
 **In the House **As of 8.16pm last Wednesday, 24 April, the Bill has finished Lords Committee Stage after seven days of debate. It’s [Lords Report Stage](https://www.parliament.uk/about/how/laws/passage-bill/commons/coms-lords-report-stage/) next - date tbc - when we can expect lots of amendments to return and to be voted upon (in this committee stage, only amendments agreed unanimously would be made, with no votes permitted).
@@ -69,6 +70,7 @@ A code of practice for those powers might also not be forthcoming before Lords R
 
 
 ### **Bills, bills, bills** {#bills-bills-bills}
+
 As if that weren’t enough...
 
 **AI Bill?** Is the UK government changing its mind on the need for legislation? The FT reports that [UK rethinks AI legislation as alarm grows over potential risks](https://www.ft.com/content/311b29a4-bbb3-435b-8e82-ae19f2740af9), and Bloomberg that [UK Starts Drafting AI Regulations for Most Powerful Models](https://www.bloomberg.com/news/articles/2024-04-15/uk-starts-drafting-ai-regulations-for-most-powerful-models?s=03), though the government denies a change in approach.
@@ -99,7 +101,9 @@ And… UK in a Changing Europe’s latest [‘divergence tracker’](https://uka
 
 While in the US, [The House TikTok bill just passed. Now what?](https://www.politico.com/news/2024/04/20/tiktok-bill-passed-explainer-00153472) (Politico)... [TikTok vows to fight 'unconstitutional' US ban](https://www.bbc.co.uk/news/articles/c87zp82247yo) (BBC)... [Exclusive: ByteDance prefers TikTok shutdown in US if legal options fail, sources say](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/) (Reuters)... although [ByteDance Says It Won’t Sell U.S. TikTok](https://www.wsj.com/tech/bytedance-says-it-wont-sell-u-s-tiktok-business-61f43079) (Wall Street Journal)... and while [Europe shrugs off Washington’s TikTok fears](https://www.politico.eu/article/europe-washington-tiktok-fear-election/) (Politico), the Digital Services Act means [TikTok will stop paying people to watch videos every da](https://www.theverge.com/2024/4/24/24139341/tiktok-lite-reward-program-suspended-european-commission)y (The Verge - see also [TikTok’s tweet](https://twitter.com/TikTokPolicyEUR/status/1783143994194551197)).
 
-### **AI got ‘rithm** {#ai-got-‘rithm}
+
+### **AI got ‘rithm** {#ai-got-rithm}
+
 Let’s start with the conflict in the Middle East… [‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/) (+972 Magazine, Local Call)... [‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes) (The Guardian)... [A Detailed Map Shows How Airstrikes and Refugees Reshaped Rafah](https://www.bloomberg.com/graphics/2024-map-gaza-rafah-israel-hamas-war/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxMzI3ODI5NywiZXhwIjoxNzEzODgzMDk3LCJhcnRpY2xlSWQiOiJTQzBVMDRUMEcxS1kwMCIsImJjb25uZWN0SWQiOiJFQzUzMkU0NDM2OTc0ODRGOTJGOUY3MTdGQ0QzQUZBQiJ9.ueqxt1-5TW17kvsNgltP1L8w8wL9wu_aL0Q6rHz2HQQ) (Bloomberg, using machine learning)... [Elon Musk's X pushed a fake headline about Iran attacking Israel. X's AI chatbot Grok made it up.](https://mashable.com/article/elon-musk-x-twitter-ai-chatbot-grok-fake-news-trending-explore) (Mashable)... [GOOGLE WON’T SAY ANYTHING ABOUT ISRAEL USING ITS PHOTO SOFTWARE TO CREATE GAZA “HIT LIST”](https://theintercept.com/2024/04/05/google-photos-israel-gaza-facial-recognition/) (The Intercept)... [Exclusive: Google Workers Revolt Over $1.2 Billion Contract With Israel](https://time.com/6964364/exclusive-no-tech-for-apartheid-google-workers-protest-project-nimbus-1-2-billion-contract-with-israel/) (Time - more [here](https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/))... [Google Fires 28 Employees Involved in Protest of Israeli Cloud Contract](https://www.nytimes.com/2024/04/18/technology/google-firing-israeli-cloud-contract.html) (New York Times)...
 
 In other international news, starting with the US… [The OMB Memo Shows That AI Can Be Governed](https://www.techpolicy.press/the-omb-memo-shows-that-ai-can-be-governed/) (Data & Society’s Janet Haven for Tech Policy Press)... [Request for Information: AI-Ready Open Government Data Assets](https://www.commerce.gov/news/blog/2024/04/request-information-ai-ready-open-government-data-assets) (Department of Commerce)... [Data and Models: A Quote Book from the Tech Summit on AI](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/data-models-quote-book-tech-summit-ai) (Federal Trade Commission)... Data & Society and others wrote to Commerce Secretary Gina Raimondo, [ENSURING “AI SAFETY” BEGINS WITH ADDRESSING ALGORITHMIC HARMS NOW](https://datasociety.net/announcements/2024/03/18/ensuring-ai-safety-begins-with-addressing-algorithmic-harms-now)… while [Raimondo Announces Expansion of U.S. AI Safety Institute Leadership Team](https://www.commerce.gov/news/press-releases/2024/04/us-commerce-secretary-gina-raimondo-announces-expansion-us-ai-safety), including Rob Reich joining to ‘lead engagement with civil society organizations’ - here’s looking at you, UK AISI… 
@@ -144,7 +148,9 @@ Everything else, starting with the Future of Humanity Institute… [Oxford shuts
 
 And [Saturday Night Live looks at AI](https://twitter.com/nbcsnl/status/1779395154052276586). Sort of.
 
+
 ### **DSIT up and take notice** {#dsit-up-and-take-notice}
+
 Continuing with AI, because a dedicated section obviously isn’t enough… in case you missed it above, [Rishi Sunak promised to make AI safe. Big Tech’s not playing ball.](https://www.politico.eu/article/rishi-sunak-ai-testing-tech-ai-safety-institute/) (Politico)... Time has more on the US/UK deal, [U.S., U.K. Announce Partnership to Safety Test AI Models](https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/)… there’s also [a written statement](https://questions-statements.parliament.uk/written-statements/detail/2024-04-16/hcws409) from Michelle Donelan… the Digital Regulation Cooperation Forum takes a view on [Fairness in AI](https://www.drcf.org.uk/publications/blogs/fairness-in-ai-a-view-from-the-drcf)... while DSIT’s deadline for regulator plans on approaching AI was the end of April, and those [plans have now been published](https://www.gov.uk/government/publications/regulators-strategic-approaches-to-ai/regulators-strategic-approaches-to-ai)… 
 
 The BBC reports that [AI chatbot for civil servants moves a step closer](https://www.bbc.co.uk/news/uk-politics-68724499)… the Center for Data Innovation convened some private sector experts to answer [How Can the UK Encourage the Uptake of AI in the Public Sector?](https://datainnovation.org/2024/04/how-can-the-uk-encourage-the-uptake-of-ai-in-the-public-sector/)... the agenda for an AI Opportunity Forum meeting [leaked](https://twitter.com/politicalpics/status/1778075561035715056)… the National Cyber Security Centre (who have [a new CEO](https://www.ncsc.gov.uk/news/ncsc-annouces-new-ceo)) worked with international partners on new guidance for [Deploying AI Systems Securely](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF)… GDS have been [experimenting with AI and forms](https://twitter.com/timpaul/status/1781184488485056777)…  [i.AI and NHS England sign Collaboration Charter to support the use of AI in the NHS](https://www.gov.uk/government/news/iai-and-nhs-england-sign-collaboration-charter-to-support-the-use-of-ai-in-the-nhs) (Cabinet Office, NHSE)... the ICO has issued its third call for evidence on generative AI: [accuracy of training data and model outputs](https://ico.org.uk/about-the-ico/what-we-do/our-work-on-artificial-intelligence/generative-ai-third-call-for-evidence/) (ICO)... [Deputy Prime Minister and Education Secretary host roundtable to harness the benefits of AI in education](https://www.gov.uk/government/news/deputy-prime-minister-and-education-secretary-host-roundtable-to-harness-the-benefits-of-ai-in-education) (UK government), just as the British Academy and DfE offer an innovation [fellowship looking at AI skills](https://www.thebritishacademy.ac.uk/funding/innovation-fellowships-2024-25-route-b-policy-led-digital-society)… Cabinet Office has issued a note on [Improving Transparency of AI use in Procurement](https://www.gov.uk/government/publications/ppn-0224-improving-transparency-of-ai-use-in-procurement), while a brilliantly named academic journal explores [Responsibly Buying Artificial Intelligence: A ‘Regulatory Hallucination’](https://academic.oup.com/clp/advance-article-abstract/doi/10.1093/clp/cuae003/7641786?redirectedFrom=fulltext&login=false) (Current Legal Problems)...
@@ -169,7 +175,9 @@ In other news… the Department for Business and Trade has published [The Smart 
 
 Twenty-ish years on from the [last serious attempt to introduce them](https://www.ft.com/content/d94c5f67-ccd1-4231-9235-bf30fc8ac958), there’s been an uptick in discussions of ID cards of late… [The UK’s election may spell out the future of its national ID cards](https://www.biometricupdate.com/202404/the-uks-election-may-spell-out-the-future-of-its-national-id-cards?s=03), says Biometric Update in a useful summary, picking up on comments by Lord Blunkett (Lab)… Peter Wells [takes a more recent minister, Conservative Neil O’Brien, to task](https://twitter.com/peterkwells/status/1775825703348388182)… and Rachel Coldicutt [wonders where the speculation](https://twitter.com/rachelcoldicutt/status/1776951267782226339) has come from…
 
+
 ### **Parly-vous data?** {#parly-vous-data}
+
 Despite having a couple of weeks off for Easter, there’s been a fair bit going on down Westminster way.
 
 In the Commons… on 10 April, a new report by the Culture, Media and Sport committee on [Creator remuneration](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/156/summary.html) touched on AI, naturally… on 12 April, the committee published a report on ‘[Trusted voices](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/summary.html)’ in a conspiracy theory-ridden information environment… on 16 April, there were Westminster Hall debates on [Citizens’ Assemblies and Local Democracy](https://hansard.parliament.uk/commons/2024-04-16/debates/464F76D0-5FE1-42B0-9D06-B11297D12619/Citizens%E2%80%99AssembliesAndLocalDemocracy) and [Digital Skills and Careers](https://hansard.parliament.uk/commons/2024-04-16/debates/99BF5366-77DD-4F2B-B955-B8DE57A35C7F/DigitalSkillsAndCareers) (the Commons Library pulled together [a briefing](https://commonslibrary.parliament.uk/research-briefings/cdp-2024-0073/) and linked to previous POST briefings on [Developing essential digital skills](https://post.parliament.uk/research-briefings/post-pn-0643/) and [Data science skills in the UK workforce](https://post.parliament.uk/research-briefings/post-pn-0697/))... it was [DSIT questions on 17 April](https://hansard.parliament.uk/Commons/2024-04-17/debates/8C476CAF-6344-4A71-BFEE-E2FFEFAD3535/OralAnswersToQuestions), with lots on AI regulation, data protection, AI, the Online Safety Act, and more AI ([DCMS questions](https://hansard.parliament.uk/Commons/2024-04-18/debates/62C4D159-5B28-4EDE-8594-7B5CC8C77529/OralAnswersToQuestions) happened the next day, though without anything obvious on AI/data, while [Cabinet Office questions](https://hansard.parliament.uk/Commons/2024-04-25/debates/BA8E3878-6E44-4DC3-806D-2B93296D4A1E/CabinetOffice) on 25 April included cyber and digital procurement)… on 17 April, the Environmental Audit Committee looked at [electronic waste](https://committees.parliament.uk/event/21242)… and senior DSIT officials gave evidence to PAC on 22 April about [mobile connectivity](https://committees.parliament.uk/event/21303/formal-meeting-oral-evidence-session/)…
@@ -184,7 +192,9 @@ Other things of note… the Joint Committee on Human Rights is accepting evidenc
 
 And some quiet ahead: the Commons and Lords will rise on 23 May for Whitsun recess and return on 3 June.
 
+
 ### **Labour movement** {#labour-movement}
+
 Shall we start with AI, for a change?
 
 In [an interview with The I](https://inews.co.uk/news/politics/keir-starmer-no-contact-trump-close-biden-labour-3003244), Labour leader Keir Starmer said:
@@ -211,7 +221,9 @@ Local elections happen today. In London, [Sadiq Khan [is] aiming to create 150,0
 * **Work **[Watching you, watching me – what people think about being monitored by their employers](https://www.raconteur.net/future-of-work/employee-monitoring-staff-response) (Raconteur)... [UK trade unions hit by spate of cyber attacks](https://www.ft.com/content/e72e497e-1efe-405f-83dd-d682dfbd8556) (FT)
 * **Everything else** A DSIT-commissioned [‘Review of data, statistics and research on sex and gender’](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-longitudinal-studies/review-data-statistics-and-research-sex-and-gender#Call%20for%20evidence) has issued a call for evidence… [Brexit border chiefs left in the dark hours before new checks kick in](https://www.politico.eu/article/uk-brexit-border-target-operating-mode/) (Politico - includes data-sharing issues)... [Two died after UK shift from analogue to digital phone lines](https://www.ft.com/content/accd4c72-a7fa-4f82-9c48-4a20cf75124a) (FT)... AI in the justice system features in a [Speech by the Deputy Head of Civil Justice: Future Visions of Justice](https://www.judiciary.uk/speech-by-the-deputy-head-of-civil-justice-future-visions-of-justice/), Courts and Tribunals Judiciary… [Leicester City Council reveals 25 ‘confidential documents’ released by ransomware gang](https://www.publictechnology.net/2024/04/04/defence-and-security/leicester-city-council-reveals-25-confidential-documents-released-by-ransomware-gang) (Public Technology)... [Supreme Court refuses to hear appeal over responsibilities of Information Commissioner when determining complaints from data subjects](https://www.localgovernmentlawyer.co.uk/information-law/398-information-law-news/56961-supreme-court-refuses-to-hear-appeal-over-responsibilities-of-information-commissioner-when-determining-complaints-from-data-subjects) (Local Government Lawyer)... [From WhatsApp to Greggs - why is tech going down more?](https://www.bbc.co.uk/news/articles/cxrz350qyy5o) (BBC).
 
-##  **What we’ve been up to** {#what-we’ve-been-up-to}
+
+##  **What we’ve been up to** {#what-weve-been-up-to}
+
 * Our [data and AI civil society network has a new website](https://data-and-ai-cso-network.org/)! Get in touch if you’d like to get more involved
 * We were delighted to be part of [the TUC’s AI Bill project](https://www.tuc.org.uk/research-analysis/reports/ai-bill-project) 
 * We’re starting a new project, on [Giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake)
@@ -221,7 +233,9 @@ Local elections happen today. In London, [Sadiq Khan [is] aiming to create 150,0
 * We have a Connected Conversation coming up on 23 May: [Sharing progress on resources for deliberation on data & AI governance](https://connectedbydata.org/events/2024-05-23-connected-conversation-public-deliberation-resources)
 * We’ll be at CADA and Autonomy’s [Tech Transformed](https://www.tickettailor.com/events/cada1/1198455) at the end of the month, and I’ll be speaking at [Electromagnetic Field](https://www.emfcamp.org/) the following weekend
 
+
 ## **What everyone else has been up to** {#what-everyone-else-has-been-up-to}
+
 * We’ve mentioned it a couple of times above, but in case you missed it: the TUC have published [a draft Artificial Intelligence (Employment and Regulation) Bill](https://www.tuc.org.uk/research-analysis/reports/ai-bill-project) 
 * Which? have published [‘Our Consumer Agenda for Government’](https://www.which.co.uk/policy-and-insight/article/our-consumer-agenda-for-government-aFq492r2RLtE) - the sections on Smart Data and online consumer crime may be of most interest
 * IFOW have a new [Briefing Paper: The Disruption Index](https://www.ifow.org/publications/briefing-paper-the-disruption-index), which The Guardian writes up as [‘Clustering of AI firms in south and east of England will foil levelling up’](https://www.theguardian.com/technology/2024/apr/16/clustering-of-ai-firms-in-south-and-east-of-england-will-foil-levelling-up-report). IFOW’s Kester Brewin has [Why I wrote an AI transparency statement for my book, and think other authors should too](https://www.theguardian.com/books/2024/apr/04/why-i-wrote-an-ai-transparency-statement-for-my-book-and-think-other-authors-should-too) in The Guardian, and [A 4-point plan for transparent AI use in schools](https://www.tes.com/magazine/analysis/general/4-point-plan-transparent-ai-use-schools-education) in the TES
@@ -241,7 +255,9 @@ Local elections happen today. In London, [Sadiq Khan [is] aiming to create 150,0
 * If this newsletter is, inexplicably, not enough for you… our friends at AWO have sent out [their 13th Algorithmic Governance Roundup](https://eocampaign1.com/web-version?p=b54cf9a4-f1a0-11ee-b59d-cdcd2559006b&pt=campaign&t=1712165248&s=1857b9d891aabf35f0a9dac3097e59a4c38e3a2b1f6ec63b8be580c264595f03)
 * And some job opportunities: AI Now are looking for an [associate director](https://apply.workable.com/ai-now-institute/j/66CB88A442/) and [operations director](https://apply.workable.com/ai-now-institute/j/DF0DDC813A/)… [Researcher (EU Public Policy)](https://www.adalovelaceinstitute.org/job/researcher-eu-public-policy/) (Ada)... [Data Support Lead](https://www.threesixtygiving.org/about/vacancies/data-support-lead/) (360Giving).
 
+
 ## **Events** {#events}
+
 * techUK and the Digital Regulation Cooperation Forum organised [Navigating the UK's Digital Regulation Landscape: Where are we headed?](https://www.techuk.org/what-we-deliver/navigating-the-uk-digital-regulation-landscape.html) on 22 April - which would have been much more useful for everyone if I’d finished drafting this a week earlier. Ditto [UK Tech Week](https://uktechweek.org/events/), and the latest monthly event for [TPX Impact’s Digital Forum](https://pages.tpximpact.com/en-gb/digital-forum) 
 * May is Analysis in Government month - one of the events is [the NAO on the use of AI in government](https://www.eventbrite.co.uk/e/use-of-ai-in-government-national-audit-office-nao-tickets-880699695497) on 9 May, following their recent report
 * At the LSE, 14 May: [Data grab: the new colonialism of big tech and how to fight back](https://www.lse.ac.uk/Events/2024/05/202405141830/data)
@@ -252,7 +268,9 @@ Local elections happen today. In London, [Sadiq Khan [is] aiming to create 150,0
 * A big one: [London Data Week](https://www.londondataweek.org/), [1-7 July](https://loti.london/blog/london-data-week-is-back-in-2024/) 
 * And another big one: Open Data Camp returns with its ninth edition, [Manchester, 6-7 July 2024](https://www.odcamp.uk/open-data-camp-9-manchester-6-7-july-2024/)
 
+
 ## **Good reads** {#good-reads}
+
 * [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) (Noema)
 * [The Internet’s New Favorite Philosopher](https://www.newyorker.com/culture/infinite-scroll/the-internets-new-favorite-philosopher) (New Yorker)
 * [Evidence Ecosystems and the Challenge of Humanising and Normalising Evidence](https://theippo.co.uk/evidence-ecosystems-and-the-challenge-of-humanising-and-normalising-evidence/) (Geoff Mulgan for the International Public Policy Observatory)
