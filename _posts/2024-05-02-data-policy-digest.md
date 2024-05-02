@@ -38,7 +38,8 @@ To receive the next edition of the Data Policy Digest direct to your inbox **[si
 
 ### **Deeply DPDIB** {#deeply-dpdib}
 
-**In the House** As of 8.16pm last Wednesday, 24 April, the Bill has finished Lords Committee Stage after seven days of debate. It’s [Lords Report Stage](https://www.parliament.uk/about/how/laws/passage-bill/commons/coms-lords-report-stage/) next - date tbc - when we can expect lots of amendments to return and to be voted upon (in this committee stage, only amendments agreed unanimously would be made, with no votes permitted).
+**In the House**
+As of 8.16pm last Wednesday, 24 April, the Bill has finished Lords Committee Stage after seven days of debate. It’s [Lords Report Stage](https://www.parliament.uk/about/how/laws/passage-bill/commons/coms-lords-report-stage/) next - date tbc - when we can expect lots of amendments to return and to be voted upon (in this committee stage, only amendments agreed unanimously would be made, with no votes permitted).
 
 We summarised the amendments raised in [the first three days last time](https://connectedbydata.org/news/2024/04/03/data-policy-digest) - here’s what’s happened since:
 
