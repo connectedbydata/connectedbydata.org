@@ -40,7 +40,7 @@ This can unlock all sorts of new potential, but it also raises a range of challe
 
 * **Fourth**, AI models themselves, often trained on vast datasets, or with reinforcement learning feedback, embed certain biases - and it’s important to understand with affected communities the trade-offs that are acceptable, and the red lines that should not be crossed. 
 
-### Affected communities and the governance stack
+## Affected communities and the governance stack
 
 Now, I’m quite explicitly talking here about the importance of engaging affected communities. That is, effective participation needs to give real voice, and real power, to those most affected by an AI system.
 
@@ -71,7 +71,7 @@ As soon as we release a first playable version of Governance Stack, I’ll share
 
 In the meantime, I want to share more on two specific approaches to community engagement we’ve been looking at at Connected by Data: participatory pilots, and citizens reviews. 
 
-### Participatory Pilots (1 - 2 - 3)
+## Participatory Pilots (1 - 2 - 3)
 
 ![Slide 7 from the slides linked above]({{site.baseurl}}/assets/events/2024-05-01-participatory-pilots.png)
 
@@ -81,7 +81,7 @@ For example, using AI tools to summarise consultation responses, or to draft let
 
 The framework of a participatory pilot can be useful to keep in mind for these kinds of small opportunities, and it can be as simple as 1, 2, 3. 
 
-#### 1. Evaluate AI capabilities and develop an experiment
+### 1. Evaluate AI capabilities and develop an experiment
 
 The first stage involves verifying assumptions or claims about what AI can do.
 
@@ -93,7 +93,7 @@ There’s no point pursuing tests of tools that are just not there yet. On the o
 
 An experiment should let you gather evidence about how an AI tool will work in practice. You might find you can run a natural experiment - for example, comparing an existing human written report, to one generated from the same evidence by AI. Or you might be able to design an A/B test, where you carry out some tasks with AI, and some with the existing process. Or you might set benchmarks that an AI tool must meet, such as predicting the right case outcome 95% of the time. 
 
-#### 2. Identify affected stakeholder & ethical issues
+### 2. Identify affected stakeholder & ethical issues
 
 With an experiment identified, you then can then think about who might be affected.
 
@@ -107,7 +107,7 @@ We can also think about the particular ethical or practical issues that might co
 
 Depending on the situation, you might have direct access to affected stakeholders, or community representatives, or you might need to reach out to partner organisations who can help you find groups to engage with. 
 
-#### 3. Pilot in partnership
+### 3. Pilot in partnership
 
 Then, with your stakeholders identified, bring them into discussion of your pilot. 
 
@@ -117,7 +117,7 @@ Explaining your pilot plan, and hearing any questions or concerns from affected 
 
 Discussing your findings with affected stakeholders, and bringing them into the conversation and even decision making loop about whether to advance from pilot to production, can help make sure you are mitigating the risks, and maximising the benefits of a particular AI use. 
 
-#### Coda: Enabling collective veto and opt-out
+### Coda: Enabling collective veto and opt-out
 
 Ideally - if you can, I would encourage you, in this kind of participatory pilot approach, to give community stakeholders an effective veto on the project going forward.
 
@@ -125,7 +125,7 @@ Too often projects rely on individual opt-out, but if the concerns of engaged me
 
 Creating this powerful role for communities can also be an asset when negotiating with technology providers. It’s always helpful to be able to tell a tech account manager that it’s not only you they need to convince of a new tool, but that you’re consulting your communities too. 
 
-### Deliberative review
+## Deliberative review
 
 So far - I’ve focussed on individual AI design and adoption decisions - but I also want to very briefly share an approach that’s capable of engaging with bigger policy questions, and engaging affected communities in setting broader principles for an organisational approach to AI.
 
@@ -147,7 +147,7 @@ However, I want to highlight a couple of specific design and learning points of 
 
 As as I mentioned when discussing the governance stack, many of the citizens we brought together for the People’s Panel have gone on to continue their own pathways of participation around AI, taking the knowledge and confidence they have developed to join further AI debates, from local conversations about AI in education, to meetings with tech industry leaders or AI academics. 
 
-### Recap
+## Recap
 
 So - just to recap.
 
