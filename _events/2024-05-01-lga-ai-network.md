@@ -22,7 +22,7 @@ Slides and a transcript of Tim's presentation are shared below.
 
 ## Why engage? The participatory AI imperative
 
-I don’t need to explain to this group what AI is, but I think it’s useful to establish some of what makes public participation around AI different. 
+I don’t need to explain to this group what AI is, but I think it’s useful to establish some of what makes public participation around AI different [1]. 
 
 Ever since the rise of Weberian Bureaucracy in centuries past, governing has been about algorithms: about setting out and following rules designed to deliver services that deliver a degree of procedural justice. 
 
@@ -39,6 +39,8 @@ This can unlock all sorts of new potential, but it also raises a range of challe
 * **Third**, an AI system is only as good as the data that goes in. But if the data you feed into a process is not representative of affected communities, a system might have serious unintended consequences. 
 
 * **Fourth**, AI models themselves, often trained on vast datasets, or with reinforcement learning feedback, embed certain biases - and it’s important to understand with affected communities the trade-offs that are acceptable, and the red lines that should not be crossed. 
+
+[1]: See [Keywords of the Datified State](https://datasociety.net/library/keywords-of-the-datafied-state/) for more on these points. 
 
 ## Affected communities and the governance stack
 
