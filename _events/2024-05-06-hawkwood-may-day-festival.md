@@ -13,7 +13,7 @@ Tim spoke at the Hawkwood Centre for Future Thinking May Day Festival, alongside
 
 The panel explored the connection between Hawkwood fellows' work on imagination, public engagement, integrity and futures thinking. 
 
-<!--more -->
+<!--more-->
 
 Tim reflects:
 
