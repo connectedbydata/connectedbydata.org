@@ -262,6 +262,7 @@ Local elections happen today. In London, [Sadiq Khan [is] aiming to create 150,0
 ## **Events** {#events}
 
 * techUK and the Digital Regulation Cooperation Forum organised [Navigating the UK's Digital Regulation Landscape: Where are we headed?](https://www.techuk.org/what-we-deliver/navigating-the-uk-digital-regulation-landscape.html) on 22 April - which would have been much more useful for everyone if I’d finished drafting this a week earlier. Ditto [UK Tech Week](https://uktechweek.org/events/), and the latest monthly event for [TPX Impact’s Digital Forum](https://pages.tpximpact.com/en-gb/digital-forum) 
+* The Centre For British Political Life Annual Lecture: 'AI and the Future of British Political Campaigning' is being held in person and online on 9 May from 6-8pm with [tickets available](https://my.bbk.ac.uk/ords/f?p=832:100:0:::100:P100_EV_ID:41873).
 * May is Analysis in Government month - one of the events is [the NAO on the use of AI in government](https://www.eventbrite.co.uk/e/use-of-ai-in-government-national-audit-office-nao-tickets-880699695497) on 9 May, following their recent report
 * At the LSE, 14 May: [Data grab: the new colonialism of big tech and how to fight back](https://www.lse.ac.uk/Events/2024/05/202405141830/data)
 * On 15 May, the ODI hosts [Data for workers' rights](https://theodi.org/news-and-events/events/data-for-workers-rights/)
