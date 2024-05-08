@@ -9,7 +9,7 @@ completed: false
 
 The [UN High Level Advisory Board on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body) is calling for new institutional arrangements to support the governance of AI that can deliver against the principle that AI should be governed “for all, by all”. 
 
-In parallel, the [Coalition for a Global Citizens Assembly](https://www.gcacoalition.org/) have launched plans for permanent Global Citizens’ Assembly, to address humanity’s greatest challenges.
+In parallel, the [Coalition for a Global Citizens Assembly](https://www.gcacoalition.org/) have launched plans for a permanent Global Citizens’ Assembly, to address humanity’s greatest challenges.
 
 **How could a Global Citizens Assembly on AI work?** That’s the question we’re setting out to explore, producing an options paper to be shared alongside the [UN Summit of the Future](https://www.un.org/en/summit-of-the-future) in September 2024. 
 
