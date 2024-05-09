@@ -53,7 +53,7 @@ layout: default
 </section>
 
 {%- capture plans -%}
-  {%- assign roadmap = site.resources | where: "reference", "strategic-roadmap-2023-2024" | first -%}
+  {%- assign roadmap = site.resources | where: "reference", "strategic-roadmap-2024-2025" | first -%}
   {%- include resource.html resource=roadmap excerpt=true imagePosition='left' resourceBackground='darkest-green' resourceContrast='darker-green' -%}
   {%- assign toc = site.resources | where: "reference", "theory-of-change-2022" | first -%}
   {%- include resource.html resource=toc excerpt=true imagePosition='right' resourceBackground='darker-green' resourceContrast='dark-green' -%}
