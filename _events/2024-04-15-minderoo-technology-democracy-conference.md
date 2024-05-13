@@ -9,8 +9,6 @@ upcoming: false
 writeup: false
 author: Jeni Tennison
 category: speaking
-presentation: 
-presentation-image: 
 ---
 Jeni will be speaking on the Firestarter Panel (on the first day) entitled "What are the Stakes for Technology & Democracy?" 
 
