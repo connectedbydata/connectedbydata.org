@@ -12,8 +12,7 @@ category: speaking
 ---
 On 14th May 2024, I was a panellist at an expert panel and discussion on the Future of Courts, jointly sponsored by [The Nuffield Foundation](https://www.nuffieldfoundation.org/) and [Legal Education Foundation](https://thelegaleducationfoundation.org/) in collaboration with [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
 
-The courts in England & Wales and the USA are witnessing the most significant shift in their
-approach to the delivery of justice in over a century. The Lord Chancellor and senior judiciary have recently published a [Joint Vision for the future of civil and family courts and tribunals](https://www.gov.uk/government/publications/transforming-our-justice-system-joint-statement). The invitation-only event was organized to focus on the opportunities and challenges that technology poses for courts on both sides of the Atlantic.
+The courts in England & Wales and the USA are witnessing the most significant shift in their approach to the delivery of justice in over a century. The Lord Chancellor and senior judiciary have recently published a [Joint Vision for the future of civil and family courts and tribunals](https://www.gov.uk/government/publications/transforming-our-justice-system-joint-statement). The invitation-only event was organized to focus on the opportunities and challenges that technology poses for courts on both sides of the Atlantic.
 
 <!--more-->
 
