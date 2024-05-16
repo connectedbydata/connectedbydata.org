@@ -2,7 +2,7 @@
 layout: event
 title: Libraries Connected Annual Seminar
 image: 2024-06-05-libraries-connected.png
-link: https://www.librariesconnected.org.uk/training-and-events/libraries-connected-annual-seminar-2024-%E2%80%9Cpower-partnership
+link: 
 add-background: true
 date: 2024-06-05
 upcoming: true
@@ -10,7 +10,7 @@ writeup: false
 author: Emily Macaulay
 category: speaking
 ---
-Emily will be attending the Libraries Connected to speak on a panel considering 'AI and information literacy'.
+Emily will be attending the [Libraries Connected Annual Seminar](https://www.librariesconnected.org.uk/training-and-events/libraries-connected-annual-seminar-2024-%E2%80%9Cpower-partnership) to speak on a panel considering 'AI and information literacy'.
 
 <!--more-->
 
