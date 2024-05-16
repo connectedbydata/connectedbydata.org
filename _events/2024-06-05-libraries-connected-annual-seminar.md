@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Libraries Connected Annual Seminar
-image: 2024-05-25-tech-transformed.png
+image: 2024-06-05-libraries-connected.png
 link: https://www.librariesconnected.org.uk/training-and-events/libraries-connected-annual-seminar-2024-%E2%80%9Cpower-partnership
 add-background: true
 date: 2024-06-05
