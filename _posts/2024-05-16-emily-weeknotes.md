@@ -20,7 +20,7 @@ category: weeknotes
 
 CW: Profanity.
 
-![Screenshoot of a Mastodon toot](/assets/blog/2023-10-27-peoples-panel-word-cloud.png/2024-05-16-toot.png)
+![Screenshoot of a Mastodon toot](/assets/blog/2024-05-16-toot.png)
 
 I like to be challenged around inclusivity and taking action.  I particularly welcome being pushed to be intentional and meaningfully engaged.  This post on Mastodon the other day did just that - I’ve been the recruiter that asks “a diversity question” thinking that’s a good thing to do but utterly failing to realise (until now) what that’s like if you’re not asking it of someone who isn’t in the minority).
 
