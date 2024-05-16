@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We can’t shut the door once the horse has bolted"
+title: "We can’t shut the door once the horse has bolted: Reflections from a People's Panel on AI member"
 author: Guest 
 category: blog
 ---
