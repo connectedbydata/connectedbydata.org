@@ -2,7 +2,7 @@
 layout: event
 title: One year on: Innovate UK BridgeAI annual showcase
 image: bridgeai.png
-link:
+link: https://web-eur.cvent.com/event/a6b46536-6c48-4e1d-ab5b-edc290f4ec35/summary?rt=FXc07x2BGUiSaA9l9CANJA
 add-background: true
 date: 2024-05-14
 upcoming: false
