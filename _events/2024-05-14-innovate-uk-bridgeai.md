@@ -10,6 +10,7 @@ writeup: true
 author: Tim Davies
 category: speaking
 ---
+
 Tim took part in a panel on [Responsible and Trustworthy AI at the Innovate UK BridgeAI Annual Showcase](https://web-eur.cvent.com/event/a6b46536-6c48-4e1d-ab5b-edc290f4ec35/summary?rt=FXc07x2BGUiSaA9l9CANJA) moderated by Chanell Daniels (Digital Catapult) and alongside David Barnard-Wills (Trilateral Research), Guy Gadney (Charisma.ai) and Prof Keeley Crockett (Manchester Metropolitan University).
 
 <!--more-->
