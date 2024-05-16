@@ -1,8 +1,8 @@
 ---
 layout: event
-title: One year on: Innovate UK BridgeAI annual showcase
+title: Innovate UK BridgeAI Annual Showcase
 image: bridgeai.png
-link: https://web-eur.cvent.com/event/a6b46536-6c48-4e1d-ab5b-edc290f4ec35/summary?rt=FXc07x2BGUiSaA9l9CANJA
+link: 
 add-background: true
 date: 2024-05-14
 upcoming: false
@@ -10,7 +10,6 @@ writeup: true
 author: Tim Davies
 category: speaking
 ---
-
 Tim took part in a panel on [Responsible and Trustworthy AI at the Innovate UK BridgeAI Annual Showcase](https://web-eur.cvent.com/event/a6b46536-6c48-4e1d-ab5b-edc290f4ec35/summary?rt=FXc07x2BGUiSaA9l9CANJA) moderated by Chanell Daniels (Digital Catapult) and alongside David Barnard-Wills (Trilateral Research), Guy Gadney (Charisma.ai) and Prof Keeley Crockett (Manchester Metropolitan University).
 
 <!--more-->
@@ -27,4 +26,4 @@ With an audience of academics and businesses who were applying AI in diverse ind
 
 (5) **Put the product in front of affected communities** - David described the importance of making sure product are 'scale ready' - avoiding leaving work on responsible AI and public engagement until its too late, and unanticipated issues of bias or other problematic impacts undermine a product. Keeley described how the Manchester People's Panel for AI has brought businesses to pitch their products to publics who then have time to review and comment. And in our work [building on the AI Fringe People's Panel](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) we've talked about the power of citizens review to pose questions and provide guidance on both policy and products.
 
-Thanks to Chanell Daniels for moderating the panel, and inviting Connected by Data to take part. Channel was an observer for the [People's Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) in London in November 2023.
+Thanks to Chanell Daniels for moderating the panel, and inviting Connected by Data to take part. Channel was an observer for the People's Panel on AI in London in November 2023.
