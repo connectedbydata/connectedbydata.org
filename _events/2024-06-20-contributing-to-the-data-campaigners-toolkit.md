@@ -4,11 +4,11 @@ title: "Design Lab: Contributing to Exploring the data campaigners playbook"
 image: cbd-logo.png
 upcoming: true
 writeup: false
-date: 2024-06-18
+date: 2024-06-20
 author: Helena Hollis
 category: organising
 link: 
-project: Connected Conversations
+project: Catalysing Communities Campaigns
 ---
 
 ### How can community-led campaigns transform the way data is collected, managed, shared and used?
