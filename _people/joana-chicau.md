@@ -4,7 +4,7 @@ roles:
   - fellow
 title: Joana Chicau
 role: Fellow
-picture: joana-Chicau.jpg
+picture: joana-chicau.jpg
 twitter: "@BChicau"
 mastodon: "@joanachicau@post.lurk.org"
 email: "web@joanachica.com"
