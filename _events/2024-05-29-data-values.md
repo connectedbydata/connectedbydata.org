@@ -18,4 +18,4 @@ People must be included in decisions about how their data is used, shared, and r
 
 This interactive session will surface inspiring stories from Data Values partners of how people have meaningfully engaged in data governance. Join the Data Values community and friends to hear from researchers and practitioners on ground-breaking approaches to ensuring people have a say in decisions made about their data. 
 
-> Register here: https://unfoundation.zoom.us/meeting/register/tJYude6hrzMjHNXM7xvhtgRUQx1dNNYQuzNv#/registration
+> [Register online](https://unfoundation.zoom.us/meeting/register/tJYude6hrzMjHNXM7xvhtgRUQx1dNNYQuzNv#/registration)
