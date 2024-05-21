@@ -20,6 +20,7 @@ Join us to work through a series of prototype practical activities designed to a
 Working with [FabRiders](https://www.fabriders.net/), we’re putting together this free one day workshop for** individuals and organisations running, or planning, campaigns to change practices around data** - from securing change in national statistics, to stopping collection of biometrics, or shifting who has access to data on rented housing.
 
 **When:** Thursday 20 June 2024, 10am - 4pm
+
 **Where:** Amnesty International's [Human Rights Action Centre](https://www.amnesty.org.uk/room-hire-and-public-spaces) at [25 New Inn Yard, London EC2A 3EA](https://maps.app.goo.gl/oaX1PdeLH8pvGJkQ8).
 
 > [Register your interest here](https://docs.google.com/forms/d/e/1FAIpQLScyQu6GAHQdn6Y-mFK5TrbUtcNr-7dtRknPpcdIkdfaEe_tkw/viewform)
