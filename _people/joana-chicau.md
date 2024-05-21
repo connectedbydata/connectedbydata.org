@@ -18,4 +18,3 @@ She researches the intersection of the body with the designed and programmed env
 She is currently a [PhD candidate](https://researchers.arts.ac.uk/2383-joana-chicau) at the Creative Computing Institute at the University of the Arts London. The focus of her research is to investigate algorithms commonly found in everyday web environments, such as online tracking, often hidden behind user interfaces. She uses embodied methods and choreography to raise awareness of the prevalence of online tracking and data extraction. Her research and practice has been manifested in the form of live performances, workshops and a work-in-progress browser extension.
 
 In parallel, she curates and organizes local and international events involving collaborative algorithmic improvisation and discussions on digital equity and activism. 
-Website: https://joanachicau.com/
