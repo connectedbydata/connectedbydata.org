@@ -53,9 +53,10 @@ points:
     references:
       - national-data-strategy-uk
   -
-    heading: Decisions are made by **trusted institutions**, such as **data trusts**
+    heading: Decisions are made by **trusted institutions**, such as **data cooperatives**
     references:
       - data-institutions
+      - data-cooperatives
       - digital-data-for-research
   -
     heading: Organisations set up independent **ethics boards** with lay members from affected communities
