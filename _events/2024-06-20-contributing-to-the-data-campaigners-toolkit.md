@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Design Lab: Contributing to Exploring the data campaigners playbook"
+title: "Design Lab: the data campaigners playbook"
 image: cbd-logo.png
 upcoming: true
 writeup: false
