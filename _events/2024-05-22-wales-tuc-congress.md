@@ -5,7 +5,7 @@ image: wales-tuc.png
 link: 
 add-background: true
 date: 2024-05-22
-upcoming: true
+upcoming: false
 writeup: false
 author: Adam Cantwell-Corn
 category: speaking
