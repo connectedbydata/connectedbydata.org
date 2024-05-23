@@ -2,8 +2,6 @@
 layout: event
 title: The use of artificial intelligence by the government
 image: cbd-logo.png
-link: 
-add-background: true
 date: 2024-05-30
 upcoming: true
 writeup: false
