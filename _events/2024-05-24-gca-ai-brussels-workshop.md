@@ -21,7 +21,7 @@ The slides used to introduce the workshop are [here and below](https://docs.goog
 
 > ### Four example processes
 >
-> **[Global Assembly](https://globalassembly.org/):** transnational representative mini-publics engaging in deliberation towards shared position, feeding into multilateral process. 
+> * **[Global Assembly](https://globalassembly.org/):** transnational representative mini-publics engaging in deliberation towards shared position, feeding into multilateral process. 
 >
 > * **[We the internet](https://missionspubliques.org/pf/we-the-internet-global-citizens-dialogue-on-the-future-of-internet/):** distributed dialogues with common and locally adapted elements, generating common evidence and local action, feeding into multistakeholder forum.
 >
