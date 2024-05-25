@@ -13,9 +13,11 @@ project: Options for a Global Citizens Assembly on AI
 
 On 24th May we organized a workshop in Brussels to explore design options for an inclusive global assembly addressing AI, as part of our design lab building off the Global Citizen Assembly Coalitions challenge paper. 
 
+<!--more-->
+
 The slides used to introduce the workshop are [here and below](https://docs.google.com/presentation/d/1zn_5h2IGdUogYT0AcjvqaVxw8AfIqPYBJwucsDtFkkY/edit#slide=id.p), including four mini case studies of existing examples of global or AI focused deliberation, looking at the approach that each has taken to participant recruitment, learning, deliberation and ‘docking’ into other processes (to draw on a term from the Global Assembly on Climate’s independent evaluators). 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRl7hhKxpWcsU5wxQB4A3JkbaX8qQpGuLSZJPhPPzmwbxDInj_lV-2qSh_Y5v5W2w_scSjKqN3Wp7li/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRl7hhKxpWcsU5wxQB4A3JkbaX8qQpGuLSZJPhPPzmwbxDInj_lV-2qSh_Y5v5W2w_scSjKqN3Wp7li/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 > ### Four example processes
 >
