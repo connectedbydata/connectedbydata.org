@@ -3,7 +3,7 @@ layout: event
 title: The use of artificial intelligence by the government
 image: cbd-logo.png
 date: 2024-05-30
-upcoming: true
+upcoming: false
 writeup: false
 author: Helena Hollis
 category: speaking

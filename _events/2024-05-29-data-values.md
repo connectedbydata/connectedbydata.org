@@ -5,7 +5,7 @@ image: GPSDD.png
 link: 
 add-background: true
 date: 2024-05-29
-upcoming: true
+upcoming: false
 writeup: false
 author: Tim Davies
 category: speaking

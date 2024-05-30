@@ -5,7 +5,7 @@ image: 2024-05-25-tech-transformed.png
 link: 
 add-background: true
 date: 2024-05-25
-upcoming: true
+upcoming: false
 writeup: false
 author: Adam Cantwell-Corn
 category: speaking

@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: Sharing progress on resources for deliberation on data & AI governance"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-05-23
 author: Tim Davies
