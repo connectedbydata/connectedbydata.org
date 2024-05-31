@@ -6,7 +6,7 @@ upcoming: false
 writeup: true
 date: 2024-05-25
 author: Tim Davies
-category: attending
+category: organising
 link: 
 project: Options for a Global Citizens Assembly on AI
 ---
