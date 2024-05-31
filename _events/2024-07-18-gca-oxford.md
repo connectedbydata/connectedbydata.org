@@ -28,4 +28,4 @@ In the workshop we will present a series of options for:
 
 Inputs from the workshop will shape the final paper to be presented alongside the Summit of the Future in September 2024. 
 
-The event is invite only, but if you would be interested in participating, please contact Tim (tim@connectedbydata.org). 
+The event is invite only, but if you would be interested to find out more please contact Tim (tim@connectedbydata.org). 
