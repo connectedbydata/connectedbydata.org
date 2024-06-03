@@ -280,4 +280,3 @@ We obviously don’t yet know what’s coming up or when, given the election - e
 And finally:
 * [Free wine hidden in small print claimed after three months](https://www.bbc.co.uk/news/articles/c84z2jqpvpko) (BBC - [the ICO joined the party](https://x.com/ICOnews/status/1788933443247603805), too)
 * [Jerky, 7-Fingered Scarlett Johansson Appears In Video To Express Full-Fledged Approval Of OpenAI](https://www.theonion.com/jerky-7-fingered-scarlett-johansson-appears-in-video-t-1851496932) (The Onion)
->>>>>>> 988331569e328924439c969a808ca38b08d90361
