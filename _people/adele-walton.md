@@ -8,7 +8,7 @@ picture: adele.jpg
 twitter: "@adelewalton121"
 email: "adelewalton99@gmail.com"
 ---
-Adele Zeynep Walton is a British-Turkish journalist reporting on digital technology and social change and Campaign Director for The Citizens.
+Adele Zeynep Walton is a British-Turkish journalist reporting on digital technology and social change.
 
 <!--more-->
 
