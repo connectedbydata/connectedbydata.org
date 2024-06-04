@@ -18,9 +18,13 @@ Find [a full explanation of how to play the game here](https://docs.google.com/p
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3P8kZoA7SWDdY9JmQci8wrolwG7B7DrwV3qPnf_GIK8u-froVqyw1NC1VAhEheY4bp_6c9sw_U5lY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Print and play cards
+## The deck of cards (beta)
 
-> Coming soon
+Working with [Dissent Games](https://dissentgames.com/) we've produced cards for The Good Governance Game using Component Studio. We're planning to create an online playable version of the game, but for now you can explore the cards in two formats:
+
+* [PDF: Two pages per-card (fronts and backs)](/assets/resources/2024-06-04-GoodGovGame-Full-Card-Deck-Beta.pdf)
+
+* [PDF: Print and play](/assets/resources/2024-06-04-GoodGovGame-PnP-Cards-Beta.pdf) for double-sided printing on A4 paper to cut out for a playable game
 
 ## Scenarios 
 
