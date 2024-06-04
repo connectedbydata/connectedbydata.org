@@ -1,5 +1,5 @@
 ---
-layout: policy
+layout: game
 title: "The Good (Data) Governance Game"
 permalink: /game
 ---

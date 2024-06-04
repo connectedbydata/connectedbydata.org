@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{%- capture content -%}
+<div class="content">
+  {{ page.content | markdownify }}
+</div>
+{%- endcapture -%}
+
+{%- include section.html content=content -%}
