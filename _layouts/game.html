@@ -2,10 +2,29 @@
 layout: default
 ---
 
-{%- capture content -%}
-<div class="content">
-  {{ page.content | markdownify }}
-</div>
+{%- capture header -%}
+<h1 class="title">The Good Governance Game</h1>
+<p class="subtitle">An engaging exploration of data and AI innovation</p>
 {%- endcapture -%}
+{%- include header.html content=header -%}
 
-{%- include section.html content=content -%}
+{%- capture gameInfo -%}
+  {%- capture content -%}
+    <div class="content">
+      {{ page.content | markdownify }}
+    </div>
+  {%- endcapture -%}
+
+  <div class="columns is-gapless post">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include random-graphic-block.html seed=page.content nested=true -%}
+        {%- include random-color-block.html seed=page.content square=true nested=true -%}
+        {%- include random-color-block.html seed=page.content square=true nested=true -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.postBackground -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=gameInfo -%}
+
