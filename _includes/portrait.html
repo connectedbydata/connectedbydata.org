@@ -1,0 +1,16 @@
+{% assign person = site.people | find: "title", include.of %}
+{% if person %}
+<div class="image-with-caption">
+	<figure class="image">
+		<a href="{{ person.url | relative_url }}">
+			<img src="/assets/people/{{ person.picture }}">
+		</a>
+	</figure>
+	{% unless include.caption == false %}
+	<figcaption class="image-caption content">
+		{{ person.title }},
+		{{ person.role }}
+	</figcaption>
+	{% endunless %}
+</div>
+{% endif %}

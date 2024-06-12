@@ -35,27 +35,39 @@ If you want to learn more about our plans for next year, do take a look at our [
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture body %}
+{% capture text %}
 **We want communities to have a powerful say in decisions about data and AI** so that it is used to create a just, equitable and sustainable world.
+{% endcapture %}
+{% include annual-report/point.html text=text markdownify=true %}
+{% endcapture %}
+{% include section.html content=body %}
 
 {% capture title %}
 ## Our mission
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture body %}
+{% capture text %}
 **We campaign to put community at the centre of data narratives, practices and policies** by advocating for collective and open data governance.
 
 We have three main strategic **goals** arising from our [theory of change](https://docs.google.com/document/d/1uI500_Qsu3NK-8zIpm2GML0LKJPA6vpMZDbJbjZm1kE/edit).
 
-*   **Change data narratives:** we develop compelling narratives of collective data governance, placing stories in the media and other key venues that influence communities and decision makers.
-*   **Change governance practices:** we surface and share examples of collective and participatory governance, convene a community of practitioners who lead and support collective data governance activities, and work alongside diverse communities to help define how data governance should work for them.
-*   **Change public policies:** we provide evidence-based public policy recommendations and language to create an environment for collective and participatory data governance.
+* **Change data narratives:** we develop compelling narratives of collective data governance, placing stories in the media and other key venues that influence communities and decision makers.
+* **Change governance practices:** we surface and share examples of collective and participatory governance, convene a community of practitioners who lead and support collective data governance activities, and work alongside diverse communities to help define how data governance should work for them.
+* **Change public policies:** we provide evidence-based public policy recommendations and language to create an environment for collective and participatory data governance.
 
 These goals are enabled by a **strong community** and an **effective organisation**.
-
-{% capture title %}
-## Responding to the AI Safety Summit
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include annual-report/point.html text=text markdownify=true %}
+{% endcapture %}
+{% include section.html content=body %}
+
+
+{% capture body %}
+{% capture text %}
+## Responding to the AI Safety Summit
 
 In November 2023, the UK Government hosted the first [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction). This was an opportunity to deliver on our mission at a national and international level.
 
@@ -65,11 +77,12 @@ In the run-up we held a private [Connected Conversation on AI Safety narratives]
 
 With the TUC and Open Rights Group we led on [an Open Letter to Prime Minister Rishi Sunak](https://ai-summit-open-letter.info/), calling out the Summit's marginalisation of civil society in favour of a select few companies and governments. The letter gained over 100 high profile signatories, including leading experts, international human rights organisations and unions representing millions of workers. It gained [international media coverage](https://docs.google.com/document/d/1RDFP4MInksATMg31XSt_aH1O9ni5YALZ5kKOMqHSwmI/edit?usp=sharing), challenging the narrative of the Summit, lending weight to civil society actors who were present, and forcing politicians to address the role of workers and civil society in shaping the future of AI.
 
-EMBED TWEET: [https://twitter.com/AmnestyTech/status/1719033083792363919](https://twitter.com/AmnestyTech/status/1719033083792363919)
-
-EMBED TWEET: [https://x.com/The\_TUC/status/1718971373274456163](https://x.com/The_TUC/status/1718971373274456163)
-
-EMBED TWEET: [https://x.com/publiclawprojct/status/1720105969869299743](https://x.com/publiclawprojct/status/1720105969869299743)
+{% capture carousel %}
+{% include tweet.html user="AmnestyTech" id="1719033083792363919" %}
+{% include tweet.html user="The_TUC" id="1718971373274456163" %}
+{% include tweet.html user="publiclawprojct" id="1720105969869299743" %}
+{% endcapture %}
+{% include carousel.html content=carousel %}
 
 ### The People's Panel on AI
 
@@ -79,7 +92,7 @@ Through a deliberative process facilitated by [Hopkins Van Mil](http://www.hopki
 
 By the end, we had a report by Hopkins Van Mil of [the outcomes of the deliberation process](/assets/projects/peoplespanel/Peoples%20Panel%20on%20AI%20Summary%20Findings%20-%20Final.pdf), a [written evaluation by the Independent Evaluator](/assets/projects/peoplespanel/People's%20Panel%20on%20AI%20-%20Evaluation%20report%20v5%20FINAL.pdf), [a video promoting the process](https://youtu.be/h8Cp_6hnmTo) and Panel recommendations, [a flyer displaying the recommendations](/assets/projects/peoplespanel/CBD%20Peoples%20Panel%20Leaflet.pdf), and a [final report](/assets/projects/peoplespanel/2024%20-%20Peoples%20Panel%20on%20AI%20-%20Final%20Report%20(10%20Pages).pdf) that included reflections and connections to other related participatory practice work. In addition, at the end of the week we hosted an [open 'verdict session'](https://us06web.zoom.us/rec/share/mWC58IRgwnLaNbRAf_BdUj0pXU5QzV98em0Qwt7VGuAwRMNyLsh-Q0u-zmTFA-jf.5WbK07_rkW1G1ecm?startTime=1699017585000).
 
-EMBED VIDEO: [https://youtu.be/h8Cp\_6hnmTo](https://youtu.be/h8Cp_6hnmTo)
+{% include youtube.html id="h8Cp_6hnmTo" %}
 
 {% capture quote %}
 At Tech UK we're very keen to look directly at these recommendations and really think hard about what they mean in terms of policy formation around A.I.
@@ -98,12 +111,20 @@ We didn't stop talking about AI. It was exhausting. It overtook us. A number of 
 {% include quote.html credit="Janet, People's Panel on AI member" photo="/assets/projects/peoplespanel/janet.jpg" compact=true text=quote %}
 
 The People's Panel on AI was organised with support from the [Mozilla Foundation](https://foundation.mozilla.org/), the [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate), the [Kavli Centre for Ethics, Science, and the Public](https://www.kcesp.ac.uk/), and the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/).
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include block.html content=article full=true background="lightest-green" %}
+{% endcapture %}
+{% include section.html content=body %}
 
 {% capture title %}
 ## Narrative
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture text %}
 **We develop compelling narratives of collective data governance, placing stories in the media and other key venues that influence communities and decision makers.**
 
 ### Understanding narratives and power
@@ -133,7 +154,7 @@ Narratives about data and AI can feel abstract and removed from day-to-day conce
 
 In April 2023, our first [Our Data Stories](https://docs.google.com/document/d/173ggI6Kots-hXgjrvCt44oYKn6ib9eEdT_xTfrxh6wY/edit#heading=h.bp9rpsq6sua) report amplified worker's experiences of data and AI, placing the human firmly in the story. We worked with the Trades Union Congress (TUC) to host a parliamentary event for workers to be heard directly by politicians and policy makers, and with workers and unions to boost stories in a range of media, including the [FT](https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554), the [Guardian](https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights) and [Huck](https://www.huckmag.com/article/speaking-to-amazon-uk-workers-on-the-picket-lines-in-coventry-2023). This work was also quoted by the TUC in their '[Work Intensification: The impact on workers and trade union strategies to tackle work intensification](https://www.tuc.org.uk/sites/default/files/2023-07/WorkIntensificationrReportJuly2023.pdf)' report.
 
-EMBED TWEET: [https://x.com/Lauloknows/status/1671435992660602883](https://x.com/Lauloknows/status/1671435992660602883)
+{% include tweet.html user="Lauloknows" id="1671435992660602883" %}
 
 Our Parliamentary event, co-hosted with the TUC, discussed the worker experience of the AI revolution (June 2023). Photo credit: Stephanie Peacock MP.
 
@@ -145,18 +166,18 @@ We aim to provide the media with a different perspective on issues of data gover
 
 Determined to get beyond cliches of androids and lines of code, we created [an explainer video](https://www.youtube.com/watch?v=5Y2f15qRgXo) that centres images of day-to-day life and key messages on how data is pervasive, yet about political choices.
 
-EMBED VIDEO: [https://www.youtube.com/watch?v=5Y2f15qRgXo](https://www.youtube.com/watch?v=5Y2f15qRgXo)
+{% include youtube.html id="5Y2f15qRgXo" %}
 
 In the last year, we have significantly increased our profile and been quoted in a range of media, with repeat requests for comment from TalkTV, Channel 4 News and Politico. Here is a sample:
 
-*   [UK bill waters down protections against 'robo-firing' in gig economy, say experts](https://www.theguardian.com/business/2023/jul/23/uk-bill-waters-down-protections-against-robo-firing-in-gig-economy-say-experts) - The Guardian \[news\], July 2023.
-*   [Interview for TX](https://drive.google.com/file/d/1Yourq0K-s8LXhhmqPVL_oBSim_2oCMOE/view) - Business Matters \[audio\], July 2023
-*   [Will AI free us from drudgery - or reduce us to robots?](https://thebristolcable.org/2023/08/will-ai-free-us-from-drudgery-or-reduce-us-to-robots/) - The Bristol Cable \[op-ed\], August 2023
-*   ['We need protection': How AI, algorithms and oppressive digital tech are pushing workers to the brink](https://www.bigissue.com/news/employment/work-employment-rights-uk-digitisation-tech-ai/) - The Big Issue \[article\], November 2023
-*   [G20 Brasil: an opportunity to shape how we shape technology](https://www.estadao.com.br/opiniao/espaco-aberto/g-20-brasil-uma-oportunidade-para-definirmos-como-queremos-decidir-sobre-tecnologia/) - Estadao \[op-ed\], January 2024 ([English translation on our website](/news/2024/01/16/g20-brasil-an-opportunity))
-*   [AI doctors and chatbot nurses? Labour must show the future of the NHS isn't so dystopian](https://www.theguardian.com/commentisfree/2024/feb/07/ai-artificial-intelligence-chatbot-nurses-labour-nhs-tech) - The Guardian \[op-ed\], February 2024
-*   [Innovation or safety? How the UK plans to regulate AI](https://www.youtube.com/watch?si=ro2WyM4WYsKb4Mnv&v=8Sq10EyoVD4&feature=youtu.be) - Channel 4 News \[broadcast\], February 2024
-*   [TUC publishes legislative proposal to protect workers from AI](https://www.computerweekly.com/news/366581354/TUC-publishes-legislative-proposal-to-protect-workers-from-AI) - Computer Weekly \[article\], April 2024
+* [UK bill waters down protections against 'robo-firing' in gig economy, say experts](https://www.theguardian.com/business/2023/jul/23/uk-bill-waters-down-protections-against-robo-firing-in-gig-economy-say-experts) - The Guardian \[news\], July 2023.
+* [Interview for TX](https://drive.google.com/file/d/1Yourq0K-s8LXhhmqPVL_oBSim_2oCMOE/view) - Business Matters \[audio\], July 2023
+* [Will AI free us from drudgery - or reduce us to robots?](https://thebristolcable.org/2023/08/will-ai-free-us-from-drudgery-or-reduce-us-to-robots/) - The Bristol Cable \[op-ed\], August 2023
+* ['We need protection': How AI, algorithms and oppressive digital tech are pushing workers to the brink](https://www.bigissue.com/news/employment/work-employment-rights-uk-digitisation-tech-ai/) - The Big Issue \[article\], November 2023
+* [G20 Brasil: an opportunity to shape how we shape technology](https://www.estadao.com.br/opiniao/espaco-aberto/g-20-brasil-uma-oportunidade-para-definirmos-como-queremos-decidir-sobre-tecnologia/) - Estadao \[op-ed\], January 2024 ([English translation on our website](/news/2024/01/16/g20-brasil-an-opportunity))
+* [AI doctors and chatbot nurses? Labour must show the future of the NHS isn't so dystopian](https://www.theguardian.com/commentisfree/2024/feb/07/ai-artificial-intelligence-chatbot-nurses-labour-nhs-tech) - The Guardian \[op-ed\], February 2024
+* [Innovation or safety? How the UK plans to regulate AI](https://www.youtube.com/watch?si=ro2WyM4WYsKb4Mnv&v=8Sq10EyoVD4&feature=youtu.be) - Channel 4 News \[broadcast\], February 2024
+* [TUC publishes legislative proposal to protect workers from AI](https://www.computerweekly.com/news/366581354/TUC-publishes-legislative-proposal-to-protect-workers-from-AI) - Computer Weekly \[article\], April 2024
 
 Our campaigning work around the UK's AI Safety Summit established Connected by Data as a go-to authoritative voice. We had over [50 media hits within a week](https://docs.google.com/document/d/1RDFP4MInksATMg31XSt_aH1O9ni5YALZ5kKOMqHSwmI/edit#heading=h.1ulzio3bpxqa), from regional BBC to international broadcast and newspapers.
 
@@ -170,11 +191,19 @@ As we reflected on the short story that emerged, we thought about how this could
 {% endcapture %}
 {% include quote.html credit=credit compact=true text=quote %}
 
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include section.html content=article %}
+
+
 {% capture title %}
 ## Practice
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture text %}
 **We surface and share examples of collective and participatory governance, convene a community of practitioners who lead and support collective data governance activities, and work alongside diverse communities to help define how data governance should work for them.**
 
 {% capture quote %}
@@ -206,19 +235,25 @@ Informed, empowered and deliberative dialogues about the impacts of data and AI 
 
 In November 2023, we partnered with [Iswe](https://iswe.org/) to convene a group of thinkers and practitioners who work on public engagement, data and AI to explore interventions that could support greater deliberative governance of technology. We explored three main challenges:
 
-*   Decision makers are often not convinced that they should be listening to public voices in the shaping of data and AI
-*   Running an effective deliberation on AI requires good background materials - focusing on the right topics, and recognising the different frames applied to discussion of AI
-*   Running a powerful deliberation on AI requires tailored facilitation
+* Decision makers are often not convinced that they should be listening to public voices in the shaping of data and AI
+* Running an effective deliberation on AI requires good background materials - focusing on the right topics, and recognising the different frames applied to discussion of AI
+* Running a powerful deliberation on AI requires tailored facilitation
 
 You can [access the full workshop notes here](https://docs.google.com/document/d/1jk0DwrqiX6GhbmwPetKsF6e-ZRt2tAeTgORSQwNO4mo/view) or [review the summary on our website](/events/2023-11-22-deliberative-governance-data-and-ai).
 
 Photos of the Design Lab exploring resources for public deliberation.
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include section.html content=article %}
 
 {% capture title %}
 ## Policy and advocacy on data and AI
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture text %}
 **We provide evidence-based public policy recommendations and language to create an environment for collective and participatory data governance.**
 
 Our strategy to shape the UK's data and AI policy towards equitable outcomes consists of three workstreams: catalysing a powerful civil society community, policy development and deep dives into strategic verticals. We take what we learn in the UK into the wider international community to develop joint approaches and action.
@@ -279,12 +314,12 @@ We laid the groundwork for other verticals, health and education. We worked with
 Amid the furore about Palantir's NHS contract, the [Our Health Data Stories](/resources/our-health-data-stories) report produced in partnership with [Just Treatment](https://justtreatment.org/) didn't just expose how patients think about data on a day-to-day basis; it also recommended further work around data opt-outs, data service procurement, community engagement, and digital health apps. We explored these in a Connected Conversation that asked ["What would it take to secure full public support for NHS data re-use?"](/events/2024-01-30-connected-conversation-trust-in-nhs-data)
 
 {% capture quote %}
-As we campaign for health justice, we need to navigate the complex impact of data and AI. Connected by Data has been a key ally in that work."
+As we campaign for health justice, we need to navigate the complex impact of data and AI. Connected by Data has been a key ally in that work.
 {% endcapture %}
 {% include quote.html credit="Diarmaid McDonald, Director, Just Treatment" compact=true text=quote %}
 
 {% capture quote %}
-Politicians, press and public are becoming more aware that decisions about data are political, and fundamentally about power and priorities. But there's still work to be done to make this democratic and support people, institutions and ideas to make data and AI work for us."
+Politicians, press and public are becoming more aware that decisions about data are political, and fundamentally about power and priorities. But there's still work to be done to make this democratic and support people, institutions and ideas to make data and AI work for us.
 {% endcapture %}
 {% include quote.html person="Gavin Freeguard" compact=true text=quote %}
 
@@ -310,7 +345,7 @@ Later in the year, Tim attended a global peer exchange workshop in Nairobi, orga
 We have participated in a number of other international initiatives. Jeni was part of the [Council for a Fair Data Future](https://fairdatafuture.aspendigital.org/), organised by the Aspen Institute, which met in New York in July 2023, as well as continuing to chair the [GPAI Data Governance Working Group](https://gpai.ai/projects/data-governance/) until December. Maria attended a number of [C20 events](/events/2023-10-30-c20-first-meeting) (linked to the G20 presidency in Brasil) and Adam attended the Summer School on the Law, Ethics and Policy of Artificial Intelligence hosted by KU Leuven, an international community based in Belgium. With [Liz Steele](https://www.linkedin.com/in/liz-steele/), we also started to explore how we might engage more actively in Europe, following the passing of the EU AI Act.
 
 {% capture quote %}
-"Although the draft bill in Brazil has some way still to go if it is to become law, the journey outlined above demonstrates the vital importance, and impact of a process that looks beyond industry interests when regulating data and AI."
+Although the draft bill in Brazil has some way still to go if it is to become law, the journey outlined above demonstrates the vital importance, and impact of a process that looks beyond industry interests when regulating data and AI.
 {% endcapture %}
 {% capture credit %}
 [Maria on building trust through civil engagement in data and AI](/news/2023/12/14/ai-regulation-brazil-public-voice)
@@ -318,15 +353,21 @@ We have participated in a number of other international initiatives. Jeni was pa
 {% include quote.html credit=credit compact=true text=quote %}
 
 Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include section.html content=article %}
 
 {% capture title %}
 ## Community
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture text %}
 Over the last two years, we have amassed over 1,600 followers on [X (for](https://twitter.com/ConnectedByData)[merly Twitter)](https://twitter.com/ConnectedByData), 234 [Mastodon](https://social.coop/@ConnectedByData) followers, 933 followers on [LinkedIn](https://uk.linkedin.com/company/connectedbydata) and have over 160 members on our [Discord server](https://discord.gg/uZyhRghzsc). We organised, spoke at or participated in almost 50 [events](/events) and gained a deeper understanding of the kinds of spaces where conversations are happening, and what's lacking. During 2023-24 we introduced a [Data Policy Digest](/projects/2023-data-policy-digest) and a Connected by Data Newsletter, which have 324 [subscribers](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
 
-EMBED VIDEO: [https://youtu.be/63H6D502xf8?t=735](https://youtu.be/63H6D502xf8?t=735) (note: 12:15 start time)
+{% include youtube.html id="63H6D502xf8" t="735" %}
 
 Jeni Tennison speaking at a Citizen-Centric AI Systems event (November 2023). Photo credit: Professor Sebastian Stein.
 
@@ -336,21 +377,21 @@ Thanks to funding from Omidyar Network, we have established our [Connected Conve
 
 People who attend discussions are expected to have strong opinions, weakly held, and to critique and question their own assumptions, as well as those of other people. We [publish write ups](/projects/2023-connected-conversations) of all Connected Conversations on our website as a further demonstration of our commitment to share learning as widely as possible. Aside from those already mentioned above, these included:
 
-*   [Who is at the table? How are public voices currently heard in the governance of data and AI?](/events/2023-09-26-connected-conversation-public-voices-ai), which brought in international experience of engaging communities around data and AI in cities, humanitarian aid, and the AI data supply chain
-*   [Collective data rights: do we need them and what should they look like?](/events/2023-09-27-connected-conversation-collective-data-rights) in which we looked at gaps in regulatory frameworks for the governance of non-personal data, based on [research we commissioned from AWO](/resources/awo-report-collective-harms)
-*   [Community negotiation on data rights](/events/2023-10-19-connected-conversation-community-negotiation), which examined what we mean by 'community' when we advocate for greater community voice in data and AI governance
-*   [Robust norms: creating and enforcing new data governance defaults at scale](/events/2023-11-13-data-governance-norms), which brought together different perspectives, including from climate change advocacy, to explore how to conceptualise global rights, harms, and norms and asked what is the data governance equivalent of the concept of [ecocide](https://en.wikipedia.org/wiki/Ecocide)
+* [Who is at the table? How are public voices currently heard in the governance of data and AI?](/events/2023-09-26-connected-conversation-public-voices-ai), which brought in international experience of engaging communities around data and AI in cities, humanitarian aid, and the AI data supply chain
+* [Collective data rights: do we need them and what should they look like?](/events/2023-09-27-connected-conversation-collective-data-rights) in which we looked at gaps in regulatory frameworks for the governance of non-personal data, based on [research we commissioned from AWO](/resources/awo-report-collective-harms)
+* [Community negotiation on data rights](/events/2023-10-19-connected-conversation-community-negotiation), which examined what we mean by 'community' when we advocate for greater community voice in data and AI governance
+* [Robust norms: creating and enforcing new data governance defaults at scale](/events/2023-11-13-data-governance-norms), which brought together different perspectives, including from climate change advocacy, to explore how to conceptualise global rights, harms, and norms and asked what is the data governance equivalent of the concept of [ecocide](https://en.wikipedia.org/wiki/Ecocide)
 
 ### Codesigning interventions
 
 Again thanks to funding from Omidyar Network, during 2023-24, we were able to convene six design labs, all of which we've described in more detail above.
 
-*   [**Future Data Narratives Design Lab**](/events/2023-05-25-narrative-design-lab) in partnership with [Future Narratives Lab](https://www.futurenarrativeslab.org/) to start the co-creation of a strategy for shifting the inaccurate, damaging way data is currently framed & understood in media, policy and industry narratives.
-*   [**Policy Design Lab - A global policy agenda on collective data governance**](/events/2023-06-04-policy-design-lab), in partnership with the [Aapti Institute](https://aapti.in/), [Research ICT Africa](https://researchictafrica.net/) and the [Datasphere Initiative](https://www.thedatasphere.org/) to explore global policy agendas and practical policy asks on collective data governance, with a particular emphasis on influencing the G20 process under India, Brazil and South Africa presidencies.
-*   [**Participation Design Lab - Governance Game**](/projects/2023-governance-game), a year-long iterative process to develop a 'participatory governance game', with three test sessions of the game including at the Data Justice Conference on June 20th.
-*   [**Policy Design Lab - Open Government Commitments**](/events/2023-09-04-open-government-committment-lab), bringing together a diverse group of civil society, government and academic stakeholders on the fringes of the [2023 Open Government Partnership Summit in Tallinn](https://www.opengovpartnership.org/events/2023-ogp-global-summit-tallinn-estonia/), Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance.
-*   [**Practice Design Lab - Deliberation and AI**](/events/2023-11-22-deliberative-governance-data-and-ai), in partnership with [Iswe](https://iswe.org/), to convene a group of thinkers and practitioners who work on public engagement, data and artificial intelligence to explore interventions that could support greater deliberative governance of technology.
-*   [**Practice Design Lab - Edtech**](/events/2024-01-10-education-design-lab), in partnership with [Defend Digital Me](https://defenddigitalme.org/), to understand and analyse how EdTech is brought into schools in practice and map out routes for alternatives with the view to empowering all members of the school community to participate in the governance of these powerful tools.
+* [**Future Data Narratives Design Lab**](/events/2023-05-25-narrative-design-lab) in partnership with [Future Narratives Lab](https://www.futurenarrativeslab.org/) to start the co-creation of a strategy for shifting the inaccurate, damaging way data is currently framed & understood in media, policy and industry narratives.
+* [**Policy Design Lab - A global policy agenda on collective data governance**](/events/2023-06-04-policy-design-lab), in partnership with the [Aapti Institute](https://aapti.in/), [Research ICT Africa](https://researchictafrica.net/) and the [Datasphere Initiative](https://www.thedatasphere.org/) to explore global policy agendas and practical policy asks on collective data governance, with a particular emphasis on influencing the G20 process under India, Brazil and South Africa presidencies.
+* [**Participation Design Lab - Governance Game**](/projects/2023-governance-game), a year-long iterative process to develop a 'participatory governance game', with three test sessions of the game including at the Data Justice Conference on June 20th.
+* [**Policy Design Lab - Open Government Commitments**](/events/2023-09-04-open-government-committment-lab), bringing together a diverse group of civil society, government and academic stakeholders on the fringes of the [2023 Open Government Partnership Summit in Tallinn](https://www.opengovpartnership.org/events/2023-ogp-global-summit-tallinn-estonia/), Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance.
+* [**Practice Design Lab - Deliberation and AI**](/events/2023-11-22-deliberative-governance-data-and-ai), in partnership with [Iswe](https://iswe.org/), to convene a group of thinkers and practitioners who work on public engagement, data and artificial intelligence to explore interventions that could support greater deliberative governance of technology.
+* [**Practice Design Lab - Edtech**](/events/2024-01-10-education-design-lab), in partnership with [Defend Digital Me](https://defenddigitalme.org/), to understand and analyse how EdTech is brought into schools in practice and map out routes for alternatives with the view to empowering all members of the school community to participate in the governance of these powerful tools.
 
 We deliberately organised these design labs in different ways and to different scales, to experiment and inform further design labs.
 
@@ -372,15 +413,22 @@ The fellowship has been an enriching experience and a fantastic opportunity for 
 {% endcapture %}
 {% include quote.html person="Aditya Singh" compact=true text=quote %}
 
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include section.html content=article %}
+
 {% capture title %}
 ## Organisation
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
+{% capture text %}
 In the last twelve months we've been joined by Emily Macaulay (Head of Delivery and Operations) and Helena Hollis (Field Building Lead). Three members of the team have moved on to new adventures and we wish all good luck to Obioma, Jonathan and Maria in those. We've also had the good fortune to continue to work with [Gavin Freeguard](https://gavinfreeguard.com/), focused on UK policy, and [Liz Steele](https://www.linkedin.com/in/liz-steele/), who has been exploring opportunities within the EU.
 
 {% capture quote %}
-I'm proud to have joined a small but mighty organisation focused on working with care and generosity to have meaningful social impact"
+I'm proud to have joined a small but mighty organisation focused on working with care and generosity to have meaningful social impact.
 {% endcapture %}
 {% include quote.html person="Emily Macaulay" compact=true text=quote %}
 
@@ -403,12 +451,12 @@ From the inclusivity of the recruitment process, to the warm welcome, and a grea
 
 We are committed to continuously learning about what works and what doesn't, and how to improve our impact. During 2023-24 we learned:
 
-*   **AI is where the conversation is at.** We know that non-AI uses of data have just as much influence on people's lives, and indeed that "AI" is used as a byword for a broad set of technologies. Nevertheless, the public and political conversation is focused on AI.
-*   **There is no AI governance without data governance.** Notwithstanding that conversations often open with AI, governance of data remains fundamental, and there is growing recognition that AI governance can only be delivered through robust data governance.
-*   **We need to build collective power.** There is a fundamental difference between consultation to understand public attitudes and opinion, and interventions that democratise power over data and AI. Our orientation needs to be the latter; this means paying attention to civil society empowerment as well as public participation.
-*   **How we work matters.** We are committed to demonstrating care, generosity, agility, and openness. We've also seen the value of showing leadership to unite our community and amplify our joint interests, such as through [Data and AI Civil Society Network](https://data-and-ai-cso-network.org/) and the [open letter](https://ai-summit-open-letter.info/) we initiated in partnership with the TUC and ORG around the AI Safety Summit.
-*   **Practical demonstrations are useful.** We co-convened events such as the [Gloucestershire Data Day](https://dataday.org.uk/) and the [People's Panel on AI](/projects/2023-peoples-panel-on-ai) that have proved to be useful examples to illustrate the importance and practicality of what we are advocating for.
-*   **Diverse backgrounds make for the best conversations.** As we have convened people during 2023-24 through our series of Connected Conversations and Design Labs, we've seen the most valuable conversations arising from bringing people together with experience outside data and AI, such as learning from climate campaigners.
+* **AI is where the conversation is at.** We know that non-AI uses of data have just as much influence on people's lives, and indeed that "AI" is used as a byword for a broad set of technologies. Nevertheless, the public and political conversation is focused on AI.
+* **There is no AI governance without data governance.** Notwithstanding that conversations often open with AI, governance of data remains fundamental, and there is growing recognition that AI governance can only be delivered through robust data governance.
+* **We need to build collective power.** There is a fundamental difference between consultation to understand public attitudes and opinion, and interventions that democratise power over data and AI. Our orientation needs to be the latter; this means paying attention to civil society empowerment as well as public participation.
+* **How we work matters.** We are committed to demonstrating care, generosity, agility, and openness. We've also seen the value of showing leadership to unite our community and amplify our joint interests, such as through [Data and AI Civil Society Network](https://data-and-ai-cso-network.org/) and the [open letter](https://ai-summit-open-letter.info/) we initiated in partnership with the TUC and ORG around the AI Safety Summit.
+* **Practical demonstrations are useful.** We co-convened events such as the [Gloucestershire Data Day](https://dataday.org.uk/) and the [People's Panel on AI](/projects/2023-peoples-panel-on-ai) that have proved to be useful examples to illustrate the importance and practicality of what we are advocating for.
+* **Diverse backgrounds make for the best conversations.** As we have convened people during 2023-24 through our series of Connected Conversations and Design Labs, we've seen the most valuable conversations arising from bringing people together with experience outside data and AI, such as learning from climate campaigners.
 
 We've taken these lessons into our plans for next year, which you can learn more about in our [Strategic Roadmap 2024-25](/resources/strategic-roadmap-2024-2025).
 
@@ -438,3 +486,8 @@ Our full financial statements have been filed with [Companies House](https://fin
 | Corporation tax                |             |
 | **Capital and reserves**       |             |
 | **Accrued 2024/25 income**     |             |
+{% endcapture %}
+{% capture article %}
+{% include content.html content=text %}
+{% endcapture %}
+{% include section.html content=article %}

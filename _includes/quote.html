@@ -1,0 +1,46 @@
+{% assign person = site.people | find: "title", include.person %}
+{% capture content %}
+<div class="content">
+	{{ include.text | markdownify }}
+	{% if include.credit %}
+		<p><cite>&mdash; {{ include.credit | markdownify_inline }}</cite></p>
+	{% elsif include.compact and person %}
+		<p>
+			<cite>&mdash;
+				{{ person.title }} {% if person.pronouns %}({{ person.pronouns }}){% endif %}
+				{%- if person.role %}, {{ person.role }}{% endif %}
+			</cite>
+		</p>
+	{% endif %}
+</div>
+{% endcapture %}
+{% capture portrait %}
+	{% if include.credit or include.compact %}
+		{% include portrait.html of=include.person caption=false %}
+	{% else %}
+		{% include portrait.html of=include.person %}
+	{% endif %}
+{% endcapture %}
+{% capture photo %}
+	<figure class="image">
+		<img src="{{ include.photo }}">
+	</figure>
+{% endcapture %}
+{% if include.photo or person %}
+<div class="columns is-gapless quote">
+	{% include block.html wide=true content=content %}
+	<div class="column has-nested is-hidden-touch">
+		<div class="columns is-gapless">
+			{% if include.photo %}
+				{% include block.html square=true nested=true long=true content=photo %}
+			{% elsif person %}
+				{% include block.html square=true nested=true long=true content=portrait %}
+			{% endif %}
+		</div>
+	</div>
+</div>
+{% else %}
+<div class="quote">
+	{% include block.html content=content full=true %}
+</div>
+{% endif %}

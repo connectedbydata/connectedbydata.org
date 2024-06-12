@@ -1,0 +1,9 @@
+<section id="{%if include.id%}{{ include.id }}{% else %}{{ include.title | slugify }}{% endif %}" class="hero {% if include.align != 'left' %}has-text-centered{% endif %} has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <h{{ include.level | default: 2 }} class="title">
+        {{ include.title | markdownify_inline }}
+      </h{{ include.level | default: 2 }}>
+    </div>
+  </div>
+</section>

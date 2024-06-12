@@ -1,0 +1,7 @@
+<div class="has-background-{{ include.background | default: 'none' }}">
+	<div class="{{ include.type | default: 'article' }}">
+		<div class="content">
+			{{ include.content | markdownify }}
+		</div>
+	</div>
+</div>

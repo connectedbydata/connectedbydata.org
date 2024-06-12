@@ -1,0 +1,5 @@
+<blockquote class="twitter-tweet" data-dnt="true">
+	<a href="https://twitter.com/{{ include.user }}/status/{{ include.id }}">View Tweet</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Not good practice to embed this script multiple times (once for every script) but relatively safe and keeps the use of this include simple. The script looks for HTML like the above and turns it into a live tweet. On subsequent runs (for which it will be cached), it won't find anything and so won't do anything. -->

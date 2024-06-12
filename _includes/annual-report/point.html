@@ -1,0 +1,22 @@
+{% capture content %}
+<div class="content">
+	{{ include.text | markdownify }}
+</div>
+{% endcapture %}
+{% capture image %}
+	<figure class="image">
+		<img src="{{ include.image }}">
+	</figure>
+{% endcapture %}
+<div class="columns is-gapless point">
+	<div class="column has-nested is-hidden-touch">
+		<div class="columns is-gapless">
+			{% if include.image %}
+				{% include block.html square=true nested=true long=true content=image %}
+			{% else %}
+				{% include random-graphic-block.html long=true seed=include.text nested=true %}
+			{% endif %}
+		</div>
+	</div>
+	{% include block.html wide=true content=content %}
+</div>
