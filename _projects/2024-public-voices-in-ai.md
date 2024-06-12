@@ -18,3 +18,5 @@ The project involves a number of tracks, including:
 
 The project team want to create a citizens advisory group who will meet over the project duration to provide advice on programme design and activities; and 
 input into other project activities, such as acting as a focus group to provide feedback on the development of resources to support effective public participation around AI.
+
+[Tim](https://connectedbydata.org/people/tim-davies) will be the project lead for this commission, with delivery led by our associate Anna.
