@@ -49,7 +49,7 @@ If you want to learn more about our plans for next year, do take a look at our [
 {% capture text %}
 **We want communities to have a powerful say in decisions about data and AI** so that it is used to create a just, equitable and sustainable world.
 {% endcapture %}
-{% include annual-report/point.html text=text markdownify=true %}
+{% include point.html text=text markdownify=true %}
 {% endcapture %}
 {% include section.html content=body %}
 
@@ -70,7 +70,7 @@ We have three main strategic **goals** arising from our [theory of change](https
 
 These goals are enabled by a **strong community** and an **effective organisation**.
 {% endcapture %}
-{% include annual-report/point.html text=text markdownify=true %}
+{% include point.html text=text markdownify=true %}
 {% endcapture %}
 {% include section.html content=body %}
 
