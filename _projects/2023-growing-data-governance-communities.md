@@ -2,7 +2,7 @@
 layout: project
 title: Growing Data Governance Communities
 subtitle: Facilitating collaboration between thinkers and practitioners
-image: omidyar-network.jpeg
+image: omidyar-network.png
 add-background: false
 completed: false
 ---
