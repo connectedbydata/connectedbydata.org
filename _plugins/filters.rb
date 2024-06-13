@@ -8,6 +8,7 @@ MARKDOWN_INLINERS = { # Must be uninterpretable by Markdown!
 }.freeze
 private_constant(:MARKDOWN_INLINERS)
 
+# Convert markdown to HTML inline elements, don't wrap it in <p> tags
 def markdownify_inline(input)
 
 	block = input.dup.to_s.strip
@@ -42,6 +43,7 @@ def markdownify_inline(input)
 
 end
 
+# Remove all newlines from the content
 def inlinify(content)
 	content = content.to_s
 	content = split_newlines(content)
@@ -49,6 +51,7 @@ def inlinify(content)
 	content
 end
 
+# Split content into an array at newlines
 def split_newlines(content)
 	if content.length > 0
 		content = [content] if !content.is_a?(Array)
@@ -61,6 +64,38 @@ def split_newlines(content)
 		return content
 	else
 		return []
+	end
+end
+
+# Get key(s) or value(s) of a hash as an array
+def keys(hash)
+	hash_extract(hash, :keys)
+end
+def key(hash) keys(hash).first end
+def values(hash)
+	hash_extract(hash, :values)
+end
+def value(hash) values(hash).first end
+
+private
+
+def hash_extract(hash, aspect)
+	if hash.is_a?(Hash)
+		case aspect
+		when :keys
+			return hash.keys
+		when :values
+			return hash.values
+		end
+	elsif hash.is_a?(Array)
+		case aspect
+		when :keys
+			return hash.each_index.to_a
+		when :values
+			return hash
+		end
+	else
+		return [hash]
 	end
 end
 

@@ -1,6 +1,16 @@
 ---
 title: Annual Report 2023–24
 layout: annual-report
+sections:
+ - foreword-by-jeni-tennison: Forword
+ - our-vision: Vision
+ - our-mission: Mission
+ - responding-to-the-ai-safety-summit: AI Safety Summit
+ - narrative: Narrative
+ - practice: Practice
+ - policy-and-advocacy-on-data-and-ai: Data and AI
+ - community: Community
+ - organisation: Organisation
 ---
 
 {% capture title %}

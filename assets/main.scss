@@ -646,6 +646,38 @@ $footer-color: white;
   color: $text;
 }
 
+// Submenus
+.submenu {
+  background-color: $lightest-green;
+
+  ol, ul {
+    // Reset
+    list-style: none;
+    padding-left: 0; margin-left: 0;
+
+    // Submenu style
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em
+  }
+
+  li > a {
+    display: block;
+    padding: 0.3em 0.7em;
+    background-color: $lighter-green;
+    color: $darkest-green;
+
+    &:hover {
+      background-color: $light-green;
+      color: white;
+    }
+  }
+}
+.menu-body {
+  @extend .hero-body;
+  padding-top: 0.5em; padding-bottom: 0.5em;
+}
+
 // Limit text content to comfortable reading width
 .article {
   max-width: 40em;

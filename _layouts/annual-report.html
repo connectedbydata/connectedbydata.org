@@ -12,6 +12,20 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
+{% if page.sections %}
+<div id="toc" class="submenu">
+  <div class="menu-body">
+    <div class="container is-max-desktop">
+      <ol>
+        {% for section in page.sections %}
+          <li><a href="#{{ section | key }}">{{ section | value }}</a></li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 
 
 {{ content }}
