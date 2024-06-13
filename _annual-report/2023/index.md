@@ -2,7 +2,7 @@
 title: Annual Report 2023–24
 layout: annual-report
 sections:
- - foreword-by-jeni-tennison: Forword
+ - foreword-by-jeni-tennison-people-jeni-tennison: Foreword
  - our-vision: Vision
  - our-mission: Mission
  - responding-to-the-ai-safety-summit: AI Safety Summit
@@ -174,7 +174,7 @@ In April 2023, our first [Our Data Stories](https://docs.google.com/document/d/1
 
 {% include tweet.html user="Lauloknows" id="1671435992660602883" %}
 
-Our Parliamentary event, co-hosted with the TUC, discussed the worker experience of the AI revolution (June 2023). Photo credit: Stephanie Peacock MP.
+{% include captioned.html photo="/assets/events/2023-04-parliamentary-event.jpg" caption="Our Parliamentary event, co-hosted with the TUC, discussed the worker experience of the AI revolution (June 2023). Photo credit: Stephanie Peacock MP." %}
 
 Our second [Our Health Data Stories](/resources/our-health-data-stories) report, in November 2023, produced in partnership with [Just Treatment](https://justtreatment.org/), focused on [how people experience data when interacting with health services](https://docs.google.com/document/d/12Jxf0NoWFpq2aedfHlF2PC0Ti9cnXYJh-krwuagMzqA/edit#heading=h.hz2xizfuf49s), especially in light of the [controversy of the award of the NHS's Federated Data Platform contract to Palantir](https://www.theguardian.com/society/2023/oct/12/everything-you-need-to-know-about-nhs-englands-biggest-ever-it-contract). Jeni joined Hope from Just Treatment in a [Byline Times podcast](https://byline.tv/audio/palantir-and-the-nhs/) on the topic, based on the report.
 
@@ -245,7 +245,7 @@ The case for public engagement around data and AI decisions is only growing stro
 
 We have also developed [an interactive card game](/projects/2023-governance-game) that provides a creative way for individuals and organisations to think about planning, running and evaluating collective and participatory data governance activities.
 
-The Good Governance game being tested at CPDP LatAm2023 with Idec, InternetLab, ITS Rio, Instituto Fogo Cruzado, Ericà Bakonyi, Larissa Chen, Lab Jaca, Aqualtune Lab, and CyberBRICS Project.
+{% include captioned.html photo="/assets/events/2023-07-cpdp-latam-good-governance-game.jpg" caption="The Good Governance game being tested at CPDP LatAm2023 with Idec, InternetLab, ITS Rio, Instituto Fogo Cruzado, Ericà Bakonyi, Larissa Chen, Lab Jaca, Aqualtune Lab, and CyberBRICS Project." %}
 
 ### Developing resources for public deliberations
 
@@ -259,7 +259,8 @@ In November 2023, we partnered with [Iswe](https://iswe.org/) to convene a group
 
 You can [access the full workshop notes here](https://docs.google.com/document/d/1jk0DwrqiX6GhbmwPetKsF6e-ZRt2tAeTgORSQwNO4mo/view) or [review the summary on our website](/events/2023-11-22-deliberative-governance-data-and-ai).
 
-Photos of the Design Lab exploring resources for public deliberation.
+{% include captioned.html photo="/assets/events/2023-11-design-lab-resources.png" caption="Photos of the Design Lab exploring resources for public deliberation." %}
+
 {% endcapture %}
 {% capture article %}
 {% include content.html content=text %}
@@ -349,7 +350,7 @@ In June 2023, in partnership with Aapti Institute, Research ICT Africa, and The 
 
 Thanks to this workshop, we collaborated with Mydata Global, Aapti Institute, and The Datasphere Initiative, to publish [In This Together: Combining Individual and Collective Strategies to Confront Data Power](https://mydata.org/wp-content/uploads/2023/12/In-this-together-final.pdf), a think piece that looks at how advocacy for better data governance can draw upon the tools of both individual data rights, and collective data governance. This was the topic of a Connected Conversation on [Combining Strategies to Confront Data Power](/events/2024-03-20-connected-conversation-combining-strategies) in March 2024.
 
-The **CONNECTED** BY **DATA** workshop as a Fringe of the OGP Summit (September 2003)
+{% include captioned.html photo="/assets/events/2023-09-ogp-summit-fringe-workshop.jpg" caption="The Connected by Data workshop as a Fringe of the OGP Summit (September 2003)" %}
 
 We have undertaken a significant amount of work relating to the [Open Government Partnership](https://opengovpartnership.org/) (OGP). In September 2023, [we brought together](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit) a diverse group of civil society, government and academic stakeholders on the fringes of the 2023 Open Government Partnership Summit in Tallinn, Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance. We followed this with a [Connected Conversation](/events/2023-11-29-open-government-data-ai-governance) to share these resulting commitment areas in more detail, and invited responses from a range of experts to explore the opportunities and challenges for putting these ideas into practice.
 
@@ -370,7 +371,8 @@ Although the draft bill in Brazil has some way still to go if it is to become la
 {% endcapture %}
 {% include quote.html credit=credit compact=true text=quote %}
 
-Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)
+{% include captioned.html photo="/assets/events/2023-11-meeting-ed-husic.jpg" caption="Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)" %}
+
 {% endcapture %}
 {% capture article %}
 {% include content.html content=text %}
@@ -387,7 +389,7 @@ Over the last two years, we have amassed over 1,600 followers on [X (formerly Tw
 
 {% include youtube.html id="63H6D502xf8" t="735" %}
 
-Jeni Tennison speaking at a Citizen-Centric AI Systems event (November 2023). Photo credit: Professor Sebastian Stein.
+{% include captioned.html photo="/assets/events/2023-11-citizen-centric-ai-systems.jpg" caption="Jeni Tennison speaking at a Citizen-Centric AI Systems event (November 2023). Photo credit: Professor Sebastian Stein." %}
 
 ### Convening important conversations
 
@@ -417,6 +419,7 @@ We deliberately organised these design labs in different ways and to different s
 
 Our small, but global, [fellowship](/fellowship) programme grew, with four additional Fellows bringing new and diverse voices and perspectives to the group. Fellows are supported and mentored in a bespoke approach with a fortnightly collective online gathering.
 
+{% capture people %}
 * [Judith Townend](/people/judith-townend)
 * [Kristophina Shilongo](/people/kristophina-shilongo)
 * [Libby Young](/people/libby-young)
@@ -425,6 +428,7 @@ Our small, but global, [fellowship](/fellowship) programme grew, with four addit
 * [Maria Luciano](/people/maria-luciano)
 * [Natalie Byrom](/people/natalie-byrom)
 * [Nicola Hamilton](/people/nicola-hamilton)
+{% endcapture %}
 
 {% capture quote %}
 The fellowship has been an enriching experience and a fantastic opportunity for collaboration and exchange with a community passionate about collective and participatory data governance. I've enjoyed the opportunity to have greater insight into CbD's work and have learned immensely from the amazing cohort of fellows and their diverse projects.
@@ -488,6 +492,8 @@ In February 2024, we updated our articles of association to be explicit about ou
 
 Thanks to our funders for their generous support during this year.
 
+* ![Shuttleworth]
+
 ### Finances
 
 Our full financial statements have been filed with [Companies House](https://find-and-update.company-information.service.gov.uk/company/13896309/filing-history) and are summarised below.
@@ -504,6 +510,7 @@ Our full financial statements have been filed with [Companies House](https://fin
 | Corporation tax                |             |
 | **Capital and reserves**       |             |
 | **Accrued 2024/25 income**     |             |
+
 {% endcapture %}
 {% capture article %}
 {% include content.html content=text %}

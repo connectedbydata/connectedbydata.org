@@ -11,7 +11,12 @@
 <div class="p">
 	<div class="captioned{% if background %} has-background-{{background}}{% endif %}">
 		<figure class="image">
-			{{ include.content | markdownify }}
+			{% if include.photo %}
+				<img src="{{ include.photo }}" {% if include.caption %}alt="{{ include.caption | markdownify | strip_html | inlinify | xml_escape }}"{% endif %} />
+			{% endif %}
+			{% if include.content %}
+				{{ include.content | markdownify }}
+			{% endif %}
 		</figure>
 		{% unless include.caption == false %}
 		<figcaption class="caption">
