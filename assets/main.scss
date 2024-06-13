@@ -759,11 +759,18 @@ $footer-color: white;
   }
 }
 
+.tweet.embed {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 // Wrapper for some content (e.g. image) followed by caption
 .captioned {
   figure {
     margin: 0;
     margin-bottom: 0!important; // To override more specific styling
+    img { display: block }
   }
   .caption {
     padding: 1em;
