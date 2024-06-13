@@ -103,12 +103,20 @@ As well as the recommendations themselves, the Panel started to prove to big tec
 
 The impact of the Panel continued through the year. For example, TechUK asked representatives to [speak about the experience and their recommendations](https://www.youtube.com/watch?v=2D9TbauGyqw) at the top of their [Digital Ethics 2023 national conference](https://www.techuk.org/what-we-deliver/flagship-events/digital-ethics-summit-2023-seizing-the-moment.html) agenda, and a Panel member spoke at an 'AI in Education' conference in Cornwall. We also held a Connected Conversation on [involving the public in AI policymaking](/events/2024-03-07-connected-conversation-peoples-panel), as part of the Turing Institute's AI UK conference, which explored lessons from the experience.
 
-Members of the People's Panel on AI deliberating on the AI Summit Fringe
+{% capture carousel %}
+![People's Panel on AI deliberating](/assets/projects/peoplespanel/peoples-panel-deliberation.jpg){: .photo }
+
+![People's Panel on AI group photo](/assets/projects/peoplespanel/peoples-panel-group.jpg){: .photo }
+{% endcapture %}
+{% capture image %}
+{% include carousel.html content=carousel %}
+{% endcapture %}
+{% include captioned.html content=image caption="Members of the People's Panel on AI deliberating on the AI Summit Fringe" %}
 
 {% capture quote %}
 We didn't stop talking about AI. It was exhausting. It overtook us. A number of us refer to the experience as life changing as the impact hasn't gone away. During the week we were waking up at 3am and making notes about what we wanted to ask the next day. … In one session someone suggested to us that we didn't know the tech and ordinary citizens can't understand \[ AI \]. I think the panel will come up against this all the time but the panel can ask the questions. What's the value? Does society want it?
 {% endcapture %}
-{% include quote.html credit="Janet, People's Panel on AI member" photo="/assets/projects/peoplespanel/janet.jpg" compact=true text=quote %}
+{% include quote.html credit="Janet, People's Panel on AI member" photo="/assets/people/peoples-panel-janet.jpg" compact=true text=quote %}
 
 The People's Panel on AI was organised with support from the [Mozilla Foundation](https://foundation.mozilla.org/), the [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate), the [Kavli Centre for Ethics, Science, and the Public](https://www.kcesp.ac.uk/), and the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/).
 {% endcapture %}
@@ -365,7 +373,7 @@ Jeni Tennison meeting with Minister Ed Husic from the Australian Government Depa
 {% include section-title.html title=title align="left" %}
 
 {% capture text %}
-Over the last two years, we have amassed over 1,600 followers on [X (for](https://twitter.com/ConnectedByData)[merly Twitter)](https://twitter.com/ConnectedByData), 234 [Mastodon](https://social.coop/@ConnectedByData) followers, 933 followers on [LinkedIn](https://uk.linkedin.com/company/connectedbydata) and have over 160 members on our [Discord server](https://discord.gg/uZyhRghzsc). We organised, spoke at or participated in almost 50 [events](/events) and gained a deeper understanding of the kinds of spaces where conversations are happening, and what's lacking. During 2023-24 we introduced a [Data Policy Digest](/projects/2023-data-policy-digest) and a Connected by Data Newsletter, which have 324 [subscribers](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
+Over the last two years, we have amassed over 1,600 followers on [X (formerly Twitter)](https://twitter.com/ConnectedByData), 234 [Mastodon](https://social.coop/@ConnectedByData) followers, 933 followers on [LinkedIn](https://uk.linkedin.com/company/connectedbydata) and have over 160 members on our [Discord server](https://discord.gg/uZyhRghzsc). We organised, spoke at or participated in almost 50 [events](/events) and gained a deeper understanding of the kinds of spaces where conversations are happening, and what's lacking. During 2023-24 we introduced a [Data Policy Digest](/projects/2023-data-policy-digest) and a Connected by Data Newsletter, which have 324 [subscribers](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
 
 {% include youtube.html id="63H6D502xf8" t="735" %}
 

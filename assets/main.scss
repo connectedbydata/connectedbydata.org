@@ -141,10 +141,13 @@ $footer-color: white;
 }
 .has-background-light-green {
   background-color: $light-green;
-
 }
 .has-background-lightest-green {
   background-color: $lightest-green;
+}
+// White text on dark background by default
+.has-background-dark-green, .has-background-darker-green, .has-background-darkest-green  {
+  color: white
 }
 // Invert whitened headings when on light background
 .has-background-lightest-green, .has-background-light-green, .has-background-none  {
@@ -643,33 +646,61 @@ $footer-color: white;
   color: $text;
 }
 
+// Limit text content to comfortable reading width
 .article {
+  max-width: 40em;
+  margin: 0 auto;
   .content {
     padding: 2rem;
     line-height: 1.75rem;
   }
 }
 
-.article {
-  max-width: 40em;
-  margin: 0 auto;
-}
-
+// Margins around elements embedded in text content
 .content {
-  .quote, .carousel, .video {
+  .quote, .carousel, .embed, .captioned {
     margin-top: 2em !important;
-    margin-bottom: 2em !important
+    margin-bottom: 2em !important;
+    &:last-child {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important
+    }
   }
 }
 
+// Show items in scroller
 .carousel {
   overflow-x: scroll;
-  padding: 1em 0;
-  display: flex;
+  display: flex; // Items appear in horizontal row
   gap: 1em;
+  padding-bottom: 1em; // A bit of space before the scrollbar
   @include hide-scrollbars;
+  
+  & > {
+    p, img, div { // List elements that could be carousel items
+      display: block;
+      flex-basis: 45%; // Two will fill width, 3+ will show 3rd poking in
+      flex-shrink: 0;
+      flex-grow: 1; // In case just one element
+    }
+  }
+  
+  // Specific overrides for elements in carousel
+  & > {
+    p, .embed {
+      margin: 0!important;
+      margin-bottom: 0!important; // To override more specific styling
+      margin-top: 0!important; // To override more specific styling
+    }
+  }
+  // Specific overrides for img in carousel
+  & > img, & > p > img {
+    display: block!important;
+    object-fit: cover
+  }
 }
 
+// Video elements embedded in text
 .video {
   background: $dark-grey;
   iframe {
@@ -678,8 +709,28 @@ $footer-color: white;
   }
 }
 
-.image-with-caption {
+// Wrapper for some content (e.g. image) followed by caption
+.captioned {
   figure {
-    margin: 0
+    margin: 0;
+    margin-bottom: 0!important; // To override more specific styling
+  }
+  .caption {
+    padding: 1em;
+    background-color: rgba(0,0,0,0.1); // Tint caption against the background
+  }
+
+  // When captioned block has background colour and contains a carousel, give the carousel padding all round
+  &.has-background-dark-green,
+  &.has-background-darker-green,
+  &.has-background-darkest-green,
+  &.has-background-light-green,
+  &.has-background-lightest-green {
+    .carousel {
+      padding: 1em
+    }
   }
 }
+
+// Utility class to mimic a paragraph, useful for items embedded in text
+.p { @extend p }

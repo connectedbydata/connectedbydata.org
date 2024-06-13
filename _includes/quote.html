@@ -1,4 +1,5 @@
 {% assign person = site.people | find: "title", include.person %}
+
 {% capture content %}
 <div class="content">
 	{{ include.text | markdownify }}
@@ -7,39 +8,38 @@
 	{% elsif include.compact and person %}
 		<p>
 			<cite>&mdash;
-				{{ person.title }} {% if person.pronouns %}({{ person.pronouns }}){% endif %}
+				{{ person.title }}{% if person.pronouns %} ({{ person.pronouns }}){% endif %}
 				{%- if person.role %}, {{ person.role }}{% endif %}
 			</cite>
 		</p>
 	{% endif %}
 </div>
 {% endcapture %}
-{% capture portrait %}
+
+{% if include.photo %}
+	{% capture portrait %}{% include portrait.html photo=include.photo caption=false %}{% endcapture %}
+{% elsif person %}
 	{% if include.credit or include.compact %}
-		{% include portrait.html of=include.person caption=false %}
+		{% capture portrait %}{% include portrait.html of=include.person caption=false %}{% endcapture %}
 	{% else %}
-		{% include portrait.html of=include.person %}
+		{% capture portrait %}{% include portrait.html of=include.person %}{% endcapture %}
 	{% endif %}
-{% endcapture %}
-{% capture photo %}
-	<figure class="image">
-		<img src="{{ include.photo }}">
-	</figure>
-{% endcapture %}
-{% if include.photo or person %}
+{% else %}
+	{% assign portrait = false %}
+{% endif %}
+
+{% if portrait %}
+<!-- Quote with portrait -->
 <div class="columns is-gapless quote">
 	{% include block.html wide=true content=content %}
 	<div class="column has-nested is-hidden-touch">
 		<div class="columns is-gapless">
-			{% if include.photo %}
-				{% include block.html square=true nested=true long=true content=photo %}
-			{% elsif person %}
-				{% include block.html square=true nested=true long=true content=portrait %}
-			{% endif %}
+			{% include block.html square=true nested=true long=true content=portrait %}
 		</div>
 	</div>
 </div>
 {% else %}
+<!-- Quote with just text -->
 <div class="quote">
 	{% include block.html content=content full=true %}
 </div>

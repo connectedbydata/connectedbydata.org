@@ -1,16 +1,37 @@
-{% assign person = site.people | find: "title", include.of %}
-{% if person %}
-<div class="image-with-caption">
+{% if include.photo %}
+	<!-- Use specific image -->
+	{% assign url = include.photo %}
+{% else %}
+	<!-- Use image of person from people collection -->
+	{% if include.of %}
+		{% assign person = site.people | find: "title", include.of %}
+		{% if person %}
+			{% capture url %}/assets/people/{{ person.picture }}{% endcapture %}
+		{% else %}
+			{% assign url = false %}
+		{% endif %}
+	{% else %}
+		{% assign url = false %}
+	{% endif %}
+{% endif %}
+
+<div class="captioned">
+	{% if url %}
 	<figure class="image">
-		<a href="{{ person.url | relative_url }}">
-			<img src="/assets/people/{{ person.picture }}">
-		</a>
+		{% if person %}<a href="{{ person.url | relative_url }}">{% endif %}
+			<img src="{{ url }}">
+		{% if person %}</a>{% endif %}
 	</figure>
+	{% endif %}
+
 	{% unless include.caption == false %}
-	<figcaption class="image-caption content">
-		{{ person.title }},
-		{{ person.role }}
+	<figcaption class="caption">
+		{% if include.caption %}
+			{{ include.caption | markdownify}}
+		{% elsif person %}
+			{{ person.title }},
+			{{ person.role }}
+		{% endif %}
 	</figcaption>
 	{% endunless %}
 </div>
-{% endif %}
