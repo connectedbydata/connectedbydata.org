@@ -700,6 +700,24 @@ $footer-color: white;
   }
 }
 
+// Quotes
+.quote {
+  position: relative;
+  &:before {
+    content: "“"; // For semantics
+    color: transparent; // Hide the text
+    display: block;
+    height: 2em; width: 2em;
+    position: absolute;
+    top: 0; left: 0;
+    background-image: url('/assets/graphicsx1/quote.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top left;
+    //z-index: 10;
+  }
+}
+
 // Show items in scroller
 .carousel {
   overflow-x: scroll;
