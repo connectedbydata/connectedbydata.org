@@ -208,15 +208,15 @@ $footer-color: white;
       .column {
         max-height: 240px;
 
-        &.is-long {
-          align-items: flex-start;
-        }
-
         &:last-child, &.is-long {
           max-height: 100%;
         }
       }
     }
+  }
+
+  .column.is-long {
+    align-items: stretch;
   }
 
   &:not(:last-child) {
@@ -690,12 +690,22 @@ $footer-color: white;
 
 // Margins around elements embedded in text content
 .content {
-  .quote, .carousel, .embed, .captioned {
+  .quote, .carousel, .embed, .captioned, .grid {
     margin-top: 2em !important;
     margin-bottom: 2em !important;
     &:last-child {
       margin-top: 0 !important;
       margin-bottom: 0 !important
+    }
+  }
+}
+
+// Remove margins around elements inside certain wrappers, inside .content
+.content {
+  .subpoint {
+    figure {
+      margin-left: 0;
+      margin-right: 0;
     }
   }
 }
@@ -750,7 +760,7 @@ $footer-color: white;
   }
 }
 
-// Video elements embedded in text
+// Elements embedded in text
 .video {
   background: $dark-grey;
   iframe {
@@ -767,12 +777,15 @@ $footer-color: white;
 
 // Wrapper for some content (e.g. image) followed by caption
 .captioned {
+  display: flex;
+  flex-direction: column;
   figure {
     margin: 0;
     margin-bottom: 0!important; // To override more specific styling
     img { display: block }
   }
   .caption {
+    flex-grow: 1;
     padding: 1em;
     background-color: rgba(0,0,0,0.1); // Tint caption against the background
   }

@@ -2,21 +2,24 @@
 	<!-- Use specific image -->
 	{% assign url = include.photo %}
 {% else %}
-	<!-- Use image of person from people collection -->
 	{% if include.of %}
+		<!-- Use image of "{{ include.of }}" from people collection -->
 		{% assign person = site.people | find: "title", include.of %}
 		{% if person %}
 			{% capture url %}/assets/people/{{ person.picture }}{% endcapture %}
 		{% else %}
+			<!-- Couldn't find "{{ include.of }}" in people collection -->
 			{% assign url = false %}
 		{% endif %}
 	{% else %}
+		<!-- No image -->
 		{% assign url = false %}
 	{% endif %}
 {% endif %}
 
 <div class="captioned">
 	{% if url %}
+	<!-- URL: "{{ url }}" -->
 	<figure class="image">
 		{% if person %}<a href="{{ person.url | relative_url }}">{% endif %}
 			<img src="{{ url }}">

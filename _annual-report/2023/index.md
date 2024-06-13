@@ -419,16 +419,28 @@ We deliberately organised these design labs in different ways and to different s
 
 Our small, but global, [fellowship](/fellowship) programme grew, with four additional Fellows bringing new and diverse voices and perspectives to the group. Fellows are supported and mentored in a bespoke approach with a fortnightly collective online gathering.
 
+
 {% capture people %}
-* [Judith Townend](/people/judith-townend)
-* [Kristophina Shilongo](/people/kristophina-shilongo)
-* [Libby Young](/people/libby-young)
-* [Luke Richards](/people/luke-richards)
-* [Aditya Singh](/people/aditya-singh)
-* [Maria Luciano](/people/maria-luciano)
-* [Natalie Byrom](/people/natalie-byrom)
-* [Nicola Hamilton](/people/nicola-hamilton)
+Judith Townend
+Kristophina Shilongo
+Libby Young
+Luke Richards
+Aditya Singh
+Maria Luciano
+Natalie Byrom
+Nicola Hamilton
 {% endcapture %}
+{% assign people = people | split_newlines %}
+{% capture grid %}
+	{% for individual in people %}
+		{% capture portrait %}
+			{% include portrait.html of=individual %}
+		{% endcapture %}
+		{% capture background %}{% cycle "darkest-green", "darker-green", "dark-green" %}{% endcapture %}
+		{% include block.html square=true long=true content=portrait background=background %}
+	{% endfor %}
+{% endcapture %}
+{% include grid.html content=grid %}
 
 {% capture quote %}
 The fellowship has been an enriching experience and a fantastic opportunity for collaboration and exchange with a community passionate about collective and participatory data governance. I've enjoyed the opportunity to have greater insight into CbD's work and have learned immensely from the amazing cohort of fellows and their diverse projects.
@@ -492,7 +504,14 @@ In February 2024, we updated our articles of association to be explicit about ou
 
 Thanks to our funders for their generous support during this year.
 
-* ![Shuttleworth]
+{% capture funders %}
+{% include funder.html funder="Shuttleworth Funded" %}
+{% include funder.html funder="The Mohn Westlake Foundation" %}
+{% include funder.html funder="Joseph Rowntree Reform Trust" %}
+{% include funder.html funder="Omidyar Network" %}
+{% include funder.html funder="Luminate" %}
+{% endcapture %}
+{% include grid.html content=funders background="white" %}
 
 ### Finances
 
