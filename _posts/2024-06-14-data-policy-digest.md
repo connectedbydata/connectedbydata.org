@@ -19,7 +19,9 @@ And it’s when you can legally drink - I could do with several after sifting th
 <!--more-->
 
 
-> If you're reading this you're probably interested in data and AI policy...or just a real lover of Gavin's puns. Either way we want to let you know about this pre-election event we're hosting on Tuesday 25 June from 4:30-5:30pm asking Who should Labour listen to on AI, tech and public services? [For more information and to register click here](https://www.eventbrite.co.uk/e/who-should-labour-listen-to-on-ai-tech-and-public-services-tickets-925234229487).
+> If you're reading this you're probably interested in data and AI policy...or just a real lover of Gavin's puns.
+> Either way we want to let you know about this pre-election event we're hosting on Tuesday 25 June from 4:30-5:30pm asking Who should Labour listen to on AI, tech and public services?
+> [For more information and to register click here](https://www.eventbrite.co.uk/e/who-should-labour-listen-to-on-ai-tech-and-public-services-tickets-925234229487).
 
 ![Image of election event panel"](/assets/events/2024-06-25-panel.png)
 
