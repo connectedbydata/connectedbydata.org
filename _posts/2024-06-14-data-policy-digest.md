@@ -35,7 +35,7 @@ To receive the next edition of the Data Policy Digest direct to your inbox **[si
 
 * [Never mind the ballots](#ballots)
 * [Manifesto destiny](#manifesto)
-* [Laour movement](#labour)
+* [Labour movement](#labour)
 * [News Tory](#tory)
 * [Everything else](#everything)
 
