@@ -9,7 +9,7 @@ projects:
 
 ## Campaigns on Data: Reflecting on Algorithms and Infrastructure
 
-In working on resources for our Community Campaigns on Data cohort I’ve grappled a lot with the question of what, if anything, makes a campaign about**_ _**data distinct? 
+In working on resources for our Community Campaigns on Data cohort I’ve grappled a lot with the question of what, if anything, makes a campaign **about** data distinct? 
 
 When I’ve first talked to potential collaborators for the programme, they’ve often interpreted it as about using data within campaigning, rather than campaigning to change how data is used (or collected, or shared). This can be complicated by the fact that sometimes data is a tool, as well as target focus, of many campaigns. 
 
