@@ -1,9 +1,20 @@
+{% capture section_title %}
+  <h{{ include.level | default: 2 }} class="title">
+    {{ include.title | markdownify_inline }}
+  </h{{ include.level | default: 2 }}>
+{% endcapture %}
 <section id="{%if include.id%}{{ include.id }}{% else %}{{ include.title | slugify }}{% endif %}" class="hero {% if include.align != 'left' %}has-text-centered{% endif %} has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
-      <h{{ include.level | default: 2 }} class="title">
-        {{ include.title | markdownify_inline }}
-      </h{{ include.level | default: 2 }}>
+      {% if include.style == 'block' %}
+        {% if include.background %}
+          {% include point.html text=section_title background=include.background %}
+        {% else %}
+          {% include point.html text=section_title %}
+        {% endif %}
+      {% else %}
+        {{ section_title }}
+      {% endif %}
     </div>
   </div>
 </section>

@@ -140,7 +140,7 @@ The People's Panel on AI was organised with support from the [Mozilla Foundation
 {% capture title %}
 ## Narrative
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html style="block" title=title align="left" %}
 
 {% capture text %}
 **We develop compelling narratives of collective data governance, placing stories in the media and other key venues that influence communities and decision makers.**
@@ -219,7 +219,7 @@ As we reflected on the short story that emerged, we thought about how this could
 {% capture title %}
 ## Practice
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html style='block' title=title align="left" %}
 
 {% capture text %}
 **We surface and share examples of collective and participatory governance, convene a community of practitioners who lead and support collective data governance activities, and work alongside diverse communities to help define how data governance should work for them.**
@@ -270,7 +270,7 @@ You can [access the full workshop notes here](https://docs.google.com/document/d
 {% capture title %}
 ## Policy and advocacy on data and AI
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html style='block' title=title align="left" %}
 
 {% capture text %}
 **We provide evidence-based public policy recommendations and language to create an environment for collective and participatory data governance.**
@@ -382,7 +382,7 @@ Although the draft bill in Brazil has some way still to go if it is to become la
 {% capture title %}
 ## Community
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html style='block' title=title align="left" %}
 
 {% capture text %}
 Over the last two years, we have amassed over 1,600 followers on [X (formerly Twitter)](https://twitter.com/ConnectedByData), 234 [Mastodon](https://social.coop/@ConnectedByData) followers, 933 followers on [LinkedIn](https://uk.linkedin.com/company/connectedbydata) and have over 160 members on our [Discord server](https://discord.gg/uZyhRghzsc). We organised, spoke at or participated in almost 50 [events](/events) and gained a deeper understanding of the kinds of spaces where conversations are happening, and what's lacking. During 2023-24 we introduced a [Data Policy Digest](/projects/2023-data-policy-digest) and a Connected by Data Newsletter, which have 324 [subscribers](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
@@ -456,7 +456,7 @@ The fellowship has been an enriching experience and a fantastic opportunity for 
 {% capture title %}
 ## Organisation
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html style='block' title=title align="left" %}
 
 {% capture text %}
 In the last twelve months we've been joined by Emily Macaulay (Head of Delivery and Operations) and Helena Hollis (Field Building Lead). Three members of the team have moved on to new adventures and we wish all good luck to Obioma, Jonathan and Maria in those. We've also had the good fortune to continue to work with [Gavin Freeguard](https://gavinfreeguard.com/), focused on UK policy, and [Liz Steele](https://www.linkedin.com/in/liz-steele/), who has been exploring opportunities within the EU.
