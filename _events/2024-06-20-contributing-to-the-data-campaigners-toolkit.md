@@ -2,7 +2,7 @@
 layout: event
 title: "Design Lab: the data campaigners playbook"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-06-20
 author: Helena Hollis
