@@ -10,7 +10,7 @@ permalink: /game
 
 In **The Good Governance Game** you work as a team to plan out the engagement strategy for a digital project. Can you find a mix of methods that give voice to the right people, at the right time? 
 
-> **Beta Testing** We've been developing the good governance game over the last year in partnership with Dissent Games and a small group of collaborators. We've not printed up 50 copies, and we're beta-testing the game in printed and online form. Can you help us? Drop a line to [tim@connectedbydata.org](mailto:tim@connectedbydata.org) if you could run a play-test. 
+> **Beta Testing** We've been developing the good governance game over the last year in partnership with Dissent Games and a small group of collaborators. We've printed up 50 copies, and we're beta-testing the game in printed and online form. Can you help us? Drop a line to [tim@connectedbydata.org](mailto:tim@connectedbydata.org) if you could run a play-test. 
 
 ## Playing the game
 
