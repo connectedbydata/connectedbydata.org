@@ -647,8 +647,9 @@ $footer-color: white;
 }
 
 // Submenus
-.submenu {
+.navbar.is-fixed-top.submenu {
   background-color: $lightest-green;
+  top: 3.5rem;
 
   ol, ul {
     // Reset
@@ -672,10 +673,11 @@ $footer-color: white;
       color: white;
     }
   }
-}
-.menu-body {
-  @extend .hero-body;
-  padding-top: 0.5em; padding-bottom: 0.5em;
+
+  .navbar-menu {
+    margin-top: 18px;
+  }
+
 }
 
 // Limit text content to comfortable reading width
