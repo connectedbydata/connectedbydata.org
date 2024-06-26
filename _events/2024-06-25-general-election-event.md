@@ -6,7 +6,7 @@ link:
 upcoming: false
 writeup: true
 date: 2024-06-25
-author: Adam Cantwell-Corn
+author: Gavin Freeguard
 category: organising
 ---
 On Tuesday 25 June, Connected by Data hosted a Question Time-style event on a possible Labour government’s approach to data and AI in public services.  You can [watch recording of the event on our YouTube channel](https://youtu.be/gZ-tdt74-KA).
