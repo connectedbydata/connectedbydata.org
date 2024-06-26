@@ -8,7 +8,7 @@ sections:
  - responding-to-the-ai-safety-summit: AI Safety Summit
  - narrative: Narrative
  - practice: Practice
- - policy-and-advocacy-on-data-and-ai: Data and AI
+ - policy: Policy
  - community: Community
  - organisation: Organisation
 ---
@@ -268,7 +268,7 @@ You can [access the full workshop notes here](https://docs.google.com/document/d
 {% include section.html content=article %}
 
 {% capture title %}
-## Policy and advocacy on data and AI
+## Policy
 {% endcapture %}
 {% include section-title.html style='block' title=title align="left" %}
 
