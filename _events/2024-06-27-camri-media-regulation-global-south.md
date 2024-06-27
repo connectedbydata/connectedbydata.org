@@ -38,7 +38,7 @@ During the workshop, we used cards from [The Good Governance Game](https://conne
 
 **Feedback for Governance Game development:** To use the cards in a cut-down setting without a full round of the game, I had removed all but the 'role' and 'method' cards from the deck, but still included budget constraints in the instructions I gave. On reflection, I could have made this even simpler, omitting the role cards (which mostly added an understanding overhead to a tight 15-minute activity) and perhaps highlighting bits of the cards to pay attention to (not budget or the suit ♠♥♦♣ symbols!). At the end of the session, someone came and shared with me pointers to [https://digitalcollage.org/](https://digitalcollage.org/) and [https://en.2tonnes.org/](https://en.2tonnes.org/) as good examples of workshop websites for game-based-learning tools, and suggested producing cards in a larger format. 
 
-![A group in a lecture theatre looking at cards from the Good Governance Game]({{site.baseurl}}assets/events/2024-06-27-PlayingTheGovGame.png
+![A group in a lecture theatre looking at cards from the Good Governance Game]({{site.baseurl}}assets/events/2024-06-27-PlayingTheGovGame.png)
 
 The session ended with a brief clip from the People's Panel on AI, and an introduction to the [Options for a Global Citizens Assembly on AI](https://connectedbydata.org/projects/2024-gca-ai), inviting conference participants to look at three stylised options for global deliberation and to provide feedback on which they prefer. 
 
