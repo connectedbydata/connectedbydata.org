@@ -12,37 +12,24 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-
-
-
 {% if page.sections %}
-<nav class="navbar is-fixed-top submenu" role="navigation">
-  <div class="container is-max-desktop">
-    <div class="navbar-brand">
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="subnav">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-
-    <div id="subnav" class="navbar-menu">
-      <ol class="navbar-start">
+<div id="toc" class="submenu">
+  <div class="menu-body">
+    <div class="container is-max-desktop">
+      <ol>
         {% for section in page.sections %}
-          <li>
-            <a class="navbar-item" href="#{{ section | key }}">
-              {{ section | value }}
-            </a>
-          </li>
+          <li><a href="#{{ section | key }}">{{ section | value }}</a></li>
         {% endfor %}
       </ol>
     </div>
   </div>
-</nav>
+</div>
 {% endif %}
 
 
+
 {{ content }}
+
 
 
 {%- include pagination.html -%}
