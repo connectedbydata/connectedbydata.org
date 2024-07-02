@@ -18,7 +18,7 @@ layout: default
     <div class="container is-max-desktop">
       <ol>
         {% for section in page.sections %}
-          <li><a href="#{{ section | key }}">{{ section | value }}</a></li>
+          <li><a href="#{{ section.key }}">{{ section.value }}</a></li>
         {% endfor %}
       </ol>
     </div>

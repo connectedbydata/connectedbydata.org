@@ -2,15 +2,24 @@
 title: Annual Report 2023–24
 layout: annual-report
 sections:
- - foreword: Foreword
- - our-vision: Vision
- - our-mission: Mission
- - responding-to-the-ai-safety-summit: AI Safety Summit
- - narrative: Narrative
- - practice: Practice
- - policy: Policy
- - community: Community
- - organisation: Organisation
+ - key: forward
+   value: Foreword
+ - key: our-vision
+   value: Vision
+ - key: our-mission
+   value: Mission
+ - key: responding-to-the-ai-safety-summit
+   value: AI Safety Summit
+ - key: narrative
+   value: Narrative
+ - key: practice
+   value: Practice
+ - key: policy
+   value: Policy
+ - key: community
+   value: Community
+ - key: organisation
+   value: Organisation
 ---
 
 {% capture title %}
