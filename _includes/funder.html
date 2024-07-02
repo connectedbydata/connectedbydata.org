@@ -1,4 +1,4 @@
-{% assign funder = site.funders | find: "title", include.funder %}
+{% assign funder = site.funders | where: "title", include.funder | first %}
 {% assign logo-bg = funder.logo-bg | default: 'white' %}
 {% if logo-bg == 'white' %}
 	{% assign logo-fg = 'black' %}
