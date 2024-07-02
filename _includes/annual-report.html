@@ -1,0 +1,23 @@
+{%- assign report = include.report -%}
+
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="report-link" href="{{ report.url | relative_url | remove: '/index' }}">
+        {{ report.title | escape }}
+      </a>
+    </h2>
+  </div>
+{%- endcapture -%}
+
+<div class="columns is-gapless report">
+  {%- if include.leftright == 'left' -%}
+    {%- include random-graphic-block.html seed=report.content hidden='mobile' -%}
+    {%- include block.html content=title background=include.reportBackground -%}
+    {%- include block.html background=include.reportBackground square=true hidden='touch' -%}
+  {%- else -%}
+    {%- include block.html background=include.reportBackground square=true hidden='touch' -%}
+    {%- include block.html content=title background=include.reportBackground -%}
+    {%- include random-graphic-block.html seed=report.content hidden='mobile' -%}
+  {%- endif -%}
+</div>

@@ -36,9 +36,12 @@ layout: default
 </section>
 
 {%- capture annualReports -%}
-  <a href="/assets/resources/connected-by-data-annual-report-2022-2023.pdf">
-    <img src="/assets/resources/connected-by-data-annual-report-2022-2023.jpg" alt="Connected by Data Annual Report 2022-2023">
-  </a>
+  {%- assign reports = site.annual-report | reverse -%}
+  {%- for report in reports -%}
+    {%- capture reportBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture leftright -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include annual-report.html report=report reportBackground=reportBackground leftright=leftright -%}
+  {%- endfor -%}
 {%- endcapture -%}
 {%- include section.html content=annualReports -%}
 
