@@ -163,10 +163,7 @@ In May 2023, we hosted a ['Future Narratives' Design Lab](/events/2023-05-25-nar
 {% capture quote %}
 In the end it's people coming together and demanding a powerful say that will ensure AI and data driven systems work for all of us. This is about ensuring systems that add positively to our lives and help build a caring society, not one constrained by unintelligent machines predicting, dividing and overseeing us for the benefits of those with the power.
 {% endcapture %}
-{% capture credit %}
-[Jonathan reflecting on what he learned](/blog/2024/02/26/jonathan-leaving-blog)
-{% endcapture %}
-{% include quote.html credit=credit compact=true text=quote %}
+{% include quote.html credit="Jonathan reflecting on what he learned" creditLink="/blog/2024/02/26/jonathan-leaving-blog" compact=true text=quote %}
 
 Jeni and Tim explored the way current narratives can disempower the public in conversations about AI in an [essay for the Joseph Rowntree Foundation](https://www.jrf.org.uk/ai-for-public-good/lets-give-people-power-over-ai). We also used these insights in our work with Brickwall to research and [produce scripts for AI explainer videos](/projects/2023-lga-brickwal-ai-explainer-videos) for the Local Government Association and influence local authority adoption of AI.
 
@@ -213,10 +210,7 @@ Along with mainstream media, we've used social media accounts to share our respo
 {% capture quote %}
 As we reflected on the short story that emerged, we thought about how this could be used in classroom or discussion group contexts to draw out different issues, so we added some prompts for discussion as opportunities to foster collective conversations around data governance in lectures, workshops and among groups.
 {% endcapture %}
-{% capture credit %}
-[Maria on reclaiming the narrative through speculative fiction](/blog/2024/03/05/speculative-fiction-blog)
-{% endcapture %}
-{% include quote.html credit=credit compact=true text=quote %}
+{% include quote.html credit="Maria on reclaiming the narrative through speculative fiction" creditLink="/blog/2024/03/05/speculative-fiction-blog" compact=true text=quote %}
 
 {% endcapture %}
 {% capture article %}
@@ -236,10 +230,7 @@ Practice
 {% capture quote %}
 Even if Sam Altman's intervention was not an entirely serious call for global deliberation on AI, such deliberation and debate is not only desirable, but is eminently possible. So what might it take to be effective?
 {% endcapture %}
-{% capture credit %}
-[Tim on effective global deliberation on AI](/blog/2023/04/05/ai-deliberation)
-{% endcapture %}
-{% include quote.html credit=credit compact=true text=quote %}
+{% include quote.html credit="Tim on effective global deliberation on AI" creditLink="/blog/2023/04/05/ai-deliberation" compact=true text=quote %}
 
 ### Supporting organisations with data and AI governance
 
@@ -308,10 +299,7 @@ A key focus throughout the year has been the Data Protection and Digital Informa
 {% capture quote %}
 The Post Office scandal has some stark lessons for how data and AI systems should be integrated into our lives and society. The Government's Data Bill fails to learn them, and in multiple places makes it even harder for victims of computer errors to get justice.
 {% endcapture %}
-{% capture credit %}
-[Jeni on the Post Office 'Horizon' scandal](/blog/2024/01/17/post-office-lessons)
-{% endcapture %}
-{% include quote.html credit=credit compact=true text=quote %}
+{% include quote.html credit="Jeni on the Post Office 'Horizon' scandal" creditLink="/blog/2024/01/17/post-office-lessons" compact=true text=quote %}
 
 Beyond the Bill, we [responded to the Government's AI White Paper consultation](/resources/ai-white-paper-2023) and multiple parliamentary inquiries including [Transforming the UK's Evidence Base](https://committees.parliament.uk/work/7808/transforming-the-uks-evidence-base/) and [Large Language Models](https://committees.parliament.uk/work/7827/large-language-models/publications/), as well as regularly engaging with senior politicians across the political spectrum.
 
@@ -375,10 +363,7 @@ We have participated in a number of other international initiatives. Jeni was pa
 {% capture quote %}
 Although the draft bill in Brazil has some way still to go if it is to become law, the journey outlined above demonstrates the vital importance, and impact of a process that looks beyond industry interests when regulating data and AI.
 {% endcapture %}
-{% capture credit %}
-[Maria on building trust through civil engagement in data and AI](/news/2023/12/14/ai-regulation-brazil-public-voice)
-{% endcapture %}
-{% include quote.html credit=credit compact=true text=quote %}
+{% include quote.html credit="Maria on building trust through civil engagement in data and AI" creditLink="/news/2023/12/14/ai-regulation-brazil-public-voice" compact=true text=quote %}
 
 {% include captioned.html photo="/assets/events/2023-11-meeting-ed-husic.jpg" caption="Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)" %}
 
@@ -429,17 +414,8 @@ We deliberately organised these design labs in different ways and to different s
 Our small, but global, [fellowship](/fellowship) programme grew, with four additional Fellows bringing new and diverse voices and perspectives to the group. Fellows are supported and mentored in a bespoke approach with a fortnightly collective online gathering.
 
 
-{% capture people %}
-Judith Townend
-Kristophina Shilongo
-Libby Young
-Luke Richards
-Aditya Singh
-Maria Luciano
-Natalie Byrom
-Nicola Hamilton
-{% endcapture %}
-{% assign people = people | split_newlines %}
+{% capture people %}Judith Townend,Kristophina Shilongo,Libby Young,Luke Richards,Aditya Singh,Maria Luciano,Natalie Byrom,Nicola Hamilton{% endcapture %}
+{% assign people = people | split: "," %}
 {% capture grid %}
 	{% for individual in people %}
 		{% capture portrait %}

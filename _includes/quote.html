@@ -3,8 +3,10 @@
 {% capture content %}
 <div class="content">
 	{{ include.text | markdownify }}
-	{% if include.credit %}
-		<p><cite>&mdash; {{ include.credit | markdownify_inline }}</cite></p>
+	{% if include.creditLink %}
+		<p><cite>&mdash; <a href="{{ include.creditLink }}">{{ include.credit }}</a></cite></p>
+	{% elsif include.credit %}
+		<p><cite>&mdash; {{ include.credit }}</cite></p>
 	{% elsif include.compact and person %}
 		<p>
 			<cite>&mdash;
