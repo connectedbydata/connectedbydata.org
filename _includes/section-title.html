@@ -1,6 +1,6 @@
 {% capture section_title %}
   <h{{ include.level | default: 2 }} class="title">
-    {{ include.title | markdownify_inline }}
+    {{ include.title }}
   </h{{ include.level | default: 2 }}>
 {% endcapture %}
 <section id="{%if include.id%}{{ include.id }}{% else %}{{ include.title | slugify }}{% endif %}" class="hero {% if include.align != 'left' %}has-text-centered{% endif %} has-text-link">

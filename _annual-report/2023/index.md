@@ -23,7 +23,7 @@ sections:
 ---
 
 {% capture title %}
-## Foreword by [Jeni Tennison](/people/jeni-tennison)
+Foreword by Jeni Tennison
 {% endcapture %}
 {% include section-title.html id='foreword' title=title align="left" %}
 
@@ -50,7 +50,7 @@ If you want to learn more about our plans for next year, do take a look at our [
 {% include section.html content=body %}
 
 {% capture title %}
-## Our vision
+Our vision
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
@@ -63,7 +63,7 @@ If you want to learn more about our plans for next year, do take a look at our [
 {% include section.html content=body %}
 
 {% capture title %}
-## Our mission
+Our mission
 {% endcapture %}
 {% include section-title.html title=title align="left" %}
 
@@ -147,7 +147,7 @@ The People's Panel on AI was organised with support from the [Mozilla Foundation
 {% include section.html content=body %}
 
 {% capture title %}
-## Narrative
+Narrative
 {% endcapture %}
 {% include section-title.html style="block" title=title align="left" %}
 
@@ -226,7 +226,7 @@ As we reflected on the short story that emerged, we thought about how this could
 
 
 {% capture title %}
-## Practice
+Practice
 {% endcapture %}
 {% include section-title.html style='block' title=title align="left" %}
 
@@ -277,7 +277,7 @@ You can [access the full workshop notes here](https://docs.google.com/document/d
 {% include section.html content=article %}
 
 {% capture title %}
-## Policy
+Policy
 {% endcapture %}
 {% include section-title.html style='block' title=title align="left" %}
 
@@ -389,7 +389,7 @@ Although the draft bill in Brazil has some way still to go if it is to become la
 {% include section.html content=article %}
 
 {% capture title %}
-## Community
+Community
 {% endcapture %}
 {% include section-title.html style='block' title=title align="left" %}
 
@@ -463,7 +463,7 @@ The fellowship has been an enriching experience and a fantastic opportunity for 
 {% include section.html content=article %}
 
 {% capture title %}
-## Organisation
+Organisation
 {% endcapture %}
 {% include section-title.html style='block' title=title align="left" %}
 
