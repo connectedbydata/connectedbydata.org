@@ -2,7 +2,7 @@
 title: Annual Report 2023–24
 layout: annual-report
 sections:
- - foreword-by-jeni-tennison-people-jeni-tennison: Foreword
+ - foreword: Foreword
  - our-vision: Vision
  - our-mission: Mission
  - responding-to-the-ai-safety-summit: AI Safety Summit
@@ -16,7 +16,7 @@ sections:
 {% capture title %}
 ## Foreword by [Jeni Tennison](/people/jeni-tennison)
 {% endcapture %}
-{% include section-title.html title=title align="left" %}
+{% include section-title.html id='foreword' title=title align="left" %}
 
 {% capture body %}
 {% capture text %}
