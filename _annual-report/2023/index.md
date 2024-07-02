@@ -517,18 +517,18 @@ Thanks to our funders for their generous support during this year.
 
 Our full financial statements have been filed with [Companies House](https://find-and-update.company-information.service.gov.uk/company/13896309/filing-history) and are summarised below.
 
-|                                | **2023/24** |
-| ------------------------------ | ----------- |
-| **Income**                     |             |
-| Unrestricted grants            |             |
-| Restricted grants              |             |
-| Sales                          |             |
-| **Costs**                      |             |
-| Staff costs                    |             |
-| Other costs                    |             |
-| Corporation tax                |             |
-| **Capital and reserves**       |             |
-| **Accrued 2024/25 income**     |             |
+|                                | **2023/24** | **2022/23** |
+| ------------------------------ | -----------:| -----------:|
+| **Income**                     |   **611**   |   **325**   |
+| Unrestricted grants            |     376     |     264     |
+| Restricted grants              |     186     |      15     |
+| Sales                          |      38     |      46     |
+| **Costs**                      |   **604**   |   **315**   |
+| Staff costs                    |     508     |     255     |
+| Other costs                    |      94     |      58     |
+| Corporation tax                |       2     |       2     |
+| **Capital and reserves** (cumulative)      |    **17**   |    **10**   |
+| **Accrued income**             |   **224**   |   **500**   |
 
 {% endcapture %}
 {% capture article %}
