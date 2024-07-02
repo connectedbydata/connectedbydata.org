@@ -1,4 +1,4 @@
-{% assign person = site.people | find: "title", include.person %}
+{% assign person = site.people | where: "title", include.person | first %}
 
 {% capture content %}
 <div class="content">

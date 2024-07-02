@@ -4,7 +4,7 @@
 {% else %}
 	{% if include.of %}
 		<!-- Use image of "{{ include.of }}" from people collection -->
-		{% assign person = site.people | find: "title", include.of %}
+		{% assign person = site.people | where: "title", include.of | first %}
 		{% if person %}
 			{% capture url %}/assets/people/{{ person.picture }}{% endcapture %}
 		{% else %}
