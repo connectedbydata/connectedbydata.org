@@ -1,0 +1,21 @@
+{% assign funder = site.funders | find: "title", include.funder %}
+{% assign logo-bg = funder.logo-bg | default: 'white' %}
+{% if logo-bg == 'white' %}
+	{% assign logo-fg = 'black' %}
+{% else %}
+	{% assign logo-fg = 'white' %}
+{% endif %}
+<div class="column is-square is-half has-background-{{ logo-bg }}">
+	<div class="subpoint">
+		{% if funder %}
+			<figure class="image p-3">
+				<a href="{{ funder.link }}">
+					<img src="/assets/funders/{{ funder.image }}" alt="{{ include.funder }}">
+				</a>
+			</figure>
+		{% endif %}
+		<p class="title has-text-{{ logo-fg }} is-6">
+			{{ include.funder }}
+		</p>
+	</div>
+</div>

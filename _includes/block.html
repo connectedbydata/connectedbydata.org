@@ -16,6 +16,7 @@
     {%- if include.square %} is-square is-one-quarter-fullhd is-one-quarter-widescreen is-one-quarter-desktop is-one-third-tablet
       {%- if include.big-mobile -%}{%- else %} is-half-mobile{%- endif -%}
     {%- elsif include.wide %} is-three-quarters-fullhd is-three-quarters-widescreen is-three-quarters-desktop
+    {%- elsif include.full %} is-full-mobile
     {%- elsif include.content %} is-half-fullhd is-half-widescreen is-half-desktop is-two-thirds-tablet
     {%- else %} is-square
     {%- endif -%}
@@ -23,7 +24,12 @@
 
   {%- if background %} has-background-{{background}} {%- endif -%}
   {%- if include.short %} is-short{%- endif -%}
+  {%- if include.long %} is-long{%- endif -%}
   {%- if include.hidden %} is-hidden-{{include.hidden}} {%- endif -%}
 ">
-  {{ include.content }}
+  {% if include.markdownify %}
+    {{ include.content | markdownify }}
+  {% else %}
+    {{ include.content }}
+  {% endif %}
 </div>

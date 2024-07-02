@@ -1,0 +1,27 @@
+{%- capture background -%}
+  {%- if include.background -%}
+    {{ include.background }}
+  {%- else -%}
+    {%- assign randNumber = include.content | split: "" | uniq | join: "" | size | plus: include.content.size -%}
+    {%- assign randColorIndex = randNumber | modulo: 3 -%}
+    {%- assign randColor = site.background-colors | slice: randColorIndex -%}
+    {{ randColor }}
+  {%- endif -%}
+{%- endcapture -%}
+<div class="p">
+	<div class="captioned{% if background %} has-background-{{background}}{% endif %}">
+		<figure class="image">
+			{% if include.photo %}
+				<img src="{{ include.photo }}" {% if include.caption %}alt="{{ include.caption | markdownify | strip_html | inlinify | xml_escape }}"{% endif %} />
+			{% endif %}
+			{% if include.content %}
+				{{ include.content | markdownify }}
+			{% endif %}
+		</figure>
+		{% unless include.caption == false %}
+		<figcaption class="caption">
+			{{ include.caption | markdownify }}
+		</figcaption>
+		{% endunless %}
+	</div>
+</div>

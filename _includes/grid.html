@@ -1,0 +1,15 @@
+{%- capture background -%}
+  {%- if include.background -%}
+    {{ include.background }}
+  {%- else -%}
+    {%- assign randNumber = include.content | split: "" | uniq | join: "" | size | plus: include.content.size -%}
+    {%- assign randColorIndex = randNumber | modulo: 3 -%}
+    {%- assign randColor = site.background-colors | slice: randColorIndex -%}
+    {{ randColor }}
+  {%- endif -%}
+{%- endcapture -%}
+<div class="grid">
+  <div class="columns is-multiline is-gapless has-background-{{background}}">
+    {{ include.content }}
+  </div>
+</div>

@@ -6,4 +6,4 @@
 {%- assign randGraphicIndex = randNumber | modulo: site.background-graphics.size -%}
 {%- assign randGraphic = site.background-graphics | slice: randGraphicIndex -%}
 
-{%- include block.html square=true background=randGraphic hidden=hidden nested=include.nested -%}
+{%- include block.html square=true background=randGraphic hidden=hidden nested=include.nested long=include.long -%}

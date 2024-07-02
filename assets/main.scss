@@ -97,6 +97,25 @@ $card-footer-border-top: 1px solid $light-green;
 $footer-background-color: $primary;
 $footer-color: white;
 
+@mixin hide-scrollbars {
+  scrollbar-width: $scrollbar-width;  /* Firefox */
+  scrollbar-color: $light-green inherit;
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  &::-webkit-scrollbar {
+    width: $scrollbar-width;
+    height: $scrollbar-width;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: inherit;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $light-green;
+  }
+}
+
+
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
 @import "fontawesome/solid.scss";
@@ -119,6 +138,23 @@ $footer-color: white;
 }
 .has-background-darkest-green {
   background-color: $darkest-green;
+}
+.has-background-light-green {
+  background-color: $light-green;
+}
+.has-background-lightest-green {
+  background-color: $lightest-green;
+}
+// White text on dark background by default
+.has-background-dark-green, .has-background-darker-green, .has-background-darkest-green  {
+  color: white
+}
+// Invert whitened headings when on light background
+.has-background-lightest-green, .has-background-light-green, .has-background-none  {
+  .content {
+    h1, h2 { color: $dark-purple }
+    h3, h4, h5, h6 { color: $darkest-green }
+  }
 }
 
 .navbar {
@@ -172,11 +208,15 @@ $footer-color: white;
       .column {
         max-height: 240px;
 
-        &:last-child {
+        &:last-child, &.is-long {
           max-height: 100%;
         }
       }
     }
+  }
+
+  .column.is-long {
+    align-items: stretch;
   }
 
   &:not(:last-child) {
@@ -531,25 +571,6 @@ $footer-color: white;
     color: $link;
   }
 
-  /* Hide scrollbar for Chrome, Safari and Opera */
-  .literature-content::-webkit-scrollbar {
-    width: $scrollbar-width;
-  }
-
-  .literature-content::-webkit-scrollbar-track {
-    background: inherit;
-  }
-
-  .literature-content::-webkit-scrollbar-thumb {
-    background: $light-green;
-  }
-
-  /* Hide scrollbar for IE, Edge and Firefox */
-  .literature-content {
-    scrollbar-width: $scrollbar-width;  /* Firefox */
-    scrollbar-color: $light-green inherit;
-  }
-
   .attribution {
     font-size: 0.8rem;
     position: relative;
@@ -570,6 +591,13 @@ $footer-color: white;
   }
 }
 
+.literature, .resource {
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .literature-content {
+    @include hide-scrollbars;
+  }
+}
+
 .literature.example .literature-content {
   p::before {
     content: ""
@@ -579,7 +607,7 @@ $footer-color: white;
   }
 }
 
-.post, .person, .job, .event, .resource, .project, .case {
+.post, .person, .job, .event, .resource, .project, .case, .quote, .point {
   .content {
     padding: 2rem;
     line-height: 1.75rem;
@@ -617,3 +645,162 @@ $footer-color: white;
 .card-content .content {
   color: $text;
 }
+
+// Submenus
+.submenu {
+  background-color: $lightest-green;
+
+  ol, ul {
+    // Reset
+    list-style: none;
+    padding-left: 0; margin-left: 0;
+
+    // Submenu style
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em
+  }
+
+  li > a {
+    display: block;
+    padding: 0.3em 0.7em;
+    background-color: $lighter-green;
+    color: $darkest-green;
+
+    &:hover {
+      background-color: $light-green;
+      color: white;
+    }
+  }
+}
+.menu-body {
+  @extend .hero-body;
+  padding-top: 0.5em; padding-bottom: 0.5em;
+}
+
+// Limit text content to comfortable reading width
+.article {
+  max-width: 40em;
+  margin: 0 auto;
+  .content {
+    padding: 2rem;
+    line-height: 1.75rem;
+  }
+}
+
+// Margins around elements embedded in text content
+.content {
+  .quote, .carousel, .embed, .captioned, .grid {
+    margin-top: 2em !important;
+    margin-bottom: 2em !important;
+    &:last-child {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important
+    }
+  }
+}
+
+// Remove margins around elements inside certain wrappers, inside .content
+.content {
+  .subpoint {
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+}
+
+// Quotes
+.quote {
+  position: relative;
+  &:before {
+    content: "“"; // For semantics
+    color: transparent; // Hide the text
+    display: block;
+    height: 2em; width: 2em;
+    position: absolute;
+    top: 0; left: 0;
+    background-image: url('/assets/graphicsx1/quote.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top left;
+    //z-index: 10;
+  }
+}
+
+// Show items in scroller
+.carousel {
+  overflow-x: scroll;
+  display: flex; // Items appear in horizontal row
+  gap: 1em;
+  padding-bottom: 1em; // A bit of space before the scrollbar
+  @include hide-scrollbars;
+  
+  & > {
+    p, img, div { // List elements that could be carousel items
+      display: block;
+      flex-basis: 45%; // Two will fill width, 3+ will show 3rd poking in
+      flex-shrink: 0;
+      flex-grow: 1; // In case just one element
+    }
+  }
+  
+  // Specific overrides for elements in carousel
+  & > {
+    p, .embed {
+      margin: 0!important;
+      margin-bottom: 0!important; // To override more specific styling
+      margin-top: 0!important; // To override more specific styling
+    }
+  }
+  // Specific overrides for img in carousel
+  & > img, & > p > img {
+    display: block!important;
+    object-fit: cover
+  }
+}
+
+// Elements embedded in text
+.video {
+  background: $dark-grey;
+  iframe {
+    display: block;
+    width: 100%
+  }
+}
+
+.tweet.embed {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+// Wrapper for some content (e.g. image) followed by caption
+.captioned {
+  display: flex;
+  flex-direction: column;
+  figure {
+    margin: 0;
+    margin-bottom: 0!important; // To override more specific styling
+    img { display: block }
+  }
+  .caption {
+    flex-grow: 1;
+    padding: 1em;
+    background-color: rgba(0,0,0,0.1); // Tint caption against the background
+  }
+
+  // When captioned block has background colour and contains a carousel, give the carousel padding all round
+  &.has-background-dark-green,
+  &.has-background-darker-green,
+  &.has-background-darkest-green,
+  &.has-background-light-green,
+  &.has-background-lightest-green {
+    .carousel {
+      padding: 1em
+    }
+  }
+}
+
+// Utility class to mimic a paragraph, useful for items embedded in text
+.p { @extend p }

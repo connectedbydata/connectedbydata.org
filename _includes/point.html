@@ -1,0 +1,33 @@
+{%- capture background -%}
+  {%- if include.background -%}
+    {{ include.background }}
+  {%- else -%}
+    {%- assign randNumber = include.content | split: "" | uniq | join: "" | size | plus: include.content.size -%}
+    {%- assign randColorIndex = randNumber | plus: 1 | modulo: 3 -%}
+    {%- assign randColor = site.background-colors | slice: randColorIndex -%}
+    {{ randColor }}
+  {%- endif -%}
+{%- endcapture -%}
+
+{% capture content %}
+<div class="content">
+	{{ include.text | markdownify }}
+</div>
+{% endcapture %}
+{% capture image %}
+	<figure class="image">
+		<img src="{{ include.image }}">
+	</figure>
+{% endcapture %}
+<div class="columns is-gapless point {%- if background %} has-background-{{background}} {%- endif -%}">
+	<div class="column has-nested is-hidden-touch" style="align-self: flex-start">
+		<div class="columns is-gapless">
+			{% if include.image %}
+				{% include block.html square=true nested=true long=true content=image %}
+			{% else %}
+				{% include random-graphic-block.html long=true seed=include.text nested=true %}
+			{% endif %}
+		</div>
+	</div>
+	{% include block.html wide=true content=content %}
+</div>
