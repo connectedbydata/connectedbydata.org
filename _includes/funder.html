@@ -5,7 +5,7 @@
 {% else %}
 	{% assign logo-fg = 'white' %}
 {% endif %}
-<div class="column is-square is-half has-background-{{ logo-bg }}">
+<div class="column is-half has-background-{{ logo-bg }}">
 	<div class="subpoint">
 		{% if funder %}
 			<figure class="image p-3">
@@ -14,8 +14,5 @@
 				</a>
 			</figure>
 		{% endif %}
-		<p class="title has-text-{{ logo-fg }} is-6">
-			{{ include.funder }}
-		</p>
 	</div>
 </div>
