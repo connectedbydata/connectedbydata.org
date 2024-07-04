@@ -12,7 +12,7 @@ project:
     - Giving communities a powerful say in public sector data and AI projects
 ---
 
-At 2pm on Thursday 18 July 2024, we’ll be holding the first meeting of a community of practice as part of our project on Giving communities a powerful say in public sector data and AI projects. 
+At 2pm - 3:15pm on Thursday 18 July 2024, on Zoom, we’ll be holding the first meeting of a community of practice as part of our project on Giving communities a powerful say in public sector data and AI projects. 
 
 <!--more-->
 
@@ -20,5 +20,4 @@ It’s designed to bring together people across the public sector working on (or
 
 The network meets on a Chatham House basis (nothing attributed unless you want it to be, anything confidential excluded altogether), with notes circulated within the network. We do something similar with an existing [data and AI civil society network](https://data-and-ai-cso-network.org/), and have lots of existing links with public engagement practitioners.
 
-> When: Thursday 18 July from 2pm - 3:15pm UK time
-> Where: Zoom - [register to attend](https://us06web.zoom.us/meeting/register/tZAlc-ysqTsqHNNqQvoh4Q-k9bFXGnbUh4GM).
+> [Register to attend](https://us06web.zoom.us/meeting/register/tZAlc-ysqTsqHNNqQvoh4Q-k9bFXGnbUh4GM).
