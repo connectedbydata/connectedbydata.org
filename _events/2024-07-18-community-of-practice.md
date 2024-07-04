@@ -20,4 +20,5 @@ It’s designed to bring together people across the public sector working on (or
 
 The network meets on a Chatham House basis (nothing attributed unless you want it to be, anything confidential excluded altogether), with notes circulated within the network. We do something similar with an existing [data and AI civil society network](https://data-and-ai-cso-network.org/), and have lots of existing links with public engagement practitioners.
 
-> [Register to attend](https://us06web.zoom.us/meeting/register/tZAlc-ysqTsqHNNqQvoh4Q-k9bFXGnbUh4GM).
+> When: Thursday 18 July from 2pm - 3:15pm UK time
+> Where: Zoom - [register to attend](https://us06web.zoom.us/meeting/register/tZAlc-ysqTsqHNNqQvoh4Q-k9bFXGnbUh4GM).
