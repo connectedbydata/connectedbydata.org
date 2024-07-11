@@ -1,0 +1,38 @@
+---
+layout: post
+author: Emily Macaulay
+category: weeknotes
+---
+### What I’ve been doing
+Yesterday I was involved in an online play test of ‘[The Good Governance Game](https://connectedbydata.org/projects/2023-governance-game)’ which [Tim](https://connectedbydata.org/people/tim-davies) and others (including[ alumna Maria](https://connectedbydata.org/people/maria-luciano)) have been developing for just over a year. I’d seen it played in person with cards but we’re also hoping to have an online platform - not least as it works really well as a workshop activity engaging people in thinking about participatory practice.  It was a small but good group of testers and we enjoyed the game and hopefully provided some useful feedback.  Watch this space as they say.
+
+![Photo of a computer screen with a game being played.]({{site.baseurl}}/assets/blog/2024-07-11-game-play-test.png)
+
+I attended my first [What Next? session](https://www.whatnextculture.co.uk/).  Whilst primarily focused around the arts and cultural sector it takes a broad approach and the content this week was around adapting to change (framed around the General Election result) which is of course being experienced by all sectors. As an aside I also appreciated how they held the space, the grounding at the beginning of the session, having everyone (around 100 people) say “hello” before all going on mute, pronouns and audio description introductions from speakers.
+
+We also had the first meeting of the [Public Voices in AI People’s Advisory Panel](https://connectedbydata.org/projects/2024-public-voices-in-ai). I’ve been supporting with onboarding logistics and listened to the recording of their session - I think it’ll be another (albeit different structure) interesting insight into how people think about AI.
+
+Jeni is away this week and that has an interesting impact on the feel of the work environment. I’d forgotten quite how much it shifts the energy. It has meant though that I’m catching up on long standing ToDo items (some around a year old), which is pleasing. 
+
+### What I need to take care of
+I’ll be doing some bookkeeping training today. And next week more catching up on the ToDo list.
+
+If you work in the public sector and are working on (or interested in) engaging the public around data and AI - we have our first meeting of a new Community of Practice, bringing together public sector, civil society, academia and the private sector. [Find out more and register here](https://connectedbydata.org/events/2024-07-18-community-of-practice) (already around 50 sign ups). I’m supporting the logistics but also really looking forward to hearing the speakers and discussions - you can take the girl out of the public sector but you can’t take the public sector out of the girl.
+
+### What I’ve been inspired or challenged or moved by
+I’ve been in a fair few meetings recently where people have been taking about facial recognition technology - both in policing and broader.  In one space someone was talking about getting stopped every time they go through an airport as they’re too short / look too young so the system flags them as not matching their passport. Similarly a male with long hair who shared their experience of being stopped because the system didn’t accept a man would have long hair. Only this week someone shared an anecdote of their non-identical twins (one boy, one girl) that have facial recognition on their phones (access security measure). One phone brand accepted the correct user and their sibling! (the AI being unable to distinguish between the two). The other had a brand where the AI did distinguish between the faces and refused access to the wrong person.
+
+I am a cis-gendered woman.  I am what I may previously have labelled as ‘butch’ or ‘a dyke’ - which in very rough terms means I am a lesbian (or gay woman, again the specifics are more fluid to me now) with a more “masculine” appearance. My physical presentation has always been a little confusing to some people. I am of slight build (slightly heavier now). I have some very feminine body shapes and tiny hands. But I have short (shaved) hair (cut by a barber [for many years](https://emilyjmacaulay.wordpress.com/2016/06/23/loving-lukas-barbers/) - though now with [TK Hair](https://www.facebook.com/p/TK-Hair-100090336964943/), my hair is an [important identify thing](https://emilyjmacaulay.wordpress.com/2020/06/30/hoping-to-be-a-reverse-of-samson/) for me) and am very flat chested (there’s definitely a lot of men with bigger pecs than my chest).  The result of this has been that people who take a quick glance, or indeed don’t really look at all, often “Sir” me.  When I worked in libraries I’d get it a couple of times a week. In fact one of my funniest “difficult customer” interactions was with someone going off on the deep end with aggressive and offensive language gendered towards me as a man. They then realised I was a woman, stopped the swearing immediately and decided to leave the building. (They came back angry a few minutes later - blaming me for ‘conning’ them).
+
+It still happens. Only a couple of weekends ago I was in a restaurant with my partner Tabitha and our two teenagers. I got “Sir’d”.  It was the first time the children had experienced it.  The member of staff quickly realised their mistake and there was no offence caused. It opened a conversation with the children about not needing to gender people - it only risks problems. (I was interested to hear Tabitha’s views about this specific situation in which, she mused, the anticipated family dynamic was also playing into their assumptions - namely man/woman/2.4 children).
+
+I’ve had numerous occasions too in public toilet - people telling me I should be going to the mens toilets. I’m not going to expand here but I have _a lot_ of views on that.
+
+This has been a slightly rambling route to my personal concerns about facial recognition technology and what it will / won’t assume about me and of course others.  It is a piece of AI that so clearly is magnifying the bias of the humans creating it (and also not learning/improving, so not intelligent). This isn’t only gender discrimination, race is a serious concern too. It has been repeatedly proven to not be accurate when reviewing black people’s faces. And of course the technology when used in practice (rather than just academic testing) is taking action / recommending action based on its decisions.
+
+> “In some facial recognition technology, there is over 99 per cent accuracy rate in recognizing white male faces. But, unfortunately, when it comes to recognizing faces of colour, especially the faces of Black women, the technology seems to manifest its highest error rate, which is about 35 per cent.” [Dr Gideon Christian article, August 2023](https://www.ucalgary.ca/news/law-professor-explores-racial-bias-implications-facial-recognition-technology).
+
+We are not a number plate on a car, we should not be reduced to a bias interpretation of our faces.  
+
+### What I’ve been reading
+The mediation at the beginning of the What Next? session I attended this week reminded me of [this note by Of/By/For All](https://blog.ofbyforall.org/intentional-grounding-check-ins) about intentional grounding. On a very practical note I also found [this resource](https://www.nihr.ac.uk/documents/payment-guidance-for-members-of-the-public-considering-involvement-in-research/27372) really useful when writing our honorarium policy recently. 
