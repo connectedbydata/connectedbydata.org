@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Catalysing Communities Campaigns
+title: Catalysing Community Campaigns
 subtitle: To protect and build data rights in the UK
 image: community data campaigns.png
 add-background: true
