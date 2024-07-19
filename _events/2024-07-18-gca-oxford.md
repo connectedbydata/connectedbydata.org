@@ -75,11 +75,11 @@ Discussions in the room, and on Zoom chat, provided invaluable feedback on the p
 
 In early August we’ll be updating the paper drawing on feedback from the session. Drawing also on informal feedback at the conference, a number of areas we particularly plan to look at include:
 
-* **Process governance & advisory body.** Including more on the need for any GCA on AI to have robust and _inclusive_ governance both with respect to framing and question setting, and learning material design.  \
+* **Process governance & advisory body.** Including more on the need for any GCA on AI to have robust and _inclusive_ governance both with respect to framing and question setting, and learning material design.  
 
-* **Integrating different options**. Looking more at the particular strengths of different models for different aspects of deliberative governance: question setting, consensus building, mobilisation and so-on.  \
+* **Integrating different options**. Looking more at the particular strengths of different models for different aspects of deliberative governance: question setting, consensus building, mobilisation and so-on.  
 
-* **Foregrounding power**. Strengthening the analysis of the current power dynamics in the AI field, and the challenges this presents for a GCA on AI, as well as some of the choices to be made in navigating this.  \
+* **Foregrounding power**. Strengthening the analysis of the current power dynamics in the AI field, and the challenges this presents for a GCA on AI, as well as some of the choices to be made in navigating this.  
 
 * **Exploring worker voice in participant and expert selection**. In particular, asking whether sortition approaches should, for example, over-sample for AI workers in the global south (e.g. clickworkers providing the labour behind AI), or how their perspectives can also be presented through expert inputs to an assembly. 
 
