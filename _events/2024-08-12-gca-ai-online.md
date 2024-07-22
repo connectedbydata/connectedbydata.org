@@ -2,7 +2,7 @@
 layout: event
 title: "Online workshop: Options for a Global Citizens Assembly on AI"
 image: gca-ai.png
-upcoming: true
+upcoming: false
 writeup: true
 date: 2024-07-18
 author: Tim Davies

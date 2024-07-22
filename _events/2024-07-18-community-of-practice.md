@@ -22,4 +22,4 @@ It’s designed to bring together people across the public sector working on (or
 
 The network meets on a Chatham House basis (nothing attributed unless you want it to be, anything confidential excluded altogether), with notes circulated within the network. We do something similar with an existing [data and AI civil society network](https://data-and-ai-cso-network.org/), and have lots of existing links with public engagement practitioners.
 
-> [Register to attend](https://us06web.zoom.us/meeting/register/tZAlc-ysqTsqHNNqQvoh4Q-k9bFXGnbUh4GM).
+> If you're interested in attending the next meeting [contact us](mailto:emily@connectedbydata.org).
