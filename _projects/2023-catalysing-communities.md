@@ -25,8 +25,8 @@ They may be made the target of damaging or biassed policies as a result of profi
 
 on **data** … how data is collected, used or governed - so that it better serves community interests.
 
-
-![Image of four logos of community campaigns as listed in text of webpage below"](/assets/projects/community data campaigns.png)
+### Watch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PaZ7Xqa9vLg?si=4AmWE1aDSHHQ2BBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Care Full
 Our campaign for a [Care Full](https://carefulleconomy.co.uk/) economy is focused on shifting our economy to one which is actively designed to enable and centre relationships and acts of care. We believe this will benefit the community of people who care - which includes unpaid carers, parents, legal guardians, foster carers - those who benefit from this support and more. A care full economy is a contrast to our current economic model which individualises care and forces us to care in the margins.
