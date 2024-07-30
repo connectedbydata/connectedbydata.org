@@ -32,7 +32,7 @@ We were privileged to have a great panel made up of:
 
 * **Professor Sir Nigel Shadbolt**, Principal of Jesus College and Professorial Research Fellow in Computer Science, University of Oxford
 * **Dr Anna Colom**, Senior Policy Lead, The Data Tank
-* **Reema Patel**, Research Director and Head of Deliberative Engagement, Ipsos UK, and
+* **Reema Patel**, Digital Good Network
 * **Professor Isabelle Ferreras**, Professor of sociology at the University of Louvain and Visiting research fellow at the Institute for Ethics in AI, University of Oxford.
 
 **Nigel** opened the responses  with an emphasis on the fundamental principle that decisions affecting many people should involve many people. He pointed to the challenge, however, in finding resources to support these efforts noting that while philanthropy often directs resources to civil society, this process can be uneven and there is a need for sustainable funding models that can help us to meet the ambition of global public dialogue on AI. In his contribution, Nigel also pointed to the need to understand AI as much more than just generative AI, and to pursue serious engagement with both the public and the technical community to explore the values embedded in AI technology.
