@@ -42,7 +42,7 @@ Specifically, we want to co-design definitions of care in the data about our eco
 
 Through this collaborative work with Connected by Data we aim to identify more patients who have direct experience of the new ways our health data is being used, develop more powerful communication tools explaining the issue to the public, and refine a set of demands that go beyond criticisms of current government policy to defining a vision of alternative governance, regulation, ownership models, and incentives for the use of health data within and beyond the NHS.
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/8Bhno3xNu38?si=BlVve7gfHEcO0YUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" align="center" src="https://www.youtube.com/embed/8Bhno3xNu38?si=BlVve7gfHEcO0YUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## No Excuses
 No Excuses is focused on preventing childhood online harm by securing tech accountability for young people. Our campaign has been created by a UK based group of campaigners who have experienced online sexual abuse. No Excuses believes that for online harm to be understood and prevented by regulators and government we need participatory data that does not exist now. We want to create community generated data on victims’ experiences of childhood online harms to ensure online safety regulation and policy is grounded in the reality of online harm.
