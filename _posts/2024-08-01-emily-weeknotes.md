@@ -9,7 +9,7 @@ A week of project checks, finally submitting our first VAT return, doing some lo
 ### What I need to take care of
 Monday is our monthly meetup followed by summer drinks so I’ll be hanging with the team all day which is fun and hoping we can maximise that time in progressing some chunky discussions. It’ll be nice to meet some partner organisations / friends in real life at the drinks too - pretty much all of whom I’ve only ever seen on Zoom.
 
-I’m then away at Lakefest from Wednesday, back to work on Tuesday 13th August, so will be using Tuesday next week to get everything ship shape for everyone. 
+I’m then away at [Lakefest](https://lakefest.co.uk/)(and yes, I will be attending...and winning!...the Disney bingo!) from Wednesday, back to work on Tuesday 13th August, so will be using Tuesday next week to get everything ship shape for everyone. 
 
 ### What I’ve been inspired or challenged or moved by
 I’m going to have a smug moment here. I do not consider myself a practical person. And I’m not confident when it comes to DIY. But today I fixed our “split inlet valve” in the toilet flush (with huge thanks to a [7 year old YouTube video](https://youtu.be/JyMw11SeLMs?si=OTceO38eKp6KBLwa)) and it is a self pride moment.  Also applause to YouTube…still teaching me how to do things as it has pretty much since its inception.
