@@ -33,6 +33,6 @@ In this Connected Conversation we will ask **what these ground-up perspectives m
 * Do calls for greater collective governance of data risk unintended consequences? 
 * Which assumptions about policy asks are confirmed, or questioned, from different standpoints around the globe?
 
-## Register to join us
+## Register
 
 To register to join this session [please complete the form here](https://us06web.zoom.us/meeting/register/tZModOGsqTItHN3tyqNbt0Z9_EvfnezBswyO#/registration). 
