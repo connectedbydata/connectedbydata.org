@@ -4,7 +4,7 @@ title: The trade union movement and public procurement of data and AI systems in
 image: wales-tuc.png
 link: 
 add-background: true
-date: 2024-09-05
+date: 2024-10-15
 upcoming: true
 writeup: false
 author: Adam Cantwell-Corn
@@ -27,7 +27,7 @@ Internationally, significant developments are seeking to ensure workers are acti
 
 With these examples and many more, the role of public procurement of AI in  supporting good governance is an emerging and complex field. This Design Lab brings together a range of stakeholders and diverse expertise to examine the challenges and opportunities in Wales, centring on how workers and trade unions can leverage procurement to protect and enhance worker’s rights and the integrity of public services.  
 
-**When:** Thursday 5 September 2024, 11am - 2pm.
+**When:** Tuesday 15 October 2024, 1:30 - 4:30pm.
 **Where:** Unite The Union building, Transport House, 1 Cathedral Rd, Cardiff CF11 9SD.
 
 > If you're interested in attending this event please contact [Adam](mailto:adam@connectedbydata.org).
