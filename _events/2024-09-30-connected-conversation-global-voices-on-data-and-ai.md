@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Global Voices: Dominant frameworks and alternative narratives to shape the future of data and AI"
-image: cbd-logo.png
+image: gv-logo.png
 upcoming: true
 writeup: false
 date: 2024-09-30
