@@ -3,6 +3,8 @@ layout: project
 title: Giving communities a powerful say in public sector data and AI projects
 subtitle: 
 image: mohn-westlake.jpeg
+topics:
+  - Public sector
 add-background: true
 completed: false
 ---

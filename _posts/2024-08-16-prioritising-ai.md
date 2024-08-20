@@ -6,6 +6,8 @@ category: blog
 projects:
   - "Giving communities a powerful say in public sector data and AI projects"
   - "People's Panel on AI"
+topics:
+  - Public sector
 ---
 I've [posted recently](https://x.com/JeniT/status/1823276006288875542) about the challenge of purpose and priorities in the adoption of AI by the public sector. This blog post expands on this to look not at what I think the priorities should be, but about how they should be decided, and that prioritisation method institutionalised given it's not a one off exercise.
 

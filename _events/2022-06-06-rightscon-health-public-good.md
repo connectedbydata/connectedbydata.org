@@ -5,6 +5,8 @@ image: RC2022-logo.png
 link: https://rightscon.summit.tc/t/2022/events/putting-the-good-in-health-data-as-a-public-good-pzB9m7wFZAzzsZwBmbmNau
 upcoming: false
 writeup: true
+topics:
+  - Health
 date: 2022-06-07
 author: Jeni Tennison
 category: speaking

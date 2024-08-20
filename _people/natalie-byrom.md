@@ -4,6 +4,8 @@ roles:
   - fellow
 title: Natalie Byrom
 role: Fellow
+topics:
+  - Justice
 picture: natalie.jpg
 twitter: "@NatalieByrom"
 email: "natalie@nataliebyrom.com"

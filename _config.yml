@@ -58,6 +58,9 @@ collections:
   projects:
     output: true
     permalink: :collection/:name
+  topics:
+    output: true
+    permalink: :collection/:name
   policies:
     output: true
     permalink: :collection/:name

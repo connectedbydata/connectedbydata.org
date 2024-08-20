@@ -5,6 +5,8 @@ image: 2024-06-25-panel.png
 link: 
 upcoming: false
 writeup: true
+topics:
+  - Public sector
 date: 2024-06-25
 author: Gavin Freeguard
 category: organising

@@ -9,6 +9,8 @@ upcoming: true
 writeup: false
 author: Adam Cantwell-Corn
 category: organising
+topics:
+  - Public sector
 project: Giving communities a powerful say in public sector data and AI projects
 presentation: 
 presentation-image: 

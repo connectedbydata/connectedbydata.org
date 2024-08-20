@@ -1,0 +1,146 @@
+---
+layout: default
+---
+<article>
+
+{%- capture header -%}
+  {%- capture breadcrumbs -%}
+    <li><a href="/topics">Topics</a></li>
+  {%- endcapture -%}
+  {%- include breadcrumbs.html items=breadcrumbs -%}
+  <h1 class="title is-1 is-size-3-mobile">
+    {{ page.title }}
+  </h1>
+  <p class="subtitle">
+    {{ page.subtitle }}
+  </p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture topicBackground -%}
+  {%- include rand-color.html seed=page.content -%}
+{%- endcapture -%}
+{%- assign topicBackground = topicBackground | strip -%}
+{%- capture topicContrast -%}
+  {%- if topicBackground == 'dark-green' -%}
+    darkest-green
+  {%- elsif topicBackground == 'darker-green' -%}
+    dark-green
+  {%- else -%}
+    darker-green
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture topic -%}
+  {%- include topic.html topic=page topicBackground=topicBackground topicContrast=topicContrast -%}
+{%- endcapture -%}
+{%- include section.html content=topic -%}
+
+{%- assign resources = site.resources | where: "topics", page.title | sort: "date" | reverse -%}
+{%- if resources.size > 0 -%}
+  <section class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Resources
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- capture resourcesSection -%}
+    {%- for resource in resources -%}
+      {%- capture resourceBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
+      {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+      {%- include resource.html resource=resource excerpt=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=resourcesSection -%}
+{%- endif -%}
+
+{%- assign projects = site.projects | where: "topics", page.title -%}
+{%- if projects.size > 0 -%}
+  <section class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Projects
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- capture projectsSection -%}
+    {%- for project in projects -%}
+      {%- capture projectBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
+      {%- capture projectContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+      {%- include project.html project=project excerpt=true imagePosition=imagePosition projectBackground=projectBackground projectContrast=projectContrast -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=projectsSection -%}
+{%- endif -%}
+
+{%- assign fellows = site.people | where: "roles", "fellow" | where: "topics", page.title -%}
+{%- if fellows.size > 0 -%}
+  <section class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Fellows
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- capture fellowsSection -%}
+    {%- for fellow in fellows -%}
+      {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture contrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture leftright -%}{%- cycle 'left', 'right' -%}{%- endcapture -%}
+      {%- include person.html person=fellow personBackground=personBackground contrast=contrast leftright=leftright -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=fellowsSection -%}
+{%- endif -%}
+
+{%- assign events = site.events | where: "topics", page.title -%}
+{%- if events.size > 0 -%}
+  <section class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Events
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- capture eventsSection -%}
+    {%- for event in events reversed -%}
+      {%- capture eventBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+      {%- capture eventContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include event.html event=event excerpt=true imagePosition=imagePosition eventBackground=eventBackground eventContrast=eventContrast -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=eventsSection -%}
+{%- endif -%}
+
+{%- assign posts = site.posts | where: "topics", page.title -%}
+{%- assign news = posts | where: "category", "news" -%}
+{%- assign opinion = posts | where: "category", "blog" -%}
+{%- assign weeknotes = posts | where: "category", "weeknotes" -%}
+{%- if posts.size > 0 -%}
+  {%- if news.size > 0 -%}
+    <section class="hero has-text-centered has-text-link">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
+          <p class="title">
+            Recent posts
+          </p>
+        </div>
+      </div>
+    </section>
+  {%- endif -%}
+  {%- include posts.html news=news opinion=opinion weeknotes=weeknotes -%}
+{%- endif -%}
+
+</article>

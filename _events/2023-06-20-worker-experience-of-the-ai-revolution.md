@@ -5,6 +5,8 @@ image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2023-06-20
+topics:
+  - Work
 author: Adam Cantwell-Corn
 category: organising
 project: Our Data Futures
