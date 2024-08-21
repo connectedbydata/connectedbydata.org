@@ -33,6 +33,7 @@ layout: default
 
 {%- capture project -%}
   {%- include project.html project=page projectBackground=projectBackground projectContrast=projectContrast -%}
+  {%- include topic-tags.html page=page -%}
 {%- endcapture -%}
 {%- include section.html content=project -%}
 

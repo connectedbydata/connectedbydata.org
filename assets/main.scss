@@ -804,3 +804,12 @@ $footer-color: white;
 
 // Utility class to mimic a paragraph, useful for items embedded in text
 .p { @extend p }
+
+.tags {
+  margin-top: 1em;
+
+  .tag.is-primary {
+    font-weight: bold;
+    color: white !important;
+  }
+}
