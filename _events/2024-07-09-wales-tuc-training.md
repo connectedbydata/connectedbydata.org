@@ -4,6 +4,7 @@ title: Scoping training needs on AI for trade unionists in Wales
 image: wales-tuc.png
 link: 
 add-background: true
+project: TUC Cymru
 date: 2024-07-09
 upcoming: false
 writeup: false

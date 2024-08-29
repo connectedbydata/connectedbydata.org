@@ -7,7 +7,7 @@ writeup: false
 date: 2024-01-31
 author: Adam Cantwell-Corn
 category: organising
-project: 
+project: TUC Cymru
 ---
 
 Not a day goes by where data and AI isn't in the news. Yet the most prominent voices tend to be tech CEOs, often overly focused on remote and extreme threats.
