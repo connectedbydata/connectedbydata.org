@@ -93,17 +93,17 @@
 {%- else -%}
   <div class="columns is-gapless project is-mobile is-hidden-desktop">
     {%- include random-graphic-block.html seed=project.content hidden='desktop' -%}
-    {%- include block.html square=true nested=true background=include.projectContrast hidden='mobile' -%}
-    {%- include block.html square=true content=image background=include.projectContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
+    {%- include block.html square=true content=image background="darker-green" hidden='desktop' -%}
   </div>
   <div class="columns is-gapless project">
     <div class="column has-nested is-hidden-touch">
       <div class="columns is-gapless">
         {%- include random-graphic-block.html seed=project.content nested=true -%}
-        {%- include block.html square=true nested=true content=image background=include.projectContrast -%}
-        {%- include block.html square=true nested=true background=include.projectContrast hidden='mobile' -%}
+        {%- include block.html square=true nested=true content=image background="darker-green" -%}
+        {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
       </div>
     </div>
-    {%- include block.html wide=true content=content background=include.projectBackground -%}
+    {%- include block.html wide=true content=content background="darkest-green" -%}
   </div>
 {%- endif -%}

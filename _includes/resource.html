@@ -136,17 +136,17 @@
   {%- endcapture -%}
   <div class="columns is-gapless resource is-mobile is-hidden-desktop">
     {%- include random-graphic-block.html seed=resource.content hidden='desktop' -%}
-    {%- include block.html square=true nested=true background=include.resourceContrast hidden='mobile' -%}
-    {%- include block.html square=true content=metadata background=include.resourceContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
+    {%- include block.html square=true content=metadata background="darker-green" hidden='desktop' -%}
   </div>
   <div class="columns is-gapless resource">
     <div class="column has-nested is-hidden-touch">
       <div class="columns is-gapless">
         {%- include random-graphic-block.html seed=resource.content nested=true -%}
-        {%- include block.html square=true nested=true content=metadata background=include.resourceContrast -%}
-        {%- include block.html square=true nested=true background=include.resourceContrast hidden='mobile' -%}
+        {%- include block.html square=true nested=true content=metadata background="darker-green" -%}
+        {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
       </div>
     </div>
-    {%- include block.html wide=true content=content background=include.resourceBackground -%}
+    {%- include block.html wide=true content=content background="darkest-green" -%}
   </div>
 {%- endif -%}
