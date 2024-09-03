@@ -13,7 +13,9 @@ project:
 ---
 
 Sunday 22 September 18:00 – 20:00
+
 Madre Restaurant, 6 Atlantic Pavilion Albert Dock, Liverpool L3 4AE
+
 [Sign-up](https://lu.ma/u1x7lfwo)
 
 <!--more-->
