@@ -9,7 +9,9 @@ upcoming: true
 writeup: false
 author: Adam Cantwell-Corn
 category: organising
-project: Giving communities a powerful say in public sector data and AI projects
+project:
+- Giving communities a powerful say in public sector data and AI projects
+- TUC Cymru
 presentation: 
 presentation-image: 
 ---
