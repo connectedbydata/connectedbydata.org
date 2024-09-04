@@ -34,7 +34,7 @@ Join us for a closed door conversation about the potential of, and practical ste
 * **Tim Davies**, Director of Research and Practice at Connected by Data,
 * **Helene Landemore**, Professor of Political Science, Yale University & Fellow of Ethics in AI Institute, University of Oxford,
 * **Aish Machani & Richard Wilson**, ISWE Foundation / Coalition for a Global Citizens Assembly
-* **Kiito Shilongo**, Senior Tech Policy Fellow, Mozilla,
+* **Kiito Shilongo**, Tech Policy Researcher
 * **Lina Srivastava**, Founder, Center for Transformational Change
 
 We aim to come away from the Salon with ideas and actions that explore:
