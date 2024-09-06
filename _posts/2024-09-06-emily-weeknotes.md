@@ -6,7 +6,7 @@ category: weeknotes
 ### What I’ve been doing
 The week started off as a catch up and has expanded into spending some time with budgets (monthly reconciliation, projects ending soon, new money received), and fundraising planning (mapping reporting schedules, tracking progress on developing new opportunities). We’re in a period where there is more wrapping up than starting and there’s a balance to be found with the reality of the resource implications of that against energy and opportunities to be explored. 
 
-I was notetaker at this week’s Data and AI Civil Society Network meeting which was really well attended and engaged with. It’s a powerful space of sharing which seems to be valued by those that attend every fortnight.
+I was notetaker at this week’s [Data and AI Civil Society Network](https://data-and-ai-cso-network.org/) meeting which was really well attended and engaged with. It’s a powerful space of sharing which seems to be valued by those that attend every fortnight.
 
 I’ve been continuing to build my new social media home in Bluesky and there’s definitely an uplift in people posting there or Threads (I’m on Threads mainly for the celebs and brands). The only time I’ve missed X has been for instant comment on something happening.
 
