@@ -139,46 +139,7 @@ But some of how the report reads makes me wonder how this acceptance was achieve
 
 I also always check with these kinds of dialogues who exactly the participants heard from, and what they heard. In this case, the appendix lists some videos they were shown (they didn’t have a chance to question or discuss things with these witnesses):
 
-<blockquote>
-<table>
-  <tr>
-   <th>Role and organisation</th>
-   <th>Name</th>
-   <th>Topic</th>
-  </tr>
-  <tr>
-   <th>Head of Government Practice at Faculty</th>
-   <td>Tom Nixon</td>
-   <td>What is AI and why is it important?</td>
-  </tr>
-  <tr>
-   <th>Data Scientist at 10 Downing Street</th>
-   <td>Andreas Varotsis</td>
-   <td>What is machine learning?</td>
-  </tr>
-  <tr>
-   <th>Head of Digital Education at Bourne Educational Trust</th>
-   <td>Chris Goodall</td>
-   <td>Potential benefits of using AI for teachers and pupils</td>
-  </tr>
-  <tr>
-   <th>Head of Digital Learning at Basingstoke College of Technology</th>
-   <td>Scott Hayden</td>
-   <td>Potential benefits of using AI for teachers and pupils</td>
-  </tr>
-  <tr>
-   <th>Digital Strategy at the Department for Education</th>
-   <td>Fay Skevington</td>
-   <td>Potential risks of using AI around data protection, privacy, and IP</td>
-  </tr>
-  <tr>
-   <th>Parliamentary Under-Secretary of State at the Department for Education</th>
-   <td>Baroness Barran</td>
-   <td>The bigger picture: wider risks and benefits of AI use and how to manage them</td>
-  </tr>
-</table>
-</blockquote>
-
+![Table showing the witnesses as: Head of Government Practice at Faculty, Tom Nixon – What is AI and why is it important?; Data Scientist at 10 Downing Street, Andreas Varotsis – What is machine learning?; Head of Digital Education at Bourne Educational Trust, Chris Goodall – Potential benefits of using AI for teachers and pupils; Head of Digital Learning at Basingstoke College of Technology, Scott Hayden – Potential benefits of using AI for teachers and pupils; Digital Strategy at the Department for Education, Fay Skevington – Potential risks of using AI around data protection, privacy, and IP; Parliamentary Under-Secretary of State at the Department for Education, Baroness Barran – The bigger picture: wider risks and benefits of AI use and how to manage them](/assets/blog/2024-09-05-ai-education-public-attitudes.jpeg)
 
 What I’ll observe here is there were a bunch of kinds of people the participants _didn't_ hear from, but who have expertise and opinions about the issues under discussion. That includes ordinary teachers (as opposed to those specialising in the use of digital technologies), union representatives, for example from the [NEU](https://neu.org.uk/node/1) or [NASUWT](https://www.nasuwt.org.uk/), and civil society groups concerned about children’s data and digital rights such as [Defend Digital Me](https://defenddigitalme.org/) or [Five Rights](https://5rightsfoundation.com/).
 
