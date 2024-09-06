@@ -7,7 +7,7 @@ add-background: true
 date: 2024-09-26
 upcoming: true
 writeup: false
-author: Tim Davies
+author: Helena Hollis
 category: organising
 project: Catalysing Community Campaigns
 presentation: 
