@@ -1,0 +1,109 @@
+{%- assign topic = include.topic -%}
+{%- capture image -%}
+  <figure class="image">
+    <img src="/assets/topics/{{ topic.image }}">
+  </figure>
+{%- endcapture -%}
+{%- capture image -%}
+  {%- if topic.add-background -%}
+    <div class="subpoint has-background-white">
+      {{ image }}
+    </div>
+  {%- else -%}
+    <div class="topic-picture">
+      {{ image }}
+    </div>
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture more -%}
+  <p>
+    <a href="{{ topic.url | relative_url }}">
+      <i class="fas fa-arrow-alt-circle-right"></i>
+      &nbsp;Read more
+    </a>
+  </p>
+{%- endcapture -%}
+
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {{ topic.subtitle }}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="topic-link" href="{{ topic.url | relative_url }}">
+        {{ topic.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+    {%- if include.headingonly -%}
+      <div class="subtitle is-6">
+        {{ more }}
+      </div>
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- capture content -%}
+  <div class="content">
+    {%- if include.excerpt -%}
+      {{ topic.excerpt }}
+      {{ more }}
+    {%- else -%}
+      {{ topic.content | markdownify }}
+    {%- endif -%}
+  </div>
+{%- endcapture -%}
+
+{%- if include.excerpt -%}
+  <div class="columns is-gapless topic is-mobile is-hidden-tablet">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=topic.content hidden='tablet' -%}
+      {%- include block.html square=true content=image background=include.topicBackground hidden='tablet' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image background=include.topicBackground hidden='tablet' -%}
+      {%- include random-graphic-block.html seed=topic.content hidden='tablet' -%}
+    {%- endif -%}
+  </div>
+  <div class="columns is-gapless topic">
+    {%- if include.imagePosition == 'right' -%}
+      {%- include random-graphic-block.html seed=topic.content hidden='touch' -%}
+      {%- include block.html content=title background=include.topicBackground -%}
+      {%- include block.html square=true content=image background=include.topicBackground hidden='mobile' -%}
+    {%- else -%}
+      {%- include block.html square=true content=image  background=include.topicBackground hidden='mobile' -%}
+      {%- include block.html content=title background=include.topicBackground -%}
+      {%- include random-graphic-block.html seed=topic.content hidden='touch' -%}
+    {%- endif -%}
+  </div>
+  {%- if include.headingonly -%}
+  {%- else -%}
+    <div class="columns is-gapless topic">
+      {%- if include.imagePosition == 'right' -%}
+        {%- include block.html square=true background=include.topicContrast hidden='touch' -%}
+        {%- include block.html wide=true content=content background=include.topicBackground -%}
+      {%- else -%}
+        {%- include block.html wide=true content=content background=include.topicBackground -%}
+        {%- include block.html square=true background=include.topicContrast hidden='touch' -%}
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+{%- else -%}
+  <div class="columns is-gapless topic is-mobile is-hidden-desktop">
+    {%- include block.html square=true content=image background=include.topicContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=include.topicContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background=include.topicContrast hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless topic">
+    <div class="column has-nested is-hidden-touch">
+      <div class="columns is-gapless">
+        {%- include block.html square=true nested=true content=image background=include.topicContrast -%}
+        {%- include block.html square=true nested=true background=include.topicContrast hidden='desktop' -%}
+        {%- include block.html square=true nested=true background=include.topicContrast hidden='mobile' -%}
+      </div>
+    </div>
+    {%- include block.html wide=true content=content background=include.topicBackground -%}
+  </div>
+{%- endif -%}

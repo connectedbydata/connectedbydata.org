@@ -5,6 +5,8 @@ image: cbd-logo.png
 upcoming: false
 writeup: false
 date: 2024-02-26
+topics:
+  - Education
 author: Helena Hollis
 category: organising
 link: 

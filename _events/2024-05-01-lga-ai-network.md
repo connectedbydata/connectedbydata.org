@@ -5,6 +5,8 @@ image: lga.png
 upcoming: false
 writeup: true
 date: 2024-05-01
+topics:
+  - Public sector
 author: Tim Davies
 category: attending
 project: Governance Game

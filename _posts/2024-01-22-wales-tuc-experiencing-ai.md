@@ -2,6 +2,8 @@
 layout: post
 title: "A snapshot of workers in Wales’ understanding and experience of AI"
 author: Adam Cantwell-Corn
+topics:
+  - Work
 category: news
 ---
 We were pleased to support the research and writing of the Wales' TUC report entitled "A snapshot of workers in Wales’ understanding and experience of AI".

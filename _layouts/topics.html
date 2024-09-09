@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{%- capture header -%}
+<h1 class="title">Topics</h1>
+<p class="subtitle">Areas we're interested in</p>
+{%- endcapture -%}
+{%- include header.html content=header -%}
+
+{%- capture sectorSection -%}
+  {%- capture content -%}
+    <div class="point">
+      <h3 class="title is-4">Sectors</h3>
+      <h4 class="subtitle">Places where data and AI get used</h4>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='dark-green' hidden='mobile' -%}
+    {%- include block.html content=content background='dark-green' -%}
+    {%- include block.html background='medium-dots' hidden='touch' -%}
+  </div>
+  {%- assign sectors = site.topics | where: "category", "sector" -%}
+  {%- assign seed = sectors | map: "title" | join: "" -%}
+  {%- assign seed2 = sectors | map: "content" | join: "" -%}
+  {%- capture topicBlocks -%}
+    {%- for topic in sectors -%}
+      {%- capture content -%}
+        <div class="subpoint">
+          <figure class="image is-128x128">
+            <a href="{{ topic.url }}">
+              <img src="/assets/topics/{{ topic.image }}">
+            </a>
+          </figure>
+          <p class="title is-6">
+            <a href="{{ topic.url }}">{{ topic.title }}</a>
+          </p>
+        </div>
+      {%- endcapture -%}
+      {%- include block.html square=true content=content -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include filler-blocks.html size=sectors.size blocks=topicBlocks seed1=seed seed2=seed2 -%}
+{%- endcapture -%}
+{%- include section.html content=sectorSection -%}

@@ -7,6 +7,9 @@ add-background: true
 date: 2024-05-22
 upcoming: false
 writeup: true
+project: TUC Cymru
+topics:
+  - Work
 author: Adam Cantwell-Corn
 category: speaking
 project: TUC Cymru

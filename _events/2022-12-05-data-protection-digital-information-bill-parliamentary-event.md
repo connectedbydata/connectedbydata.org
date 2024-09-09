@@ -5,6 +5,10 @@ subtitle: The Data Protection and Digital Information Bill and Beyond
 image: cbd-logo.png
 upcoming: false
 writeup: true
+topics:
+  - Education
+  - Work
+  - Public sector
 date: 2022-12-05
 author: Gavin Freeguard
 category: organising

@@ -4,6 +4,8 @@ roles:
   - fellow
 title: Nicola Hamilton
 role: Fellow
+topics:
+  - Health
 picture: nicola.jpg
 twitter: "@patient_data"
 email: "Nicola.hamilton@understandingpatientdata.org.uk"

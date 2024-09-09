@@ -4,6 +4,8 @@ roles:
   - fellow
 title: Judith Townend
 role: Fellow
+topics:
+  - Justice
 picture: judith.jpeg
 twitter: "@jtownend"
 mastodon: "@jtownend@mas.to"

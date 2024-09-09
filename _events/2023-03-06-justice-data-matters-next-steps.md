@@ -5,6 +5,8 @@ image: justice-lab-logo.svg
 add-background: true
 upcoming: false
 writeup: false
+topics:
+  - Justice
 date: 2023-03-06
 author: Jeni Tennison
 category: organising

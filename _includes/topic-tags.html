@@ -1,0 +1,9 @@
+{%- assign page = include.page -%}
+{%- if page.topics -%}
+  <div class="tags are-medium">
+    {%- for topicTitle in page.topics -%}
+      {%- assign topic = site.topics | where: "title", topicTitle | first -%}
+      {%- include topic-tag.html topic=topic -%}
+    {%- endfor -%}
+  </div>
+{%- endif -%}

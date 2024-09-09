@@ -3,6 +3,8 @@ layout: post
 author: Tim Davies
 title: Observing the NHS AI Lab Public Dialogue on Data Stewardship
 category: blog
+topics:
+  - Health
 ---
 
 Over last three weeks at the end of July 2022 I was an observer of the [NHS AI Lab Public Dialogue on data stewardship](https://www.ipsos.com/en-uk/understanding-how-public-feel-decisions-should-be-made-about-access-their-personal-health-data-ai): a process involving around 50 members of the public meeting for 12 hours (across four sessions) to share their ‘thoughts, aspirations, hopes and concerns’ about **how** access to healthcare data for AI purposes should be managed. A report of the dialogue was published by the organisers (Open Data Institute, Imperial College Health Partners and Ipsos), and the NHS AI Lab (who co-funded the dialogue along with Sciencewise) intend to use the findings to inform the Terms of Reference for a research competition titled ‘Participatory Fund for Patient-Driven AI Ethics Research’. 

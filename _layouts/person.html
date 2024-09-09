@@ -80,6 +80,7 @@ layout: default
     {%- include block.html square=true content=metadata background="darker-green" hidden='desktop' -%}
     {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
   </div>
+  {%- include topic-tags.html page=page -%}
 {%- endcapture -%}
 
 {%- include section.html content=personContent -%}

@@ -41,6 +41,7 @@ layout: default
 
 {%- capture event -%}
   {%- include event.html event=page eventBackground=eventBackground eventContrast=eventContrast -%}
+  {%- include topic-tags.html page=page -%}
 {%- endcapture -%}
 {%- include section.html content=event -%}
 

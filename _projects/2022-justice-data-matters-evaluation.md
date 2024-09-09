@@ -3,6 +3,8 @@ layout: project
 title: Justice Data Matters Evaluation
 subtitle: Justice Lab (at The Legal Education Foundation)
 image: justice-lab-logo.svg
+topics:
+  - Justice
 add-background: true
 completed: true
 ---

@@ -3,6 +3,8 @@ layout: project
 title: LGA AI for Local Government explainer series
 subtitle: Connected by Data working with Brickwall
 image: lga.png
+topics:
+  - Public sector
 add-background: true
 completed: true
 ---

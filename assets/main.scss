@@ -292,7 +292,7 @@ $footer-color: white;
       }
     }
 
-    div.subpoint, div.literature-picture, div.resource-picture, div.project-picture, div.icon {
+    div.subpoint, div.literature-picture, div.resource-picture, div.project-picture, div.topic-picture, div.icon {
       color: white;
       padding: 1rem;
       display: flex;
@@ -607,7 +607,7 @@ $footer-color: white;
   }
 }
 
-.post, .person, .job, .event, .resource, .project, .case, .quote, .ar-point {
+.post, .person, .job, .event, .resource, .project, .topic, .case, .quote, .ar-point {
   .content {
     padding: 2rem;
     line-height: 1.75rem;
@@ -804,3 +804,12 @@ $footer-color: white;
 
 // Utility class to mimic a paragraph, useful for items embedded in text
 .p { @extend p }
+
+.tags {
+  margin-top: 1em;
+
+  .tag.is-primary {
+    font-weight: bold;
+    color: white !important;
+  }
+}

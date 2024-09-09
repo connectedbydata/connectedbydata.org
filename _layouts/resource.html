@@ -36,6 +36,7 @@ layout: default
 
 {%- capture resource -%}
   {%- include resource.html resource=page resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+  {%- include topic-tags.html page=page -%}
 {%- endcapture -%}
 {%- include section.html content=resource -%}
 

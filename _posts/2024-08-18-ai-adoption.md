@@ -5,6 +5,8 @@ author: Jeni Tennison
 category: blog
 projects:
   - "Giving communities a powerful say in public sector data and AI projects"
+topics:
+  - Public sector
 ---
 I [posted recently](https://x.com/JeniT/status/1823276006288875542) about the challenge of adoption of AI by the public sector. 
 

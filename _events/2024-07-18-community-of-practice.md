@@ -5,6 +5,8 @@ image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2024-07-18
+topics:
+  - Public sector
 author: Gavin Freeguard
 category: organising
 link: 
