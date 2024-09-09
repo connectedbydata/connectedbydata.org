@@ -64,35 +64,21 @@ layout: default
 </div>
 {%- endcapture -%}
 
-{%- capture personBackground -%}
-  {%- include rand-color.html seed=page.title -%}
-{%- endcapture -%}
-{%- assign personBackground = personBackground | strip -%}
-{%- capture personContrast -%}
-  {%- if personBackground == 'dark-green' -%}
-    darkest-green
-  {%- elsif personBackground == 'darker-green' -%}
-    dark-green
-  {%- else -%}
-    darker-green
-  {%- endif -%}
-{%- endcapture -%}
-
 {%- capture personContent -%}
   <div class="columns is-gapless post">
     <div class="column has-nested is-hidden-touch">
       <div class="columns is-gapless">
         {%- include random-graphic-block.html seed=page.title nested=true -%}
-        {%- include block.html square=true nested=true content=metadata background=personContrast -%}
-        {%- include block.html square=true nested=true background=personContrast hidden='mobile' -%}
+        {%- include block.html square=true nested=true content=metadata background="darker-green" -%}
+        {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
       </div>
     </div>
-    {%- include block.html wide=true content=content background=personBackground -%}
+    {%- include block.html wide=true content=content background="darkest-green" -%}
   </div>
   <div class="columns is-gapless post is-mobile is-hidden-desktop">
     {%- include random-graphic-block.html seed=page.title hidden='desktop' -%}
-    {%- include block.html square=true content=metadata background=personContrast hidden='desktop' -%}
-    {%- include block.html square=true nested=true background=personContrast hidden='mobile' -%}
+    {%- include block.html square=true content=metadata background="darker-green" hidden='desktop' -%}
+    {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
   </div>
   {%- include topic-tags.html page=page -%}
 {%- endcapture -%}

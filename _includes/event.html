@@ -127,18 +127,18 @@
 {%- else -%}
   <div class="columns is-gapless event is-mobile is-hidden-desktop">
     {%- include random-graphic-block.html seed=event.content hidden='desktop' -%}
-    {%- include block.html square=true nested=true background=include.eventContrast hidden='mobile' -%}
-    {%- include block.html square=true content=image background=include.eventContrast hidden='desktop' -%}
+    {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
+    {%- include block.html square=true content=image background="darker-green" hidden='desktop' -%}
   </div>
   <div class="columns is-gapless event">
     <div class="column has-nested is-hidden-touch">
       <div class="columns is-gapless">
         {%- include random-graphic-block.html seed=event.content nested=true -%}
-        {%- include block.html square=true nested=true content=image background=include.eventContrast -%}
-        {%- include block.html square=true nested=true background=include.eventContrast hidden='mobile' -%}
+        {%- include block.html square=true nested=true content=image background="darker-green" -%}
+        {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
       </div>
     </div>
-    {%- include block.html wide=true content=content background=include.eventBackground -%}
+    {%- include block.html wide=true content=content background="darkest-green" -%}
   </div>
   {%- if event.presentation -%}
     {%- capture presentation -%}

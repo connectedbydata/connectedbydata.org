@@ -21,7 +21,7 @@ On 31st January 2024 we hosted an event at the Senedd, with the Wales TUC and Co
 
 Rooted in the big questions, this event brought together a wide range of perspectives – from the power of lived experience to policy expertise and political decision making – all focused on ensuring a fair technological transition in the workplace.
 
-Speaking at the event was: 
+Speaking at the event were: 
 
 * **David Schwarz**, **UCU branch secretary**, Social Partnership Lead & Lecturer at Coleg Cambria further education college, Deeside.  
 * **Manon Eames**, writer and chair of the Writers Guild in Wales. 
