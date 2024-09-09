@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Global Voices: Dominant frameworks and alternative narratives to shape the future of data and AI"
+title: "Global Voices: What does data governance mean to you?"
 image: gv-logo.png
 upcoming: true
 writeup: false
@@ -10,6 +10,8 @@ category: organising
 link: 
 project: Connected Conversations
 ---
+
+**What does data governance mean to you?** Exploring dominant frameworks and alternative narratives to shape the future of data and AI.
 
 Join us for a Connected Conversation with the [Global Voices](https://globalvoices.org/) team, sharing the results of their [Future of Data Challenge project](https://www.futureofdatachallenge.org/winners/stichting-global-voices) running the [data governance civic media observatory](https://globalvoices.org/special/data-narratives-cmo/). 
 
@@ -27,11 +29,7 @@ Over the first months of 2024, the [Global Voices Civic Media Observatory on Dat
 
 The narratives uncovered bring into view the physicality of data governance (**[Bitcoin mining's toll on El Salvador leaves communities without water](https://globalvoices.org/2024/05/31/bitcoin-minings-toll-on-el-salvador-leaves-communities-without-water/)**), the contested impact of AI governance on freedom of expression, and the absence of robust public engagement (**[The Brazilian and Indian dilemma: How to regulate AI and Big Tech?](https://globalvoices.org/2024/05/31/the-brazilian-and-indian-dilemma-how-to-regulate-ai-and-big-tech/)**), unrealised promise of digital innovation (**[Lion or mosquito: The state of the AI debate in Turkey](https://globalvoices.org/2024/05/31/lion-or-mosquito-the-state-of-the-ai-debate-in-turkey/)**), and challenges of delivering trusted data infrastructure in post-conflict societies. 
 
-In this Connected Conversation we will ask **what these ground-up perspectives might mean for global campaigns on data governance,** exploring questions such as:
-
-* How do campaigns addressing big tech play out in different country contexts?
-* Do calls for greater collective governance of data risk unintended consequences? 
-* Which assumptions about policy asks are confirmed, or questioned, from different standpoints around the globe?
+In this Connected Conversation we will ask **what these ground-up perspectives might mean for global campaigns on data governance,** exploring how the findings from the Civic Media observatory support or challenge existing advocacy for collective and community-driven data governance. 
 
 ## Register
 
