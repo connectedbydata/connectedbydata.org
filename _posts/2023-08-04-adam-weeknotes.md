@@ -2,6 +2,8 @@
 layout: post
 author: Adam Cantwell-Corn
 category: weeknotes
+topics:
+  - Education
 ---
 
 Whether it's in the workplace, the school system or the Government’s AI Summit, the overriding sense I get from the surge in prominence of data and AI technologies - and the haste to respond to it - is one of confusion and even chaos. 

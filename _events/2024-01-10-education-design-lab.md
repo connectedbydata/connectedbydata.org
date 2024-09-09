@@ -5,6 +5,8 @@ image: cbd-logo.png
 upcoming: false
 writeup: true
 date: 2024-01-10
+topics:
+  - Education
 author: Helena Holis
 category: organising
 project: Growing Data Governance Communities

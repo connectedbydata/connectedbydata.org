@@ -5,6 +5,8 @@ author: Jeni Tennison
 category: blog
 projects:
   - "Giving communities a powerful say in public sector data and AI projects"
+topics:
+  - Education
 ---
 The Department for Education has recently released [public attitudes research](https://www.gov.uk/government/publications/research-on-parent-and-pupil-attitudes-towards-the-use-of-ai-in-education/research-on-public-attitudes-towards-the-use-of-ai-in-education) on what parents and pupils think about AI in education, as part of its announcement of a [£4m investment to create a dataset to support building AI tools](https://www.gov.uk/government/news/teachers-to-get-more-trustworthy-ai-tech-as-generative-tools-learn-from-new-bank-of-lesson-plans-and-curriculums-helping-them-mark-homework-and-save). This is a bit of a hangover from the previous government (the work was carried out earlier in 2024), but reflective of the current government’s commitment to maximising adoption of AI across the public sector.
 

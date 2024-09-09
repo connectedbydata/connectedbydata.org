@@ -5,6 +5,8 @@ image: 2022-06-29-digital-futures-commission.png
 link: https://digitalfuturescommission.org.uk/wp-content/uploads/2022/06/Education-data-reality-report.pdf
 upcoming: false
 writeup: true
+topics:
+  - Education
 date: 2022-06-29
 author: Jonathan Smith
 category: attending
