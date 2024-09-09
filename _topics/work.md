@@ -8,4 +8,4 @@ The most essential purpose of work is the means to sustain ourselves. At its bes
 
 A key strategic focus for Connected by Data has been on how to build worker power on data and AI so that the rules, choices and processes of technology protect and enhance our livelihoods and wellbeing day in and day out. 
 
-Through a series of projects and events we’re working in collaboration with workers and unions, from picket lines to Parliament, to amplify voices, create policy and develop strategies to take the initiative on data and AI across the world of work, including in the civil service, education and logistics.
+Through a series of projects and events, we’re working in collaboration with workers and unions, from picket lines to Parliament, to amplify voices, create policy and develop strategies to take the initiative on data and AI across the world of work, including in the civil service, education and logistics.
