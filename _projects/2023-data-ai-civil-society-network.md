@@ -1,10 +1,10 @@
 ---
 layout: project
 title: Data and AI Civil Society Network
-subtitle: 
+subtitle:
+image: cbd-logo.png 
 topics:
   - Civil society countervailing power
-image: cbd-logo.png
 add-background: true
 completed: false
 ---
