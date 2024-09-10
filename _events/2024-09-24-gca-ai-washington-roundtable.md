@@ -4,7 +4,7 @@ title: "OpenGovHub discussion: The role of citizens in AI governance"
 image: opengovhub.jpg
 upcoming: true
 writeup: false
-date: 2024-09-20
+date: 2024-09-24
 author: Tim Davies
 category: speaking
 link: 
