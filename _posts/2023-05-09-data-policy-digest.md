@@ -5,8 +5,6 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
-topics:
-  - Civil society countervailing power
 ---
 Hello, and welcome to Connected by Data’s second Data Policy Digest!
 

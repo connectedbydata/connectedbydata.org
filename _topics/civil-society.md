@@ -1,6 +1,7 @@
 ---
 layout: topic
 title: Civil society countervailing power
+subtitle: 
 category: 
 image: civil-society.png
 ---

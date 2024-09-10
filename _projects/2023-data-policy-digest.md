@@ -3,6 +3,8 @@ layout: project
 title: Data Policy Digest
 subtitle: Bringing you all the latest data and AI policy developments
 image: jrrt.png
+topics:
+  - Civil society countervailing power
 add-background: true
 completed: false
 ---
