@@ -9,6 +9,8 @@ upcoming: false
 writeup: true
 author: Jeni Tennison
 category: speaking
+topics:
+  - Civil society countervailing power
 ---
 
 [The Technology & Democracy Conference](https://www.mctd.ac.uk/the-technology-and-democracy-conference/) was organised by the Minderoo Centre for Technology and Democracy, which is an independent team of academic researchers at the University of Cambridge, who are radically rethinking the power relationships between digital technologies, society and our planet.

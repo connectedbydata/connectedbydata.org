@@ -5,6 +5,8 @@ author: Jonathan Smith
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Civil society countervailing power
 ---
 Hello, and welcome to the first Data Policy Digest from Connected by Data!
 

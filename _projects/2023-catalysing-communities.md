@@ -5,6 +5,7 @@ subtitle: To protect and build data rights in the UK
 image: community data campaigns.png
 topics:
   - Health
+  - Civil society countervailing power
 add-background: true
 completed: false
 ---

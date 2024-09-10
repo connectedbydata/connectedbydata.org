@@ -8,6 +8,8 @@ date: 2024-02-13
 author: Jonathan Smith
 category: organising
 project: Seizing The Moment
+topics:
+  - Civil society countervailing power
 ---
 
 Almost every modern policy reform relies on new data systems, and increasingly involves technologies labelled as Artificial Intelligence (AI) to make and shape decisions. Whether that’s education, health, benefits, housing, social care, work, policing, democratic engagement or a multitude of other areas.

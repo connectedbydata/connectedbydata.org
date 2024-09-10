@@ -8,6 +8,8 @@ writeup: true
 date: 2023-10-09
 author: Adam Cantwell-Corn
 category: organising
+topics:
+  - Civil society countervailing power
 ---
 AI, data rights, the power of big tech, online safety… digital, data and technology policy is breaking into the political mainstream like never before. Any incoming Labour government will need to make the most of the opportunities afforded by new tech and the better use of data to deliver on its industrial strategy and public services plans – while protecting the public against the risks, hype and vested interests. So what should a Labour administration do – and not do?
 
