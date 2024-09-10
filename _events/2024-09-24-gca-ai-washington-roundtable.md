@@ -17,4 +17,4 @@ We're joining forces with Jed Miller of **3 Bridges** and the [Accountability La
 
 As the hype around AI and its risks shifts into the hard work of public decisions and rulemaking, how will governments, tech companies, and NGOs make good on their declarations of greater inclusion in the design and accountability of AI systems?
 
-If you would liike to join us for this roundtable discussion at the Open Gov Hub, 1100 13th St NW, Suite 800, with a Hub Happy Hour to follow drop a line to [mailto:tim@connectedbydata.org] for an invite. 
+If you would liike to join us for this roundtable discussion at the Open Gov Hub, 1100 13th St NW, Suite 800, with a Hub Happy Hour to follow drop a line to [mailto:tim@connectedbydata.org](tim@connectedbydata.org) for an invite. 
