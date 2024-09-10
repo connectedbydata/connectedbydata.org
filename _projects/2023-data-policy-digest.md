@@ -5,7 +5,7 @@ subtitle: Bringing you all the latest data and AI policy developments
 image: jrrt.png
 topics:
   - Civil society countervailing power
-add-background: true
+add-background: false
 completed: false
 ---
 In a comprehensive regular posting - up to twice a month -  data policy maestro Gavin Freeguard pulls together all the news, views and gossip from data and AI policy land, with a UK focus. 
