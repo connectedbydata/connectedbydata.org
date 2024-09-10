@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Civil society countervailing power
 ---
 Hello, and welcome to our 24th Data Policy Digest, bringing you all the latest data and AI policy developments, with something of a back-to-school feel - though it’s not as if, for those of us following data and AI policy, it feels like there was much of a break at all.
 

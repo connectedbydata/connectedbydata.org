@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Civil society countervailing power
 ---
 Hello, and welcome to our fourteenth Data Policy Digest, bringing you all the latest data and AI policy developments. The Budget, national insurance cuts, tax cuts, and a possible May election are just some of the topics dominating the political fiscal discourse and doubling as an SEO-friendly introduction to this fortnight’s newsletter, a blockbuster on a par with anything at this weekend’s Oscars and with more political intrigue than Super Tuesday or a day in the life of Christian Horner at Red Bull. If that doesn’t game Google, nothing will.
 

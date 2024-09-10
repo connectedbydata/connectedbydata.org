@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Civil society countervailing power
 ---
 Hello! Or rather, tere! 
 

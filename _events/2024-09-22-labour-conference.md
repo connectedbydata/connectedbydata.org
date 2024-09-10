@@ -10,6 +10,8 @@ category: organising
 link: 
 project: 
     - Seizing the Moment
+topics:
+  - Civil society countervailing power
 ---
 
 Sunday 22 September 18:00 – 20:00

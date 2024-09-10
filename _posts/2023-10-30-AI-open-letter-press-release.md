@@ -4,6 +4,8 @@ title: AI Summit is dominated by Big Tech and a “missed opportunity”, civil 
 author: Adam Cantwell-Corn
 category: news
 projects:
+topics:
+  - Civil society countervailing power
 ---
 
 * **More than 100 UK and international organisations, experts and campaigners sign open letter to Rishi Sunak** 
