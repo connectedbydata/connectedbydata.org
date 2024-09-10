@@ -5,7 +5,7 @@ subtitle:
 image: cbd-logo.png 
 topics:
   - Civil society countervailing power
-add-background: true
+add-background: false
 completed: false
 ---
 The Data and AI Civil Society Network brings together diverse civil society organisations and campaigners to share and collaborate on policy, campaigns and advocacy on data and AI. 
