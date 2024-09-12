@@ -2,6 +2,8 @@
 layout: event
 title: The state of automation in the UK public sector
 image: nsmg-live-logo.svg
+topics:
+  - Public sector
 link: https://nsmg.live/event/public-sector-symposium/
 upcoming: false
 writeup: false

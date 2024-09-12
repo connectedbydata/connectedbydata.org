@@ -8,6 +8,8 @@ date: 2023-08-02
 author: Adam Cantwell-Corn
 category: organising
 project: Our Data Futures
+topics:
+  - Work
 ---
 
 **Wales TUC are looking into how AI is affecting workers across different sectors, and how trade unionists are managing the increasing roll out of data-driven technologies**

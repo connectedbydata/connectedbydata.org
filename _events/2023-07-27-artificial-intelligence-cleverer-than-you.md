@@ -8,6 +8,8 @@ date: 2023-07-27
 author: Adam Cantwell-Corn
 category: organising
 project: Our Data Futures
+topics:
+  - Work
 ---
 
 **New technology is being forced on workers without consent.  But trade union members are determined to resist the negative aspects of artificial intelligence.**

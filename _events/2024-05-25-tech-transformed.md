@@ -9,6 +9,8 @@ upcoming: false
 writeup: false
 author: Adam Cantwell-Corn
 category: speaking
+topics:
+  - Work
 presentation: 
 presentation-image: 
 ---

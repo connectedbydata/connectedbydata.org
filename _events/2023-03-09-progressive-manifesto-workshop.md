@@ -9,6 +9,8 @@ date: 2023-03-09
 author: Jonathan Smith
 category: organising
 project: Our Data Futures
+topics:
+  - Civil society countervailing power
 ---
 
 On Thursday 9 March 2023, **CONNECTED** BY **DATA**, working with [Labour Together](https://www.labourtogether.uk/), convened a workshop with experts from civil society (and Labour advisers) to consider:

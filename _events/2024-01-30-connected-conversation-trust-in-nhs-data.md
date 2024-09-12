@@ -9,6 +9,8 @@ author: Helena Hollis
 category: organising
 link: 
 project: Connected Conversations
+topics:
+  - Health
 ---
 
 On 30th January 2024 we hosted a conversation to share findings from, and have a wider discussion about, the implications of "[Our Health Data Stories](https://justtreatment.org/news/2023/11/22/our-health-data-stories)"; a report written by [Just Treatment](https://justtreatment.org/) and Connected by Data. The report aims to bring out the personal stories of a range of patients as they encounter, think about, and respond to health data collection and use, to ground understanding and action in lived experience and help deliver person-centred care. It exposes how patients think about data on a day-to-day basis, and how this affects their approach to their health data and the way they use health services. And it recommends further work around data opt-outs, data service procurement, community engagement, and digital health apps. In our conversation we sought reactions to report, and also discussed action to be taken in response to the findings. 
