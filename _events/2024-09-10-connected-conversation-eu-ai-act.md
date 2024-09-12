@@ -2,7 +2,7 @@
 layout: event
 title: "Connected Conversation: How can we ensure meaningful community and public participation in the governance and implementation of the EU’s AI Act?"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-09-10
 author: Liz Steele
