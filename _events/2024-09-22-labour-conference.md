@@ -22,7 +22,7 @@ Madre Restaurant, 6 Atlantic Pavilion Albert Dock, Liverpool L3 4AE
 
 <!--more-->
 
-_What’s Civil Society got to do with tech policy? Aren’t they the wreckers, the luddites, the always-questioning-never solving people? _
+_What’s Civil Society got to do with tech policy? Aren’t they the wreckers, the luddites, the always-questioning-never solving people?_
 
 Power in the tech ecosystem needs rebalancing. Good AI governance is not an inhibitor of innovation. Including a plurality of perspectives and diverse opportunity encourages innovation, improves resilience, and helps build a fairer society in which we all share in the benefits of new technologies.
 
