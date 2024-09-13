@@ -11,7 +11,7 @@ link:
 project: Options for a Global Citizens Assembly on AI
 ---
 
-We're joining forces with Jed Miller of **3 Bridges** and the [Accountability Lab team](https://accountabilitylab.org/) to host a discussing in **Washington, DC on Tuesday, September 24 at 4 PM ET** on the potential and the practicalities of bringing citizen voices from across the globe into AI governance, building on our [Options for a Global Citizens Assembly on AI](https://connectedbydata.org/projects/2024-gca-ai) work.
+We're joining forces with Jed Miller of **3 Bridges** and the [Accountability Lab team](https://accountabilitylab.org/) to host a discussion in **Washington, DC on Tuesday, September 24 at 4 PM ET** on the potential and the practicalities of bringing citizen voices from across the globe into AI governance, building on our [Options for a Global Citizens Assembly on AI](https://connectedbydata.org/projects/2024-gca-ai) work.
 
 <!--more-->
 
