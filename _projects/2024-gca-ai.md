@@ -17,7 +17,7 @@ In parallel, the [Coalition for a Global Citizens Assembly](https://www.gcacoali
 
 ## Get involved
 
-Between May and July 2024 we’ve carrying out a series of interviews, focus groups and workshops to explore:
+Between May and August 2024 we’ve been carrying out a series of interviews, focus groups and workshops to explore:
 
 - **AI governance issues that a global citizens assembly could address;**
 - **Design options for an inclusive global assembly** including if and how emerging technologies can be used to support the process;
@@ -26,9 +26,7 @@ Between May and July 2024 we’ve carrying out a series of interviews, focus gro
 
 At the end of July we [shared and discussed](https://connectedbydata.org/events/2024-07-18-gca-oxford) a draft options paper.
 
-Over August we are inviting further feedback and running workshop sessions. 
-
-If you would like to get more involved, please respond to [our brief sign-up survey here](https://docs.google.com/forms/d/e/1FAIpQLSet2DKr2AImjDKtGPqD54rQysfbpz9bvoUsCljCUVG0AvrCeQ/viewform?usp=sf_link), and we will be in touch. 
+Over August we invited further feedback and ran workshop sessions. In September we'll be publishing a final paper based on these discussions. 
 
 ## About the team
 
