@@ -11,12 +11,11 @@ category: speaking
 topics:
   - Public sector
 ---
-The recording of this event is available [here](https://www.instituteforgovernment.org.uk/event/how-should-government-use-ai).
-
-<!--more-->
 Civil servants are already using AI for a variety of purposes, from summarising and analysing data to drafting correspondence. The new Labour government sees AI as a route to greater productivity and growth, both within government and better public services.
 
-Bringing together the themes of two private roundtables hosted by the [Institute for Government](https://www.instituteforgovernment.org.uk/) in partnership with [Scott Logic](https://www.scottlogic.com/), this public event will explore the use of AI in policy and communications, and for civil service effectiveness.
+Bringing together the themes of two private roundtables hosted by the [Institute for Government](https://www.instituteforgovernment.org.uk/) in partnership with [Scott Logic](https://www.scottlogic.com/), this public event explored the use of AI in policy and communications, and for civil service effectiveness.
+
+<!--more-->
 
   * How are public servants making use of AI in their work?
   * How should government’s own use of AI inform its [broader approach to the development and regulation of AI](https://www.instituteforgovernment.org.uk/explainer/artificial-intelligence-regulation)?
@@ -29,4 +28,6 @@ To discuss these questions and more this event brought together an expert panel 
   * Jess McEvoy, Principal Consultant at Scott Logic
   * Jeni Tennison, Founder and Executive Director of Connected by Data
 
-The event will be chaired by Gavin Freeguard, Associate at the Institute for Government.
+The event was chaired by Gavin Freeguard, Associate at the Institute for Government.
+
+The recording of this event is available [here](https://www.instituteforgovernment.org.uk/event/how-should-government-use-ai).
