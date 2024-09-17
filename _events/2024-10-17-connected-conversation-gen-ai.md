@@ -26,4 +26,5 @@ We want to use this Connected Conversation to bring together people advocating f
 * [Aparna Surendra](https://www.awo.agency/about/aparna-surendra/), Manager at [AWO](https://www.awo.agency/)
 * [Adio Dinika](https://www.linkedin.com/in/adiodinika/?originalSubdomain=de), Research Fellow at [DAIR](https://www.dair-institute.org/)
 
-> Thursday 17 October 2024 at 4pm (UK time/GMT+1) on Zoom. To attend this event please [register via this link](https://us06web.zoom.us/meeting/register/tZMrcuCgqzIpE91DagI1TtoE_-RtUFby-OSa)
+> Thursday 17 October 2024 at 4pm (UK time/GMT+1) on Zoom.
+> To attend this event please [register via this link.](https://us06web.zoom.us/meeting/register/tZMrcuCgqzIpE91DagI1TtoE_-RtUFby-OSa)
