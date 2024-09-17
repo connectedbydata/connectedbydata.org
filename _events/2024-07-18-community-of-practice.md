@@ -12,6 +12,7 @@ category: organising
 link: 
 project: 
     - Giving communities a powerful say in public sector data and AI projects
+    - Data and AI public engagement
 ---
 
 On Thursday 18 July 2024, on Zoom, we held the first meeting of a community of practice as part of our project on [Giving communities a powerful say in public sector data and AI](https://connectedbydata.org/projects/2024-mohn-westlake) projects. 
