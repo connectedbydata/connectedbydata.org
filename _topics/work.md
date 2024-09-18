@@ -1,6 +1,7 @@
 ---
 layout: topic
 title: Work
+subtitle: Giving workers a powerful voice
 category: sector
 image: work.png
 ---

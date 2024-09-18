@@ -1,6 +1,7 @@
 ---
 layout: topic
 title: Justice
+subtitle: Giving victims, litigants and legal professionals a powerful voice
 category: sector
 image: justice.png
 ---

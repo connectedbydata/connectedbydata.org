@@ -1,7 +1,7 @@
 ---
 layout: topic
-title: Civil society countervailing power
-subtitle: 
+title: Civil society
+subtitle: Building countervailing power through collective action
 category: 
 image: civil-society.png
 ---
