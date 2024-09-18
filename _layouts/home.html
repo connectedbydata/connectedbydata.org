@@ -15,6 +15,26 @@ layout: default
   </div>
 </section>
 
+{%- capture about -%}
+  <div class="point">
+    <h2 class="title">We campaign for communities to have a powerful say in decisions about data and AI</h2>
+    <p>
+      <a href="/about">
+        <i class="fas fa-arrow-alt-circle-right"></i>
+        &nbsp;Read more
+      </a>
+    </p>
+  </div>
+{%- endcapture -%}
+
+{%- capture mission -%}
+  <div class="columns is-gapless">
+    {%- include block.html content=about background='dark-green' wide='true' -%}
+    {%- include block.html background='mountain' hidden='touch' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=mission -%}
+
 <section id="video" class="hero">
   <div class="hero-body is-flex is-justify-content-center">
     <div class="container is-max-desktop">
