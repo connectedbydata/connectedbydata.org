@@ -6,12 +6,12 @@ project: Options for a Global Citizens Assembly on AI
 author: Tim Davies
 date: 2023-09-18
 status: final
-listed: false
-link: 
+listed: true
+link: https://docs.google.com/document/d/1f7tV8akRaaPOUU-uyQ9n_81wi576VU25NAfM3wMV00o/edit
 image: global-deliberation-ai-report.png
 ---
 
-**Report forthcoming: Published 18th Septembe**r
+[Read online](https://docs.google.com/document/d/1f7tV8akRaaPOUU-uyQ9n_81wi576VU25NAfM3wMV00o/edit) or [Download PDF]({{site.baseurl}}/assets/resources/Global Citizen Deliberation on Artificial Intelligence_ Options and design considerations - Final draft - Sept 2024.pdf)
 
 This report explores how global citizen deliberation, particularly drawing on the concept of a global citizens’ assembly, could and should shape the future of artificial intelligence. Drawing on an extended design lab of in-depth interviews and workshops that took place in mid-2024, it presents a series of options that illustrate a variety of opportunities to bring the voices of those affected by AI development and deployment into decision-making spaces, through processes that can deliver informed and inclusive dialogue. 
 
