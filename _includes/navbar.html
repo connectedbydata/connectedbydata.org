@@ -16,40 +16,41 @@
       <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
-            Problem
+            Your sector
+          </a>
+          <div class="navbar-dropdown is-right">
+            {%- assign sectors = site.topics | where: "category", "sector" -%}
+            {%- for sector in sectors -%}
+              <a class="navbar-item" href="{{sector.url}}">{{sector.title}}</a>
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Our argument
           </a>
 
           <div class="navbar-dropdown">
+            <strong class="navbar-item">Problem</strong>
             {%- assign impact = site.problems | where:"id", "/problems/impact" | first -%}
             {%- assign ownership = site.problems | where:"id", "/problems/ownership" | first -%}
             {%- assign connected = site.problems | where:"id", "/problems/connected" | first -%}
             {%- include navbar-item.html item=impact -%}
             {%- include navbar-item.html item=ownership -%}
             {%- include navbar-item.html item=connected -%}
-          </div>
-        </div>
-
-        <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
-            Vision
-          </a>
-
-          <div class="navbar-dropdown">
+            <hr class="navbar-divider">
+            <strong class="navbar-item">Vision</strong>
             {%- assign participation = site.solutions | where:"id", "/solutions/participation" | first -%}
             {%- assign organisations = site.solutions | where:"id", "/solutions/organisations" | first -%}
             {%- assign people = site.solutions | where:"id", "/solutions/people" | first -%}
             {%- include navbar-item.html item=participation -%}
             {%- include navbar-item.html item=organisations -%}
             {%- include navbar-item.html item=people -%}
-          </div>
-        </div>
-
-        <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
-            Action
-          </a>
-
-          <div class="navbar-dropdown">
+            <hr class="navbar-divider">
+            <strong class="navbar-item">Action</strong>
             {%- assign narrative = site.actions | where:"id", "/actions/narrative" | first -%}
             {%- assign practice = site.actions | where:"id", "/actions/practice" | first -%}
             {%- assign policy = site.actions | where:"id", "/actions/policy" | first -%}
@@ -58,9 +59,7 @@
             {%- include navbar-item.html item=policy -%}
           </div>
         </div>
-      </div>
 
-      <div class="navbar-end">
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             Our work
@@ -69,15 +68,16 @@
             <a class="navbar-item" href="/projects">Projects</a>
             <a class="navbar-item" href="/resources">Resources</a>
             <!--<a class="navbar-item" href="/cases">Case database</a>-->
-            <a class="navbar-item" href="/fellowship">Fellowship</a>
             <a class="navbar-item" href="/events">Events</a>
             <a class="navbar-item" href="/blog">Blog</a>
             <a class="navbar-item" href="/blog#weeknotes">Weeknotes</a>
             <a class="navbar-item" href="/projects/2023-data-policy-digest">Data Policy Digest</a>
             <hr class="navbar-divider">
-            <a class="navbar-item" href="/offer">Work with us!</a>
+            <a class="navbar-item" href="/fellowship">Be a fellow</a>
+            <a class="navbar-item" href="/offer">Work with us</a>
           </div>
         </div>
+
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             About Us
