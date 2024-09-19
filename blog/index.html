@@ -12,7 +12,7 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- assign news = paginator.posts | where: "category", "news" -%}
+{%- assign news = paginator.posts | where: "category", "news" | slice: 0, 3 -%}
 {%- assign opinion = paginator.posts | where: "category", "blog" -%}
 {%- assign weeknotes = paginator.posts | where: "category", "weeknotes" -%}
 
