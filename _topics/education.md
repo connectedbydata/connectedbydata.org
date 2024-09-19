@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Education
-subtitle: Giving students, parents and teachers a powerful voice
+subtitle: Giving students, parents and teachers a powerful say
 category: sector
 image: education.png
 ---

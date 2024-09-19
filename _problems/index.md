@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Problems
-subtitle: What are problems we're trying to solve?
+subtitle: What problems do we need to solve?
 ---
 <article>
 

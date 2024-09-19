@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Health
-subtitle: Giving patients, carers and health workers a powerful voice
+subtitle: Giving patients, carers and health workers a powerful say
 category: sector
 image: health.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Public sector
-subtitle: Giving citizens and public sector workers a powerful voice
+subtitle: Giving citizens and public sector workers a powerful say
 category: sector
 image: public-sector.png
 ---
