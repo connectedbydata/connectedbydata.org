@@ -1,0 +1,36 @@
+{%- assign resources = include.resources -%}
+{%- assign projects = include.projects -%}
+{%- assign fellows = include.fellows -%}
+{%- assign events = include.events -%}
+{%- assign posts = include.posts -%}
+{%- assign active = include.active -%}
+
+<div id="{{active}}" class="tabs is-centered is-large">
+  <ul>
+    {%- if resources.size > 0 -%}
+      <li class="{%- if active == 'resources' -%}is-active{%- endif -%}">
+        <a href="#resources">Resources</a>
+      </li>
+    {%- endif -%}
+    {%- if projects.size > 0 -%}
+      <li class="{%- if active == 'projects' -%}is-active{%- endif -%}">
+        <a href="#projects">Projects</a>
+      </li>
+    {%- endif -%}
+    {%- if fellows.size > 0 -%}
+      <li class="{%- if active == 'fellows' -%}is-active{%- endif -%}">
+        <a href="#fellows">Fellows</a>
+      </li>
+    {%- endif -%}
+    {%- if events.size > 0 -%}
+      <li class="{%- if active == 'events' -%}is-active{%- endif -%}">
+        <a href="#events">Events</a>
+      </li>
+    {%- endif -%}
+    {%- if posts.size > 0 -%}
+      <li class="{%- if active == 'posts' -%}is-active{%- endif -%}">
+        <a href="#posts">Posts</a>
+      </li>
+    {%- endif -%}
+  </ul>
+</div>

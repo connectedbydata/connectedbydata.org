@@ -17,6 +17,21 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
+{%- assign resources = site.resources | where: "topics", page.title | sort: "date" | reverse -%}
+{%- assign projects = site.projects | where: "topics", page.title -%}
+{%- assign fellows = site.people | where: "roles", "fellow" | where: "topics", page.title -%}
+{%- assign events = site.events | where: "topics", page.title -%}
+{%- assign posts = site.posts | where: "topics", page.title -%}
+<div class="tabs is-centered is-large">
+  <ul>
+    {%- if resources.size > 0 -%}<li><a href="#resources">Resources</a></li>{%- endif -%}
+    {%- if projects.size > 0 -%}<li><a href="#projects">Projects</a></li>{%- endif -%}
+    {%- if fellows.size > 0 -%}<li><a href="#fellows">Fellows</a></li>{%- endif -%}
+    {%- if events.size > 0 -%}<li><a href="#events">Events</a></li>{%- endif -%}
+    {%- if posts.size > 0 -%}<li><a href="#posts">Posts</a></li>{%- endif -%}
+  </ul>
+</div>
+
 {%- capture topicBackground -%}
   {%- include rand-color.html seed=page.content -%}
 {%- endcapture -%}
@@ -36,17 +51,9 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=topic -%}
 
-{%- assign resources = site.resources | where: "topics", page.title | sort: "date" | reverse -%}
 {%- if resources.size > 0 -%}
-  <section class="hero has-text-centered has-text-link">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <p class="title">
-          Resources
-        </p>
-      </div>
-    </div>
-  </section>
+  {%- include topic-tabs.html active="resources" resources=resources projects=projects fellows=fellows events=events posts=posts -%}
+
   {%- capture resourcesSection -%}
     {%- for resource in resources -%}
       {%- capture resourceBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
@@ -58,17 +65,9 @@ layout: default
   {%- include section.html content=resourcesSection -%}
 {%- endif -%}
 
-{%- assign projects = site.projects | where: "topics", page.title -%}
 {%- if projects.size > 0 -%}
-  <section class="hero has-text-centered has-text-link">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <p class="title">
-          Projects
-        </p>
-      </div>
-    </div>
-  </section>
+  {%- include topic-tabs.html active="projects" resources=resources projects=projects fellows=fellows events=events posts=posts -%}
+
   {%- capture projectsSection -%}
     {%- for project in projects -%}
       {%- capture projectBackground -%}{%- cycle 'darker-green', 'darkest-green', 'dark-green' -%}{%- endcapture -%}
@@ -80,17 +79,9 @@ layout: default
   {%- include section.html content=projectsSection -%}
 {%- endif -%}
 
-{%- assign fellows = site.people | where: "roles", "fellow" | where: "topics", page.title -%}
 {%- if fellows.size > 0 -%}
-  <section class="hero has-text-centered has-text-link">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <p class="title">
-          Fellows
-        </p>
-      </div>
-    </div>
-  </section>
+  {%- include topic-tabs.html active="fellows" resources=resources projects=projects fellows=fellows events=events posts=posts -%}
+
   {%- capture fellowsSection -%}
     {%- for fellow in fellows -%}
       {%- capture personBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
@@ -102,17 +93,9 @@ layout: default
   {%- include section.html content=fellowsSection -%}
 {%- endif -%}
 
-{%- assign events = site.events | where: "topics", page.title -%}
 {%- if events.size > 0 -%}
-  <section class="hero has-text-centered has-text-link">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <p class="title">
-          Events
-        </p>
-      </div>
-    </div>
-  </section>
+  {%- include topic-tabs.html active="events" resources=resources projects=projects fellows=fellows events=events posts=posts -%}
+
   {%- capture eventsSection -%}
     {%- for event in events reversed -%}
       {%- capture eventBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
@@ -124,17 +107,18 @@ layout: default
   {%- include section.html content=eventsSection -%}
 {%- endif -%}
 
-{%- assign posts = site.posts | where: "topics", page.title -%}
 {%- assign news = posts | where: "category", "news" -%}
 {%- assign opinion = posts | where: "category", "blog" -%}
 {%- assign weeknotes = posts | where: "category", "weeknotes" -%}
 {%- if posts.size > 0 -%}
+  {%- include topic-tabs.html active="posts" resources=resources projects=projects fellows=fellows events=events posts=posts -%}
+
   {%- if news.size > 0 -%}
     <section class="hero has-text-centered has-text-link">
       <div class="hero-body">
         <div class="container is-max-desktop">
           <p class="title">
-            Recent posts
+            Recent news
           </p>
         </div>
       </div>
