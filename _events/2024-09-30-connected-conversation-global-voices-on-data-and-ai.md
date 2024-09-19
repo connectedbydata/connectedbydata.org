@@ -2,6 +2,7 @@
 layout: event
 title: "Global Voices: What does data governance mean to you?"
 image: gv-logo.png
+add-background: true
 upcoming: true
 featured: true
 writeup: false
