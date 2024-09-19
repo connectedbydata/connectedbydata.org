@@ -1,0 +1,49 @@
+{%- assign post = include.post -%}
+{%- assign author = site.people | where: "title", post.author | first %}
+
+{%- capture image -%}
+  <div class="icon">
+    <figure class="image is-128x128">
+      <a href="{{ author.url }}">
+        <img src="/assets/people/{{ author.picture }}">
+      </a>
+    </figure>
+  </div>
+{%- endcapture -%}
+{%- capture subtitle -%}
+  <p class="subtitle is-6">
+    {%- include author-link.html author=author %}
+    &#x25aa;
+    {% include date.html date=post.date -%}
+  </p>
+{%- endcapture -%}
+{%- capture title -%}
+  <div class="point">
+    <h2 class="title is-4">
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h2>
+    {{ subtitle }}
+  </div>
+{%- endcapture -%}
+<div class="columns is-gapless post is-mobile is-hidden-tablet">
+  {%- if include.imagePosition == 'right' -%}
+    {%- include block.html square=true content=image background=include.postBackground hidden='tablet' -%}
+    {%- include random-graphic-block.html seed=post.content hidden='tablet' -%}
+  {%- else -%}
+    {%- include random-graphic-block.html seed=post.content hidden='tablet' -%}
+    {%- include block.html square=true content=image background=include.postBackground hidden='tablet' -%}
+  {%- endif -%}
+</div>
+<div class="columns is-gapless post">
+  {%- if include.imagePosition == 'right' -%}
+    {%- include random-graphic-block.html seed=post.content -%}
+    {%- include block.html content=title background=include.postBackground -%}
+    {%- include block.html square=true content=image background=include.postBackground hidden='touch' -%}
+  {%- else -%}
+    {%- include block.html square=true content=image background=include.postBackground hidden='touch' -%}
+    {%- include block.html content=title background=include.postBackground -%}
+    {%- include random-graphic-block.html seed=post.content -%}
+  {%- endif -%}
+</div>

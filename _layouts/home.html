@@ -112,6 +112,32 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=resourcesSection -%}
 
+{%- assign posts = site.posts | where: "featured", "true" | slice: 0, 3 -%}
+{%- capture postsSection -%}
+  {%- capture content -%}
+    <div class="point">
+      <h3 class="title is-4">Recent posts</h3>
+      <p>
+        <a href="/blog">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;See more
+        </a>
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='darker-green' hidden='mobile' -%}
+    {%- include block.html content=content background='darker-green' -%}
+    {%- include block.html background='imperfect-circle' hidden='touch' -%}
+  </div>
+  {%- for post in posts -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include post-summary.html post=post imagePosition=imagePosition -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=postsSection -%}
+
+
 <section id="problems" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">

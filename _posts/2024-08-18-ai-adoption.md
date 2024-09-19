@@ -3,6 +3,7 @@ layout: post
 title: "AI Adoption"
 author: Jeni Tennison
 category: blog
+featured: true
 projects:
   - "Giving communities a powerful say in public sector data and AI projects"
 topics:

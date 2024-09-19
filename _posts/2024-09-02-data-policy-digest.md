@@ -3,6 +3,7 @@ layout: post
 title: "Data Policy Digest"
 author: Gavin Freeguard
 category: news
+featured: true
 projects:
   - Data Policy Digest
 ---
