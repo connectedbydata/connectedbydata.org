@@ -3,6 +3,7 @@ layout: event
 title: "Global Voices: What does data governance mean to you?"
 image: gv-logo.png
 upcoming: true
+featured: true
 writeup: false
 date: 2024-09-30
 author: Tim Davies

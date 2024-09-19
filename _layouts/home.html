@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="problems" class="hero is-halfheight is-primary has-text-centered">
+<section class="hero is-halfheight is-primary has-text-centered">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <h1 class="title is-size-1 is-size-3-mobile">
@@ -41,6 +41,58 @@ layout: default
       <figure class="image is-16by9">
         <iframe class="has-ratio" width="640" height="360" src="https://www.youtube-nocookie.com/embed/5Y2f15qRgXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </figure>
+    </div>
+  </div>
+</section>
+
+<section id="our-work" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Our work
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture sectorBlocks -%}
+  {%- include sector-blocks.html -%}
+{%- endcapture -%}
+{%- include section.html content=sectorBlocks -%}
+
+{%- assign events = site.events | where: "upcoming", "true" | where: "featured", "true" | slice: 0, 3 -%}
+{%- if events.size > 0 -%}
+  {%- capture eventsSection -%}
+    {%- capture content -%}
+      <div class="point">
+        <h3 class="title is-4">Upcoming events</h3>
+        <p>
+          <a href="/events">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;See more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    <div class="columns is-gapless">
+      {%- include block.html background='dark-green' hidden='mobile' -%}
+      {%- include block.html content=content background='dark-green' -%}
+      {%- include block.html background='medium-dots' hidden='touch' -%}
+    </div>
+    {%- for event in events -%}
+      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+      {%- include event.html event=event excerpt=true headingonly=true imagePosition=imagePosition -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- include section.html content=eventsSection -%}
+{%- endif -%}
+
+<section id="problems" class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Data and AI are not working for us
+      </p>
     </div>
   </div>
 </section>

@@ -3,6 +3,7 @@ layout: event
 title: "The Campaign Fringe at Labour Conference 2024"
 image: 2024-09-23-autonomy.png
 upcoming: true
+featured: true
 writeup: false
 date: 2024-09-23
 author: Adam Cantwell-Corn
