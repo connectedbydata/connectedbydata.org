@@ -60,6 +60,89 @@ layout: default
 {%- endcapture -%}
 {%- include section.html content=sectorBlocks -%}
 
+
+{%- capture communityBlock -%}
+  <div class="columns is-gapless">
+    {%- capture csoNetwork -%}
+      <div class="point">
+        <h2 class="title">We convene the Data and AI Civil Society Network</h2>
+        <p>
+          <a href="https://data-and-ai-cso-network.org/">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Learn more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    {%- include block.html content=csoNetwork background='darkest-green' -%}
+    {%- include block.html background='small-triangles' hidden='mobile' -%}
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='small-triangles' -%}
+    {%- include block.html background='darkest-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='rainbow' hidden='mobile' -%}
+    {%- include block.html background='dark-green' hidden='touch' -%}
+    {%- capture cop -%}
+      <div class="point">
+        <h2 class="title">We organise a Community of Practice for public engagement practitioners</h2>
+        <p>
+          <a href="/projects/2024-community-of-practice">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Learn more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    {%- include block.html content=cop background='darker-green' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='darker-green' -%}
+    {%- include block.html background='stairs' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- capture grassroots -%}
+      <div class="point">
+        <h2 class="title">We work with grassroots community data campaigns</h2>
+        <p>
+          <a href="/projects/2023-catalysing-communities">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Learn more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    {%- include block.html content=grassroots background='dark-green' -%}
+    {%- include block.html background='darker-green' hidden='touch' -%}
+    {%- include block.html background='stairs' hidden='mobile' -%}
+  </div>
+  <div class="columns is-gapless is-mobile is-hidden-tablet">
+    {%- include block.html background='rainbow' -%}
+    {%- include block.html background='dark-green' -%}
+  </div>
+  <div class="columns is-gapless">
+    {%- include block.html background='darkest-green' hidden='touch' -%}
+    {%- include block.html background='circles' hidden='mobile' -%}
+    {%- capture global -%}
+      <div class="point">
+        <h2 class="title">We host global conversations on data and AI governance</h2>
+        <p>
+          <a href="/projects/2023-connected-conversations">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            &nbsp;Learn more
+          </a>
+        </p>
+      </div>
+    {%- endcapture -%}
+    {%- include block.html content=global background='darkest-green' -%}
+  </div>
+{%- endcapture -%}
+{%- include section.html content=communityBlock -%}
+
+
+
 {%- assign events = site.events | where: "upcoming", "true" | where: "featured", "true" | slice: 0, 3 -%}
 {%- if events.size > 0 -%}
   {%- capture eventsSection -%}
