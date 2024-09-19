@@ -4,7 +4,7 @@ title: "Global Citizen Deliberation on Artificial Intelligence: Options and desi
 reference: global-citizen-deliberation-ai
 project: Options for a Global Citizens Assembly on AI
 author: Tim Davies
-date: 2023-09-18
+date: 2024-09-18
 status: final
 listed: true
 link: https://docs.google.com/document/d/1f7tV8akRaaPOUU-uyQ9n_81wi576VU25NAfM3wMV00o/edit

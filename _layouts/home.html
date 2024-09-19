@@ -21,7 +21,7 @@ layout: default
     <p>
       <a href="/about">
         <i class="fas fa-arrow-alt-circle-right"></i>
-        &nbsp;Read more
+        &nbsp;About us
       </a>
     </p>
   </div>
@@ -87,11 +87,36 @@ layout: default
   {%- include section.html content=eventsSection -%}
 {%- endif -%}
 
+{%- assign resources = site.resources | where: "listed", "true" | sort: "date" | reverse | slice: 0, 3 -%}
+{%- capture resourcesSection -%}
+  {%- capture content -%}
+    <div class="point">
+      <h3 class="title is-4">Recent publications</h3>
+      <p>
+        <a href="/resources">
+          <i class="fas fa-arrow-alt-circle-right"></i>
+          &nbsp;See more
+        </a>
+      </p>
+    </div>
+  {%- endcapture -%}
+  <div class="columns is-gapless">
+    {%- include block.html background='darker-green' hidden='mobile' -%}
+    {%- include block.html content=content background='darker-green' -%}
+    {%- include block.html background='square' hidden='touch' -%}
+  </div>
+  {%- for resource in resources -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=resourcesSection -%}
+
 <section id="problems" class="hero has-text-centered has-text-link">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <p class="title">
-        Data and AI are not working for us
+        Our argument
       </p>
     </div>
   </div>
