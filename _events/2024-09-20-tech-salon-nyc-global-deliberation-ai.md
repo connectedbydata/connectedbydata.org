@@ -12,9 +12,11 @@ link:
 project: Options for a Global Citizens Assembly on AI
 ---
 
-We will be sharing outputs from our design lab on options for a global citizens assembly on AI at TechSalon New York, ahead of the Civil Society Days of the UN Summit of the Future.
+We will be sharing [outputs from our design lab on options for a global citizens assembly on AI](https://connectedbydata.org/resources/global-deliberation-ai) at TechSalon New York, ahead of the Civil Society Days of the UN Summit of the Future.
 
 <!--more-->
+
+> Read [the full report here](https://connectedbydata.org/resources/global-deliberation-ai)
 
 ## Connected by Data at TechSalon New York - Options for a Global Citizens Assembly on AI
 
