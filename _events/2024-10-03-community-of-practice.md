@@ -26,7 +26,7 @@ The network meets on a Chatham House basis (nothing attributed unless you want i
 On 3 October we will hear from:
 * Dr. Michaela Omelkova, Data Ethics Advisor, Scottish Government, on their [public](https://www.gov.scot/publications/public-dialogue-use-data-public-sector-scotland/) [dialogues](https://www.gov.scot/publications/public-dialogue-data-sharing-outside-public-sector-scotland/) on data and CivTech challenge on the [use of technology in public participation on the use of data and AI](https://www.civtech.scot/civtech-10-challenge-7-public-participation-in-decision-making), plus Q&A
 * Several education-based initiatives:
-    * Edward O'Garro-Priddie, Delivery Lead, and Jake Luscombe, Senior Data Scientist, Faculty, on the[ AI in Education Hackathon](https://faculty.ai/blog/key-insights-from-the-ai-in-education-hackathon/)
+    * Edward O'Garro-Priddie, Delivery Lead, and Jake Luscombe, Lead Data Scientist, Faculty, on the[ AI in Education Hackathon](https://faculty.ai/blog/key-insights-from-the-ai-in-education-hackathon/)
     * Dea Begaj, Public Attitudes Researcher, and Sylvie Hobden, Head of Public Attitudes, Responsible Technology Adoption Unit, on [research on parent and pupil attitudes towards the use of AI in education](https://www.gov.uk/government/publications/research-on-parent-and-pupil-attitudes-towards-the-use-of-ai-in-education)
     * Fay Skevington, Head of AI Alignment for Education, Data Directorate in the Department for Education, on how collaborative engagement on data has shaped policymaking
 
