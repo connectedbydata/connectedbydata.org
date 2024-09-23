@@ -28,7 +28,7 @@ On 3 October we will hear from:
 * Several education-based initiatives:
     * Edward O'Garro-Priddie, Delivery Lead, and Jake Luscombe, Senior Data Scientist, Faculty, on the[ AI in Education Hackathon](https://faculty.ai/blog/key-insights-from-the-ai-in-education-hackathon/)
     * Dea Begaj, Public Attitudes Researcher, and Sylvie Hobden, Head of Public Attitudes, Responsible Technology Adoption Unit, on [research on parent and pupil attitudes towards the use of AI in education](https://www.gov.uk/government/publications/research-on-parent-and-pupil-attitudes-towards-the-use-of-ai-in-education)
-    * Fay Skevington, Digital Strategy, Department for Education, on how collaborative engagement on data has shaped policymaking
+    * Fay Skevington, Head of AI Alignment for Education, Data Directorate in the Department for Education, on how collaborative engagement on data has shaped policymaking
 
 > To attend this event [please register here](https://us06web.zoom.us/meeting/register/tZwufuGgqDIiHd0ZftOCbuPXVulbdBXIOKNt).
 

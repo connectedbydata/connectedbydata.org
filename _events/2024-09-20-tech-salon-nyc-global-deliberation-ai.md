@@ -3,7 +3,7 @@ layout: event
 title: "TechSalon New York: How Can Global Public Deliberation Shape AI?"
 image: techsalon.png
 add-background: true
-upcoming: true
+upcoming: false
 writeup: false
 date: 2024-09-20
 author: Tim Davies

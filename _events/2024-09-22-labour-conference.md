@@ -2,8 +2,8 @@
 layout: event
 title: "Building Tech for Everyone Reception at Labour Party Conference"
 image: cbd-logo.png
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2024-09-22
 author: Adam Cantwell-Corn
