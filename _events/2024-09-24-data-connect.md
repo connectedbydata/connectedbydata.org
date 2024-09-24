@@ -76,7 +76,7 @@ The important point here also is that participation is not a one-off activity, b
 
 The final point I want to make is about meaningful participation. I’ve seen a lot of processes that are reasonably engaging, inform participants well about the issues, collate in-depth analysis of public views... and then their conclusion is to collect and use data in ways that were planned all along.
 
-> Meaningful participation should lead to change. 
+> **Meaningful participation should lead to change.**
 
 And in some cases, that change may be less data, or different data. 
 
