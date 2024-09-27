@@ -4,6 +4,7 @@ title: "Data and AI public engagement: Community of Practice"
 image: cbd-logo.png
 upcoming: true
 writeup: false
+featured: true
 date: 2024-10-03
 topics:
   - Public sector
