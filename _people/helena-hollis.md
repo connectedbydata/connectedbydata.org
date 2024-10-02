@@ -1,10 +1,10 @@
 ---
 layout: person
 roles:
-  - team
+  - alumni
 title: Helena Hollis
 pronouns: she/her
-role: Field Building Lead
+role: Former Field Building Lead
 order: 3
 picture: helena.jpg
 twitter: "@llis_lena"
