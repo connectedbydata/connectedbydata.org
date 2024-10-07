@@ -13,7 +13,7 @@ Along with creative agency [Brickwall](https://brickwall.uk.com/), Connected by 
 
 <!--more-->
 
-> A write up of our research from the project can be found here.
+> A [write up of our research from the project can be found here]({{site.baseurl}}/blog/2024/10/07/local-gov-ai-scripts).
 
 We talked to a range of people working in and around local government in different settings to understand current activity around AI use and governance, and the kinds of information and explanations around AI that different stakeholders would value.  Brickwall then drew upon this information to develop scripts for the series of explainer videos.
 
