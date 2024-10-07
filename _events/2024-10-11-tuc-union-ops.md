@@ -1,7 +1,7 @@
 ---
 layout: event
 title: TUC Union Ops Connect conference
-image: tuc.png
+image: TUC.png
 link: 
 add-background: true
 date: 2024-10-11

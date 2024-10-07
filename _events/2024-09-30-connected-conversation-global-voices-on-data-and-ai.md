@@ -15,12 +15,11 @@ project: Connected Conversations
 
 **What does data governance mean to you?**
 
+That’s the question we asked in our Connected Conversation with [Global Voices](https://globalvoices.org/) (GV) on 30th September, exploring learning from GVs Future of Data Challenge-funded [Civic Media Data Observatory on Data Narratives](https://globalvoices.org/special/data-narratives-cmo/) that gathered and analysed data-related stories from El Salvador, Brasil, India, Sudan and Turkey over the first part of this year.
+
 <!--more-->
 
 ![Word Cloud with larger, bolded terms: accountability, shared, power, value, data, decisions. Surrounding terms, in smaller text: control, sovereignty, ethics, fairness, order, rules, public, systems, disciplines, produced, protected, stored, reused, AI, voice, good.]({{site.baseurl}}/assets/events/2024-09-30-data-governance-words.png "Word Cloud of input from participants on the call")
-
-That’s the question we asked in our Connected Conversation with [Global Voices](https://globalvoices.org/) (GV) on 30th September, exploring learning from GVs Future of Data Challenge-funded [Civic Media Data Observatory on Data Narratives](https://globalvoices.org/special/data-narratives-cmo/) that gathered and analysed data-related stories from El Salvador, Brasil, India, Sudan and Turkey over the first part of this year.
-
 
 ## Data governance from the ground up
 
