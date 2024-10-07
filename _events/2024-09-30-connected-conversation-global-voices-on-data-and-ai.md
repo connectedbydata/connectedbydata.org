@@ -15,7 +15,7 @@ project: Connected Conversations
 
 **What does data governance mean to you?**
 
-<!--More-->
+<!--more-->
 
 ![Word Cloud with larger, bolded terms: accountability, shared, power, value, data, decisions. Surrounding terms, in smaller text: control, sovereignty, ethics, fairness, order, rules, public, systems, disciplines, produced, protected, stored, reused, AI, voice, good.]({{site.baseurl}}/assets/events/2024-09-30-data-governance-words.png "Word Cloud of input from participants on the call")
 
