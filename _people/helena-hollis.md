@@ -1,14 +1,13 @@
 ---
 layout: person
 roles:
-  - team
+  - alumni
 title: Helena Hollis
 pronouns: she/her
-role: Field Building Lead
+role: Former Field Building Lead
 order: 3
 picture: helena.jpg
 twitter: "@llis_lena"
-email: "helena@connectedbydata.org"
 ---
 Helena is a social researcher with a strong participatory focus, committed to building participatory approaches through her work at CONNECTED BY DATA as Field Building Lead.
 

@@ -4,8 +4,8 @@ title: All Campaigns are Data Campaigns - Community Data Campaigns
 image: cbd-logo.png
 link: 
 date: 2024-09-26
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 author: Helena Hollis
 category: organising
