@@ -3,7 +3,7 @@ layout: event
 title: "Connected Conversation: How can we ensure meaningful community and public participation in the governance and implementation of the EU’s AI Act?"
 image: cbd-logo.png
 upcoming: false
-writeup: false
+writeup: true
 date: 2024-09-10
 author: Liz Steele
 category: organising
@@ -13,29 +13,59 @@ project: Connected Conversations
 
 ## "Nothing About Us, Without Us?"
 
-As the dust settles on the legislative process of the EU’s AI Act, the focus is now on its implementation and enforcement. 
+As the European Union moves forward with its groundbreaking AI Act, concerns are rising about the lack of public participation in shaping this legislation. While the Act lays out governance frameworks for AI development and deployment, many are questioning whether it goes far enough to ensure that the voices of civil society and the broader public are heard.
 
 <!--more-->
 
-The EU has developed [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), including principles such as transparency, diversity, non-discrimination and fairness, and social and environmental well-being. It has established new governance mechanisms, such as the [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office), Scientific Panel and multi-stakeholder Advisory Forum, which will play a key role in implementing the Act and in fostering the development and use of “_human-centric and trustworthy AI_” within Europe and globally. EU Member States have been tasked with establishing or designating competent national authorities to oversee the Act’s implementation at the national level.
+## The Erosion of Public Participation
+Liz Steele provided context and framing for our conversation.
 
-Effectively governing AI will require involving and empowering people and affected communities in designing, developing, and deploying digital technologies and the policies intended to regulate them. Strengthening networks of civil society actors working across the digital rights and social justice domains will be critical for ensuring that the benefits of AI are equitable, leaving no one behind, and significant harms are not overlooked.
+She noted that there has been concern raised that the principles of public participation appear to have been watered down in the latest iterations of the AI Act. One of the main criticisms is that it leaves public and stakeholder engagement as an optional process for AI companies. Many companies will now be allowed to conduct self-assessments, without being required to consult with the communities or individuals potentially impacted by their technology.
 
-In this Connected Conversation, we will explore the opportunities for meaningful community and public participation in the governance and implementation of the EU’s AI Act. 
+However, despite these shortcomings, there are still opportunities to advocate for increased public involvement. New governance mechanisms under the AI Act could serve as platforms for promoting public participation. Civil society groups, working together at local, national, and EU levels, will be key to ensuring that these mechanisms are used effectively to enhance transparency and accountability.
 
-**When:** Tuesday 10 September 2024, 13:00-14:00 CET
-**Where:** Zoom
+## Insights from Key Speakers
+We invited some initial perspectives on public participation in AI governance to kick off our conversation. Below are some of the key takeaways.
 
-> To attend please contact [Helena](mailto:helena@connectedbydata.org) for the Zoom details.
+### Connor Dunlop, European Public Policy Lead, Ada Lovelace Institute: Perspective on Participatory Data Stewardship
+Connor discussed ongoing research into participatory and inclusive data stewardship. The findings highlight several challenges for incorporating public participation into AI governance:
 
-### Key questions
-1. What are the challenges of ensuring meaningful community and public participation in decision-making on AI? 
-2. What are the opportunities or entry points for collective action on meaningful community and public participation in decision-making on AI, both at EU level and member state levels?
-3. How are organisations planning to engage on this agenda over the coming months?
-4. How could we work together collectively on this agenda to achieve effective change?
+1. **Distributed AI Supply Chain**: The complexity of AI supply chains makes it difficult to identify the key points where public engagement could be meaningful. Decisions in the AI lifecycle are made at multiple stages, often across borders, which complicates efforts to include the public in decision-making.
+2. **Lack of Appetite for Deliberation**: Deliberative methods, which are essential for addressing complex policy questions, are rarely used. Engagement methods tend to be limited to surveys, rather than more interactive or participatory formats.
+3. **Policy Engagement**: Policymakers seem reluctant to adopt participatory approaches, often relying on consultations rather than more inclusive or deliberative methods. Yet, at the EU level, there are decision-making points where civil society could have more influence, such as the setting of standards and through advisory forums.
 
-### Invited contributions
-* **EU perspective:** Connor Dunlop, European Public Policy Lead, Ada Lovelace will present the governance structure proposed in the EU’s AI Act. They have done extensive research on [inclusive governance](https://www.adalovelaceinstitute.org/report/inclusive-ai-governance/) and  [meaningful public participation](https://europeanaifund.org/newspublications/interview-with-connor-dunlop-from-the-ada-lovelace-institute-bringing-new-insights-on-ai-governance/) and recently hosted a round table on [EU AI standards development and civil society participation](https://www.adalovelaceinstitute.org/event/eu-ai-standards-civil-society-participation/).
-* **National perspective:** Lucia Paz Errandonea, Spain, will share her involvement in [ParticipationAI](https://participationai.org/#page-5). 
-* **Digital justice perspective:** Laurence Meyr, Racial and Social Lead, Digital Freedom Fund will present the [Weaving Liberation Initiative](https://weavingliberation.org/meet-us/#team) and their vision for a digital justice ecosystem in Europe.
-* **Chiara Giovannini, Deputy Director-General ANEC** will present their work on [the role of consumers and civil society in AI standardisation](https://anec.eu/projects/ai-standards).  
+Beyond the AI Act, Connor pointed out potential future opportunities, such as the upcoming AI Liability Directive, which could offer additional protections for individuals impacted by AI. He also mentioned the importance of consulting workers when drafting AI-related workplace regulations, drawing on models like the Trade Union Congress (TUC) in the UK or the Food and Drug Administration (FDA) in the U.S.
+
+### Lucia Errandonea, [ParticipationAI](https://participationai.org/#page-5): Focus on Civil Society Engagement
+Lucia, representing a Spain-based project on participation in AI, emphasised the importance of involving affected communities in AI decision-making. Her project is working to consolidate a framework for AI governance that centres on human rights, with a special focus on underrepresented groups. One of her key arguments is that AI technologies are often procured from external suppliers, making pre-procurement involvement a critical intervention point for affected communities to voice their concerns and shape the parameters of AI projects before they are implemented. 
+
+The project will explore how to integrate civil society's perspectives on the potential applications of automation systems in public services within the public procurement process. A meaningful involvement of diverse groups and affected publics before the actual procurement can play a fundamental role in defining criteria and supporting tenders with information to decide if AI or Automated decision-making (ADM) is: 
+
+1. needed in certain services and processes and, 
+
+2. if so, how it should be procured, designed, developed and implemented. 
+
+Our hypothesis is that this could reduce the risks associated with the negative impacts of applying AI/ADM systems in public services.
+
+This project is situated in the Spanish context where an active civil society is advocating for human rights and participation in the AI and digital technologies. Some examples are AI Ciudadana, a coalition of 17 Spanish organisations including Algorights, Political Watch and Civio.
+
+* [https://iaciudadana.org](https://iaciudadana.org)
+* [http://algorights.org](http://algorights.org)
+* [http://politicalwatch.es](http://politicalwatch.es)
+* [https://civio.es](https://civio.es)
+
+### Salmana Ahmed, Digital Freedom Fund:  Vision for Decolonizing Digital Rights
+Salmana, from the initiative [Weaving Liberation](https://weavingliberation.org/meet-us/#team), presented a vision of decolonizing digital rights across Europe. Her work focuses on community-led and community-centred research, aimed at creating liberatory digital futures. She emphasised that marginalisation in Europe, particularly under the growing threat of far-right politics, makes it more important than ever to empower underrepresented communities. Salmana stressed that civil society organisations, especially those working on social justice, need greater funding and resources to build resilient coalitions. Initiatives like the [Protect Not Surveil](https://protectnotsurveil.eu/) coalition, which influenced aspects of the AI Act, are examples of the kind of cross-movement collaborations needed to create systemic change.
+
+### Chiara Giovannini, Deputy Director-General ANEC: Insights on Standards and Inclusivity
+Chiara, representing a consumer association, discussed the intersection of AI standards and consumer rights. She raised concerns about the suitability of existing standards for addressing issues like algorithmic bias. While standards have been used successfully in consumer goods like fridges or electronics, Chiara questioned whether these traditional methods can adequately account for the complexities of AI technologies. She called for more inclusive approaches to setting AI standards, given that existing processes are often dominated by industry experts rather than a broader array of stakeholders.
+
+### Jeni’s Call for Permanent Participation Mechanisms
+Jeni emphasised the need for permanent mechanisms that allow civil society and the public to engage consistently with AI governance. While participation is often discussed in the abstract, she advocated for more concrete actions, such as standing public panels that can be called upon for key decisions. This would prevent the need for repeated rounds of recruitment and training, making public engagement more sustainable.
+
+Jeni also flagged the opportunity provided by the AI Action Summit in Paris, where external voices can come together to push for greater public participation in AI governance.
+
+## Discussion
+The governance systems around AI are still being shaped, and while there are challenges, there are also opportunities to push for more inclusive and participatory frameworks. Civil society organisations, particularly those working on social justice, need better resources to engage in policy discussions effectively. Without sustained effort, there’s a risk that AI regulation will be shaped by large corporations and other powerful interests, leaving the voices of affected communities unheard.
+
+The EU’s stated push for democracy and participation could provide an opening to institutionalise public involvement in AI governance. For that to happen, ongoing advocacy and collaboration at all levels—local, national, and EU—will be crucial. As the AI Act and other legislation move forward, the work of civil society organisations will be essential in ensuring that AI technologies serve the public good, rather than just industry interests.
