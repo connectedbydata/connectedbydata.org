@@ -5,9 +5,9 @@ image: TUC.png
 link: 
 add-background: true
 date: 2024-10-11
-upcoming: true
+upcoming: false
 writeup: false
-featured: true
+featured: false
 author: Adam Cantwell-Corn
 category: speaking
 ---
