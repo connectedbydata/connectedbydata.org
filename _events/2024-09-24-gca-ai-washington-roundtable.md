@@ -19,7 +19,7 @@ During the workshop, Tim presented our newly published paper exploring [Options 
 
 An adapted version of the presention is included below. 
 
-![The role of citizens in AI governance Open Gov Hub - Washington DC - 24th September 2024]({site.baseurl}/assets/blog/washington_talk/slide00.png)
+![The role of citizens in AI governance Open Gov Hub - Washington DC - 24th September 2024]({{site.baseurl}}/assets/blog/washington_talk/slide00.png)
 
 <iframe src="https://drive.google.com/file/d/1aLifhuqTQD89md7_jDCpqCIUz1qxqfG7/preview" width="100%" height="480" allow="autoplay"></iframe>
 
@@ -29,7 +29,7 @@ I should start by saying that Connected by Data is not solely focussed on Citize
 
 I also want to set the scene for this particular presentation in the context of the UN Summit of the Future, which a few days ago, agreed the Global Digital Compact, that sets out a part of future proposed architecture for global governance of AI, with an International Scientific Panel, and Global Policy Dialogue. These are ideas that were put forward in the Governing AI for Humanity report of the UN Secretary General’s High Level Advisory Body on AI, and published last Thursday. The video here gives you a small flavour of how that was framed. 
 
-![Bridging the governance gap A global governance gap; A participatory governance gap]({site.baseurl}/assets/blog/washington_talk/slide02.png)
+![Bridging the governance gap A global governance gap; A participatory governance gap]({{site.baseurl}}/assets/blog/washington_talk/slide02.png)
 
 In Governing AI for Humanity there is a diagnosis of a governance gap for AI. This is, however, primarily framed as a geographic governance gap: with AI agreements dominated by a small number of countries. So, whilst the call for a broader international scientific panel, and a regular global policy dialogue on AI is intended to create more seats at the table for majority world governments, the report neither diagnoses, nor proposes, solutions to perhaps the bigger problem: the participatory governance gap. 
 
@@ -37,7 +37,7 @@ AI governance is, in the dominant frameworks now put forward, predominantly a ma
 
 There are of course, many correctives to this that can be put forward, such as the civil society co-chair framework adopted by the Open Government Partnership, or reserving spaces within panels for citizen representatives. However, these approaches are still only able to include a small set of global experiences on AI. 
 
-![The Citizens Assembly as a governance innovation Selection → Education →  Deliberation → Findings;; Hundreds have taken place worldwide: local, national and regional;; Growing experiences of transnational deliberation.]({site.baseurl}/assets/blog/washington_talk/slide03.png)
+![The Citizens Assembly as a governance innovation Selection → Education →  Deliberation → Findings;; Hundreds have taken place worldwide: local, national and regional;; Growing experiences of transnational deliberation.]({{site.baseurl}}/assets/blog/washington_talk/slide03.png)
 
 So, it is in this context that we might look to the governance innovation of the Citizens Assembly. The image on screen here is from the first [Global Assembly on the Climate and Ecological Emergency](https://globalassembly.org/) run in 2021 for the Glasgow Climate Conference of Parties: and it shows transnational online deliberation, with people from many different countries joining in dialogue together. 
 
@@ -53,7 +53,7 @@ The model has a number of attractive features:
 
 There are, of course, ways of adopting elements of a citizens assembly without adopting the full model. In the presentation that follows we’ll talk a lot about deliberative processes rather than citizens assembly, in order to avoid a dogmatic methodological purism. 
 
-![The Citizens Assembly as a governance innovation A global citizens assembly for COP30 on a path towards institutionalisation. ; The Global Digital Compact models AI Scientific Report and Policy Dialogue on IPPC & COP; What would it look like to get ahead with AI governance?]({site.baseurl}/assets/blog/washington_talk/slide04.png)
+![The Citizens Assembly as a governance innovation A global citizens assembly for COP30 on a path towards institutionalisation. ; The Global Digital Compact models AI Scientific Report and Policy Dialogue on IPPC & COP; What would it look like to get ahead with AI governance?]({{site.baseurl}}/assets/blog/washington_talk/slide04.png)
 
 Before getting, then, into how deliberative models can apply to AI, let us make one more stop at climate.
 
@@ -61,7 +61,7 @@ Because, on Monday, the  National Secretary for Climate Change at the Ministry o
 
 And with the Global Digital Compact modelling the AI Scientific Report and Global Policy Dialogue on the IPPC-COP relationship, it raises the question: if the established climate governance space has recognised the importance of a citizens assembly as a two-way channel for citizen input to global governance, and citizen mobilization in response to global governance, why not the emerging AI governance space? 
 
-![Options for a global citizens assembly on AI Four month design lab: 15 interviews; 3 workshops; Extensive desk review … leading to … 5 ‘options’ & 4 recommendations]({site.baseurl}/assets/blog/washington_talk/slide05.png)
+![Options for a global citizens assembly on AI Four month design lab: 15 interviews; 3 workshops; Extensive desk review … leading to … 5 ‘options’ & 4 recommendations]({{site.baseurl}}/assets/blog/washington_talk/slide05.png)
 
 Let’s get into the detail then. This new paper is the product of a design lab process, run as part of [Connected by Data’s Growing Data Governance Communities programme funded by The Omidyar Network](https://connectedbydata.org/projects/2023-growing-data-governance-communities).
 
@@ -73,11 +73,11 @@ Throughout the document we give examples of existing practice, to show that the 
 
 As we come to the point of sharing this report, we’re aware that a number of projects are already making steps towards delivering elements of global deliberation on AI. In this light, we hope that the models and issues we set out are also useful to start to think about evaluating, as well as designing, deliberative AI governance. 
 
-![Focus: What questions could an assembly address?]({site.baseurl}/assets/blog/washington_talk/slide06.png)
+![Focus: What questions could an assembly address?]({{site.baseurl}}/assets/blog/washington_talk/slide06.png)
 
 All this noted, let us get to the first framing question for a Global Assembly on AI: what exactly should it focus on?
 
-![Three levels of focus Vision and values; Governance and regulation; Applications and implementation]({site.baseurl}/assets/blog/washington_talk/slide07.png)
+![Three levels of focus Vision and values; Governance and regulation; Applications and implementation]({{site.baseurl}}/assets/blog/washington_talk/slide07.png)
 
 If we take as read for the moment that a well-designed deliberative process can get people up to speed in order to have a high quality informed discussion on almost any topic, then there are hundreds upon hundreds of possible questions that we might want to put to a global deliberative body on AI. 
 
@@ -89,7 +89,7 @@ But as we talked with interviewees, we found the kinds of questions suggested cl
 
 Each of these levels might lead to slightly different kinds of outputs. 
 
-![Three levels of focus Vision and values: Principles, policy recommendations, funding priorities; Governance and regulation; Proposed rules or procedures, data on variation of public attitudes, citizen declaration on specific tech.; Applications and implementation; Input into fine tuning; application/use specific recommendations.]({site.baseurl}/assets/blog/washington_talk/slide08.png)
+![Three levels of focus Vision and values: Principles, policy recommendations, funding priorities; Governance and regulation; Proposed rules or procedures, data on variation of public attitudes, citizen declaration on specific tech.; Applications and implementation; Input into fine tuning; application/use specific recommendations.]({{site.baseurl}}/assets/blog/washington_talk/slide08.png)
 
 For example, values and vision questions are more likely to result in principles, recommendations, shared visions of priorities for funding.
 
@@ -97,7 +97,7 @@ A governance or regulation question might provide outputs at the level of propos
 
 And at the level of applications, assembly outputs could be taken as the inputs to technology development itself, or could provide use-case specific guidance. 
 
-![Three levels of focus Vision and values. Example Q: How do we live good lives alongside AI?; Governance and regulation: Example Q: What should the design of an AI safety assessment take into account? ; Applications and implementation: Example Q: When is it appropriate for AI to be used to make legally consequential decisions?]({site.baseurl}/assets/blog/washington_talk/slide09.png)
+![Three levels of focus Vision and values. Example Q: How do we live good lives alongside AI?; Governance and regulation: Example Q: What should the design of an AI safety assessment take into account? ; Applications and implementation: Example Q: When is it appropriate for AI to be used to make legally consequential decisions?]({{site.baseurl}}/assets/blog/washington_talk/slide09.png)
 
 In the report we give a couple of example questions for each of these categories. 
 
@@ -109,9 +109,9 @@ Another issue that has come up in discussing the report findings has been that o
 
 Shaping questions to generate answers that are not so general as to be uninformative, whilst ensuring that they are not overtaken by events, is a critical challenge and one particularly acute for this current moment of deliberation on AI. One key means to calibrate on this point is to identify if and where a deliberation is docking with AI governance institutions. 
 
-![Forum: Which institutions should an assembly dock with?]({site.baseurl}/assets/blog/washington_talk/slide10.png)
+![Forum: Which institutions should an assembly dock with?]({{site.baseurl}}/assets/blog/washington_talk/slide10.png)
 
-![UN System Multi-stakeholder Multilateral UNGA Specialised Agency Technology focussed Regional bodies UNDP UNICEF UNCTAD ITU ILO WHO FAO WIPO UNESCO IGF GPAI OECD G20 G7 G77 EU African Union ASEAN OAS OGP ISO IEEE Industry WEF Trade unions Civil society Academia Tech industry AI Safety Summit]({site.baseurl}/assets/blog/washington_talk/slide11.png)
+![UN System Multi-stakeholder Multilateral UNGA Specialised Agency Technology focussed Regional bodies UNDP UNICEF UNCTAD ITU ILO WHO FAO WIPO UNESCO IGF GPAI OECD G20 G7 G77 EU African Union ASEAN OAS OGP ISO IEEE Industry WEF Trade unions Civil society Academia Tech industry AI Safety Summit]({{site.baseurl}}/assets/blog/washington_talk/slide11.png)
 
 The current AI governance landscape is complex and evolving. Against a backdrop of competition between big AI powers (both state, and corporate), and an explosion of AI ethics principles and voluntary codes a range of global institutions have staked a claim to coordinate AI governance.
 
@@ -127,25 +127,25 @@ In the structural options for an assembly that follow, I’ll highlight some of 
 
 For example, we might think that there is a pitch to be made to the Global Partnership on AI that it can secure its role as a genuinely global partnership by commissioning truly global citizen dialogue on AI governance. Although we may question what influence GPAI will have on international AI rules, as opposed to voluntary commitments. Similarly, we might think that, given the current power dynamics around AI, regional docking, particularly in the global south, offers the best route to address corporate capture of the AI debate, and to strengthen distinctive citizen voice within block-to-block negotiations: responding to concerns raised in a couple of our interviews about the brussels effect leading to regulation that does not respect or reflect diverse local contexts. 
 
-![Form]({site.baseurl}/assets/blog/washington_talk/slide12.png)
+![Form]({{site.baseurl}}/assets/blog/washington_talk/slide12.png)
 
 So let us turn then to that question of form. There are lots of different templates for how a global citizens assembly could be delivered, depending on the importance you place on in-depth real-time transnational conversations, vs. highly scalable or distributed parallel dialogues that are then aggregated together.  
 
-![Platform mediated. Event centered. Distributed dialogue. Independent global assembly. Commissioning body]({site.baseurl}/assets/blog/washington_talk/slide13.png)
+![Platform mediated. Event centered. Distributed dialogue. Independent global assembly. Commissioning body]({{site.baseurl}}/assets/blog/washington_talk/slide13.png)
 
 In the report we’ve sketched five rough options that I want to very briefly outline now.
 
 For each of these options I’ll give you an example of the kind of focus question it could address, before stepping you through a possible design. 
 
-![Option 1]({site.baseurl}/assets/blog/washington_talk/slide14.png)
+![Option 1]({{site.baseurl}}/assets/blog/washington_talk/slide14.png)
 
-![What should the design of an AI safety assessment take into account?]({site.baseurl}/assets/blog/washington_talk/slide15.png)
+![What should the design of an AI safety assessment take into account?]({{site.baseurl}}/assets/blog/washington_talk/slide15.png)
 
 Option 1 starts from a governance a regulation question. 
 
 Globally, we’re seeing the creation right now of an AI Safety Apparatus… but relatively little public input to how it should work - and particularly limited input from the global majority. 
 
-![Learning and deliberation (1) Recruitment Learning & deliberation (2) Action & impact Regional panels recruited through sortition by regional hubs. 2 - 10 members per country. Online meetings in each region, reviewing summit agenda and reports, and hearing from expert witnesses. Each regional panel drafts questions and topics of concern. They selects 2 - 5 regional delegates to attend the global summit. Regional and global panels prepare a review report.  ; Global webinar and regional events present findings and invite decision makers to respond. Delegates meet and deliberate in person at summit as a ‘global panel’ with live interpretation,  then feedback to regional panels, who discuss summit outcomes online. 1. Deliberative review: regional panels and global delegates Docking Docks with Global AI Policy Dialogue / AI Safety Summit. Citizen delegates from each region attend in person, and are able to put questions and observe sessions. Delegates mainly responds to agenda set by the summit, but over time the assembly is recognised as a contributor to agenda-setting.]({site.baseurl}/assets/blog/washington_talk/slide16.png)
+![Learning and deliberation (1) Recruitment Learning & deliberation (2) Action & impact Regional panels recruited through sortition by regional hubs. 2 - 10 members per country. Online meetings in each region, reviewing summit agenda and reports, and hearing from expert witnesses. Each regional panel drafts questions and topics of concern. They selects 2 - 5 regional delegates to attend the global summit. Regional and global panels prepare a review report.  ; Global webinar and regional events present findings and invite decision makers to respond. Delegates meet and deliberate in person at summit as a ‘global panel’ with live interpretation,  then feedback to regional panels, who discuss summit outcomes online. 1. Deliberative review: regional panels and global delegates Docking Docks with Global AI Policy Dialogue / AI Safety Summit. Citizen delegates from each region attend in person, and are able to put questions and observe sessions. Delegates mainly responds to agenda set by the summit, but over time the assembly is recognised as a contributor to agenda-setting.]({{site.baseurl}}/assets/blog/washington_talk/slide16.png)
 
 This model takes as its starting point the fact that decisions are shaped and made, at least part, through global convenings.
 
@@ -161,13 +161,13 @@ This brings public presence into the global event, and the selected delegates th
 
 The loop then closes with the global and regional panels presenting their response to the framing question, and their review of whether the summit addressed public concerns, to an audience of summit stakeholders. 
 
-![Option 2]({site.baseurl}/assets/blog/washington_talk/slide17.png)
+![Option 2]({{site.baseurl}}/assets/blog/washington_talk/slide17.png)
 
-![How do we live good lives alongside AI?]({site.baseurl}/assets/blog/washington_talk/slide18.png)
+![How do we live good lives alongside AI?]({{site.baseurl}}/assets/blog/washington_talk/slide18.png)
 
 Option 2 takes on a big values and vision question: how can we live good lives alongside AI?
 
-![Learning and deliberation Recruitment Action & impact Global sortition to create a core assembly of 1000 members. Self-organised community assemblies encouraged to recruit for diversity. Proactive engagement with cultural producers. Core assembly feeds citizen voices to influence decision makers. Community assemblies build capacity to engage with AI governance issues.; Cultural wave raises wider awareness of AI governance and builds a more informed public through media and creativity. 2. Global Assembly: independent transnational & local deliberation Docking Curated learning materials, activities and expert testimony delivered in online clusters to core assembly, and available as a self-service toolkit to community assemblies. Facilitated small transnational group discussions and plenary sessions for core assembly. Community assemblies invited to feed in evidence for core group to consider. Media and cultural responses. Docking varies based on focus question (vision/values or governance/regulation level). ; Emphasis on qualitative and consensus findings. May engage with UN system, thematic agencies, or through GPAI/OECD.]({site.baseurl}/assets/blog/washington_talk/slide19.png)
+![Learning and deliberation Recruitment Action & impact Global sortition to create a core assembly of 1000 members. Self-organised community assemblies encouraged to recruit for diversity. Proactive engagement with cultural producers. Core assembly feeds citizen voices to influence decision makers. Community assemblies build capacity to engage with AI governance issues.; Cultural wave raises wider awareness of AI governance and builds a more informed public through media and creativity. 2. Global Assembly: independent transnational & local deliberation Docking Curated learning materials, activities and expert testimony delivered in online clusters to core assembly, and available as a self-service toolkit to community assemblies. Facilitated small transnational group discussions and plenary sessions for core assembly. Community assemblies invited to feed in evidence for core group to consider. Media and cultural responses. Docking varies based on focus question (vision/values or governance/regulation level). ; Emphasis on qualitative and consensus findings. May engage with UN system, thematic agencies, or through GPAI/OECD.]({{site.baseurl}}/assets/blog/washington_talk/slide19.png)
 
 Very much modelled on the global assembly, this option combines the approaches of global sortition to create a core assembly, with self-organised community assemblies and a cultural wave. 
 
@@ -177,13 +177,13 @@ This should then dock into either AI-specific or thematic UN institutions or mul
 
 Through community assemblies and cultural wave, the independent global assembly seeks not only to influence decision makers, but also to build civil society capacity, and foster wider public conversations about AI governance in each country participating. 
 
-![Option 3]({site.baseurl}/assets/blog/washington_talk/slide20.png)
+![Option 3]({{site.baseurl}}/assets/blog/washington_talk/slide20.png)
 
-![What global and local rules should govern AI?]({site.baseurl}/assets/blog/washington_talk/slide21.png)
+![What global and local rules should govern AI?]({{site.baseurl}}/assets/blog/washington_talk/slide21.png)
 
 Option 3 places the emphasis entirely on this distributed community level dialogue - and might address a question such as “What global or local rules should govern AI?”
 
-![Docking Learning and deliberation Recruitment Action and impact A network of partners are invited to each recruit their own local assembly (local, national or regional partners are encouraged to recruit for diversity. Reports play a decision shaping role. Strong emphasis on capacity building of civil society partners. 3. Distributed dialogue:  Local, national or regional conversations A central coordinating group create a set of learning modules with experts on video, learning activities and facilitator guidance. Each distributed dialogue event (6 - 18 hours over 1 - 3 days) takes place in the same fortnight: in person or online. ; Partners help translate materials, and can add their own additional discussion topics. The central coordinating group creates a synthesis report speaking to global institutions - particularly multi-stakeholder processes. Partners can produce local reports that target national or local decision makers. Explore all five options:]({site.baseurl}/assets/blog/washington_talk/slide22.png)
+![Docking Learning and deliberation Recruitment Action and impact A network of partners are invited to each recruit their own local assembly (local, national or regional partners are encouraged to recruit for diversity. Reports play a decision shaping role. Strong emphasis on capacity building of civil society partners. 3. Distributed dialogue:  Local, national or regional conversations A central coordinating group create a set of learning modules with experts on video, learning activities and facilitator guidance. Each distributed dialogue event (6 - 18 hours over 1 - 3 days) takes place in the same fortnight: in person or online. ; Partners help translate materials, and can add their own additional discussion topics. The central coordinating group creates a synthesis report speaking to global institutions - particularly multi-stakeholder processes. Partners can produce local reports that target national or local decision makers. Explore all five options:]({{site.baseurl}}/assets/blog/washington_talk/slide22.png)
 
 Modelled on the We the Internet dialogue, which docked into the open multi-stakeholder Internet Governance Forum, this option relies on recruiting a network of country partner organisations who would each manage recruitment and facilitation of their own parallel dialogue events.
 
@@ -193,15 +193,15 @@ However, because 10s or 100s of different sites are hosting parallel dialogues i
 
 At the same time, a big emphasis of this model is on capacity building with local partners, and building a network of partners who have been part of a shared dialogue about how AI should be governed. 
 
-![Option 4]({site.baseurl}/assets/blog/washington_talk/slide23.png)
+![Option 4]({{site.baseurl}}/assets/blog/washington_talk/slide23.png)
 
-![When should AI systems provide medical or legal advice?]({site.baseurl}/assets/blog/washington_talk/slide24.png)
+![When should AI systems provide medical or legal advice?]({{site.baseurl}}/assets/blog/washington_talk/slide24.png)
 
 Option 4 makes use of AI to discuss AI, and looks at how a global assembly on AI could respond to questions coming from AI firms, or global institutions interested in shaping detailed sector-specific regulations
 
 For example, the question of when should AI systems provide medical or legal advice (this was one of the questions in OpenAI’s Democratic Inputs to AI project run last year). 
 
-![Docking Learning & deliberation Action & impact International organizations and firms can commission the assembly to address selected questions & explain how they will act on outputs. Demographically balanced panels have access to self-directed learning materials, and use an online platform to assess statements on key assembly questions. Results can show consensus and points of difference broken down by demographics, providing raw data to feed into fine-turning AI models, or shaping policy proposals. Any participants can provide and respond to statements  from each other. AI enables translation & identifies clusters of different positions Recruitment Agencies used to recruit demographically representative panels of 1000+ in each participating country. Country/regional assemblies.  Dialogue Conference. Open online platform Anyone can sign-up and take part in online discussion around focus questions, or suggest new questions to debate. Based on ‘rough consensus’ identified through online process, a group are invited to come together to develop detailed policy proposals. Dialogue can identify novel solutions to difficult problems, focussing on those able to secure broad support. Diverse ‘stakeholders’ 4. Platform mediated: collective intelligence assembly Explore all five options:]({site.baseurl}/assets/blog/washington_talk/slide25.png)
+![Docking Learning & deliberation Action & impact International organizations and firms can commission the assembly to address selected questions & explain how they will act on outputs. Demographically balanced panels have access to self-directed learning materials, and use an online platform to assess statements on key assembly questions. Results can show consensus and points of difference broken down by demographics, providing raw data to feed into fine-turning AI models, or shaping policy proposals. Any participants can provide and respond to statements  from each other. AI enables translation & identifies clusters of different positions Recruitment Agencies used to recruit demographically representative panels of 1000+ in each participating country. Country/regional assemblies.  Dialogue Conference. Open online platform Anyone can sign-up and take part in online discussion around focus questions, or suggest new questions to debate. Based on ‘rough consensus’ identified through online process, a group are invited to come together to develop detailed policy proposals. Dialogue can identify novel solutions to difficult problems, focussing on those able to secure broad support. Diverse ‘stakeholders’ 4. Platform mediated: collective intelligence assembly Explore all five options:]({{site.baseurl}}/assets/blog/washington_talk/slide25.png)
 
 This option is focussed on scale. 
 
@@ -217,14 +217,14 @@ And in a process like this, all the discussions are well tracked: making it poss
 
 However, this option is not entirely digital and asynchronous. As we workshopped this model, and explored in particular the experience of vTaiwan, we noted the importance of a synchronous convening phase. After digital tools have been used to understand the range of positions taken, and find bridges between them, there is value in bringing together people from different positions in the space to dialogue together on detailed policy proposals and ways forward. 
 
-![Option 5]({site.baseurl}/assets/blog/washington_talk/slide26.png)
+![Option 5]({{site.baseurl}}/assets/blog/washington_talk/slide26.png)
 
 
-![What needs to be done to make sure Artificial Intelligence supports sustainable development?]({site.baseurl}/assets/blog/washington_talk/slide27.png)
+![What needs to be done to make sure Artificial Intelligence supports sustainable development?]({{site.baseurl}}/assets/blog/washington_talk/slide27.png)
 
 Lastly, we come to option 5. This option involves addressing the relationship between AI and other significant topics.
 
-![5. Commissioning body for public dialogue on AI Docking Action and impact Learning and deliberation Recruitment An expert committee identify AI-governance questions that could be discussed within other existing deliberation and commission questions within these processes. Opportunities to engage with AI within climate dialogues linked to COP30, health dialogues, or other global development discussions. Participants selected through existing processes (sortition or similar), but on basis of engagement with non-AI topic (e.g. Climate) helping address selection-bias of an AI assembly. Findings integrated into thematic assembly reports.Pull-out AI findings can be shared with key AI governance stakeholders. Builds capacity of thematic dialogues to address AI in a meaningful way. Explore all five options:]({site.baseurl}/assets/blog/washington_talk/slide28.png)
+![5. Commissioning body for public dialogue on AI Docking Action and impact Learning and deliberation Recruitment An expert committee identify AI-governance questions that could be discussed within other existing deliberation and commission questions within these processes. Opportunities to engage with AI within climate dialogues linked to COP30, health dialogues, or other global development discussions. Participants selected through existing processes (sortition or similar), but on basis of engagement with non-AI topic (e.g. Climate) helping address selection-bias of an AI assembly. Findings integrated into thematic assembly reports.Pull-out AI findings can be shared with key AI governance stakeholders. Builds capacity of thematic dialogues to address AI in a meaningful way. Explore all five options:]({{site.baseurl}}/assets/blog/washington_talk/slide28.png)
 
 For example, AI could be an element within discussions of climate change, or global health. 
 
@@ -236,11 +236,11 @@ This offers opportunities to integrate AI governance in thematic reporting, and 
 
 A particular benefit of this model is that it avoids a self-selection bias in recruitment: which risks only those confident talking about AI joining a process about AI. Instead, introducing AI to people who opted into joining an assembly on climate may generate a very different set of insights and responses.
 
-![Theory of change]({site.baseurl}/assets/blog/washington_talk/slide29.png)
+![Theory of change]({{site.baseurl}}/assets/blog/washington_talk/slide29.png)
 
 With all these options in mind, we come to the important question of change. 
 
-![Citizens actions. Metric: self and collective efficacy; and activity logging. Institutional actions. Metric: policy specific uptake and implementation assessments Learning at scale. Metric: retention, comprehension, self-reflection. Solidarity (local & global). Metric: social capital [bonding + bridging] Local & Global Impact. Inclusion Metric: global & vulnerability representativeness]({site.baseurl}/assets/blog/washington_talk/slide30.png)
+![Citizens actions. Metric: self and collective efficacy; and activity logging. Institutional actions. Metric: policy specific uptake and implementation assessments Learning at scale. Metric: retention, comprehension, self-reflection. Solidarity (local & global). Metric: social capital [bonding + bridging] Local & Global Impact. Inclusion Metric: global & vulnerability representativeness]({{site.baseurl}}/assets/blog/washington_talk/slide30.png)
 
 This slide, adapted from the Global Citizens’ Assembly for People and Planet Impact Framework (ISWE Foundation), highlights that the routes to change for a global deliberation are not just through the direct recommendations, or docking into institutions, but might also come through its impact on participants own actions, on building solidarity, and on supporting learning at scale.
 
@@ -248,7 +248,7 @@ Indeed, following the Global Digital Compact, global deliberation may be as impo
 
 For any design for global deliberation on AI we should ask firstly which of these routes to impact it is able to adopt, and where it places emphasis. 
 
-![Insider and outsider tactics]({site.baseurl}/assets/blog/washington_talk/slide31.png)
+![Insider and outsider tactics]({{site.baseurl}}/assets/blog/washington_talk/slide31.png)
 
 We should also consider how the implementation of any global deliberation makes use of both insider, and outsider, tactics to secure change. 
 
@@ -256,9 +256,9 @@ Docking close to decision making power can provide a more direct route to influe
 
 The slide here also shows the different levels on which deliberation processes are often operating: both with immediate policy goals, and as part of a wider movement to embed deliberative politics as part of new governance models. 
 
-![From concepts to action: recommendations]({site.baseurl}/assets/blog/washington_talk/slide32.png)
+![From concepts to action: recommendations]({{site.baseurl}}/assets/blog/washington_talk/slide32.png)
 
-![Recommendations 1.  Develop institutional docking - emerging AI governance institutions must commit to engage with processes of global citizen deliberation. 2. Invest in deliberation at scale - funders should pool resources for a range of independently governed experiments in global deliberation on AI. 3. Create infrastructure for learning - practitioners and researchers need opportunities to learn, develop and evaluate work together. 4. Connect with movement building - local knowledge, confidence and movements will be critical to delivering change]({site.baseurl}/assets/blog/washington_talk/slide33.png)
+![Recommendations 1.  Develop institutional docking - emerging AI governance institutions must commit to engage with processes of global citizen deliberation. 2. Invest in deliberation at scale - funders should pool resources for a range of independently governed experiments in global deliberation on AI. 3. Create infrastructure for learning - practitioners and researchers need opportunities to learn, develop and evaluate work together. 4. Connect with movement building - local knowledge, confidence and movements will be critical to delivering change]({{site.baseurl}}/assets/blog/washington_talk/slide33.png)
 
 We close the paper with the four recommendations shown on this slide. 
 
