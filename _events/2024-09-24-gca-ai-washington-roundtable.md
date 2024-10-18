@@ -21,13 +21,14 @@ An adapted version of the presention is included below.
 
 ![The role of citizens in AI governance Open Gov Hub - Washington DC - 24th September 2024]({{site.baseurl}}/assets/blog/washington_talk/slide00.png)
 
-<iframe src="https://drive.google.com/file/d/1aLifhuqTQD89md7_jDCpqCIUz1qxqfG7/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 Good afternoon all. Thank you for joining for this discussion on the role of citizens in AI governance, drawing in particular on a paper we’ve just published along with ISWE Foundation and drawing on our design lab on options for a global citizens assembly on AI. 
 
 I should start by saying that Connected by Data is not solely focussed on Citizen’s Assemblies: we see them as one method in a much wider toolbox of approaches to give voice to affected communities in the governance of data and AI. However, we had the opportunity to work on this paper with partners from the Coalition for a Global Citizens Assembly, producing an options paper to parallel an earlier paper on climate assemblies, and a new paper on global deliberation on health.  
 
 I also want to set the scene for this particular presentation in the context of the UN Summit of the Future, which a few days ago, agreed the Global Digital Compact, that sets out a part of future proposed architecture for global governance of AI, with an International Scientific Panel, and Global Policy Dialogue. These are ideas that were put forward in the Governing AI for Humanity report of the UN Secretary General’s High Level Advisory Body on AI, and published last Thursday. The video here gives you a small flavour of how that was framed. 
+
+<iframe src="https://drive.google.com/file/d/1aLifhuqTQD89md7_jDCpqCIUz1qxqfG7/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 ![Bridging the governance gap A global governance gap; A participatory governance gap]({{site.baseurl}}/assets/blog/washington_talk/slide02.png)
 
