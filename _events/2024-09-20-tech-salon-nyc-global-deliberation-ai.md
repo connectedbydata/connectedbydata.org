@@ -4,11 +4,11 @@ title: "TechSalon New York: How Can Global Public Deliberation Shape AI?"
 image: techsalon.png
 add-background: true
 upcoming: false
-writeup: false
+writeup: true
 date: 2024-09-20
 author: Tim Davies
 category: organising
-link: 
+link: https://merltech.org/global-citizen-deliberation-a-way-to-achieve-better-ai-governance/
 project: Options for a Global Citizens Assembly on AI
 ---
 
@@ -17,6 +17,8 @@ We will be sharing [outputs from our design lab on options for a global citizens
 <!--more-->
 
 > Read [the full report here](https://connectedbydata.org/resources/global-deliberation-ai)
+
+> Read [the Tech Salon write up here](https://merltech.org/global-citizen-deliberation-a-way-to-achieve-better-ai-governance/)
 
 ## Connected by Data at TechSalon New York - Options for a Global Citizens Assembly on AI
 
@@ -32,23 +34,12 @@ In recent decades, a wave of democratic innovation has seen citizen assemblies a
 
 In a citizens assembly, a representative group of delegates are selected, offered balanced expert testimony, and given facilitated space to deliberate together on substantive questions. Complementary approaches take deliberation to the local level: fostering community level deliberations to shape public debate and practical decisions.
 
-Join us for a closed door conversation about the potential of, and practical steps towards, inclusive global citizen deliberation on AI. Guiding the discussion will be contributions from:
+This Tech Salon explored the potential of, and practical steps towards, inclusive global citizen deliberation on AI. Guiding the discussion were contributions from:
 
 * **Tim Davies**, Director of Research and Practice at Connected by Data,
 * **Helene Landemore**, Professor of Political Science, Yale University & Fellow of Ethics in AI Institute, University of Oxford,
-* **Aish Machani & Richard Wilson**, ISWE Foundation / Coalition for a Global Citizens Assembly
+* **Richard Wilson**, ISWE Foundation / Coalition for a Global Citizens Assembly
 * **Kiito Shilongo**, Tech Policy Researcher
 * **Lina Srivastava**, Founder, Center for Transformational Change
 
-We aim to come away from the Salon with ideas and actions that explore:
-
-* Why do we need global citizen deliberation to guide the future of AI?
-* How can we learn from existing practice on AI and related topics such as climate governance?
-* Which questions that could be put to global publics?
-* Who should set the agenda and participate in an assembly?
-* What forms can an assembly take?
-* Where are opportunities to advance practice designs?
-
-This is **an in person event only**, organised in patnership with TechSalon New York, and hosted by Thoughtworks at 99 Madison Ave 15th floor, New York, NY 10016. We will have coffee and snacks for a morning rush, but in-person seating is limited. Once we reach our 30-person capacity there will be a waiting list!
-
-Please [RSVP to secure your place](https://docs.google.com/forms/d/e/1FAIpQLSdQYPBr_MnI6emrBAOmAsIfdWpL2WBGfNzOdIj8Sm1hMVr4-w/viewform).
+You can find a [write up of the event on the MerlTech blog](https://merltech.org/global-citizen-deliberation-a-way-to-achieve-better-ai-governance/).
