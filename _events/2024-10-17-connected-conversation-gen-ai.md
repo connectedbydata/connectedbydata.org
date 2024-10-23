@@ -2,8 +2,8 @@
 layout: event
 title: "Connected Conversation: Generative AI and Worker Rights"
 image: cbd-logo.png
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2024-10-17
 author: Jeni Tennison
