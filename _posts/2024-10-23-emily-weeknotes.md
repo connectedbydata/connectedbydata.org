@@ -14,7 +14,7 @@ Tomorrow is our next team monthly meetup. Always nice to be in the same physical
 
 At the moment my diary next week has a clear day - which I want to use for focus time to progress some chunkier items. To achieve that I’ll need to have cleared the more administrative / weekly actions earlier in the week to reduce the distraction.
 
-I’m also getting married in less than a month! Probably ought to keep on eye on taking care of that.
+I’m also getting married one month today! Probably ought to keep on eye on taking care of that.
 
 ### What I’ve been inspired or challenged or moved by
 The article I read this week about AI Chatbots (see below) was challenging. 
@@ -25,12 +25,12 @@ Adam shared a ‘long’ read to the team recently with the headline ‘[Horny R
 * wondering if AI will bring about a fundamental shift as to how we interact (the parallel with our phone addictions resonates here)
 * the sociological impacts (research showing that if a machine can give the sense of being needed we can bond with it very quick - again parallels with things like tamagotchis or simply ‘streaks’ such as DuoLingo, or even just how we care about our favourite stuffed animal)
 * an echo chamber concern (the article starts with an example of a relationship AI chatbot affirming to someone that they should try to kill the queen)
-* a gender violence concern (when AI chatbots are ‘replicating’ women that will do whatever men want, when they want it and how that will spill into real life when our interactions with other humans aren’t programmable)
+* a gender violence concern (when AI chatbots are ‘replicating’ women that will do whatever men want, when they want it, and how that will spill into real life when our interactions with other humans aren’t programmable)
 * the impact on our mental health (as chatbots are developed that use data from a dead loved one to generate their ‘voice’ - so you can still have conversation with them)
-* the educational role (I felt massively uncomfortable about people being able to chat to an AI bot of Hitler, but would love to chat with Nelson Mandela - and I guess morally we can’t pick on or the other…but I do refer back here to the individual who was in an echo chamber with a chatbot and acted on their confirmation, what will a white supremacist ‘chatting’ their ideas through with Hitler have the potential to lead to?).
+* the educational role (I felt massively uncomfortable about people being able to chat to an AI bot of Hitler, but would love to chat with Nelson Mandela - and I guess morally we can’t pick on or the other…but I do refer back here to the individual who was in an echo chamber with a chatbot and acted on their confirmation, what could a white supremacist ‘chatting’ their ideas through with Hitler have the potential to lead to?).
 * AI improving the sophistication of scams / cons (including reference to [the example ](https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video#:~:text=The%20Hong%20Kong%20police%20force,money%20to%20designated%20bank%20accounts%E2%80%9D.)where someone was scammed in a Zoom call - that was completely made up of AI generated colleagues!)
 
-Overall I think my concern is less about what it is to be human (a theme the article does thread through) and more the lack of critical thinking in the engagements and the impact of that. Its the drive towards individualisation when history proves (repeatedly) we are ‘best’ (most resilient, most productive, most kind etc) when we embrace diversity and are a broad collective. To coin the Americans … “we the people”.
+Overall I think my concern is less about what it is to be human (a theme the article does thread through) and more the lack of critical thinking in potential future engagements, and the impact of that. It is the drive towards individualism when history proves (repeatedly) we are ‘best’ (most resilient, most productive, most kind etc) when we embrace diversity and are a broad collective. To coin the Americans … “we the people”.
 
 It’s never possible to predict the future and we’re often reminded of things people predicted in the 80’s that we’d have now (and don’t) and there’s been numerous examples of tech that people have thought would rapidly change our way of life (virtual reality) and hasn’t. But, there’s something about AI and how people (Government, businesses - large and small, developers, civil society, general public - in all its glorious diversity) are talking about it - and already interacting with it, that makes this feel a bit different. One of the reasons I’m proud to work for Connected by Data is [our goal ](https://connectedbydata.org/about)to ensure people have a strong voice in decisions about AI, because one thing I am sure of is that whatever the AI future is bringing, we shouldn’t be sleepwalking into it and abstaining from any engagement with the change.
 
