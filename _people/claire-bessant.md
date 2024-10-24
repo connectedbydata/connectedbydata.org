@@ -1,5 +1,7 @@
 ---
 layout: person
+roles:
+  - fellow
 title: Claire Bessant
 role: Fellow
 picture: claire-bessant.png
