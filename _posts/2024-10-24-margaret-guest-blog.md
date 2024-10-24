@@ -4,7 +4,7 @@ title: "Labour is pledging to reform public services with Tech. But who should t
 author: Guest 
 category: blog
 ---
-Here we have a guest blog from Margaret, part of the [Public Voices in AI People's Advisory Group](https://connectedbydata.org/projects/2024-public-voices-in-ai), a member of the [People's Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai), and previous guest blogger on [baby Boomers and AI](https://connectedbydata.org/blog/2024/04/30/margaret-guest-blog) and [a speech she made at the Turing UK AI Conference](https://connectedbydata.org/blog/2024/03/19/margaret-guest-blog).
+Here we have a guest blog from Margaret, part of the [Public Voices in AI People's Advisory Group](https://connectedbydata.org/projects/2024-public-voices-in-ai), a member of the [People's Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai), and previous guest blogger on [Baby Boomers and AI](https://connectedbydata.org/blog/2024/04/30/margaret-guest-blog) and [a speech she made at the Turing UK AI Conference](https://connectedbydata.org/blog/2024/03/19/margaret-guest-blog).
 
 <!--more-->
 
