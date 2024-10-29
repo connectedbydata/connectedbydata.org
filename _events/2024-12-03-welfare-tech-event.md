@@ -8,9 +8,7 @@ writeup: false
 date: 2024-12-03
 author: Adam Cantwell-Corn
 category: organising
-project: 
-- Seizing The Moment
-- Data and AI Civil Society Network
+project: Seizing The Moment
 topics:
   - Civil society countervailing power
 ---
