@@ -23,4 +23,4 @@ We will introduce some of the key issues concerning the use of AI and digital to
 
 _This event is jointly hosted by Big Brother Watch, Public Law Project and Connected by Data._
 
-> This event will take place on Zoom from 1-2pm (UK time) on Tuesday 3 December 2024.
+> This event will take place on Zoom from 1-2pm (UK time) on Tuesday 3 December 2024. [Register here for the link](https://us06web.zoom.us/meeting/register/tZArdOqgqDMqH9NzhE0NIw7qAKSw42GWPC3h).
