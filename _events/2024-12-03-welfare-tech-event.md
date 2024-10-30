@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "How AI is affecting welfare rights - a civil society primer"
-image: cbd-logo.png
+image: 2024-12-03-logos.png
 upcoming: true
 featured: true
 writeup: false
@@ -21,6 +21,7 @@ Digital tools can make public services more accessible and efficient, but they c
 
 We will introduce some of the key issues concerning the use of AI and digital tools in the provision of welfare and benefits, with the aim to help charities and campaigners understand how to best engage with this fast moving area. We will also provide details on a new forum for civil society and activists working on this issue.
 
-_This event is jointly hosted by Big Brother Watch, Public Law Project and Connected by Data._
-
 > This event will take place on Zoom from 1-2pm (UK time) on Tuesday 3 December 2024. [Register here for the link](https://us06web.zoom.us/meeting/register/tZArdOqgqDMqH9NzhE0NIw7qAKSw42GWPC3h).
+
+_This event is jointly hosted by Big Brother Watch, Public Law Project and Connected by Data._
+![Image of host organisations' logos"](/assets/events/2024-12-03-logos.png)
