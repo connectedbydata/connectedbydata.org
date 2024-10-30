@@ -8,6 +8,7 @@ role: Head of Campaigns and Policy
 order: 3
 picture: adam.jpeg
 twitter: "@AdamC_C"
+bluesky: "adamc-c.bsky.social"
 email: "adam@connectedbydata.org"
 ---
 With a background in human rights law, youth work and community organising Adam co-founded [The Bristol Cable](https://thebristolcable.org/); an internationally recognised 100% community-owned magazine redefining local media. He was the recipient of a British Journalism Award in 2019 and has worked on policy and practical solutions for the broken market of quality journalism in the UK and beyond.

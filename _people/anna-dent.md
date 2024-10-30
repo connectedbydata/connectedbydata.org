@@ -5,6 +5,8 @@ roles:
 title: Anna Dent
 role: Fellow
 picture: anna-dent.png
+bluesky: "annadent.bsky.social"
+linkedin: "annadent"
 email: "anna@abdconsultancy.co.uk"
 ---
 Anna is an independent researcher and policy consultant. Her work focuses on the interactions between technology and society, primarily in the domains of work and the welfare state. 
@@ -15,4 +17,4 @@ Anna is an independent researcher and policy consultant. Her work focuses on the
 
 She holds an MSc in Public Policy from the University of Bristol, achieved as a mature student. She works with the public and third sectors as well as with academia, and is an associate at Careful Trouble, 50 Degrees and Rocket Science. Her writing and research has appeared in a range of publications including The Guardian, Computer Weekly, British Academy, Big Issue and Huck Magazine.
 
-Her website is [https://www.abdconsultancy.co.uk/](https://www.abdconsultancy.co.uk/). She can also be found on [LinkedIn](https://www.linkedin.com/in/annadent/) and [Bluesky](https://bsky.app/profile/annadent.bsky.social).
+Her website is [https://www.abdconsultancy.co.uk/](https://www.abdconsultancy.co.uk/).

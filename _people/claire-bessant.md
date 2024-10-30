@@ -6,6 +6,7 @@ title: Claire Bessant
 role: Fellow
 picture: claire-bessant.png
 twitter: "@cpb27"
+linkedin: "claire-bessant-82b630132"
 email: "claire.bessant@northumbria.ac.uk"
 ---
 Claire Bessant is a socio-legal scholar and [Associate Professor in Law at Northumbria University.](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/)
@@ -16,4 +17,4 @@ Claire’s research explores the impact of technology upon children’s privacy.
 
 Claire’s focus as a **CONNECTED** by **DATA** Fellow will be upon the datafication of children and families, particularly by the education and health sectors. 
 
-For more information about her publications please visit [her university profile](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/). She is also on [LinkedIn](https://www.linkedin.com/in/claire-bessant-82b630132/).
+For more information about her publications please visit [her university profile](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/).

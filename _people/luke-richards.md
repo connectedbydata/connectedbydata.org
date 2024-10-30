@@ -6,7 +6,7 @@ title: Luke Richards
 role: Fellow
 picture: luke.jpg
 mastodon: "@hypnotic@mathstodon.xyz"
-linkedin: "http://www.linkedin.com/in/luke-w-richards/"
+linkedin: "luke-w-richards"
 email: "lukerichards.data@gmail.com"
 ---
 Luke is a masters student at the University of Birmingham studying ‘Responsible Data Science’ - an interdisciplinary degree in conjunction between the University’s School of Law and School of Computer Science. His course covers a deep practical understanding of databases, programming, data science, machine learning and artificial intelligence from a Computer Science perspective as a grounding to also study the regulation, ethics and governance of emerging technologies and complex socio-technical systems from a legal perspective.
