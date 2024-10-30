@@ -8,6 +8,7 @@ role: Head of Delivery and Operations
 order: 3
 picture: emily.jpg
 twitter: "@emilyjmacaulay"
+bluesky: "@emilyjmacaulay.bsky.social"
 email: "emily@connectedbydata.org"
 mastodon: "@emilyjmacaulay@mastodonapp.uk"
 ---
