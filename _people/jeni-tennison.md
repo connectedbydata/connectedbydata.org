@@ -10,6 +10,8 @@ role: Founder and Executive Director
 order: 1
 picture: jeni.jpg
 twitter: "@JeniT"
+linkedin: "jenit"
+bluesky: "jenitennison.com"
 email: "jeni@connectedbydata.org"
 mastodon: "@JeniT@mastodon.me.uk"
 ---

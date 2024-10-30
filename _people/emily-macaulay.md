@@ -7,9 +7,8 @@ pronouns: she/her
 role: Head of Delivery and Operations
 order: 3
 picture: emily.jpg
-twitter: "@emilyjmacaulay"
 bluesky: "emilyjmacaulay.bsky.social"
-linkedin: "emily-macaulay-mbe-1123113a"
+linkedin: "emilyjmacaulay"
 email: "emily@connectedbydata.org"
 mastodon: "@emilyjmacaulay@mastodonapp.uk"
 ---
