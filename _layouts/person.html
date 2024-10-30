@@ -53,6 +53,16 @@ layout: default
   </a>
   <br>
   {%- endif -%}
+  {%- if page.bluesky -%}
+  {% assign bluesky = page.bluesky | split: '@' %}
+<a rel="me" href="https://bsky.app/profile/{{page.bluesky}}" class="icon-text" title="{{ page.bluesky }}">
+  <span class="icon">
+    <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+  </span>
+  <span>@{{ page.bluesky }}</span>
+</a>
+<br>
+{%- endif -%}
   {%- if page.email -%}
   <a href="mailto:{{page.email}}" class="icon-text">
     <span class="icon">
