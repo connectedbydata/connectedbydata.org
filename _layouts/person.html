@@ -54,7 +54,7 @@ layout: default
   <br>
   {%- endif -%}
   {%- if page.bluesky -%}
-  {% assign bluesky = page.bluesky | split: '@' %}
+  {% assign bluesky = page.bluesky | split: '.bsky.social' %}
 <a rel="me" href="https://bsky.app/profile/{{page.bluesky}}" class="icon-text" title="{{ page.bluesky }}">
   <span class="icon">
     <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
