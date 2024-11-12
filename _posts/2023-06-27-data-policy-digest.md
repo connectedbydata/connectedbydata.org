@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Data Protection and Digital Information Bill
 ---
 Hello, and welcome to the third Data Policy Digest from Connected by Data! The Digest aims to bring you all the main developments in data and digital policy, including the Data Protection and Digital Information Bill, the AI White Paper and beyond. (Often way beyond.)
 It’s been more than six weeks since the last edition (I’ve been away). Good job it’s been a quiet month or so in data policy…

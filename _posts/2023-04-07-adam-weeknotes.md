@@ -4,6 +4,8 @@ author: Adam Cantwell-Corn
 category: weeknotes
 projects:
   - Our Data Futures
+topics:
+  - Data Protection and Digital Information Bill
 ---
 
 Reform of data protection regulations are not often a headline grabber. In announcing the re-launch of the Data Protection and Digital Information Bill (DPDIB) the Science and Technology Secretary Michelle Donelan stated that “ GDPR: most people don’t know what the letters stand for”.

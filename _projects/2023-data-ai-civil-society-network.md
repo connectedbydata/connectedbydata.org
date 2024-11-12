@@ -5,6 +5,7 @@ subtitle:
 image: cbd-logo.png 
 topics:
   - Civil society countervailing power
+  - Data Protection and Digital Information Bill
 add-background: false
 completed: false
 ---

@@ -7,6 +7,8 @@ writeup: false
 date: 2023-05-10
 author: Jeni Tennison
 category: speaking
+topics:
+  - Data Protection and Digital Information Bill
 project: Our Data Futures
 ---
 Parliamentary scrutiny of [the Data Protection and Digital Information Bill (No.2)](https://bills.parliament.uk/bills/3430/publications) kicked off on 10 May 2023 with the opening day of the Public Bill Committee.

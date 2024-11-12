@@ -10,6 +10,7 @@ category: organising
 project: Seizing The Moment
 topics:
   - Civil society countervailing power
+  - Data Protection and Digital Information Bill
 ---
 
 Almost every modern policy reform relies on new data systems, and increasingly involves technologies labelled as Artificial Intelligence (AI) to make and shape decisions. Whether that’s education, health, benefits, housing, social care, work, policing, democratic engagement or a multitude of other areas.

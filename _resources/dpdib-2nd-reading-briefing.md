@@ -9,6 +9,8 @@ status: final
 listed: false
 link: https://docs.google.com/document/d/1coxLjooZSEobdJX8MnPgntkqKvV2vvLf946BThsdHhc/edit?usp=sharing
 image: dpdib-2nd-reading-briefing.jpg
+topics:
+  - Data Protection and Digital Information Bill
 ---
 **Note: This briefing has been superseded by [our briefing on the second version of the Bill](/resources/dpdib2-2nd-reading-briefing).**
 

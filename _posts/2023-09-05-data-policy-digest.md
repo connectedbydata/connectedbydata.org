@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Data Protection and Digital Information Bill
 ---
 Hello! Or rather, tere! 
 

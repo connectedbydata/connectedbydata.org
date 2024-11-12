@@ -9,6 +9,8 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/1ZPFQnQlE52vcz7yql2z9orKSiE6gONLR4s3B1vTJpGQ/edit?usp=sharing
 image: dpdib2-2nd-reading-briefing.jpg
+topics:
+  - Data Protection and Digital Information Bill
 ---
 This is our public briefing note on the UK's [Data Protection and Digital Information (No.2) Bill](https://bills.parliament.uk/bills/3430). Our main points are:
 

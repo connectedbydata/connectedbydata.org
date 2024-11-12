@@ -7,6 +7,8 @@ writeup: true
 date: 2023-12-05
 author: Adam Cantwell-Corn
 category: organising
+topics:
+  - Data Protection and Digital Information Bill
 link: 
 project: Connected Conversations
 ---

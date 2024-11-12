@@ -8,6 +8,8 @@ writeup: true
 date: 2022-09-29
 author: Jonathan Smith
 category: organising
+topics:
+  - Data Protection and Digital Information Bill
 project: Our Data Futures
 ---
 

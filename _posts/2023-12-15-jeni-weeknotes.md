@@ -2,6 +2,8 @@
 layout: post
 author: Jeni Tennison
 category: weeknotes
+topics:
+  - Data Protection and Digital Information Bill
 ---
 Right, time for a few reflections on a busy year.
 

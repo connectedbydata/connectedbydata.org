@@ -4,6 +4,8 @@ author: Jeni Tennison
 category: weeknotes
 projects:
   - Our Data Futures
+topics:
+  - Data Protection and Digital Information Bill
 ---
 It's been a few weeks since my last weeknotes because I've been away on leave for the last couple. But things didn't stop happening just because I was on holiday: in particular it coincided with the publication of the [Data Protection and Digital Information Bill (DPDIB)](https://bills.parliament.uk/bills/3322), and the news that the [Shuttleworth Foundation](https://shuttleworthfoundation.org/), which has enabled me to start this work, is going to be [closing up shop in 18 months time](https://shuttleworthfoundation.org/thinking/2022/07/19/thinking-closing/).
 

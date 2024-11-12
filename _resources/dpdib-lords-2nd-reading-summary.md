@@ -8,7 +8,8 @@ date: 2024-02-05
 status: final
 listed: true
 image: dpdib-lords-2nd-reading-briefing.jpg
-
+topics:
+  - Data Protection and Digital Information Bill
 ---
 ## **Data Protection and Digital Information Bill: what happened at Lords Second Reading?** 
 
@@ -18,6 +19,8 @@ On Tuesday 19 December 2023 – the last day before their Christmas break – th
 This is known as Second Reading – First Reading is a formality, where the Bill is introduced to the House after moving through the Commons, and it will next go to Committee stage (for detailed scrutiny), then Report Stage and Third Reading (for amendments and further debate in the Chamber).
 
 Below is a brief summary of the debate (starting with a table of contents). You can also[ read the debate in full](https://hansard.parliament.uk/lords/2023-12-19/debates/2960AC9B-D86E-4EA1-8E4E-F3198BEE702F/DataProtectionAndDigitalInformationBill),[ read my live tweeting](https://twitter.com/GavinFreeguard/status/1737027214359576879),[ watch the debate](https://parliamentlive.tv/event/index/0c632bf5-6d02-4e6f-a774-3755d70d6ba0?in=12:19:19) or check out our[ page of resources](https://connectedbydata.org/resources/dpdib-resources) on the Bill and its parliamentary passage.
+
+<!--more-->
 
 [Opening statements from government and opposition](#opening-statements-from-government-and-opposition)
 

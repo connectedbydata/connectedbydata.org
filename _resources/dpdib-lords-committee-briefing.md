@@ -9,6 +9,8 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/1xHWrFTW7pW-ZsllcGCYgsLsR9meeUqYG6hPKhJqTx4Y/edit?usp=drive_link
 image: dpdib-lords-committee-briefing.png
+topics:
+  - Data Protection and Digital Information Bill
 ---
 This is our public briefing note for the Lords' Committee stage on the UK's [Data Protection and Digital Information Bill](https://bills.parliament.uk/bills/3430).
 

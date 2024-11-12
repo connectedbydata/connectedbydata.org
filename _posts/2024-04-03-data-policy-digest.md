@@ -5,6 +5,8 @@ author: Gavin Freeguard
 category: news
 projects:
   - Data Policy Digest
+topics:
+  - Data Protection and Digital Information Bill
 ---
 Hello, and welcome to our fifteenth Data Policy Digest, bringing you all the latest data and AI policy developments. 
 

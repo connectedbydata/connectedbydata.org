@@ -5,6 +5,8 @@ category: weeknotes
 projects:
   - Ecosystem Mapping and Engagement
   - Our Data Futures
+topics:
+  - Data Protection and Digital Information Bill
 ---
 Those following my weeknotes know that I was due to be on jury service over the first two weeks of April. That turned out to be over quite quickly (the Easter holidays meant there weren't enough trials for the jury pool), which meant I had a couple of weeks that were relatively light in meetings and could catch up with some of the heads down work I needed to progress.
 

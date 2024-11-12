@@ -5,6 +5,8 @@ subtitle: Influencing UK data policy
 image: jrrt.png
 add-background: true
 completed: false
+topics:
+  - Data Protection and Digital Information Bill
 ---
 AI and data are everywhere in our political discourse and our everyday lives. Shaped properly, the benefits brought by such new technologies could lead to public benefit, with better services and better policies allowing us all to live better lives. But power over AI and data is currently concentrated in a small number of large companies working in their own interests, apparently untouched by questions of democratic accountability, and politicians easily seduced by hype or slowed by panic. 
 

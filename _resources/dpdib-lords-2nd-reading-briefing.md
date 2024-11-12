@@ -9,6 +9,8 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/1shFb43aw3z-sfwAsgCAjDLptK16ymyE-dT8iP6M3G64/edit
 image: dpdib-lords-2nd-reading-briefing.jpg
+topics:
+  - Data Protection and Digital Information Bill
 ---
 This is our public briefing note for the Lords' Second Reading on the UK's [Data Protection and Digital Information Bill](https://bills.parliament.uk/bills/3430). Our main points are:
 

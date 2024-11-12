@@ -9,6 +9,7 @@ topics:
   - Education
   - Work
   - Public sector
+  - Data Protection and Digital Information Bill
 date: 2022-12-05
 author: Gavin Freeguard
 category: organising
