@@ -16,8 +16,6 @@ We’re keen that it complements and brings together existing networks (such as 
 
 The network is meeting on a Chatham House basis (nothing attributed unless you want it to be, anything confidential excluded altogether), with notes circulated within the network. We do something similar with an[ existing data and AI civil society network](https://data-and-ai-cso-network.org/), and have lots of existing links with public engagement practitioners. We’re also keen to explore offering you a public outlet for work going on in government, through blogposts or even a podcast.
 
-Past and future meetings of the Community of Practice can be seen below.
+Past and future meetings of the Community of Practice can be seen below. We will be meeting once a month from December 2024 - March 2025.
 
-> To keep informed about this work and receive notifications of meetings please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
-
-You can also shape how the community operates through our survey ([this link for public sector](https://forms.gle/bJXfuZUkD3PA8XrL6), [this link for other sectors](https://forms.gle/56Xmu4sR32uBCNzf8)). 
+> To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
