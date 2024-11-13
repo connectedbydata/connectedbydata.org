@@ -3,6 +3,7 @@ layout: post
 title: "Looking for Care Revealed a Data Desert"
 author: Guest 
 category: blog
+featured: true
 ---
 Care Full is a new organisation, founded by Hannah and Ruth, two carers. We set out to explore the role of care in a new economy and how our economy could enable us to care for ourselves, one another and the planet.
 
