@@ -12,7 +12,7 @@ link:
 project: 
     - Seizing the Moment
 topics:
-  - Civil society countervailing power
+  - Civil society
 ---
 
 Sunday 22 September 18:00 – 20:00

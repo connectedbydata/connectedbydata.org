@@ -5,7 +5,7 @@ author: Adam Cantwell-Corn
 category: news
 projects:
 topics:
-  - Civil society countervailing power
+  - Civil society
 ---
 
 * **More than 100 UK and international organisations, experts and campaigners sign open letter to Rishi Sunak** 

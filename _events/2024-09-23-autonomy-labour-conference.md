@@ -12,7 +12,7 @@ link: https://lu.ma/wafufxe0?can_id=c4c5263e60a105631ff2f64fa2bf2de2&email_refer
 project: 
     - Seizing the Moment
 topics:
-  - Civil society countervailing power
+  - Civil society
 ---
 
 Adam will be speaking on a panel hosted by Autonomy Institute at the Campaign Fringe of the Labour Conference, focused on campaigning on and with technology.

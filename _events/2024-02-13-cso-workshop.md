@@ -9,7 +9,7 @@ author: Jonathan Smith
 category: organising
 project: Seizing The Moment
 topics:
-  - Civil society countervailing power
+  - Civil society
   - Data Protection and Digital Information Bill
 ---
 

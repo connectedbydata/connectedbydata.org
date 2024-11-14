@@ -13,7 +13,7 @@ projects:
     - Catalysing Community Campaigns
     - Gloucestershire Data Day
 topics:
-    - Civil society countervailing power
+    - Civil society
 ---
 
 Join us at Gloucestershire’s 2nd data day. (#GlosDataDay)

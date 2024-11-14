@@ -4,7 +4,7 @@ title: Data and AI Civil Society Network
 subtitle:
 image: cbd-logo.png 
 topics:
-  - Civil society countervailing power
+  - Civil society
   - Data Protection and Digital Information Bill
 add-background: false
 completed: false

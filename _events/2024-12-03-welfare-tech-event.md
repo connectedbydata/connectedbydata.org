@@ -10,7 +10,7 @@ author: Adam Cantwell-Corn
 category: organising
 project: Seizing The Moment
 topics:
-  - Civil society countervailing power
+  - Civil society
 ---
 
 AI and digitalisation is rapidly changing how public services are delivered, with the government making the public sector use of AI a key priority. 

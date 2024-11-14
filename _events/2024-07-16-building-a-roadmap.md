@@ -11,7 +11,7 @@ link:
 project: 
     - Seizing the Moment
 topics:
-  - Civil society countervailing power
+  - Civil society
 ---
 
 What could progressive technology policy look like for the new government in the UK?

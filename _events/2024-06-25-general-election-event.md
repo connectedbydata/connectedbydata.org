@@ -7,7 +7,7 @@ upcoming: false
 writeup: true
 topics:
   - Public sector
-  - Civil society countervailing power
+  - Civil society
 date: 2024-06-25
 author: Gavin Freeguard
 category: organising

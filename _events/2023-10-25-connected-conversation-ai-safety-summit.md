@@ -8,7 +8,7 @@ date: 2023-10-25
 author: Helena Hollis
 category: organising
 topics:
-  - Civil society countervailing power
+  - Civil society
 link: 
 project: Connected Conversations
 ---
