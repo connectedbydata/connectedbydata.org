@@ -1,7 +1,6 @@
 ---
 layout: person
 roles:
-  - associate
   - fellow
 redirect_from: /associates/libby-young
 title: Libby Young
