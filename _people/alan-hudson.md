@@ -1,7 +1,6 @@
 ---
 layout: person
 roles:
-  - associate
 title: Alan Hudson
 role: Practice associate
 picture: alan.jpeg

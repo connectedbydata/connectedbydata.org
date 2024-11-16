@@ -1,7 +1,6 @@
 ---
 layout: person
 roles:
-  - associate
 redirect_from: /associates/liz-steele
 title: Liz Steele
 role: EU Policy & Partnerships associate
