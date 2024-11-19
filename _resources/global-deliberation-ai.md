@@ -9,6 +9,8 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/1f7tV8akRaaPOUU-uyQ9n_81wi576VU25NAfM3wMV00o/edit
 image: global-deliberation-ai-report.png
+topics:
+  - People and Participation
 ---
 
 [Read online](https://docs.google.com/document/d/1f7tV8akRaaPOUU-uyQ9n_81wi576VU25NAfM3wMV00o/edit) or [Download PDF]({{site.baseurl}}/assets/resources/Global Citizen Deliberation on Artificial Intelligence_ Options and design considerations - Final draft - Sept 2024.pdf)
