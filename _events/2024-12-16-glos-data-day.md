@@ -14,6 +14,8 @@ projects:
     - Gloucestershire Data Day
 topics:
     - Civil society
+topics:
+  - People and Participation
 ---
 
 Join us at Gloucestershire’s 2nd data day. (#GlosDataDay)

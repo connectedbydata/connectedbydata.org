@@ -5,6 +5,8 @@ subtitle: Public deliberation around the AI Safety Summit and Fringe
 image: cbd-logo.png
 add-background: false
 completed: false
+topics:
+  - People and Participation
 ---
 
 The People’s Panel on AI brought together representative members of the public to attend, observe and discuss key events at the [AI Fringe](https://aifringe.org/), which was held alongside the UK Government’s [AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-introduction) at the beginning of November 2023.

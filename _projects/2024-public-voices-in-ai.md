@@ -5,6 +5,8 @@ subtitle:
 image: pvai.png
 add-background: true
 completed: false
+topics:
+  - People and Participation
 ---
 **CONNECTED** BY **DATA** have been commissioned by [Public Voices in AI](https://digitalgood.net/dg-research/public-voices-in-ai/) to facilitate a People’s Advisory Panel supporting their year long project.
 

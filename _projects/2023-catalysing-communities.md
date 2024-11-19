@@ -8,6 +8,8 @@ topics:
   - Civil society
 add-background: true
 completed: false
+topics:
+  - People and Participation
 ---
 
 Data and AI are changing our world… community led campaigns can reshape how.

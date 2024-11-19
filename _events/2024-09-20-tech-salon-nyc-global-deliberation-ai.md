@@ -10,6 +10,8 @@ author: Tim Davies
 category: organising
 link: https://merltech.org/global-citizen-deliberation-a-way-to-achieve-better-ai-governance/
 project: Options for a Global Citizens Assembly on AI
+topics:
+  - People and Participation
 ---
 
 We will be sharing [outputs from our design lab on options for a global citizens assembly on AI](https://connectedbydata.org/resources/global-deliberation-ai) at TechSalon New York, ahead of the Civil Society Days of the UN Summit of the Future.

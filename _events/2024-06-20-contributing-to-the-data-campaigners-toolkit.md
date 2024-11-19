@@ -9,6 +9,8 @@ author: Helena Hollis
 category: organising
 link: 
 project: Catalysing Community Campaigns
+topics:
+  - People and Participation
 ---
 
 ### How can community-led campaigns transform the way data is collected, managed, shared and used?

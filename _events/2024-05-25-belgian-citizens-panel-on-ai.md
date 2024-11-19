@@ -9,6 +9,8 @@ author: Tim Davies
 category: attending
 link: 
 project: Options for a Global Citizens Assembly on AI
+topics:
+  - People and Participation
 ---
 
 As part of our design lab [scoping options for a Global Citizens’ Assembly on AI (GCA on AI)](https://connectedbydata.org/projects/2024-gca-ai), Tim attended the launch of the findings from the Belgian Citizens Panel on AI at the Residence Palace in Brussels. 

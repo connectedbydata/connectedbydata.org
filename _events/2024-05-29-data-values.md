@@ -9,6 +9,8 @@ upcoming: false
 writeup: true
 author: Tim Davies
 category: speaking
+topics:
+  - People and Participation
 ---
 
 Tim spoke alongside partners from the [Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/) on May 29, 9-10am EST for a virtual session on participatory data governance.

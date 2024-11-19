@@ -8,6 +8,8 @@ date: 2023-11-03
 author: Tim Davies
 category: organising
 project: People's Panel on AI
+topics:
+  - People and Participation
 ---
 
 The [People’s Panel on AI](https://connectedbydata.org/projects/2023-peoples-panel-on-ai) is bringing together 12 diverse members of the public to attend, observe and discuss Fringe events. The Panel presented reflections and recommendations from the week at **13:30 UK time on Friday 3rd November**.

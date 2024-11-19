@@ -5,6 +5,8 @@ subtitle: Exploring participatory data governance through games
 image: observatory-methods.png
 add-background: false
 completed: false
+topics:
+  - People and Participation
 ---
 
 We believe effective data governance should be: collective, democratic, participatory, deliberative and powerful. 

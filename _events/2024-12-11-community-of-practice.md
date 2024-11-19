@@ -14,6 +14,8 @@ link:
 project: 
     - Giving communities a powerful say in public sector data and AI projects
     - Data and AI public engagement
+topics:
+  - People and Participation
 ---
 
 On Wednesday 11 December 2024 at 2pm we will hold the third meeting of a community of practice – an online workshop – as part of our project on [Giving communities a powerful say in public sector data and AI](https://connectedbydata.org/projects/2024-mohn-westlake) projects.

@@ -5,6 +5,8 @@ subtitle: A policy and practice design lab
 image: gca-ai.png
 add-background: true
 completed: false
+topics:
+  - People and Participation
 ---
 
 The [UN High Level Advisory Board on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body) is calling for new institutional arrangements to support the governance of AI that can deliver against the principle that AI should be governed “for all, by all”. 

@@ -5,6 +5,8 @@ subtitle: Creating place-based community conversations around data
 image: dataday.jpg
 add-background: true
 completed: true
+topics:
+  - People and Participation
 ---
 
 We worked with [Create Gloucestershire](https://www.creategloucestershire.co.uk/), [Active Gloucestershire](https://www.activegloucestershire.org/) and [Barnwood Trust](https://www.barnwoodtrust.org/) to organise a [one-day county-based conference](https://dataday.org.uk) exploring how data can work better for local communities.
