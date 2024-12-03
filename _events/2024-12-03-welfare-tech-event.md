@@ -2,8 +2,8 @@
 layout: event
 title: "How AI is affecting welfare rights - a civil society primer"
 image: 2024-12-03-logos.png
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2024-12-03
 author: Adam Cantwell-Corn
