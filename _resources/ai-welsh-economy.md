@@ -10,7 +10,7 @@ topics:
 status: final
 listed: true
 link: https://business.senedd.wales/documents/s156064/AI09%20-%20TUC%20Cymru.pdf
-image: 2024-01-wales-tuc.png
+image: wales-tuc.png
 
 ---
 This briefing is TUC Cymru’s written submission to a short exploratory inquiry by the Senedd’s Economy, Trade and Rural Affairs Committee.
