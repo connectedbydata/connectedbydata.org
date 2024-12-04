@@ -9,6 +9,8 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/1huOU0nXgMahLBt6cSQeG_U1KOQnRnUYk0bjO4zlKYWI/edit?usp=sharing
 image: progressive-vision.jpg
+topics:
+  - Civil society
 ---
 **CONNECTED** BY **DATA** is conducting collaborative work on building a progressive vision for data and tech, with the aim of influencing party manifestos in the run up to the next General Election. As part of that, we are undertaking a project to consider:
 

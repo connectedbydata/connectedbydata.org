@@ -9,5 +9,7 @@ status: final
 listed: true
 link: https://docs.google.com/document/d/17OtfyoS7aRKJR5DIW-OOVkXYVe2lG06vm5cdPXyzZYI/edit#heading=h.9akmfpib9wnw
 image: election-hub.png
+topics:
+  - Civil society
 ---
 Welcome to the [Data and AI Civil Society Network](https://data-and-ai-cso-network.org/) Election Hub. Click through to the [Google Doc below](https://docs.google.com/document/d/17OtfyoS7aRKJR5DIW-OOVkXYVe2lG06vm5cdPXyzZYI/edit#heading=h.9akmfpib9wnw) where you can find – and add! – links to manifestos from civil society organisations and other key election resources.
