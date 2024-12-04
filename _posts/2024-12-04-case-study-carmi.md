@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Case study - Building Community through Data Literacy"
+title: "Case study: Building Community through Data Literacy"
 author: Tim Davies 
 category: blog
 featured: true
 projects: Catalysing Community Campaigns
+topics:
+    - People and Participation
 ---
 _As part of our work on the Community Campaigns on Data: Campaigners Toolkit we have identified a series of case studies that provide an insight into how data is a key component of campaigns._
 
