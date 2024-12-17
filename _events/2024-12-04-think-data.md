@@ -5,7 +5,7 @@ image: 2024-12-04-think-data.jpg
 link: 
 add-background: true
 date: 2024-12-04
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 author: Jeni Tennison

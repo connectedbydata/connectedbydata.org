@@ -3,8 +3,8 @@ layout: event
 title: Gloucestershire Data Day
 image: dataday.jpg
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2024-12-16
 author: Tim Davies
