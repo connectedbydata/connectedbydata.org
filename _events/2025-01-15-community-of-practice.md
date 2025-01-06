@@ -29,7 +29,8 @@ The network meets on a Chatham House basis (nothing attributed unless you want i
 In our[ first](https://connectedbydata.org/events/2024-07-18-community-of-practice) and[ second](https://connectedbydata.org/events/2024-10-03-community-of-practice) events, we had presentations from practitioners engaging the public. Our [third event](https://connectedbydata.org/events/2024-12-11-community-of-practice) was an online workshop around the question, what do public engagement practitioners need to succeed?
 
 This event will focus on how to engage different communities, including historically excluded ones. Speakers will include:
-* **Henrietta Hopkins**, Director, [Hopkins Van Mill](https://www.hopkinsvanmil.co.uk/).
+* **Henrietta Hopkins**, Director, [Hopkins Van Mill](https://www.hopkinsvanmil.co.uk/)
+* **Emily Rempel**, Public Participation Manager, [Liverpool City Region Civic Data Cooperative](https://civicdatacooperative.com/) 
 
 > Please [register here](https://us06web.zoom.us/meeting/register/tZYrf--oqzsoGtC16qH7zLx0XJjDGI2-vxdz) to attend this meeting. 
 
