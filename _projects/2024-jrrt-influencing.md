@@ -4,7 +4,7 @@ title: Seizing The Moment
 subtitle: Influencing UK data policy
 image: jrrt.png
 add-background: true
-completed: false
+completed: true
 topics:
   - Data Protection and Digital Information Bill
 topics:

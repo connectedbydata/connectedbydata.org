@@ -4,7 +4,7 @@ title: People's Panel on AI
 subtitle: Public deliberation around the AI Safety Summit and Fringe
 image: cbd-logo.png
 add-background: false
-completed: false
+completed: true
 topics:
   - People and Participation
 ---

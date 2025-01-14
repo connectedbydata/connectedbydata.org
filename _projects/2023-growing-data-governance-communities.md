@@ -4,7 +4,7 @@ title: Growing Data Governance Communities
 subtitle: Facilitating collaboration between thinkers and practitioners
 image: omidyar-network.png
 add-background: true
-completed: false
+completed: true
 ---
 
 Many different groups around the world are coming to realise the value of collective and participatory data governance. There are strong academic research groups, for example those based at [Tilburg University](https://www.tilburguniversity.edu/staff/l-e-m-taylor), [University of Vienna](https://politikwissenschaft.univie.ac.at/en/about-us/staff/prainsack/), and the [University of Sheffield](https://livingwithdata.org/). There are excellent think tanks, including the [Aapti Institute](https://aapti.in/), [Open Data Institute](https://theodi.org/), [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) and [Research ICT Africa](https://researchictafrica.net/). And there are practitioners embedded within data holders (such as the UK’s National Health Service), working with communities (such as around [Open Environmental Data](https://www.openenvironmentaldata.org/)) and operating as consultants (such as [Involve](https://involve.org.uk/) or [IpsosUK](https://www.ipsos.com/en-uk)).
