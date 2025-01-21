@@ -31,7 +31,7 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 Our fifth event will focus on **the different approaches that public engagement practitioners can take** - i.e. the menu of different options for public involvement.
 
 Speakers will include:
-* **Elizabeth Cunningham**,Engagement Lead – Science, Technology and Data, and **Maddie Gough**, Engagement Lead, Involve
+* **Maddie Gough**, Engagement Lead and **Elizabeth Cunningham**,Engagement Lead – Science, Technology and Data from Involve
 
 You can [read more about the community of practice](https://connectedbydata.org/projects/2024-community-of-practice), and our[ first,](https://connectedbydata.org/events/2024-07-18-community-of-practice) [second](https://connectedbydata.org/events/2024-10-03-community-of-practice), [third ](https://connectedbydata.org/events/2024-12-11-community-of-practice)and [fourth](https://connectedbydata.org/events/2025-01-15-community-of-practice) meetings elsewhere on our website.
 
