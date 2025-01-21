@@ -32,6 +32,7 @@ Our fifth event will focus on **the different approaches that public engagement 
 
 Speakers will include:
 * **Maddie Gough**, Engagement Lead and **Elizabeth Cunningham**,Engagement Lead – Science, Technology and Data from Involve
+* **Sam Nutt**, Researcher & Data Ethicist, London Office of Technology and Innovation
 
 You can [read more about the community of practice](https://connectedbydata.org/projects/2024-community-of-practice), and our[ first,](https://connectedbydata.org/events/2024-07-18-community-of-practice) [second](https://connectedbydata.org/events/2024-10-03-community-of-practice), [third ](https://connectedbydata.org/events/2024-12-11-community-of-practice)and [fourth](https://connectedbydata.org/events/2025-01-15-community-of-practice) meetings elsewhere on our website.
 
