@@ -7,7 +7,8 @@ role: Fellow
 topics:
   - Health
 picture: nicola.jpg
-email: ""
+linkedin: "nicola-hamilton-025b885a"
+email: "nicola.hamilton@ourfuturehealth.org.uk"
 ---
 [Nicola](https://www.linkedin.com/in/nicola-hamilton-025b885a/) is the Head Data Operations at [Our Future Health](https://ourfuturehealth.org.uk/), a large health research programme based in the UK. The programme works by bringing together various datasets (questionnaires, clinical measurements, genetics, health records etc) relating to consenting volunteers to build a more comprehensive picture of health and wellbeing that could be relevant to understanding what changes people’s risk of disease. 
 
