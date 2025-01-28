@@ -1,0 +1,58 @@
+---
+layout: post
+author: Emily Macaulay
+category: weeknotes
+---
+A little over a week ago, on 18 January 2025, I attended UK Gov Camp in London. This is a large, well established unconference (more on that in a bit) that focuses on the public sector so I’d heard about it in all my public sector roles even before this job. I’ve attended a smattering of ‘unconferences’ in the past but none as large or as true to the concept as this.
+
+A unconference is a space where kind of anything goes. There’s no agenda and no invitations / selection of who attends (other than perhaps a blind lottery if numbers need to be kept within capacity). Generally people use only first names and job titles aren’t really shared. It is a democratic space. The agenda is created on the day, at the beginning with any (all) attendees “pitching” (standing at the front and saying 30 seconds worth of what they want to talk about) and everything pitched is added to a session grid ([this is the UK Gov Camp one](https://j.mp/ukgovcamp))…and everything gets talked about. The unplanned nature of the day extends even when sessions are underway - you’re actively encouraged to walk out of sessions and into other ones. It’s called the ‘law of mobility’ or the ‘rule of two feet’. No-one feels slighted by you leaving a room and it means you can experience more discussions.
+
+Still unclear? You can [watch this short video](https://www.linkedin.com/posts/mgilroy_ok-this-sounds-like-a-cool-concept-but-activity-7258090198394138624-5269/) (from ‘Facilitators Unconference’) and/or [read this blog](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81). There’s also [this article from CharityCamp](https://www.dxw.com/2023/09/tickets-available-ukcharitycamp/) (another unconference) about making it an inclusive experience. 
+
+![Photo of UkGovCamp in pitching space"](/assets/events/2025-01-18-ukgovcamp.jpg)
+
+### The sessions
+I attended five sessions throughout the day and had a slightly different experience in each which was excellent for really getting a feel of how unconferences operate.
+
+1 - My first was about the civil service / public sector using social media. The joint pitchers for this had a very technological approach to the question but there were a number of comms type people in there too and the conversation swung between ‘how the civil service could federate its own servers’ to ‘they need to be were the masses are’ to ‘should social media be broadcast only or a discussion space’. It also touched on the moral debates about which social media should / should not be supported by the civil service.
+
+2 - The second session I attended was exploring multi (or trans) disciplinary teams and creating psychological safety. There were exchanges about forced multi disciplinary teams vs organically created (and how much either is enabled within the civil service). There was a strong tech lean in this conversation and the benefit of job rotation to enhance understanding of each others roles (for which there is infrastructure in the civil service). There were interesting comments about psychological safety and I have kept thinking about what one attendee said - “Even if you’re a lovely leader your presence will have an impact on what people can say”. There was talk about role modelling psychological safety (i.e. being seen by your team to speak out) but of course this only works if the space is safe and people just don’t trust it (as opposed to it genuinely being unsafe, in which case you speaking out will simply reinforce this). Sharing vulnerability in teams was also referenced as important to enabling high performing teams and establishing psychological safety.
+
+3 - With my background in libraries I was excited to hear a session pitched about how we can support libraries. This session demonstrated another impact of the unconference approach. Letting anyone say anything in anyway means there is no “quality control”. This session was one person pitching a very specific local problem and then pointedly asking each person in the room to say why they were in the room and what they could do to solve the specific problem. It felt fairly aggressive at times but it did suggest that the conversation may have impact after the day - that the ideas shared may have been taken back to the specific problem and tried. 
+
+4 - I can’t actually remember what the title of this session was, but it provided another example of a different way of facilitating a session. The pitch was broad but the ‘lead’ had a framework they wanted the attendees to work through i.e. we’ll do this for 10 minutes, then this, then this. They wanted us to start by working in pairs and then using post-its. This session allowed me to experience the large group session (there must have been around 40 people in the room) and I also practiced the rule of two feet and chose to leave this session. It felt very odd to do so, but I know no-one batted an eyelid. It was kind of liberating. 
+
+5 - I spoke most in this session about how to recruit and retain tech roles. It was a fascinating discussion with people from private sector, charity, civil service, not for profit all sharing their thoughts on recruitment and what is needed. We talked about future generations, we talked about civil service generic recruitment (and whether it is fit for purpose). We talked about centralised pools and how it can be just as important to enable (encourage?) people to leave when they need to, as hold onto them.
+
+### Some logistical observations
+I loved the encouragement to bring a reusable cup (and how many people did). It was great also to see a DIY drinks station which cut costs and created a ‘water cooler’ point for interaction (it needed someone keeping an eye on it though for ongoing hot water).
+
+There was a prayer room available and a designated quiet room (there were colouring books / similar to help people unwind in silence and rules to not speak or take calls in the quiet room).
+
+There was an accepted convention of raising your hand if you wanted silence (most used when the hundreds of attendees were all in the same space). The idea being you saw someone’s hand up, raised your own and fell silent. The effect rippled through the room effectively (if you knew that was what was happening). I remembered this from Brownies and Guides.
+
+There’s a documented Code of Conduct (shared before the day and via QR code on the day). There was a microphone though the large open space struggled a little with amplification. I’d suggest closed captions too would assist with that. 
+
+Everyone did their own lanyards which was good for sharing as much or as little as individuals wanted. There was a different colour of lanyard for anyone not wanting their image to be captured and everyone was made aware of that rule. There were no formalised / organised introductions nor participants list - this, I imagine, is partly about time but also about removing hierarchy from the space. It also created anonymity…which could be good, but also a barrier. 
+
+### My reflections on the experience
+I found it really interesting and it was great to hear different perspectives on a question / issue. The recruitment one that I ended the day with was a great example of that.
+
+I also got to experience different styles of sessions which felt lucky. I think overall though it was too unstructured for my preference … which probably links to my liking a bit of hierarchy and a bit of being able to prepare by knowing what is broadly going to be discussed. 
+
+I definitely see the shared power and the learning from people you may not otherwise connect with. I think part of my challenge with it as a format is understanding the aim/purpose/desired outcome. I sensed that people (myself included) want action in the public sector - but the format is “just” a mass of talking. Even if we had solved some problems, I’m left not sure anything would change as a result. I understand that democratising the space means that’s difficult to do as you don’t know who will be where and what power they have to take actions / change things (and of course the sharing of knowledge and collaborative thinking around a problem has value in itself). I’d be interested in a pitch at the 2026 event that asks “what has changed as a result of UKGovCamp25”.
+
+Something I felt quite strongly throughout the day is the clique of the space. It’s not that people aren’t welcoming - they are. But there was a strong sense of people knowing each other, of being ‘regulars’ in the space. There were inside jokes / references and even on social media in advance of the day the feeling of people reconnecting with annual chums was evident. This is of course a bit double edged - I can see how that sense of community and trust furthers the conversations, and it wasn’t that I felt excluded, but it was there. Maybe I should’ve worked harder to break through that - but I felt my energy was most being used in the workshops that I needed the changeover time to recharge / get into a new headspace for a totally new / unrelated conversation coming up.
+
+I think also linked to this is the fairly heavy technology focus and language used. The stated focus of UK Gov Camp is “for people who want to make the public sector better”. I don’t think anyone would argue that this goes well beyond technology as a concept, but the day was heavily leaning on tech, and some of the attendees were at the techiest end of that tech spectrum (literally building incredible tech). Again - this is a generalisation of my experience and there were also many people without that tech expertise but I think either the event needs to be a little more clear / defined about making public sector better through tech; or find a way to dial down the tech chat to bring in other voices wanting to make the public sector better.
+
+Related, I’d also flag that the day was largely ‘public sector’ through the perspective of the civil service / national Government. There was not much local authority voice (or devolved nations). 
+
+I should note, as I do, that the unconference response to these challenges would be “anyone can attend, anyone can pitch anything”. One of the organisers rightly said at the beginning of the day “if you finish the day feeling you haven’t talked about what you wanted to, then you should have pitched it”. And they are of course correct but I wonder if there’s a critical mass of non-tech in that space to help enable (give the confidence to?) that. And of course I attended five sessions none of which were explicitly about tech so this isn’t as clean cut as I’m representing it here.
+
+It was an interesting day and a great experience. I love the opportunity to learn from people approaching things in totally different ways than I would consider, and this was a day rammed full of that and I’m grateful to have been able to attend.
+
+### Connected by Data is hosting an unconference
+🎟️ [Engaging people on data and AI: An unconference on giving people and communities a powerful say on public sector technologies](https://connectedbydata.org/events/2025-03-20-unconference), Thursday 20 March 2025 in London.
+
+I’m keen to bring my learning and experience into our forthcoming Unconference. I’m also excited that we’ll be listening to, and learning from, [Harry Harold (CharityCamp)](https://www.dxw.com/2023/09/tickets-available-ukcharitycamp/) about making the day as inclusive as possible. 
