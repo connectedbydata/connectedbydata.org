@@ -20,6 +20,8 @@ A coalition, launched by teaching staff, parents and civil society groups urged 
 
 An appeal was made to the Information Commissioner's Office, and campaigners launched a crowdfunder to be able to threaten legal action. In 2018, the government ended the collection of nationality and country of birth data, and data that had been collected was later deleted. However, information sharing with the Home Office was not stopped. 
 
+The [timeline of the campaign is available here](https://defenddigitalme.org/my-school-records/boycottschoolcensus/).
+
 **Campaign type:** Data protection
 
 **Ultimate goals:** Prevent pupil data being used in immigration ‘hostile environment’, and protect the rights of all pupils.
