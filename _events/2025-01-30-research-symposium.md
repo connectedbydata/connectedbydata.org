@@ -3,7 +3,7 @@ layout: event
 title: Participatory AI Research & Practice Symposium
 image: 2025-01-30-logos.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: true
 writeup: false
 date: 2025-01-30
