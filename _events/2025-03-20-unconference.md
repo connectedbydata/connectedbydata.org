@@ -41,4 +41,8 @@ We have about 80 places. The first batch (around 60) will be allocated on a firs
 
 > To register for this event please [complete this form](https://docs.google.com/forms/d/e/1FAIpQLSdfa14L47exSdwK1jwF_UNjxzti2HcmJq1wDATJ1nPTBQk3ow/viewform?usp=header).
 
+We are proud to be partnering with [dxw](https://www.dxw.com/) in the delivery of this event.
+![dxw logo"](/assets/events/2025-03-20-dxwblack.png)
+
+
 This event forms part of Connected by Data’s project supported by the Mohn Westlake Foundation, [Giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake), and builds on our convening to date, including our design labs on procurement in Wales (with TUC Cymru) and the National Data Library (with DSIT), and[ our community of practice](https://connectedbydata.org/projects/2024-community-of-practice).
