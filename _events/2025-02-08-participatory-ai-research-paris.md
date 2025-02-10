@@ -3,8 +3,8 @@ layout: event
 title: Participatory AI Research & Practice Symposium
 image: 2025-01-30-logos.png
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-02-08
 author: Tim Davies
