@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Toolkit: Worker voice in public sector procurement of data and AI systems in Wales"
+title: "Toolkit: Worker voice in public sector procurement of digital and AI systems in Wales"
 reference: worker-voice-procurement-guidance-wales
 author: Adam Cantwell-Corn
 date: 2025-02-12
