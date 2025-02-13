@@ -3,8 +3,8 @@ layout: event
 title: "Global AI Governance: Empowering Civil Society"
 image: 2025-02-11-logos.png
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-02-11
 author: Tim Davies

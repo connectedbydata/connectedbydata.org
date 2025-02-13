@@ -3,7 +3,7 @@ layout: event
 title: Public Voice in AI Development and Governance @ The Fringe Paris Hub
 image: ai-fringe.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-02-11
