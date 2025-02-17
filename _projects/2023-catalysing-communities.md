@@ -7,7 +7,7 @@ topics:
   - Health
   - Civil society
 add-background: true
-completed: false
+completed: true
 order: 1
 topics:
   - People and Participation
