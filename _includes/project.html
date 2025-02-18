@@ -61,32 +61,42 @@
   <div class="columns is-gapless project is-mobile is-hidden-tablet">
     {%- if include.imagePosition == 'right' -%}
       {%- include random-graphic-block.html seed=project.content hidden='tablet' -%}
-      {%- include block.html square=true content=image background=include.projectBackground hidden='tablet' -%}
+      {%- include block.html square=true background=include.projectBackground hidden='tablet' -%}
     {%- else -%}
-      {%- include block.html square=true content=image background=include.projectBackground hidden='tablet' -%}
+      {%- include block.html square=true background=include.projectBackground hidden='tablet' -%}
       {%- include random-graphic-block.html seed=project.content hidden='tablet' -%}
     {%- endif -%}
   </div>
   <div class="columns is-gapless project">
     {%- if include.imagePosition == 'right' -%}
-      {%- include random-graphic-block.html seed=project.content hidden='touch' -%}
+      {%- include random-graphic-block.html seed=project.content hidden='mobile' -%}
       {%- include block.html content=title background=include.projectBackground -%}
-      {%- include block.html square=true content=image background=include.projectBackground hidden='mobile' -%}
+      {%- include block.html square=true background=include.projectBackground hidden='touch' -%}
     {%- else -%}
-      {%- include block.html square=true content=image  background=include.projectBackground hidden='mobile' -%}
+      {%- include block.html square=true background=include.projectBackground hidden='touch' -%}
       {%- include block.html content=title background=include.projectBackground -%}
-      {%- include random-graphic-block.html seed=project.content hidden='touch' -%}
+      {%- include random-graphic-block.html seed=project.content hidden='mobile' -%}
     {%- endif -%}
   </div>
   {%- if include.headingonly -%}
   {%- else -%}
     <div class="columns is-gapless project">
       {%- if include.imagePosition == 'right' -%}
-        {%- include block.html square=true background=include.projectContrast hidden='touch' -%}
+        <div class="column has-nested is-hidden-touch">
+          <div class="columns is-gapless">
+            {%- include block.html square=true nested=true content=image background=include.projectContrast -%}
+            {%- include block.html nested=true background=include.projectContrast -%}
+          </div>
+        </div>
         {%- include block.html wide=true content=content background=include.projectBackground -%}
       {%- else -%}
         {%- include block.html wide=true content=content background=include.projectBackground -%}
-        {%- include block.html square=true background=include.projectContrast hidden='touch' -%}
+        <div class="column has-nested is-hidden-touch">
+          <div class="columns is-gapless">
+            {%- include block.html square=true nested=true content=image background=include.projectContrast -%}
+            {%- include block.html nested=true background=include.projectContrast -%}
+          </div>
+        </div>
       {%- endif -%}
     </div>
   {%- endif -%}
