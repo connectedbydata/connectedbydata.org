@@ -18,7 +18,6 @@ topics:
 On 25 February Jeni Tennison, our Founder and Executive Director, will be the keynote at [TPXimpact's 'Power of Data'](https://pages.tpximpact.com/power-of-data) event in London, Convening the UK's top data leaders and policymakers to shape the future of government data strategy. 
 
 <!--more-->
-Ahead of Power of Data 2025, Jeni discusses discusses how design shapes data governance, accessibility & trust.
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:7u4xxelcscgvykdqjbpekj77/app.bsky.feed.post/3liemleqbpk2p" data-bluesky-cid="bafyreico5vlz73hotdi4nqfoevrrxovdisyt5kor34g255m35ldtsyg2by"><p lang="en">Ahead of Power of Data 2025, @jenitennison.com (@connectedbydata.org) discusses how design shapes data governance, accessibility &amp; trust.
 
