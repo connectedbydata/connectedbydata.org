@@ -23,3 +23,25 @@ layout: default
   {%- include sector-blocks.html -%}
 {%- endcapture -%}
 {%- include section.html content=sectorSection -%}
+
+<section class="hero has-text-centered has-text-link">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="title">
+        Other topics
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- capture otherTopics -%}
+{%- for topic in site.topics -%}
+  {%- if topic.category != 'sector' -%}
+    {%- capture topicBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- capture topicContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+    {%- include topic.html topic=topic excerpt=true headingonly=true imagePosition=imagePosition topicBackground=topicBackground topicContrast=topicContrast -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- include section.html content=otherTopics -%}

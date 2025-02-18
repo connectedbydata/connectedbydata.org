@@ -72,6 +72,12 @@
             <a class="navbar-item" href="/blog">Blog</a>
             <a class="navbar-item" href="/projects/2023-data-policy-digest">Data Policy Digest</a>
             <hr class="navbar-divider">
+            <strong class="navbar-item">Sectors</strong>
+            {%- assign sectors = site.topics | where: "category", "sector" -%}
+            {%- for sector in sectors -%}
+              <a class="navbar-item" href="{{sector.url}}">{{sector.title}}</a>
+            {%- endfor -%}
+            <hr class="navbar-divider">
             <a class="navbar-item" href="/fellowship">Join our fellowship</a>
             <a class="navbar-item" href="/offer">Work with us</a>
           </div>
