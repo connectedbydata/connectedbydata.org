@@ -3,9 +3,11 @@
 {%- assign weeknotes = include.weeknotes -%}
 
 {%- for post in news -%}
-  {%- capture postBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
-  {%- capture postContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
-  {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
+  {%- if post.title != "Data Policy Digest" -%}
+    {%- capture postBackground -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+    {%- capture postContrast -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+    {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
+  {%- endif -%}
 {%- endfor -%}
 
 {%- if opinion.size > 0 -%}
@@ -24,6 +26,29 @@
     {%- capture postContrast -%}{%- cycle 'dark-green', 'darkest-green', 'darker-green' -%}{%- endcapture -%}
     {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
   {%- endfor -%}
+{%- endif -%}
+
+{%- capture dpd -%}
+  {%- for post in news -%}
+    {%- if post.title == "Data Policy Digest" -%}
+      {%- capture postBackground -%}{%- cycle 'darkest-green', 'darker-green', 'dark-green' -%}{%- endcapture -%}
+      {%- capture postContrast -%}{%- cycle 'dark-green', 'darkest-green', 'darker-green' -%}{%- endcapture -%}
+      {%- include post.html post=post excerpt=true postBackground=postBackground postContrast=postContrast -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- if dpd.size > 0 -%}
+  <section id="dpd" class="hero has-text-centered has-text-link">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <p class="title">
+          Data Policy Digest
+        </p>
+      </div>
+    </div>
+  </section>
+  {{ dpd }}
 {%- endif -%}
 
 {%- if weeknotes.size > 0 -%}
