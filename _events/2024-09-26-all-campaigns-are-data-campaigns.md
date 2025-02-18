@@ -2,6 +2,7 @@
 layout: event
 title: All Campaigns are Data Campaigns - Community Data Campaigns
 image: cbd-logo.png
+hero: 2025-03-20-group-hero.png
 link: 
 date: 2024-09-26
 upcoming: false

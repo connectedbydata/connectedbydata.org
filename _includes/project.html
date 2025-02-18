@@ -101,6 +101,15 @@
     </div>
   {%- endif -%}
 {%- else -%}
+  {%- if project.hero -%}
+    <div class="columns is-gapless project">
+      <div class="column is-full">
+        <figure class="image">
+          <img src="/assets/project/{{ project.hero }}">
+        </figure>
+      </div>
+    </div>
+  {%- endif -%}
   <div class="columns is-gapless project is-mobile is-hidden-desktop">
     {%- include random-graphic-block.html seed=project.content hidden='desktop' -%}
     {%- include block.html square=true nested=true background="darker-green" hidden='mobile' -%}
