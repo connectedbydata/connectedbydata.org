@@ -2,6 +2,7 @@
 layout: resource
 title: Global Digital Compact Consultation Submission - Data Protection Theme
 reference: un-global-compact-2023
+project: 
 author: Maria Luciano
 date: 2023-04-20
 status: final

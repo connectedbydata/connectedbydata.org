@@ -45,17 +45,39 @@ layout: default
   </div>
 </section>
 
-{%- capture project-content -%}
-  {%- for resource in final -%}
-    {%- if resource.project.size > 0 -%}
-      {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
-      {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
-      {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
-      {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- endcapture -%}
-{%- include section.html content=project-content -%}
+{%- assign projects-reversed = site.projects | reverse -%}
+
+{%- for project in projects-reversed -%}
+  {%- assign project-resources = final | where: "project", project.title -%}
+  {%- if project-resources.size > 0 -%}
+    {%- capture project-content -%}
+      {%- capture content -%}
+        <div class="point">
+          <h3 class="title is-4">{{ project.title }}</h3>
+          <h4 class="subtitle">{{ project.subtitle }}</h4>
+          <p class="is-size-6">
+            <a href="{{ project.url }}">
+              <i class="fas fa-arrow-alt-circle-right"></i>
+              &nbsp;Read more
+            </a>
+          </p>
+        </div>
+      {%- endcapture -%}
+      <div class="columns is-gapless">
+        {%- include block.html content=content background='darker-green' -%}
+        {%- include random-graphic-block.html seed=project hidden='touch' -%}
+        {%- include block.html background='darker-green' hidden='mobile' -%}
+      </div>
+      {%- for resource in project-resources -%}
+        {%- capture resourceBackground -%}{%- cycle 'darkest-green', 'dark-green', 'darker-green' -%}{%- endcapture -%}
+        {%- capture resourceContrast -%}{%- cycle 'dark-green', 'darker-green', 'darkest-green' -%}{%- endcapture -%}
+        {%- capture imagePosition -%}{%- cycle 'right', 'left' -%}{%- endcapture -%}
+        {%- include resource.html resource=resource excerpt=true headingonly=true imagePosition=imagePosition resourceBackground=resourceBackground resourceContrast=resourceContrast -%}
+      {%- endfor -%}
+    {%- endcapture -%}
+    {%- include section.html content=project-content -%}
+  {%- endif -%}
+{%- endfor -%}
 
 <section id="final" class="hero has-text-centered has-text-link">
   <div class="hero-body">
