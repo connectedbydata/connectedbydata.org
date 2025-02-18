@@ -8,8 +8,8 @@ layout: default
 {%- endcapture -%}
 {%- include header.html content=header -%}
 
-{%- assign currentProjects = site.projects | where: "completed", false -%}
-{%- assign completedProjects = site.projects | where: "completed", true -%}
+{%- assign currentProjects = site.projects | where: "completed", false | reverse -%}
+{%- assign completedProjects = site.projects | where: "completed", true | reverse -%}
 
 {%- capture projects -%}
   {%- for project in currentProjects -%}
