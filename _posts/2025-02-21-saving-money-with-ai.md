@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Saving money with AI in the UK public sector"
+author: Jeni Tennison
+category: blog
+featured: true
+projects:
+  - "Giving communities a powerful say in public sector data and AI projects"
+topics:
+  - Public sector
+---
+A strategic approach to the adoption of AI in the public sector should focus investments in places that will make a difference. Saving money is one of the big priorities for this government, so where should it target AI to realise those ambitions?
+
+<!--more-->
+
+First, it's inescapable that this government's strategy is to prioritise growth. That might be nuanced slightly to favour the kind of sustainable, inclusive, equitable growth I’d personally like to see, and perhaps for some of the other missions to get a look in, but the central plank of this government's theory of change appears to be that growth is the only way to afford other changes we might want to see, and therefore that it has to be prioritised above all else.
+
+Second, this government is also targeting a [“noticeable change”](https://www.theguardian.com/politics/2024/nov/28/mood-lifts-labour-hq-morgan-mcsweeney-party) for the voting public by the time of the next election. I don't set much store on current polling – a lot can change between now and then, not least witnessing what happens in the US – but regardless, Labour will be looking to win the next General Election, or at the very least burst the current Reform bubble.
+
+Third, public finances are extremely tight, so the Treasury has decided that investment cases in this spending review need to demonstrate a cashable return within the spending review period (three years). The theory here is that this (alongside that all-important economic growth) will free up enough money for the *next* spending review to be able to be slightly more realistic and invest in things that reap benefits over a slightly longer term.
+
+These put strong constraints on where to focus the adoption of AI over the next few years. [“Cashable”](https://www.gov.uk/service-manual/measuring-success/measuring-service-benefits) means the government needs to look for investments that either increase income or decrease costs. Improving public sector efficiency doesn't necessarily do either, and can actually increase costs, for the same reasons that replying to lots of emails just generates more responses, and [widening roads leads to more traffic](https://smv.org/learn/blog/how-does-roadway-expansion-cause-more-traffic/).
+
+Making that return in the next three years rules out a lot of deeper preventative work, because these kinds of investments don't bring returns within the spending review period. Programmes like Sure Start, for example, reap returns (including in reduced social services and criminal justice costs, as well as increased tax revenue) over the entirety of a child's life, but those are unlikely to be apparent (and particularly unlikely to translate into freeing up cash) within three years.
+
+We can debate whether these are the right strategies to pursue or constraints to set, but this is where we are. What interests me here is what this means for targeting AI adoption in the public sector, where we also have to consider the costs of developing, running, and supporting the adoption of AI systems. Even if an investment can realise some savings, if it costs a huge amount to pilot and scale, it's not going to be much use.
+
+## Existing work on prioritisation
+
+People have obviously already been thinking about the benefits AI (and digitisation more generally) could bring to the public sector, though I don't think they've factored in the requirement for short term cashable savings.
+
+The government itself gives a £45bn / year figure in its [State of Digital Government](https://www.gov.uk/government/publications/state-of-digital-government-review/state-of-digital-government-review) review, as the potential benefit of digitisation (not just AI). The source for this figure isn't cited, unfortunately, but I'm told it breaks down into Fraud (£6bn), Services Transformation (£4bn), and Workforce Productivity (£36bn), including reducing manual processes for public servants, shifting service transactions to more cost-effective digital channels (for example via greater digital inclusion) and minimising losses from fraud and error through better compliance systems.
+
+The Tony Blair Institute and Faculty give a £40bn / year figure just from AI (after costs), in their report on [Governing in the Age of AI](https://institute.global/insights/politics-and-governance/governing-in-the-age-of-ai-a-new-model-to-transform-the-state). This figure seems to be calculated by subtracting a development costs estimate from a £58bn / year savings figure. That savings figure is in turn derived from the current £176bn / year spend on public sector staff, and the NAO report on the [Use of artificial intelligence in government](https://www.nao.org.uk/reports/use-of-artificial-intelligence-in-government/) that says CDDO have found that approximately “a third of tasks” could be automated with the current generation of AI systems. I can't find any published report of CDDO’s analysis, though a [response to a Parliamentary question](https://questions-statements.parliament.uk/written-questions/detail/2024-01-17/hl1699) on the topic gives a substantially smaller figure of £4.8bn / year gains for the civil service (potentially more for the wider public sector).
+
+The TBI report does usefully identify the kinds of tasks they think AI should be targeted at. The three it pulls out are: 
+
+  * Eliminating backlogs and reducing waiting times
+  * Turning the public sector into a rewarding career (reducing the administrative grind) 
+  * Delivering timely, accurate, aligned policy decisions
+
+The Turing Institute have done a detailed job of picking apart the kinds of places where AI could be applied in central government services in their paper on [AI for bureaucratic productivity](https://www.turing.ac.uk/news/publications/ai-bureaucratic-productivity-measuring-potential-ai-help-automate-143-million-uk). They calculate that 84% of around 143 million annual complex repetitive transactions are highly automatable. They frame this as highlighting that because these services are operating at such high volume, saving even a small amount of time (eg one minute) per transaction adds up to large amounts of work (eg 1,200 person work years each year). (To put this in perspective, if we assume the people who are no longer needed to do this work are Administrative Assistants, on around £24k/year, that would save about £29m / year, several orders of magnitude less than the government/TBI figures. But presumably we'd be looking for AI that freed up a lot more time than one minute per transaction.)
+
+What these kinds of analyses generally show is the truism on which every headline-grabbing McKinsey report relies: high percentages of very large numbers are very large numbers. I think we need to take them with a large pinch of salt: the numbers that are being talked about are based on some fairly big assumptions about how AI might eventually be used and what that might mean for how the public sector operates. They certainly don’t provide figures that are easily realisable in the next three years, not least because they are unlikely to be believed by a risk-averse Treasury who will want to see evidence before they unlock the kind of investment that would be needed to unlock those benefits.
+
+## Where to focus
+
+Adding the constraint of targeting AI that provides short term cashable savings (while delivering growth and improved public services) helps to focus minds on what might be feasible. Here are some ideas about some dead ends to avoid; where there might be more fertile ground for investigation; and where the practical and political risks might lurk.
+
+### Reducing staff
+
+Workforce costs are one of the bigger costs to the public sector, but to achieve savings we have to look for jobs that could actually be cut through the introduction of AI. Now, I'm very sceptical that some plausible uses of AI will actually substantially reduce the number of people employed in the public sector given other pressures. In particular: 
+
+  * Making service delivery more efficient, when those services are currently failing to keep up with demand, is “only” going to cut through backlogs faster, not reduce the amount of work to be done. Given how substantial those backlogs are, and the other pressures to improve people's experience of public services, I think public bodies will choose to bank those gains on throughput, rather than cutting staff. Jobs won’t be lost; AI will just help workers get through that work faster.
+
+  * Even where there aren't backlogs, there are a whole bunch of jobs where increasing productivity doesn't reduce demand. Research is an obvious example: the likely response to someone being able to get more research done thanks to AI is being given more research to do. I suspect the same is true of a lot of central government roles such as creating guidance, running consultations, or developing policy options. Any time the scope of work is constrained by worker time, I think organisations will choose to increase scope rather than reduce workers. 
+
+What this leaves, if you're looking for cashable savings from AI directly reducing the amount of work humans are needed for, are the kinds of administrative jobs where demand for the work they do is steady and satisfiable. For example, AI could be used to reduce the number of people currently employed to answer calls, enter data from paper forms, or manually check applications or registrations (where there isn't a backlog to work through). In many of these cases, savings come from good old-fashioned digitisation, including channel shifting (reducing demand on analog services by getting people to use digital services instead).
+
+I suspect (but don’t know) that the low-hanging fruit around these have already been harvested, and that what remains are the harder (and more costly) digitisation investments. This is partially evidenced by changes in workforce in DWP and HMRC. As reported by the IfG in its [Whitehall Monitor](https://www.instituteforgovernment.org.uk/publication/whitehall-monitor-2025/part-2-state-civil-service#grade-structure-and-pay):
+
+> “The most significant reduction in AO/AA numbers between 2010 and 2024 in absolute terms was in DWP, which shed more than 36,000 of those officials – a proportional decrease of 63% against the whole civil service figure of 45%. HMRC’s ranks of AO/AAs also fell substantially, by more than 23,000 (59%) over the same time period.”
+
+It's also perhaps worth considering the political impact of targeting AI towards reducing the public sector workforce. Job losses, particularly with the implication that the quality of public service delivery might diminish even further, are unlikely to go down well with the public. Worse, the kinds of administrative jobs most likely to be cut through automation are also those least likely to be in London. And targeting a reduction in staff costs is antithetical to the narrative that Secretary of State Peter Kyle has been pushing to counter fears of AI-driven job losses, that [adopting AI “free[s] people up to focus on high-value tasks that require the human touch”](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai).
+
+### Reducing fraud
+
+This is one of the least politically difficult (for Labour, as the opposition are unlikely to critique it) and most obvious areas for the government to deploy AI to realise cashable savings. It's also one of the areas where governments can come unstuck, as has been seen in the [robodebt scandal in Australia](https://en.wikipedia.org/wiki/Robodebt_scheme) and the [child benefit scandal in the Netherlands](https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/), which brought down the government. The most essential part of using AI effectively and responsibly when it comes to fraud detection is to recognise that AI systems will get things wrong – and that the humans in the loop that monitor them will suffer from [automation bias](https://en.wikipedia.org/wiki/Automation_bias) (assume the computer is right) – and that therefore, to avoid [Horizon](https://connectedbydata.org/blog/2024/01/17/post-office-lessons)-style levels of damage to people's lives, there need to be strong and timely monitoring, challenge and redress mechanisms in place.
+
+The [latest figures for fraud and error in the benefits system](https://www.gov.uk/government/statistics/fraud-and-error-in-the-benefit-system-financial-year-2023-to-2024-estimates) are from 2023-2024, and indicate about 3.7% benefit overpayments (£9.7bn). The rates differ across benefit types; the largest amounts relate to Universal Credit, with an overpayment rate of 12.4% (totalling £6.5bn). The [latest figures for the tax gap](https://www.gov.uk/government/statistics/measuring-tax-gaps/1-tax-gaps-summary) were published in mid 2024, and show a gap of about 4.8% of total theoretical tax liabilities (£39.8bn). It's worth noting that corporation tax on small businesses has a relatively high percentage tax gap (32%) and makes up £10.9bn of the overall tax gap. The tax gap for self assessment by business taxpayers is also high (24.3%, or £5.9bn).
+
+Targeting fraud, errors, and underpayments might be seen as broadly politically uncontentious, but the biggest untapped opportunities are likely to come from targeting small businesses to pay what they owe – and that might be seen as having the potential to damage growth.
+
+### **Reducing backlogs**
+
+I argued above that using AI to reduce backlogs is unlikely to cut costs through the cutting of staff who are processing those backlogs. However, it could provide cashable savings if the public sector has to spend money supporting people in those waiting lists. The most obvious examples of this would be defendants imprisoned awaiting trial, or elderly people taking up hospital beds while they wait for social care support to be available. AI could be useful in speeding up assessment or administration, where that's a blocker. It could also look like improving the efficient allocation of scarce resources or more effectively planning where new capacity is needed. 
+
+One thing to be alert to is that while AI can help systems to operate more efficiently, operating at or near capacity can be bad for resilience of both systems and people. When operating near capacity, a small thing going wrong can have massive knock-on effects to the rest of the system: those of us who’ve experienced commuting into London regularly experience this, and it was central to fears about the NHS collapsing during the Covid pandemic. I am told that when [i.AI](https://ai.gov.uk/) asked GPs if they would like to have systems that reduce missed appointments in their schedule, they said no: those slots were actually being used to catch up when earlier appointments had overrun; to get through paperwork; to grab a comfort break, a cup of tea and a quick chat with the receptionists. When introducing AI systems that seek to optimise allocation of scarce resources, it’s worth considering whether being a little inefficient brings other benefits – like the [postal workers who are able to stop and have a chat with lonely older people](https://inews.co.uk/news/uk/postman-helping-hand-combat-loneliness-elderly-customers-uk-232655?srsltid=AfmBOorT4Wqo8PYJs__aXd5XUmsIJx99v6wm7okXyQv3HDMC1a5rR6ny).
+
+### Improving retention
+
+High staff turnover and problems recruiting staff cause all kinds of onward costs: costs of recruitment, of managing dissatisfaction, of covering stress-related sick leave, and needing to bring in more expensive, private sector cover where there are staffing gaps. Making the lives of frontline public servants – in education, health and social care, criminal justice and so on – easier using AI could be a win-win: improving public services at the same time as cutting costs.
+
+That said, AI alone is unlikely to transform how frontline workers feel about their jobs, and it's worth looking at what [public sector unions are actually asking for](https://www.unison.org.uk/our-campaigns/). This is an area where some of the longer-term concerns about AI come into play: work intensification and de-humanisation; de-skilling and reduced opportunities for learning. It’s also one where the public can be impacted as well as the work force: how do pupils feel when it’s AI marking their homework rather than a teacher? How do patients feel when their conversations with their doctors are being recorded? When it’s AI providing suggestions to their social workers about the support their clients should receive? Getting both the public and public sector workers involved in impact assessment, and in setting the terms for any evaluation of these systems, is essential to understand, mitigate, monitor and adapt to emerging issues with these systems.
+
+### Reducing development costs
+
+Digital, data and AI systems, particularly those that are targeted to address specific public sector challenges, cost money to develop. Any cashable savings from the use of AI as identified above will be that much greater if the investment it takes to design, develop and deploy them is reduced. Using AI to help move from legacy systems to more modern ones; to digitise paper processes; to clean and standardise data; to be a coding companion, and so on can all help to accelerate the adoption of AI in ways that eventually save money. The new GDS should be leading the adoption of AI within its own work.
+
+## Conclusion
+
+Tough political choices run through the adoption of AI in the public sector. It is a political choice to prioritise investments that deliver cashable savings over those that improve the quality of public services, for example. There will be political choices in the kinds of public sector jobs that might be cut, and where they are located; in which kinds of fraud and underpayments to put most effort into reducing; in how close to capacity public services, and public sector workers, should be operating; in using AI at all, rather than other mechanisms that might achieve the same goals.
+
+Whatever decisions the government eventually makes about where to target AI, making it work as effectively as possible requires the involvement of public sector workers and the publics they interact with throughout the design, development and deployment of these systems. In particular, working out what to monitor, and how to report the actual (rather than imagined or intended) impacts of these systems, is essential to support a [“test and learn” approach](https://en.wikipedia.org/wiki/Test_and_learn) that evidences cashable cost savings over time.
