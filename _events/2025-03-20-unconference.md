@@ -37,11 +37,9 @@ We have about 80 places. If you would like to attend please complete the form be
 
 The day is broken down into sessions with breakout rooms available for each (several concurrent conversations). If you're unsure how this format works you can [watch this short video](https://www.linkedin.com/posts/mgilroy_ok-this-sounds-like-a-cool-concept-but-activity-7258090198394138624-5269/) and/or [read this blog](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81) which although specifically about another unconference many of the principles will apply to our day, and/or email [Emily](mailto:emily@connectedbydata.org).
 
-We have about 80 places. The first batch (around 60) will be allocated on a first come, first served basis. After those have been filled we will email you to let you know you are on a wait list and doing a 'random allocation' for the final spaces. 
-
 > To register for this event please [complete this form](https://docs.google.com/forms/d/e/1FAIpQLSdfa14L47exSdwK1jwF_UNjxzti2HcmJq1wDATJ1nPTBQk3ow/viewform?usp=header).
 
-We are proud to be partnering with [dxw](https://www.dxw.com/) and [Projects by IF](https://www.projectsbyif.com/) in the delivery of this event.
-![Partner organisation logos. These are dxw and Projects by IF"](/assets/events/2025-03-20-partners.png)
+We are proud to be partnering with [dxw](https://www.dxw.com/) and [Projects by IF](https://www.projectsbyif.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) in the delivery of this event.
+![Partner organisation logos. These are dxw and Projects by IF and Ada Lovelace Institute"](/assets/events/2025-03-20-partners.png)
 
 This event forms part of Connected by Data’s project supported by the Mohn Westlake Foundation, [Giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake), and builds on our convening to date, including our design labs on procurement in Wales (with TUC Cymru) and the National Data Library (with DSIT), and[ our community of practice](https://connectedbydata.org/projects/2024-community-of-practice).
