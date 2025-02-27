@@ -3,8 +3,8 @@ layout: event
 title: Power of Data 2025
 image: 2025-02-25-tpx.jpg
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-02-25
 author: Jeni Tennison
