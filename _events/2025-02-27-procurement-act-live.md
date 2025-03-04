@@ -3,7 +3,7 @@ layout: event
 title: Procurement Act Live 2025
 image: 2025-02-27-logo.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-02-27
