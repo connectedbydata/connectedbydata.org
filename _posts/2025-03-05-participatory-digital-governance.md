@@ -18,7 +18,7 @@ Over March 2025 we're [mapping out organisations and projects across the globe](
 
 Digital technologies play a pivotal role in shaping our economies, societies and public services. E-government infrastructures, communication platforms and rapidly changing artificial intelligence tools all play a role in governing our lives: but how are these technologies governed? And what opportunities are provided for communities affected by digital technology to have a powerful say in decisions about their design, operation or regulation?
 
-**Participatory digital governance **is the process by which people affected by digital systems and policies have the opportunity to shape decisions about them.
+**Participatory digital governance** is the process by which people affected by digital systems and policies have the opportunity to shape decisions about them.
 
 This could take many forms, including, but not limited to:
 
