@@ -48,16 +48,16 @@ We’re intentionally starting with a relatively broad framework for thinking ab
 
 > Complete our **[five minute mapping survey](https://forms.gle/FdqS4suJUiXFbgGv5)** to share examples and organisations involved in participatory digital governance  
 
-## Leading engagement, building capacity
+## Who are we looking for?
 
-What kinds of organisations are we expecting to find? So far, we’ve been finding examples from:
+So far, we’ve been finding examples from:
 
 * **Government agencies** facilitating public input into digital policy making;
 * **Civil society organisations** advocating for public involvement in governance of digital technologies, or working to support particular communities to get involved in digital governance;
 * **Academics and researchers** supporting co-design of technologies, or tracking participatory involvement in digital policy making;
 * **Social enterprises** developing new models to support participatory approaches to technology development and governance.
 
-We’re particularly looking for organisations that might be able to support the development of future Open Government Partnership commitments. 
+But we're not limited to those kinds of organisations and projects in the mapping. We’re particularly looking for organisations that might be able to support the development of future Open Government Partnership commitments. 
 
 ## Get involved
 
