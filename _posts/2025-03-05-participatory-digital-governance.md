@@ -23,12 +23,12 @@ Digital technologies play a pivotal role in shaping our economies, societies and
 This could take many forms, including, but not limited to:
 
 * **Public consultations** on national digital strategies;
-* **Co-design **of digital public services;
-* **Collective intelligence **projects to influence the design of AI models;  
+* **Co-design** of digital public services;
+* **Collective intelligence** projects to influence the design of AI models;  
 * **Public engagement** in the procurement of new digital systems;
 * **Civil society oversight** of digital public infrastructure;
 * **Public debate** over the appropriate use of automated decision making; 
-* **Deliberative dialogues **to establish data sharing principles.
+* **Deliberative dialogues** to establish data sharing principles.
 
 In short, anytime that members of the public are invited to input into, or share in, decisions about technology, this could be a case of **participatory digital governance**.
 
@@ -44,9 +44,9 @@ The Open Government Partnership’s Digital Governance challenge calls for natio
 
 To support this, we’ve been commissioned to carry out a mapping of organisations that are developing and leading participatory digital governance activities, and to identify possible examples of participatory digital governance that might inspire new commitments and actions.
 
-We’re intentionally starting with a relatively broad framework for thinking about participatory digital governance. We’re building on past work that has explored **participation in digital and AI policy development **to also pay attention to **participation in the development, deployment and oversight of specific technologies **(e.g. automated decision making), and **participatory approaches to creating or operationalising regulations **that govern digital technology in the private sector. 
+We’re intentionally starting with a relatively broad framework for thinking about participatory digital governance. We’re building on past work that has explored **participation in digital and AI policy development** to also pay attention to **participation in the development, deployment and oversight of specific technologies** (e.g. automated decision making), and **participatory approaches to creating or operationalising regulations** that govern digital technology in the private sector. 
 
-> Complete our **[five minute mapping** survey](https://forms.gle/FdqS4suJUiXFbgGv5) to share examples and organisations involved in participatory digital governance  
+> Complete our **[five minute mapping survey](https://forms.gle/FdqS4suJUiXFbgGv5)** to share examples and organisations involved in participatory digital governance  
 
 ## Leading engagement, building capacity
 
