@@ -13,7 +13,7 @@ listed: true
 link: https://docs.google.com/document/d/1UpHfIgP0eMbxTDcHjTj6r9OO1W-nSqvWNLO27Ld9zUg/edit?usp=sharing
 image: 2025-03-06-legalaidagency.png
 ---
-## Case study: The Legal Aid Agency
+### Case study: The Legal Aid Agency
 The Legal Aid Agency processes fee claims from legal professionals for their work on legal aid cases. In 2016 a new system was introduced as part of a wider digitisation programme, including the automation of assessing and awarding payment claims made by barristers. Case workers weren't consulted on the introduction and functionality of the system, and there with weak mechanisms to feed back on its operation and impacts on workers and other stakeholders. Among wider significant disruption, it became apparent that the system had been incorrectly assessing claims, with an 19% error rate (compared to 3% for case workers) leading to costly overpayments, audits, corrections and revisions, as well as additional staff workload, disruption and dissatisfaction.
 
 _This case study is part of a series exploring how public sector organisations involve the public, workers and civil society in decisions about data and AI, and some of the consequences when they do not. Read more about [our work on public involvement in public sector data and AI](https://connectedbydata.org/topics/public-sector)._
