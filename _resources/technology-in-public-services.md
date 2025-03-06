@@ -6,6 +6,8 @@ project: Seizing The Moment
 author: Jeni Tennison
 date: 2024-08-29
 status: final
+topics:
+  - Public sector
 listed: true
 link: https://docs.google.com/document/d/1AjDbZn1rHMW_KFT7jSedDemv6M3OPVom9_Knp23ATvY/edit
 image: technology-in-public-services-briefing.jpeg

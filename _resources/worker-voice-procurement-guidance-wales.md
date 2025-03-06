@@ -7,6 +7,7 @@ date: 2025-02-12
 project: TUC Cymru
 topics:
   - Work
+  - Public sector
 status: final
 listed: true
 link: https://docs.google.com/document/d/1BfVM7kYTBySAZhs3XIj4DBhEQ8vTMvXuMwXjoYh5D2U/edit?tab=t.0#heading=h.jgmduqp1336

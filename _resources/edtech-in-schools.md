@@ -8,6 +8,7 @@ date: 2024-01-10
 project: Growing Data Governance Communities
 topics:
   - Education
+  - Public sector
 status: final
 listed: true
 link: /assets/events/2024-01-EdTech-Design%20Lab-Summary.pdf
