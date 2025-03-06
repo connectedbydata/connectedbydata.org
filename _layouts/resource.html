@@ -13,9 +13,13 @@ layout: default
     {{ page.title }}
   </h1>
   <p class="subtitle">
-    {%- include author-link.html author=author %}
-    &#x25aa;
-    {% include date.html date=page.date -%}
+    {%- if page.subtitle -%}
+      {{ page.subtitle }}
+    {%- else -%}
+      {%- include author-link.html author=author %}
+      &#x25aa;
+      {% include date.html date=page.date -%}
+    {%- endif -%}
   </p>
 {%- endcapture -%}
 {%- include header.html content=header -%}
