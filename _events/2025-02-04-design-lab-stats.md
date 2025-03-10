@@ -2,7 +2,6 @@
 layout: event
 title: Official Statistics Code of Practice - Public participation design lab
 image: cbd-logo.png
-link: 
 add-background: true
 date: 2025-02-04
 upcoming: false
