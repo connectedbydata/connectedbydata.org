@@ -32,7 +32,7 @@ Our sixth event will reflect on what we’ve learned over the first year of this
 
 Speakers will include:
 * **Dea Begaj**, Social Researcher, Department for Science, Innovation and Technology
-* **Jenny McEneaney**, Senior Improvement Policy Adviser: Cyber, Digital, and Technology, Local Government Association
+* **Annie Radcliffe**, Adviser: Cyber, Digital, and Technology, Local Government Association
 * **Shayda Kashef**, Senior Public Engagement Manager, ADR UK (Administrative Data Research UK).
 
 > Please [register here](https://us06web.zoom.us/meeting/register/tZ0sceitqDguH90vD6OHSxQvyY3DFenJCc-u) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
