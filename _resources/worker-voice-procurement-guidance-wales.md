@@ -20,4 +20,6 @@ While some may be developed in-house, many digital and AI systems are, and will 
 
 This toolkit provides an actionable framework for empowering worker voice throughout the procurement process. It is targeted at public sector commissioners, procurement professionals and trade union representatives seeking to apply social partnership and responsible procurement practices to digital and AI systems. Suppliers to the public sector may also find this toolkit useful. 
 
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 A [Welsh language version of the toolkit is also available](https://docs.google.com/document/d/1ma-jVhI93dxjdmWdsctpV8rA9hrZJVWQ/edit#heading=h.gjdgxs).
+
 The toolkit is produced by [Connected by Data](https://connectedbydata.org/) in collaboration with the [Trades Union Congress Cymru](https://www.tuc.org.uk/wales), with input from diverse stakeholders in trade unions and the public sector in Wales.
