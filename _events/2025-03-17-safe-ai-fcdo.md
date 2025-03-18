@@ -8,7 +8,7 @@ featured: false
 writeup: true
 date: 2025-03-17
 author: Tim Davies
-category: organising
+category: attending
 projects:
     - 
     - 
