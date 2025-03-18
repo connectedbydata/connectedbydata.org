@@ -1,7 +1,7 @@
 ---
 layout: event
 title: SAFE AI Roundtable
-image: 
+image: cdac.jpeg
 add-background: true
 upcoming: false
 featured: false
