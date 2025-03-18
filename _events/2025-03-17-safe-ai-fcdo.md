@@ -25,7 +25,7 @@ I was asked to provide a few minutes of input during discussions on Power & Part
 
 <!--more-->
 
-> **Setting the scene, Sarah W Spencer, SAFE AI Team Leader, outlined:** The humanitarian community has, for decades, largely agreed that communities affected by conflict and crises deserve equal voice and agency in the design of interventions that impact their lives and well-being. These aspirations are mirrored across the AI community, in both industry, civil society, and academia. **However, action has failed to meet aspiration on both fronts.**
+> **Setting the scene, Sarah W Spencer, SAFE AI Team Leader, outlined:** The humanitarian community has, for decades, largely agreed that communities affected by conflict and crises deserve equal voice and agency in the design of interventions that impact their lives and well-being. These aspirations are mirrored across the AI community, in both industry, civil society, and academia. However, action has failed to meet aspiration on both fronts.
 > 
 > **The question:** How can we create opportunities and methods for more meaningful community participation in the design, development, and deployment of AI solutions while managing the risks associated with tokenistic participation and participation washing? What does “good” participation look like?
 
