@@ -31,13 +31,11 @@ We have about 80 places. If you would like to attend please complete the form be
 ## Logistics
 **When:** Thursday 20 March 2025, 10:00-15:30, UK time
 
-**Where:** [Churchill Hall](https://www.westminster.gov.uk/leisure-libraries-and-community/community-halls/churchill-hall), Churchill Gardens Road, London, SW1V 3AG. 
+**Where:** London, SW1V 3AG. 
 
 **Format:** This is an unconference, which means the agenda is decided by you. On the day, we’ll ask people to pitch the sessions they’d like to run and the conversations you’d like to have (you can also suggest ideas using the form below).
 
 The day is broken down into sessions with breakout rooms available for each (several concurrent conversations). If you're unsure how this format works you can [watch this short video](https://www.linkedin.com/posts/mgilroy_ok-this-sounds-like-a-cool-concept-but-activity-7258090198394138624-5269/) and/or [read this blog](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81) which although specifically about another unconference many of the principles will apply to our day, and/or email [Emily](mailto:emily@connectedbydata.org).
-
-> To register for this event please [complete this form](https://docs.google.com/forms/d/e/1FAIpQLSdfa14L47exSdwK1jwF_UNjxzti2HcmJq1wDATJ1nPTBQk3ow/viewform?usp=header).
 
 We are proud to be partnering with [dxw](https://www.dxw.com/) and [Projects by IF](https://www.projectsbyif.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) in the delivery of this event.
 ![Partner organisation logos. These are dxw and Projects by IF and Ada Lovelace Institute"](/assets/events/2025-03-20-partners.png)
