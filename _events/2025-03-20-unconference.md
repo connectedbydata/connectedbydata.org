@@ -2,7 +2,7 @@
 layout: event
 title: "Engaging people on data and AI: An unconference on giving people and communities a powerful say on public sector technologies"
 image: 2025-03-20-group.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: true
 date: 2025-03-20
