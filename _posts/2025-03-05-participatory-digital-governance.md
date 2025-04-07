@@ -5,7 +5,7 @@ author: Tim Davies
 category: blog
 featured: true
 projects:
-  - "Mapping Participatory Digital Governance"
+  - Mapping Participatory Digital Governance
 topics:
   - People and Participation
 ---

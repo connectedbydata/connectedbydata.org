@@ -2,6 +2,10 @@
 layout: post
 author: Emily Macaulay
 category: weeknotes
+projects:
+- Public Voices in AI
+topics:
+  - People and Participation
 ---
 I wanted to use my Weeknotes this week to reflect on the logistics and operations of supporting a public participation practice. At **CONNECTED** BY **DATA** we’ve run two such processes in the last 18 months that were different and similar and I’ve learnt some stuff that I want to record (to remind myself) but also in case it helps others too.
 
