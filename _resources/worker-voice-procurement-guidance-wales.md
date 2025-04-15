@@ -22,6 +22,6 @@ This toolkit provides an actionable framework for empowering worker voice throug
 
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 A [Welsh language version of the toolkit is also available](https://docs.google.com/document/d/1ma-jVhI93dxjdmWdsctpV8rA9hrZJVWQ/edit#heading=h.gjdgxs).
 
-📄 A PDF version is available for download in [English]({{site.baseurl}}//assets/resources/Toolkit Procurement.pdf) and [Welsh]({{site.baseurl}}/assets/resources/Toolkit Procurement Welsh.pdf) (12 pages, PDF).
+📄 A PDF version is available for download in [English]({{site.baseurl}}/assets/resources/Toolkit Procurement.pdf) and [Welsh]({{site.baseurl}}/assets/resources/Toolkit Procurement Welsh.pdf) (12 pages, PDF).
 
 The toolkit is produced by [Connected by Data](https://connectedbydata.org/) in collaboration with the [Trades Union Congress Cymru](https://www.tuc.org.uk/wales), with input from diverse stakeholders in trade unions and the public sector in Wales.
