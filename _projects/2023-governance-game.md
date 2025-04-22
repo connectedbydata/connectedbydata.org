@@ -5,6 +5,7 @@ subtitle: Exploring participatory data governance through games
 image: observatory-methods.png
 add-background: false
 completed: false
+order: 6
 topics:
   - People and Participation
 ---

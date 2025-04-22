@@ -4,7 +4,7 @@ title: Public Voices in AI
 subtitle: 
 image: pvai.png
 add-background: true
-completed: false
+completed: true
 order: 2
 topics:
   - People and Participation
