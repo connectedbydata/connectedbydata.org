@@ -22,6 +22,7 @@ Local government is at the front-line in piloting and deploying new AI and data-
 Join [The Data Justice Lab](https://datajusticelab.org/) at the University of Cardiff, Connected by Data and the [Liverpool City Region Civic Data Co-operative](https://civicdatacooperative.com/) for an interactive day of learning and exchange on the what, why and how of a participatory local approach to data and AI. 
 
 **Who is the day for?**
+
 This day is for leaders and practitioners from across local public sector bodies interested in how to engage with residents when planning or implementing new data and AI initiatives. You might be:
 
 * A senior officer thinking about organisation wide AI strategy, or managing pilots of new data-driven tools and services;
@@ -35,4 +36,4 @@ In short, if you work in local government and want to learn from peers, get expe
 
 Topics may include: Methods for citizen engagement; getting buy-in for participatory AI projects; participatory procurement and oversight; principles and charters for citizen-oriented data/AI governance; AI literacy for citizens and staff; etc. The programme will respond to your needs and interests. 
 
-> This event is invitation-ony. If you would like to attend or talk to us about this work  [please get in touch](mailto:tim@connectedbydata.org).
+> This event is invitation only. If you would like to attend or talk to us about this work  [please get in touch](mailto:tim@connectedbydata.org).

@@ -27,4 +27,4 @@ Many patient groups are still grappling with understanding the potential of AI. 
 
 This will be structured around a set of invited provocations, and responses, with a view of laying groundwork for pitching future funded projects.
 
-> This roundtable is invitation-ony. If you would like to talk to us about this work [please get in touch](mailto:tim@connectedbydata.org).
+> This roundtable is invitation only. If you would like to talk to us about this work [please get in touch](mailto:tim@connectedbydata.org).
