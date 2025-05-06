@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Aligning AI innovation in healthcare with patient need and the future NHS: roundtable
+title: Aligning AI innovation in healthcare with patient need and the future NHS - roundtable
 image: cbd-logo.png
 add-background: true
 upcoming: true
