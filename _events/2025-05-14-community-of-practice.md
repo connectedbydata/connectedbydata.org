@@ -28,6 +28,8 @@ The network meets on a Chatham House basis (nothing attributed unless you want i
 
 In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practice) and [second](https://connectedbydata.org/events/2024-10-03-community-of-practice) events, we had presentations from practitioners engaging the public. Our [third event](https://connectedbydata.org/events/2024-12-11-community-of-practice) was an online workshop around the question, what do public engagement practitioners need to succeed? Our [fourth event](https://connectedbydata.org/events/2025-01-15-community-of-practice) had presentations on how to engage different communities, including historically excluded ones, and our [fifth](https://connectedbydata.org/events/2025-02-12-community-of-practice) presentations on different methods for involving the public. Our [sixth event](https://connectedbydata.org/events/2025-03-12-community-of-practice) asked what's next for public involvement on data and AI and our [seventh](https://connectedbydata.org/events/2025-04-09-community-of-practice) heard about outputs from a recent Public Voices in AI programme.
 
-The topic, and speakers, for this session is to be confirmed.
+Speakers will include:
+* [Julian Tait](https://www.linkedin.com/in/julianlstar/), [Open Data Manchester](https://www.opendatamanchester.org.uk/), on developing principles for putting residents at the heart of how automated decision making is used 
+* [Louise Petre](https://www.linkedin.com/in/louise-petre-65448b1/?originalSubdomain=uk), [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 
 > Please [register here](https://us06web.zoom.us/meeting/register/QI_h-1ffS7ONqn_N_ONsfQ) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
