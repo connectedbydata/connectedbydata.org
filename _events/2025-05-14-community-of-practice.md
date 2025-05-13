@@ -30,6 +30,6 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 
 Speakers will include:
 * [Julian Tait](https://www.linkedin.com/in/julianlstar/), [Open Data Manchester](https://www.opendatamanchester.org.uk/), on developing principles for putting residents at the heart of how automated decision making is used 
-* [Louise Petre](https://www.linkedin.com/in/louise-petre-65448b1/?originalSubdomain=uk), [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+* [Louise Petre](https://www.linkedin.com/in/louise-petre-65448b1/?originalSubdomain=uk), [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), on the role of user research in understanding and improving the relationships we build around and with data.
 
 > Please [register here](https://us06web.zoom.us/meeting/register/QI_h-1ffS7ONqn_N_ONsfQ) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
