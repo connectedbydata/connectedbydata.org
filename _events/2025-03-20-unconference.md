@@ -3,7 +3,7 @@ layout: event
 title: "Engaging people on data and AI: An unconference on giving people and communities a powerful say on public sector technologies"
 image: 2025-03-20-group.png
 upcoming: false
-writeup: false
+writeup: true
 featured: true
 date: 2025-03-20
 topics:
@@ -20,24 +20,13 @@ topics:
 
 Unconferences are participant-driven meetups that focus on sharing, learning and community building.
 
-This unconference is for people (particularly inside the public sector) who are interested in ensuring that public, community and worker voices are heard in decisions about data, digital and AI.
+This unconference was for people (particularly inside the public sector) who are interested in ensuring that public, community and worker voices are heard in decisions about data, digital and AI.
 
 <!--more-->
 
-Come along if you're already working to engage the public through participatory processes or would like to do so in the future. Come along if you're working directly with people and communities who are concerned about public sector uses of data, digital and AI, and want to make their voices heard. Come along if you're engaging with member of the public on topics other than data, digital and AI and want to bring those topics into your conversations.
+The write up from the day is [available here](https://docs.google.com/document/d/1dasVAb-zvLgXD2UYo6C0SYsuzpkpUHGnNO2ZQ_kLp-M/edit?tab=t.0#heading=h.jgmduqp1336).
 
-We have about 80 places. If you would like to attend please complete the form below. We welcome you sharing this form with anyone (and everyone!) you think may also be interested.
-
-## Logistics
-**When:** Thursday 20 March 2025, 10:00-15:30, UK time
-
-**Where:** London, SW1V 3AG. 
-
-**Format:** This is an unconference, which means the agenda is decided by you. On the day, we’ll ask people to pitch the sessions they’d like to run and the conversations you’d like to have (you can also suggest ideas using the form below).
-
-The day is broken down into sessions with breakout rooms available for each (several concurrent conversations). If you're unsure how this format works you can [watch this short video](https://www.linkedin.com/posts/mgilroy_ok-this-sounds-like-a-cool-concept-but-activity-7258090198394138624-5269/) and/or [read this blog](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81) which although specifically about another unconference many of the principles will apply to our day, and/or email [Emily](mailto:emily@connectedbydata.org).
-
-We are proud to be partnering with [dxw](https://www.dxw.com/) and [Projects by IF](https://www.projectsbyif.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) in the delivery of this event.
+We were proud to partner with [dxw](https://www.dxw.com/) and [Projects by IF](https://www.projectsbyif.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) in the delivery of this event, as well as receiving a [UKGovCamp](https://www.ukgovcamp.com/) grant.
 ![Partner organisation logos. These are dxw and Projects by IF and Ada Lovelace Institute"](/assets/events/2025-03-20-partners.png)
 
-This event forms part of Connected by Data’s project supported by the Mohn Westlake Foundation, [Giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake), and builds on our convening to date, including our design labs on procurement in Wales (with TUC Cymru) and the National Data Library (with DSIT), and[ our community of practice](https://connectedbydata.org/projects/2024-community-of-practice).
+This event formed part of Connected by Data’s project supported by the Mohn Westlake Foundation, [Giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake), and builds on our convening to date, including our design labs on procurement in Wales (with TUC Cymru) and the National Data Library (with DSIT), and[ our community of practice](https://connectedbydata.org/projects/2024-community-of-practice).
