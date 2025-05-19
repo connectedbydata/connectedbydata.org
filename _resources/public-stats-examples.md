@@ -11,7 +11,7 @@ topics:
   - Justice
 status: final
 listed: true
-link: 
+link: https://docs.google.com/document/d/1uUvGsQcvRmip-YRFwMESqP_twLy6vM9Fu5NoFn9J4nY/edit?usp=sharing
 image: 2025-03-06-stats-examples.png
 ---
 One of the subjects we’ve been looking at as part of our project on [giving communities a powerful say in public sector data and AI projects](https://connectedbydata.org/projects/2024-mohn-westlake) is statistics. In February, we ran a Design Lab with the Office for Statistics Regulation (OSR) on the role of public participation in statistics, as they refresh the Code of Practice for Statistics.
