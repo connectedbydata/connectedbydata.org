@@ -4,7 +4,7 @@ title: "Helping Welsh workers win new standards on AI at work"
 author: Adam Cantwell-Corn
 topics:
   - Work
-category: news
+category: blog
 ---
 Connected by Data is proud to have contributed to the development of pioneering new standards on the use of AI to manage workers in Wales.
 
