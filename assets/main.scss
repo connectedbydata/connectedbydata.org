@@ -855,3 +855,23 @@ table.timeline {
     }
   }
 }
+
+// Series of emphasised points
+.bigpoints {
+  margin: 1em 0;
+  .bigpoint {
+    .bigpoint-bullet {
+      float: left;
+      width: 4em;
+      height: 4em;
+      margin: 0 1.2em 1.2em 0;
+      position: relative;
+      top: 0.3em;
+    }
+    padding: 1em 0;
+    border-top: 1px solid #acacac;
+    &:last-child {
+      border-bottom: 1px solid #acacac;
+    }
+  }
+}

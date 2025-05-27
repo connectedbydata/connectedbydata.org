@@ -1,0 +1,22 @@
+<!-- Gives each paragraph in a series of paragraph a graphic block like a bullet, making it a big point. -->
+
+<!-- Split points from paragraphs -->
+{% assign include_points = include.points | newline_to_br | replace: '<br>', '<br/>' | replace: '<br/>', '<br />' | split: '<br />' | compact %}
+
+<div class="bigpoints">
+{% for point in include_points %}
+	{% assign this_point = point | strip %}
+	{% if this_point == "" %}
+		{% continue %}
+	{% endif %}
+
+	<div class="bigpoint">
+		{%- assign randNumber = this_point | split: "" | uniq | join: "" | size | plus: this_point.size -%}
+		{%- assign randGraphicIndex = randNumber | modulo: site.background-graphics.size -%}
+		{%- assign randGraphic = site.background-graphics | slice: randGraphicIndex -%}
+		<div class="bigpoint-bullet has-background-{{randGraphic}}">
+		</div>
+		{{ this_point | markdownify }}
+	</div>
+{% endfor %}
+</div>
