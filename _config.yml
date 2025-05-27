@@ -157,3 +157,24 @@ whitelist:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Exclusion list - helps to speed up generation speed when working in a specific section
+# These should always be commented out. Do not commit them uncommented.
+# exclude:
+# - _posts/
+# - _problems/
+# - _solutions/
+# - _actions/
+# - _jobs/
+# - _literature/
+# - _events/
+# - _resources/
+# - _projects/
+# - _topics/
+# - _policies/
+# - _pdg-cases/
+# - _pdg-components/
+# - _pdg-locations/
+# - _pdg-methods/
+# - _pdg-organisations/
+# - _pdg-sources/
