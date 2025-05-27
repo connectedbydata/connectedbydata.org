@@ -147,7 +147,13 @@ $footer-color: white;
 }
 // White text on dark background by default
 .has-background-dark-green, .has-background-darker-green, .has-background-darkest-green  {
-  color: white
+  color: white;
+  a {
+    color: $lightest-green;
+    &:hover {
+      color: white;
+    }
+  }
 }
 // Invert whitened headings when on light background
 .has-background-lightest-green, .has-background-light-green, .has-background-none  {
