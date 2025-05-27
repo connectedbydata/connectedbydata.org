@@ -168,7 +168,7 @@ The PVAI People’s Advisory Panel was made up of six members of the public from
 
 The six members of the panel: Margaret, Sharif, Samer, Farheen, Cameron and Adam drew on their lived experience in different communities across the UK to help PVAI reflect on the who, why and how of public involvement, and how PVAI research and research outputs might be received in different settings. Their work concluded with a parliamentary event as part of the overall Public Voices in AI team presenting their findings to policymakers; and a similar event in Sheffield focused on researchers. Sharif and Margaret [spoke to BBC Radio Sheffield](https://drive.google.com/file/d/1ccP8qcGw2C2Ee3SUdvsQwHPilaPQpxqS/view?usp=drive_link) about their experience.
 
-{% include captioned.html photo="/assets/events/2025-03-pvai-panel.jpg" caption="Members of the PVAI People’s Advisory Panel, plus Anna and Emily, outside Portcullis House ahead of providing their key messages to policy makers (March 2025)" %}
+{% include figure.html photo="/assets/events/2025-03-pvai-panel.jpg" caption="Members of the PVAI People’s Advisory Panel, plus Anna and Emily, outside Portcullis House ahead of providing their key messages to policy makers (March 2025)" %}
 
 {% capture quote %}
 Connected by Data are always fantastic to work with. It’s lovely to work with a team so passionate about enabling the public to have a voice, and so well connected they can get those voices to the people who need to hear them.
@@ -189,7 +189,7 @@ In early December we held a [Design Lab](https://connectedbydata.org/events/2024
 
 We ran another [Design Lab](https://connectedbydata.org/events/2025-02-04-design-lab-stats) in February in collaboration with the Office for Statistics Regulation, from which we have co-developed practical guidance to support their work revising the Statistics Code of Practice. This will encourage statistics producers to involve and engage the public around statistics.
 
-{% include captioned.html photo="/assets/events/2024-12-participation-design-lab.jpg" caption="Our Participation Design Lab, co-hosted with the National Data Library team, considered how to engage the public in the development of the NDL (December 2024)." %}
+{% include figure.html photo="/assets/events/2024-12-participation-design-lab.jpg" caption="Our Participation Design Lab, co-hosted with the National Data Library team, considered how to engage the public in the development of the NDL (December 2024)." %}
 
 We have started to convene a [community of practice](https://connectedbydata.org/projects/2024-community-of-practice), pulling together public engagement practitioners from across government departments, local authorities and related sectors (and academics). Now meeting monthly the group shares insights and learning [from practitioners](https://connectedbydata.org/events/2024-07-18-community-of-practice) and [Government departments](https://connectedbydata.org/events/2024-10-03-community-of-practice) (such as the Department for Education) and private sector such as FacultyAI ([recordings](https://youtube.com/playlist?list=PLwJHuxo3woL4HQVamqYwJs_Rt4NIHLctC&si=Q2OZnQYWbPQzyArr)), as well as exploring what additional support the community needs. 79 people registered for the first session and at the end of the year 138 were part of the [community mailing](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804).
 
@@ -205,7 +205,7 @@ On Thursday 20 March 2025, **CONNECTED** BY **DATA** (with support from dxw, Pro
 Thanks so much for all your hard work on this event\! It was stimulating and interesting, time very well spent.{% endcapture %}
 {% include quote.html credit="Post event feedback from an unconference attendee" compact=true text=quote %}
 
-{% include captioned.html photo="/assets/events/2025-03-unconference.jpg" caption="Our unconference, in partnership with dxw, Ada Lovelace Institute, TPXimpact, Projects by IF and UKGovCamp (March 2025). Photo credit: [Paul Clarke](https://paulclarke.com/) (CC-BY)." %}
+{% include figure.html photo="/assets/events/2025-03-unconference.jpg" caption="Our unconference, in partnership with dxw, Ada Lovelace Institute, TPXimpact, Projects by IF and UKGovCamp (March 2025). Photo credit: [Paul Clarke](https://paulclarke.com/) (CC-BY)." %}
 
 {% endcapture %}
 {% capture article %}
@@ -284,7 +284,7 @@ Connected by Data has been pivotal in assisting the CWU to tackle the AI revolut
 
 Alongside the UN Summit of the Future, we launched [Options for Global Deliberation on AI Governance](https://connectedbydata.org/projects/2024-gca-ai) at [a TechSalon New York Roundtable](https://connectedbydata.org/events/2024-09-20-tech-salon-nyc-global-deliberation-ai). The report, resulting from an extended design lab in partnership with ISWE foundation explored potential models for shaping the future of AI with inclusive and informed global citizen input. The report draws on interviews with experts from across five continents and workshops in [Brussels](https://connectedbydata.org/events/2024-05-24-gca-ai-brussels-workshop), [Oxford](https://connectedbydata.org/events/2024-07-18-gca-oxford) and online to set out five scenarios for giving global publics a powerful voice in shaping future AI regulation. Each option reflects elements of existing practice, and sets out the opportunities and challenges of different approaches to seeking public input into national, multilateral or industry-led AI governance efforts.
 
-{% include captioned.html photo="/assets/resources/ai-design-considerations.png" caption=false %}
+{% include figure.html photo="/assets/resources/ai-design-considerations.png" caption=false %}
 
 Reflecting on the breadth of practice uncovered by the design lab, as well as on silos in the field, and gaps in the evidence base, led us to develop plans for a research symposium alongside the Paris AI Action Summit (see below). We’ve drawn on Options for Global Deliberation on AI Governance to support a number of partners in developing plans for new national and global engagement initiatives.
 
@@ -344,7 +344,7 @@ In response to the [Paris Artificial Intelligence Action Summit](https://www.ely
 
 Both events were well attended, with over 800 people registering, including campaigners advocating resistance to AI, academics critically evaluating participatory AI audits, and industry actors working to embed deliberative public engagement in the AI work of firms such as Meta. Recordings are available on our YouTube channel ([online](https://www.youtube.com/playlist?list=PLwJHuxo3woL7unOCWc9y6PQnaCh7h52GZ) / [in person](https://www.youtube.com/playlist?list=PLwJHuxo3woL6JjSvIoaTP6Lbgf8NXun90)). A collection of articles about the presented papers was [published by Tech Policy Press](https://www.techpolicy.press/category/participatory-ai-research-practice-symposium/).
 
-{% include captioned.html photo="/assets/events/2025-02-participatory-ai-research.jpg" caption="The Participatory AI Research & Practice Symposium in Paris (February 2025)" %}
+{% include figure.html photo="/assets/events/2025-02-participatory-ai-research.jpg" caption="The Participatory AI Research & Practice Symposium in Paris (February 2025)" %}
 
 On 31st March the first PAIRS offshoot event, PAIRSx Africa took place, coordinated by Connected by Data fellow Kiito Shilongo to take place just ahead of the Global AI Summit on Africa in Kigali. The event brought together 30 participants, and gave rise to a joint letter calling for wider public engagement in future African AI governance fora.
 
