@@ -827,3 +827,31 @@ $footer-color: white;
     color: white !important;
   }
 }
+
+// Timeline style for tables (assumes column 1 is date)
+table.timeline {
+  tbody {
+    td:first-child {
+      border-left: $dark-green solid 2px;
+      position: relative;
+      &:before {
+        content: "\2022"; // Bullet point
+        color: transparent; // Hide the text
+        line-height: 0;
+        width: 0.5em; height: 0.5em;
+        background-color: $light-green;
+        position: absolute;
+        left: -0.3em; top: 1.1em;
+      }
+    }
+  }
+  thead {
+    th {
+      border: none;
+      font-size: 75%;
+      color: #b8c1c1;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+}

@@ -100,15 +100,18 @@ We aim to provide the media with a different perspective on issues of data gover
 
 In 2024-25 we continued to build our public profile. In addition to frequent comments in Politico we are cited in:
 
-* [AI Seoul Summit review](https://www.computerweekly.com/news/366587454/AI-Seoul-Summit-review) \- Computer Weekly \[article\], June 2024
-* [Episode 34](https://open.spotify.com/episode/5EOR9OgZdwEawCbi7AEwUn?nd=1&dlsi=4904887bee214157) \- Mystery AI Hype Theater 3000 \[podcast\], June 2024
-* [Grassroots and non-profit perspectives on generative AI](https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai) \- Joseph Rowntree Foundation \[report\], July 2024
-* [AI has a democracy problem. Citizens’ assemblies can help](https://www.science.org/doi/10.1126/science.adr6713). \- Science \[article\], August 2024
-* [How do we stop AI becoming an 'engine of inequality', and make it a force for good?](https://www.bigissue.com/news/social-justice/artifical-intelligence-ai-paris-summit-engine-inequality/) \- Big Issue \[article\], February 2025
-* [The Participatory Turn: Side road or highway?](https://www.techpolicy.press/the-participatory-turn-side-road-or-highway/) \- Tech Policy Press \[essay\], February 2025
-* [The people who are affected are the ones that should be making decisions about how data gets used](https://www.publictechnology.net/2025/03/11/society-and-welfare/those-who-are-affected-are-the-ones-that-should-be-making-decisions-about-how-data-gets-used/) \- Public Technology.net \[article/interview\], March 2025
-* [Public Voices in AI People’s Advisory Panel](https://drive.google.com/file/d/1ccP8qcGw2C2Ee3SUdvsQwHPilaPQpxqS/view?usp=drive_link) \- BBC Radio Sheffield \[audio\], March 2025
-* [Taming Silicon Valley: How we can ensure that AI works for us](https://direct.mit.edu/books/book/5828/Taming-Silicon-ValleyHow-We-Can-Ensure-That-AI) \- Gary Marcus \[book\], 2024
+| Date          | Title | Publication |
+| ----          | ----- | ----------- |
+| June 2024     | [AI Seoul Summit review](https://www.computerweekly.com/news/366587454/AI-Seoul-Summit-review) | Computer Weekly (article) |
+| June 2024     | [Episode 34](https://open.spotify.com/episode/5EOR9OgZdwEawCbi7AEwUn?nd=1&dlsi=4904887bee214157) | Mystery AI Hype Theater 3000 (podcast) |
+| July 2024     | [Grassroots and non-profit perspectives on generative AI](https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai) | Joseph Rowntree Foundation (report) |
+| August 2024   | [AI has a democracy problem. Citizens’ assemblies can help](https://www.science.org/doi/10.1126/science.adr6713) | Science (article) |
+| February 2025 | [How do we stop AI becoming an 'engine of inequality', and make it a force for good?](https://www.bigissue.com/news/social-justice/artifical-intelligence-ai-paris-summit-engine-inequality/) | Big Issue (article) |
+| February 2025 | [The Participatory Turn: Side road or highway?](https://www.techpolicy.press/the-participatory-turn-side-road-or-highway/) | Tech Policy Press (essay) |
+| March 2025    | [The people who are affected are the ones that should be making decisions about how data gets used](https://www.publictechnology.net/2025/03/11/society-and-welfare/those-who-are-affected-are-the-ones-that-should-be-making-decisions-about-how-data-gets-used/) | Public Technology.net (article/interview) |
+| March 2025    | [Public Voices in AI People’s Advisory Panel](https://drive.google.com/file/d/1ccP8qcGw2C2Ee3SUdvsQwHPilaPQpxqS/view?usp=drive_link) | BBC Radio Sheffield (audio) |
+| 2024          | [Taming Silicon Valley: How we can ensure that AI works for us](https://direct.mit.edu/books/book/5828/Taming-Silicon-ValleyHow-We-Can-Ensure-That-AI) | <cite>Taming Silicon Valley</cite> by Gary Marcus (book) |
+{: .timeline }
 
 We saw ripples of our previous narrative work. Bristol University are using our [‘we are at a crossroads’ video](https://youtu.be/5Y2f15qRgXo) in work they are doing with young people considering questions about data and AI. The video was also used to introduce and set the tone for [Gloucestershire Data Day](https://dataday.org.uk/).
 
@@ -327,12 +330,13 @@ It's been lovely encountering Connected by Data quite a bit over the last year, 
 
 We hosted a further four Connected Conversations, with attendees across timezones.
 
-| Title | Date |
-| ----- | ---- |
-| Sharing progress on resources for deliberation on data & AI governance | [23rd May 2024](https://connectedbydata.org/events/2024-05-23-connected-conversation-public-deliberation-resources) |
-| How can we ensure meaningful community and public participation in the governance and implementation of the EU’s AI Act? | [10th September 2024](https://connectedbydata.org/events/2024-09-10-connected-conversation-eu-ai-act) |
-| Global Voices: What does data governance mean to you? | [30th September 2024](https://connectedbydata.org/events/2024-09-30-connected-conversation-global-voices-on-data-and-ai) |
-| Generative AI and Worker Rights | [17th October 2024](https://connectedbydata.org/events/2024-10-17-connected-conversation-gen-ai) |
+| Date              | Title |
+| ----              | ----- |
+| 23 May 2024       | [Sharing progress on resources for deliberation on data & AI governance](https://connectedbydata.org/events/2024-05-23-connected-conversation-public-deliberation-resources) |
+| 10 September 2024 | [How can we ensure meaningful community and public participation in the governance and implementation of the EU’s AI Act?](https://connectedbydata.org/events/2024-09-10-connected-conversation-eu-ai-act) |
+| 30 September 2024 | [Global Voices: What does data governance mean to you?](https://connectedbydata.org/events/2024-09-30-connected-conversation-global-voices-on-data-and-ai) |
+| 17 October 2024   | [Generative AI and Worker Rights](https://connectedbydata.org/events/2024-10-17-connected-conversation-gen-ai) |
+{: .timeline }
 
 ### Participatory AI Research and Practice Symposium
 
