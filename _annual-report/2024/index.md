@@ -120,14 +120,11 @@ In 2024-25 we continued to build our public profile. In addition to frequent com
 | February 2025 | [The Participatory Turn: Side road or highway?](https://www.techpolicy.press/the-participatory-turn-side-road-or-highway/) | Tech Policy Press (essay) |
 | March 2025    | [The people who are affected are the ones that should be making decisions about how data gets used](https://www.publictechnology.net/2025/03/11/society-and-welfare/those-who-are-affected-are-the-ones-that-should-be-making-decisions-about-how-data-gets-used/) | Public Technology.net (article/interview) |
 | March 2025    | [Public Voices in AI People’s Advisory Panel](https://drive.google.com/file/d/1ccP8qcGw2C2Ee3SUdvsQwHPilaPQpxqS/view?usp=drive_link) | BBC Radio Sheffield (audio) |
-| 2024          | [Taming Silicon Valley: How we can ensure that AI works for us](https://direct.mit.edu/books/book/5828/Taming-Silicon-ValleyHow-We-Can-Ensure-That-AI) | <cite>Taming Silicon Valley</cite> by Gary Marcus (book) |
 {: .timeline }
 
-We saw ripples of our previous narrative work. Bristol University are using our [‘we are at a crossroads’ video](https://youtu.be/5Y2f15qRgXo) in work they are doing with young people considering questions about data and AI. The video was also used to introduce and set the tone for [Gloucestershire Data Day](https://dataday.org.uk/).
+We saw ripples of our previous narrative work. We were cited in Gary Marcus' book published in 2024, [Taming Silicon Valley: How we can ensure that AI works for us](https://direct.mit.edu/books/book/5828/Taming-Silicon-ValleyHow-We-Can-Ensure-That-AI). Bristol University are using our [‘we are at a crossroads’ video](https://youtu.be/5Y2f15qRgXo) in work they are doing with young people considering questions about data and AI. The video was also used to introduce and set the tone for [Gloucestershire Data Day](https://dataday.org.uk/).
 
-We’ve also sought to amplify community voices including:
-
-* Publishing blogs from [Care Full](https://connectedbydata.org/blog/2024/11/13/care-full-blog) and [Behind Our Screens](https://connectedbydata.org/blog/2024/10/15/behind-our-screens-blog) (from our community campaigns cohort), and [Margaret](https://connectedbydata.org/blog/2024/04/30/margaret-guest-blog) and [June](https://connectedbydata.org/blog/2024/05/16/june-guest-blog) from our People’s Panel on AI.
+We’ve also sought to amplify community voices including publishing blogs from [Care Full](https://connectedbydata.org/blog/2024/11/13/care-full-blog) and [Behind Our Screens](https://connectedbydata.org/blog/2024/10/15/behind-our-screens-blog) (from our community campaigns cohort), and [Margaret](https://connectedbydata.org/blog/2024/04/30/margaret-guest-blog) and [June](https://connectedbydata.org/blog/2024/05/16/june-guest-blog) from our People’s Panel on AI.
 
 {% endcapture %}
 {% capture article %}
@@ -255,7 +252,7 @@ Data and AI policy comes thick and fast, and is often politically fraught. From 
 
 ### Influencing and coalition building: the Data and AI Civil Society Network
 
-In 2024 we have united a diverse array of civil society organisations (CSOs) and other stakeholders through [the Data and AI Civil Society Network](https://data-and-ai-cso-network.org/). The Network routinely brings together over 100 diverse participants including trade unions, digital rights organisations such as [Big Brother Watch](https://bigbrotherwatch.org.uk/) and [Open Rights Group](https://www.openrightsgroup.org/), legal and research organisations such as [AWO](https://www.awo.agency/), [IPPR](https://www.ippr.org/), the [Institute for the Future of Work](https://www.ifow.org/), [5RightsFoundation](https://5rightsfoundation.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/), as well as [MySociety](https://www.mysociety.org/), the [Church of England](https://www.churchofengland.org/), [NSPCC](https://www.nspcc.org.uk/), and consumer rights organisation [Which?](https://www.which.co.uk/)
+In 2024 we have united a diverse array of civil society organisations (CSOs) and other stakeholders through [the Data and AI Civil Society Network](https://data-and-ai-cso-network.org/). The Network routinely brings together over 100 diverse participants including trade unions, digital rights organisations such as [Big Brother Watch](https://bigbrotherwatch.org.uk/) and [Open Rights Group](https://www.openrightsgroup.org/), legal and research organisations such as [AWO](https://www.awo.agency/), [IPPR](https://www.ippr.org/), the [Institute for the Future of Work](https://www.ifow.org/), [5RightsFoundation](https://5rightsfoundation.com/) and [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/), as well as [mySociety](https://www.mysociety.org/), the [Church of England](https://www.churchofengland.org/), [NSPCC](https://www.nspcc.org.uk/), and consumer rights organisation [Which?](https://www.which.co.uk/)
 
 The Network fosters intelligence sharing and collaboration across civil society. It amplifies our collective voice, ensuring that public interest perspectives are represented in discussions surrounding digitalisation and AI and acts as a source of countervailing power by mobilising broad based civil society and social movements on tech issues.
 
@@ -490,16 +487,16 @@ Our full financial statements have been filed with [Companies House](https://fin
 
 |                              | **2024/25** |
 | ---------------------------- | ----------: |
-| **Income**                   |  |
-| Unrestricted grants          |  |
-| Restricted grants            |  |
-| Sales                        |  |
-| **Costs**                    |  |
-| Staff costs                  |  |
-| Other costs                  |  |
-| Corporation tax              |  |
-| **Capital and reserves**     |  |
-| **Accrued 2025/26 income**   |  |
+| **Income**                   | **446** |
+| Unrestricted grants          |  74 |
+| Restricted grants            | 285 |
+| Sales                        |  87 |
+| **Costs**                    | **438** |
+| Staff costs                  | 335 |
+| Other costs                  | 101 |
+| Corporation tax              |   2 |
+| **Capital and reserves**     |  **23** |
+| **Accrued 2025/26 income**   | **238** |
 
 {% endcapture %}
 {% capture article %}
