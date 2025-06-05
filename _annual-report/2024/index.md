@@ -282,6 +282,7 @@ We've been lucky enough to work with lots of amazing people on so many interesti
 {% endcapture %}
 {% include quote.html person="Gavin Freeguard" compact=true text=quote %}
 
+{% capture highlight-text %}
 ### Building worker power on data and AI
 
 The most essential purpose of work is the means to sustain ourselves. Good work can help us find meaning, community and dignity. With so much at stake, how data and AI technologies may affect work is an important concern for millions. In 2024-25 we have deepened our work with unions to build worker power on data and AI so that the rules, choices and processes of technology protect and enhance our livelihoods and wellbeing day in and day out.
@@ -296,6 +297,11 @@ We’ve also been collaborating with the [Communications Workers Union](https://
 Connected by Data has been pivotal in assisting the CWU to tackle the AI revolution and the impact on workers. They have brought insightful ideas, research and have worked collaboratively with our reps through a learn by doing approach. This has culminated in a clear strategic steer in how we take our AI project forward.
 {% endcapture %}
 {% include quote.html credit="Nicola Marshall, Senior Policy Advisor, Communication Workers Union" compact=true text=quote %}
+{% endcapture %}
+{% capture highlight-article %}
+{% include content.html content=highlight-text %}
+{% endcapture %}
+{% include block.html content=highlight-article full=true background="lightest-green" %}
 
 ### Ongoing international partnerships
 
