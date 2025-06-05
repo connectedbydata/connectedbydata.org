@@ -37,4 +37,4 @@ We want a future where AI is working in our interests. Researchers, product crea
 * Adam lives in Kent and is a consultant wargamer
 * Cameron lives in Belfast and is a Technical Manager for an innovative water heating company
 
-![Image of the people's panel members outside portcullis house in London]({{site.url}}assets/blog/pvaipap2025.jpg)
+![Image of the people's panel members outside portcullis house in London]({{site.url}}/assets/blog/pvaipap2025.jpg)
