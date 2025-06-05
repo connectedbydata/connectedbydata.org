@@ -130,7 +130,7 @@ The impact of the Panel continued through the year. For example, TechUK asked re
 {% capture image %}
 {% include carousel.html content=carousel %}
 {% endcapture %}
-{% include captioned.html content=image caption="Members of the People's Panel on AI deliberating on the AI Summit Fringe" %}
+{% include figure.html content=image caption="Members of the People's Panel on AI deliberating on the AI Summit Fringe" %}
 
 {% capture quote %}
 We didn't stop talking about AI. It was exhausting. It overtook us. A number of us refer to the experience as life changing as the impact hasn't gone away. During the week we were waking up at 3am and making notes about what we wanted to ask the next day. … In one session someone suggested to us that we didn't know the tech and ordinary citizens can't understand \[ AI \]. I think the panel will come up against this all the time but the panel can ask the questions. What's the value? Does society want it?
@@ -180,7 +180,7 @@ In April 2023, our first [Our Data Stories](https://docs.google.com/document/d/1
 
 {% include tweet.html user="Lauloknows" id="1671435992660602883" %}
 
-{% include captioned.html photo="/assets/events/2023-04-parliamentary-event.jpg" caption="Our Parliamentary event, co-hosted with the TUC, discussed the worker experience of the AI revolution (June 2023). Photo credit: Stephanie Peacock MP." %}
+{% include figure.html photo="/assets/events/2023-04-parliamentary-event.jpg" caption="Our Parliamentary event, co-hosted with the TUC, discussed the worker experience of the AI revolution (June 2023). Photo credit: Stephanie Peacock MP." %}
 
 Our second [Our Health Data Stories](/resources/our-health-data-stories) report, in November 2023, produced in partnership with [Just Treatment](https://justtreatment.org/), focused on [how people experience data when interacting with health services](https://docs.google.com/document/d/12Jxf0NoWFpq2aedfHlF2PC0Ti9cnXYJh-krwuagMzqA/edit#heading=h.hz2xizfuf49s), especially in light of the [controversy of the award of the NHS's Federated Data Platform contract to Palantir](https://www.theguardian.com/society/2023/oct/12/everything-you-need-to-know-about-nhs-englands-biggest-ever-it-contract). Jeni joined Hope from Just Treatment in a [Byline Times podcast](https://byline.tv/audio/palantir-and-the-nhs/) on the topic, based on the report.
 
@@ -245,7 +245,7 @@ The case for public engagement around data and AI decisions is only growing stro
 
 We have also developed [an interactive card game](/projects/2023-governance-game) that provides a creative way for individuals and organisations to think about planning, running and evaluating collective and participatory data governance activities.
 
-{% include captioned.html photo="/assets/events/2023-07-cpdp-latam-good-governance-game.jpg" caption="The Good Governance game being tested at CPDP LatAm2023 with Idec, InternetLab, ITS Rio, Instituto Fogo Cruzado, Ericà Bakonyi, Larissa Chen, Lab Jaca, Aqualtune Lab, and CyberBRICS Project." %}
+{% include figure.html photo="/assets/events/2023-07-cpdp-latam-good-governance-game.jpg" caption="The Good Governance game being tested at CPDP LatAm2023 with Idec, InternetLab, ITS Rio, Instituto Fogo Cruzado, Ericà Bakonyi, Larissa Chen, Lab Jaca, Aqualtune Lab, and CyberBRICS Project." %}
 
 ### Developing resources for public deliberations
 
@@ -259,7 +259,7 @@ In November 2023, we partnered with [Iswe](https://iswe.org/) to convene a group
 
 You can [access the full workshop notes here](https://docs.google.com/document/d/1jk0DwrqiX6GhbmwPetKsF6e-ZRt2tAeTgORSQwNO4mo/view) or [review the summary on our website](/events/2023-11-22-deliberative-governance-data-and-ai).
 
-{% include captioned.html photo="/assets/events/2023-11-design-lab-resources.png" caption="Photos of the Design Lab exploring resources for public deliberation." %}
+{% include figure.html photo="/assets/events/2023-11-design-lab-resources.png" caption="Photos of the Design Lab exploring resources for public deliberation." %}
 
 {% endcapture %}
 {% capture article %}
@@ -347,7 +347,7 @@ In June 2023, in partnership with Aapti Institute, Research ICT Africa, and The 
 
 Thanks to this workshop, we collaborated with Mydata Global, Aapti Institute, and The Datasphere Initiative, to publish [In This Together: Combining Individual and Collective Strategies to Confront Data Power](https://mydata.org/wp-content/uploads/2023/12/In-this-together-final.pdf), a think piece that looks at how advocacy for better data governance can draw upon the tools of both individual data rights, and collective data governance. This was the topic of a Connected Conversation on [Combining Strategies to Confront Data Power](/events/2024-03-20-connected-conversation-combining-strategies) in March 2024.
 
-{% include captioned.html photo="/assets/events/2023-09-ogp-summit-fringe-workshop.jpg" caption="The Connected by Data workshop as a Fringe of the OGP Summit (September 2023)" %}
+{% include figure.html photo="/assets/events/2023-09-ogp-summit-fringe-workshop.jpg" caption="The Connected by Data workshop as a Fringe of the OGP Summit (September 2023)" %}
 
 We have undertaken a significant amount of work relating to the [Open Government Partnership](https://opengovpartnership.org/) (OGP). In September 2023, [we brought together](https://docs.google.com/document/d/1pKmhRDy29jrqWfvowCqmmUAUZviy37lumiCC6rGwYLE/edit) a diverse group of civil society, government and academic stakeholders on the fringes of the 2023 Open Government Partnership Summit in Tallinn, Estonia, to co-design model policy commitments that could deliver meaningful transparency, participation and accountability in data and AI governance. We followed this with a [Connected Conversation](/events/2023-11-29-open-government-data-ai-governance) to share these resulting commitment areas in more detail, and invited responses from a range of experts to explore the opportunities and challenges for putting these ideas into practice.
 
@@ -365,7 +365,7 @@ Although the draft bill in Brazil has some way still to go if it is to become la
 {% endcapture %}
 {% include quote.html credit="Maria on building trust through civil engagement in data and AI" creditLink="/news/2023/12/14/ai-regulation-brazil-public-voice" compact=true text=quote %}
 
-{% include captioned.html photo="/assets/events/2023-11-meeting-ed-husic.jpg" caption="Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)" %}
+{% include figure.html photo="/assets/events/2023-11-meeting-ed-husic.jpg" caption="Jeni Tennison meeting with Minister Ed Husic from the Australian Government Department of Industry, Science and Resources alongside Abeba Birhane and Rachel Coldicutt (November 2023)" %}
 
 {% endcapture %}
 {% capture article %}
@@ -383,7 +383,7 @@ Over the last two years, we have amassed over 1,600 followers on [X (formerly Tw
 
 {% include youtube.html id="63H6D502xf8" t="735" %}
 
-{% include captioned.html photo="/assets/events/2023-11-citizen-centric-ai-systems.jpg" caption="Jeni Tennison speaking at a Citizen-Centric AI Systems event (November 2023). Photo credit: Professor Sebastian Stein." %}
+{% include figure.html photo="/assets/events/2023-11-citizen-centric-ai-systems.jpg" caption="Jeni Tennison speaking at a Citizen-Centric AI Systems event (November 2023). Photo credit: Professor Sebastian Stein." %}
 
 ### Convening important conversations
 

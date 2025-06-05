@@ -147,7 +147,13 @@ $footer-color: white;
 }
 // White text on dark background by default
 .has-background-dark-green, .has-background-darker-green, .has-background-darkest-green  {
-  color: white
+  color: white;
+  a {
+    color: $lightest-green;
+    &:hover {
+      color: white;
+    }
+  }
 }
 // Invert whitened headings when on light background
 .has-background-lightest-green, .has-background-light-green, .has-background-none  {
@@ -819,5 +825,53 @@ $footer-color: white;
   .tag.is-primary {
     font-weight: bold;
     color: white !important;
+  }
+}
+
+// Timeline style for tables (assumes column 1 is date)
+table.timeline {
+  tbody {
+    td:first-child {
+      border-left: $dark-green solid 2px;
+      position: relative;
+      &:before {
+        content: "\2022"; // Bullet point
+        color: transparent; // Hide the text
+        line-height: 0;
+        width: 0.5em; height: 0.5em;
+        background-color: $light-green;
+        position: absolute;
+        left: -0.3em; top: 1.1em;
+      }
+    }
+  }
+  thead {
+    th {
+      border: none;
+      font-size: 75%;
+      color: #b8c1c1;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+}
+
+// Series of emphasised points
+.bigpoints {
+  margin: 1em 0;
+  .bigpoint {
+    .bigpoint-bullet {
+      float: left;
+      width: 4em;
+      height: 4em;
+      margin: 0 1.2em 1.2em 0;
+      position: relative;
+      top: 0.3em;
+    }
+    padding: 1em 0;
+    border-top: 1px solid #acacac;
+    &:last-child {
+      border-bottom: 1px solid #acacac;
+    }
   }
 }
