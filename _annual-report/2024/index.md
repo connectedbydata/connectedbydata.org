@@ -151,6 +151,8 @@ We’ve seen the growing recognition this year from industry to academia that we
 {% endcapture %}
 {% include quote.html person="Tim Davies" compact=true text=quote %}
 
+
+{% capture highlight-text %}
 ### Catalysing community data campaigns
 
 With data and AI an increasing part of how powerful actors make and implement decisions, all modern campaigns for change are data campaigns in some shape or form. To bring about the changes they want to see, social movements and grassroots groups need to change what data is collected, how it is structured, what it is used for and who it is shared with. And for data campaigns to meet their goals, they need to draw on the full coalition building and campaigning toolbox.
@@ -170,6 +172,11 @@ The experience with Connected by Data helped us develop our skills in connecting
 {% include quote.html credit="Care Full quote from the end of project reflections" creditLink="https://docs.google.com/document/d/1gS0xEQyqZQJpEjqiafV1MlZ4Dh2KaNATStFzBixi0Vc/edit?tab=t.0" compact=true text=quote %}
 
 {% include youtube.html id="PaZ7Xqa9vLg" %}
+{% endcapture %}
+{% capture highlight-article %}
+{% include content.html content=highlight-text %}
+{% endcapture %}
+{% include block.html content=highlight-article full=true background="lightest-green" %}
 
 ### Public Voices in AI: Helping others to hear public voices
 
@@ -348,6 +355,7 @@ We hosted a further four Connected Conversations, with attendees across timezone
 | 17 October 2024   | [Generative AI and Worker Rights](https://connectedbydata.org/events/2024-10-17-connected-conversation-gen-ai) |
 {: .timeline }
 
+{% capture highlight-text %}
 ### Participatory AI Research and Practice Symposium
 
 In response to the [Paris Artificial Intelligence Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia), we co-hosted with a range of global partners the first ‘[Participatory AI Research and Practice Symposium](https://pairs25.notion.site/)’ (PAIRS) events (an online pre-event and an in person conference in Paris). The goal was to showcase work that demonstrates what it looks like, how and why to do it, as well as what can go wrong. Through an open call we sourced 120 paper and presentation submissions across three key themes:
@@ -366,6 +374,12 @@ On 31st March the first PAIRS offshoot event, PAIRSx Africa took place, coordina
 PAIRS was about more than just presentations and workshops – it was a seminal moment about building an international and diverse community of practice.
 {% endcapture %}
 {% include quote.html credit="Pierre Noro, Sciences Po" photo="/assets/people/pierre-noro.jpg" compact=true text=quote %}
+
+{% endcapture %}
+{% capture highlight-article %}
+{% include content.html content=highlight-text %}
+{% endcapture %}
+{% include block.html content=highlight-article full=true background="lightest-green" %}
 
 ### Cultivating changemakers
 
@@ -422,6 +436,8 @@ Our work is founded on an awareness of power, privilege and pluralism inspired b
 
 We’ve had two key events this year where we have sought to be intentional in our inclusive practice: the unconference; and our work with the Public Voices in AI People’s Advisory Panel. In each we planned – including reaching out to learn from others – a range of interventions ranging from photo-heavy welcome documents to thoughtfully-positioned chairs, and then ensured we were flexible and responsive to individual needs, such as needs for spaces for prayer and breastfeeding, and individualised support for participants with limited digital skills. A summary of our learning from these events has been written up in weeknotes ([unconference](https://connectedbydata.org/weeknotes/2025/03/20/emily-weeknotes) and [PVAI](https://connectedbydata.org/weeknotes/2025/04/03/emily-weeknotes)).
 
+
+{% capture highlight-text %}
 ### Learning
 
 We are committed to continuously learning about what works and what doesn’t, and how to improve our impact. During 2024-25 we learned:
@@ -443,6 +459,12 @@ We are committed to continuously learning about what works and what doesn’t, a
 {% include bigpoints.html points=points %}
 
 We’ve taken these lessons into our plans for next year, which you can learn more about in our [Strategic Roadmap 2025-26](https://docs.google.com/document/d/1pBkccYEE6fSV8ze0jUJyIOLoH2SCMIQ7rFjOl-r1VKg/edit?tab=t.0).
+
+{% endcapture %}
+{% capture highlight-article %}
+{% include content.html content=highlight-text %}
+{% endcapture %}
+{% include block.html content=highlight-article full=true background="lightest-green" %}
 
 ### Governance
 
