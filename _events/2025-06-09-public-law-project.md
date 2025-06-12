@@ -3,7 +3,7 @@ layout: event
 title: Public Law and Technology Conference
 image: plp.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-06-09

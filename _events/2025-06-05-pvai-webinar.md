@@ -3,8 +3,8 @@ layout: event
 title: Public Voices in AI webinar series - community perspectives
 image: 2025-06-05-pvai.png
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-06-05
 author: Tim Davies
