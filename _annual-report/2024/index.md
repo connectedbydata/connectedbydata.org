@@ -491,7 +491,8 @@ Thanks to our funders for their generous support during this year.
 
 Our full financial statements have been filed with [Companies House](https://find-and-update.company-information.service.gov.uk/company/13896309/filing-history) and are summarised below.
 
-|                              | **2024/25** |
+|                              | **2024/25**
+|                              | ,000 (k)
 | ---------------------------- | ----------: |
 | **Income**                   | **446** |
 | Unrestricted grants          |  74 |
