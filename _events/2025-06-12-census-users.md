@@ -3,7 +3,7 @@ layout: event
 title: UK Census User Conference
 image: 2025-06-12-logo.jpeg
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-06-12
