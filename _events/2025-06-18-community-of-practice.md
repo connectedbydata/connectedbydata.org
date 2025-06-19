@@ -2,7 +2,7 @@
 layout: event
 title: "Data and AI public engagement: Community of Practice"
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: true
 date: 2025-06-18
