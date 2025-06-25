@@ -3,8 +3,8 @@ layout: event
 title: Engagement Lab - Embedding public voice in the local governance of data and AI innovation
 image: 2025-06-24-logos.png
 add-background: false
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-06-24
 author: Tim Davies
