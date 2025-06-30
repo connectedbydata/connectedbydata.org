@@ -30,5 +30,6 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 
 The theme of this session is health data. Speakers include:
 * [Frederica Longfoot](https://www.linkedin.com/in/frederica-longfoot-0965b6a2/), [OpenSAFELY](https://www.opensafely.org/) Patient and Public Involvement and Engagement Lead
+* [Eli Holderness](https://www.bennett.ox.ac.uk/about-us/eli-holderness/), [OpenSAFELY](https://www.opensafely.org/) Research Software Advocate
 
 > Please [register here](https://us06web.zoom.us/meeting/register/z5wEhZRTSiuF1UgPB1AnbA) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
