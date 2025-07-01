@@ -3,7 +3,7 @@ layout: event
 title: Public Participation in AI Procurement Decision-Making
 image: 2025-06-30-webinar.jpeg
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-06-30
