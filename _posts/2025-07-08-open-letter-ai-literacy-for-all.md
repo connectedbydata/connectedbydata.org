@@ -15,4 +15,4 @@ Drawing on inputs from a meeting of the Charity AI Taskforce, and from the Data 
 
 The letter was open for signature over June, and has been sent to the Prime Minister, Secretary of State for Science, and Secretary of State for Education.
 
-A full copy of [the letter can be found here]({{site.baseurl}}/assets/blog/2025-07-08 - Open Letter to the UK Government_ Prioritising AI Literacy for All Citizens.pdf)
+A full copy of [the letter can be found here]({{site.baseurl}}/assets/blog/2025-07-08 - Open Letter to the UK Government_ Prioritising AI Literacy for All Citizens.pdf) and if you would like to receive updates on any government response or be invited to a follow-up online conversation, [please complete the form here](https://docs.google.com/forms/d/e/1FAIpQLSfbHYztIchuFw--EbTgnGUnMtorPQX464uOUZVED6Gp8OMX8g/viewform?usp=header).
