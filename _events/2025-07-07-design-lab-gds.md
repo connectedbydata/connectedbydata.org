@@ -3,7 +3,7 @@ layout: event
 title: Involving people in the design of digital public services
 image: cbd-logo.png
 date: 2025-07-07
-upcoming: true
+upcoming: false
 writeup: false
 author: Jeni Tennison
 category: organising
