@@ -6,7 +6,7 @@ image: jrrt.png
 topics:
   - Civil society
 add-background: false
-completed: false
+completed: true
 order: 7
 ---
 In a comprehensive regular posting - up to twice a month -  data policy maestro Gavin Freeguard pulls together all the news, views and gossip from data and AI policy land, with a UK focus. 

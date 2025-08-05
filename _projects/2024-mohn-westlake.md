@@ -7,7 +7,7 @@ topics:
   - Public sector
 add-background: true
 completed: false
-order: 1
+order: 3
 ---
 Communities are affected daily in both positive and negative ways by data governance decisions made by local and national governments. These arise through interactions with public services such as health and care; schooling; policing and justice; tax and benefits, as well as in more pervasive ways through government’s collection and dissemination of data, statistics and evidence to inform policymaking.
 

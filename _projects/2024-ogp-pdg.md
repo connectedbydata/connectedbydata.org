@@ -5,7 +5,7 @@ subtitle: Exploring organisations and projects that give communities voice in go
 image: OGP_Logo_RGB.png
 add-background: true
 completed: false
-order: 3
+order: 5
 topics:
   - People and Participation
 ---

@@ -4,7 +4,7 @@ title: TUC Cymru
 subtitle: A Welsh way for workers and AI
 image: wales-tuc.png
 add-background: true
-completed: false
+completed: true
 order: 5
 topics:
   - Work
