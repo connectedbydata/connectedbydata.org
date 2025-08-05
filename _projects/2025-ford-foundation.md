@@ -12,6 +12,8 @@ topics:
 ---
 Artificial intelligence (AI) and digital technologies are rapidly evolving and complex issues that have wide-ranging implications across sectors and workplaces. While there are overarching concerns, union and policy responses are more effective when tailored to reflect the specific contexts of different industries, technology applications, impact on workers, regulatory regimes and ethical concerns. 
 
+<!--more-->
+
 Experience and [evidence](https://www.tuc.org.uk/research-analysis/reports/snapshot-workers-wales-understanding-and-experience-ai) indicates that many existing resources and training materials for reps and unions are general and high level, causing barriers for workers and unions to translate them into their contexts. Especially at this uncertain and early stage of AI, there is a related need for more sustained support to catalyse the confidence and capacity of unions to fully engage members, negotiate with employers and to develop and advocate policy.
 
 Supported by the [Ford Foundation](https://www.fordfoundation.org/), this 12 - 18 month project co-led by Connected by Data and the [TUC](https://www.tuc.org.uk/) proposes to begin addressing this need. 
