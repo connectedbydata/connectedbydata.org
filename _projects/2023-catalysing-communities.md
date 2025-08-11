@@ -21,7 +21,7 @@ We are running a community data campaigns cohort with five wonderful groups. Tog
 
 > **Community Campaigns on Data Toolkit** 
 >
-> Find the draft [Community Campaigns on Data: Campaigners Toolkit here](https://docs.google.com/document/d/1nnBDI-BIgG4B3WEYKSog2-yJEXpw7OIglBHXDap-q1g/edit) - 30 pages packed with ideas and activities to help plan and run a community-led campaign to change data practices.
+> Find the [Community Campaigns on Data: Campaigners Toolkit here](/resources/community-campaigns-on-data) - packed with ideas and activities to help plan and run a community-led campaign to change data practices.
 
 ### About the Community Campaigns on Data Cohort
 
