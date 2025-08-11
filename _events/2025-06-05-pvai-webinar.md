@@ -17,12 +17,12 @@ topics:
   - Participation
 ---
 
-Tim Davies, Anna Beckett and members of the Public Voices in AI People's Advisory Panel, will be speaking at the ESRC Digital Good Network's upcoming webinar series with the Public Voices in AI project about how public voices can be put front and centre in artificial intelligence research, development and policy. 
+Tim Davies, Anna Beckett and members of the Public Voices in AI People's Advisory Panel, spoke at the ESRC Digital Good Network's webinar series with the Public Voices in AI project about how public voices can be put front and centre in artificial intelligence research, development and policy. 
 
 <!--more-->
-
-Discover research findings on how to meaningfully include public voices in AI development, explore public attitudes towards AI, and hear directly from the communities and people most affected by AI. 
  
+[Watch the YouTube recording of the webinar.](https://www.youtube.com/watch?v=k1YhKB92GL0)
+
 This project was funded by Responsible Ai UK and AHRC's BRAID UK. 
  
-For more information and to book a place visit the [organiser's event page](https://digitalgood.net/pvai-seminar-series/).
+For more information visit the [organiser's event page](https://digitalgood.net/pvai-seminar-series/).
