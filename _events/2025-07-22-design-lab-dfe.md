@@ -3,7 +3,7 @@ layout: event
 title: Supporting Collective School Decision Making on AI and Education Technology
 image: cbd-logo.png
 date: 2025-07-22
-upcoming: true
+upcoming: false
 writeup: false
 author: Tim Davies
 category: organising
