@@ -5,7 +5,7 @@ reference: community-campaigns-on-data
 author: Tim Davies
 date: 2025-08-06
 status: final
-listed: false
+listed: true
 link: /assets/resources/Community_Campaigns_on_Data_Toolkit.pdf
 image: Community-campaigns-on-data.png
 ---
