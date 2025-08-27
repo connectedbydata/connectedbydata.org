@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Open Government, AI Procurement & Public Participation"
+title: "Open Government, AI Procurement & Public Participation (OGP Summit Fringe Event)"
 image: OGP_Logo_RGB.png
 upcoming: true
 writeup: false
