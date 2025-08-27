@@ -61,3 +61,5 @@ The session will be facilitated by Tim Davies from Connected by Data.
 [Connected by Data](https://connectedbydata.org/) is the campaign for communities to have a powerful voice in the governance of data and AI. Based in the UK, Connected by Data work to shift policies, practice and narratives to centre participatory, deliberative, collective and powerful governance of emerging technology. 
 
 The [Open Government Partnership](https://www.opengovpartnership.org/about/) (OGP) is an organization of reformers inside and outside of government working to transform how government serves its citizens. OGP includes 74 countries and 150 local governments – representing more than two billion people – and thousands of civil society organizations.
+
+The [Open Contracting Partnership](https://www.open-contracting.org/) (OCP) working to transform procurement from an overlooked, underfunded paper-based chore to a digital, data-driven government service that can be an engine for innovation, sustainability and economic inclusion.
