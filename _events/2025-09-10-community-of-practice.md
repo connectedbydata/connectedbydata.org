@@ -31,6 +31,4 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 The theme of this session is AI in science and healthcare. Our confirmed speaker is:
 * [Tracey Brown OBE](https://senseaboutscience.org/team/tracey-brown/), Director of Sense About Science, on their [Responsible Handover Framework](https://senseaboutscience.org/responsible-handover-of-ai/)
 
-We also hope to have a speaker from [National Voices](https://www.nationalvoices.org.uk/) talking about patient voices and AI in healthcare.
-
 > Please [register here](https://us06web.zoom.us/meeting/register/EWz0jtCNQxmX0fLNBcus8A) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
