@@ -13,7 +13,7 @@ project:
     - Giving communities a powerful say in public sector data and AI projects
 topics:
   - Public sector
-  - Participation
+  - People and Participation
 ---
 
 As governments increasingly use AI to deliver public services, key decisions—especially around procurement—often happen behind closed doors, without input from the communities most affected.
