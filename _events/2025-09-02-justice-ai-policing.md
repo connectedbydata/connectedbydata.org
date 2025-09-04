@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "JUTSICE workshop on AI in policing"
+title: "JUSTICE workshop on AI in policing"
 image: cbd-logo.png
 upcoming: false
 writeup: false
