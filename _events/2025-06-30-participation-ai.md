@@ -11,6 +11,7 @@ author: Tim Davies
 category: speaking
 project: 
     - Giving communities a powerful say in public sector data and AI projects
+    - Principles for Public Participation in AI Procurement
 topics:
   - Public sector
   - People and Participation
