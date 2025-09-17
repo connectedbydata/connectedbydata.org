@@ -2,7 +2,7 @@
 layout: event
 title: "Washington Workshop: Principles for AI Procurement & Public Participation"
 image: opengovhub.jpg
-upcoming: true
+upcoming: false
 writeup: true
 featured: true
 date: 2025-09-17
