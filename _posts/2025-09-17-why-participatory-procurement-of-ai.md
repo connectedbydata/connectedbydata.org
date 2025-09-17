@@ -56,4 +56,4 @@ In  **[Stakeholder Engagement in Public Procurement for Artificial Intelligence
 
 Do the reasons above resonate for you? Or are there other arguments you think need to be in the mix?
 
-Drop me a line or join discussion on LinkedIn here. 
+Drop me a line or [join discussion on LinkedIn here](https://www.linkedin.com/posts/timgdavies_in-a-few-weeks-time-at-the-open-government-activity-7374067556728414208-HH3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACbFGoBxo6HJ6_csEkVhqc727PXJvrWg1E). 
