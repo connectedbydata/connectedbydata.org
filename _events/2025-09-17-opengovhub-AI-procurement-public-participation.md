@@ -12,6 +12,7 @@ author: Tim Davies
 category: organising
 link: 
 project: 
+  - Principles for Public Participation in AI Procurement
 topics:
   - People and Participation
 ---
