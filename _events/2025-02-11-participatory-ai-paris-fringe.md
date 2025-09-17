@@ -10,7 +10,7 @@ date: 2025-02-11
 author: Tim Davies
 category: organising
 projects:
-    - 
+    - PAIRS
     - 
 topics:
     - Civil society
