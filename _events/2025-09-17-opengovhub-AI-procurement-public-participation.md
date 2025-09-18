@@ -50,7 +50,7 @@ In preparation for and during the session participants shared the following reso
 * [Key Considerations When Procuring AI in the Public Sector](https://static1.squarespace.com/static/5d159d288addab0001036c45/t/6890f9066bf93951bedd9485/1754331401682/AI_Procurement_Taraaz_CRCR_2025.pdf), Taraaz and Collaborative
 Research Center for Resilience, 2025
 * [Best practices in procuring AI: Lessons from Chile - Open Contracting Partnership](https://www.open-contracting.org/2025/09/09/best-practices-in-procuring-ai-lessons-from-chile/), 2025
-* [Connected by data | Toolkit: Worker voice in public sector procurement of digital and AI systems in Wales](https://connectedbydata.org/resources/worker-voice-procurement-guidance-wales), 2024
+* [Toolkit for Worker voice in public sector procurement of digital and AI systems in Wales](https://connectedbydata.org/resources/worker-voice-procurement-guidance-wales), 2024
 * [Stakeholder Engagement in Public Procurement for Artificial Intelligence: a Mission-Oriented Playbook](https://drive.google.com/file/d/1IRJv08KAVJZcQip7Ves1iY2vJFNr5b_5/view?usp=drive_link), Ismael Pena-Lopez 2025
 * [The Cyd ‘Procurement Reform Sandbox’: using foresight approaches to help deal with uncertainty and change](https://cyd.cymru/the-cyd-procurement-reform-sandbox-using-foresight-approaches-to-help-deal-with-uncertainty-and-change/), 2024
 * [Long Beach Co-Lab](https://www.longbeach.gov/smartcity/pilot-programs/lb-co-lab/), 2025
