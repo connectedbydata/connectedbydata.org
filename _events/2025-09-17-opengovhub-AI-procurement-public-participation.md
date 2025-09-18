@@ -120,7 +120,7 @@ This principle was highly valued, with participants highlighting the importance 
 
 ## Session Hosts
 
-The session was facilitated by Tim Davies from Connected by Data on behalf of:
+The session was facilitated by Tim Davies from Connected by Data, and Warren Smith from [Posterity Global](https://posterity.global/) on behalf of:
 
 [ParticipationAI](https://participationai.org/) explores the intersection of public participation and Artificial Intelligence (AI), focusing on integrating diverse civil society perspectives into the public procurement process. The ParticipationAI team, based across Spain, work rooted in feminist approaches, critical theory, and a politics of care.
 
