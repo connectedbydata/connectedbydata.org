@@ -22,6 +22,6 @@ The Community Campaigns on Data toolkit provides step-by-step guidance to design
 
 * **Data governance** campaigning for a role for affected communities in ongoing decision-making over how data is collected, used, interpreted or shared.
 
-**Counterdata** - campaigning to challenge official or dominant narratives around an issue by collecting and analysing alternative, often community-collected, datasets.
+* **Counterdata** - campaigning to challenge official or dominant narratives around an issue by collecting and analysing alternative, often community-collected, datasets.
 
 Based on learning from the [Community Campaigns on Data cohort](https://connectedbydata.org/projects/2023-catalysing-communities), you can find the toolkit as a [PDF download](/assets/resources/Community_Campaigns_on_Data_Toolkit.pdf), or [online document here](https://docs.google.com/document/d/1nnBDI-BIgG4B3WEYKSog2-yJEXpw7OIglBHXDap-q1g/edit?tab=t.0).
