@@ -2,7 +2,7 @@
 layout: event
 title: "Open Algorithms Network - AI Procurement Session"
 image: OGP_Logo_RGB.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2025-09-16
