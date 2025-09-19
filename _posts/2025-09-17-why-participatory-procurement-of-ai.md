@@ -14,6 +14,8 @@ The principles for Public Participation in AI Procurement we will be co-launchin
 
 Preparing for our workshop at the Open Gov Hub today, I've jotted down the following reasons.
 
+<!--more-->
+
 ## AI is an Emerging Technology 
 
 AI is not like tables and chairs, office supplies or the regular kinds of services public authorities might buy in so far as both the benefits, and the risks, are often highly uncertain. 

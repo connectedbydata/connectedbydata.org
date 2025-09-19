@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Letter to the UK Government - Prioritising AI Literacy for All Citizens
+title: Response to Open Letter on Prioritising AI Literacy for All Citizens
 author: Tim Davies
 category: blog
 featured: true
