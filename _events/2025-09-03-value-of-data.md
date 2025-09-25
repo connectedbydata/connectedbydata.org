@@ -3,7 +3,7 @@ layout: event
 title: "Value of Data Network Conference"
 image: cbd-logo.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: false
 writeup: false
 date: 2025-09-03
