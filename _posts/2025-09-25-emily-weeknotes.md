@@ -6,7 +6,7 @@ category: weeknotes
 ### What I’ve been doing
 It’s been a lovely week having all the team around. I don’t mind working remotely but I do miss having the chatter with team mates online - whether text (Discord) or face to face (Zoom). That said, I've enjoyed photos of their travels too.
 
-We had a Board meeting this week which was a focus of effort to ensure things were ready for the discussions that took place there and then working out what the next steps are for the actions. They’re an incredibly compassionate and generous group of Directors, I feel lucky to have time with them and learn from them.
+We had a Board meeting this week so ensuring things were ready for the discussions that took place and then working out what the next steps are for the actions. They’re an incredibly compassionate and generous group of Directors, I feel lucky to have time with them and learn from them.
 
 With the whole team back it was “Meeting Monday”. I’ve mentioned before how we try to consolidate our meetings into one day, allowing more “working” time throughout the week (not that good meetings aren’t work of course). It was useful to check in on progress on various projects including one that was having its first substantive delivery session this week, and preparing for another one that we hope to be signing a contract on later this week.
 
