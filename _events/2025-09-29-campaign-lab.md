@@ -3,8 +3,8 @@ layout: event
 title: Threat or Opportunity? Understanding AI in Campaigning Contexts @ THE CAMPAIGN FRINGE
 image: 2025-09-29-campaign-fringe.png
 add-background: true
-upcoming: true
-featured: true
+upcoming: false
+featured: false
 writeup: false
 date: 2025-09-29
 author: Jeni Tennison
