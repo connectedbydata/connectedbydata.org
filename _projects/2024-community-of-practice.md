@@ -8,7 +8,7 @@ topics:
 project: Giving communities a powerful say in public sector data and AI projects
 add-background: true
 completed: false
-order: 4
+order: 5
 ---
 As part of our project on[ ‘Giving communities a powerful say in public sector data and AI projects’](https://connectedbydata.org/projects/2024-mohn-westlake), we’re interested in supporting practitioners – particularly in the public sector – who are engaging the public on data and AI. To that end, we convene up a community of practice.
 

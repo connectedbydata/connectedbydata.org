@@ -4,7 +4,7 @@ title: Mapping Participatory Digital Governance
 subtitle: Exploring organisations and projects that give communities voice in governing digital technologies
 image: OGP_Logo_RGB.png
 add-background: true
-completed: false
+completed: true
 order: 5
 topics:
   - People and Participation

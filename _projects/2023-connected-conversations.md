@@ -4,7 +4,7 @@ title: Connected Conversations
 subtitle: Informal, virtual discussion sessions
 image: cbd-logo.png
 add-background: false
-completed: false
+completed: true
 order: 7
 ---
 
