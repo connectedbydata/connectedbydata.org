@@ -15,7 +15,7 @@ This data protection policy provides details about our data collection and use u
 
 <!--more-->
 
-As a small, non-data-intensive organisation, we hold relatively little data. We do not use data for big data analytics or machine learning, and the data we hold is never processed to create profiles or recommendations in ways that mean data about other people affects what we think about you. This limits the wider and collective impact that the data we hold and use might have. If you’d like to learn more about how we designed this data protection policy and why, please take a look at [this post](https://connectedbydata.org/blog/2022/10/21/data-protection-policy). This policy was last reviewed and approved by the whole team on 28 October 2024.
+As a small, non-data-intensive organisation, we hold relatively little data. We do not use data for big data analytics or machine learning, and the data we hold is never processed to create profiles or recommendations in ways that mean data about other people affects what we think about you. This limits the wider and collective impact that the data we hold and use might have. If you’d like to learn more about how we designed this data protection policy and why, please take a look at [this post](https://connectedbydata.org/blog/2022/10/21/data-protection-policy). This policy was last reviewed and approved by the whole team on 2 October 2025.
 
 
 <h2 id="recruitment">Recruitment and selection data</h2>

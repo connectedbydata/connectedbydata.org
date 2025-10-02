@@ -1,0 +1,30 @@
+---
+layout: post
+author: Emily Macaulay
+category: weeknotes
+---
+### What I’ve been doing
+As I [planned last week](https://connectedbydata.org/weeknotes/2025/09/25/emily-weeknotes) I’ve finished the Board minutes drafting and they’re now with the Board for review. I also enjoyed an insight meeting with our India based partners around logistics planning for the February Global AI Summit being held there (and specifically our Fringe event). I love that this role presents opportunities for me to work for and with global partners - I learn so much about other cultures and expectations and needs. 
+
+We had two PAIRS Programme Committee meetings today and a check in on a new contract we’re working on (more about that soon I hope). I had a good 1:1 with Jeni chatting about our forward planning, discussion space for the team and workloads (as well as cats, dogs, and life in general).
+
+I’ve done monthly reconciliation (including setting up the finances of our new contract) and we’ve submitted an application to host a Fellow. We also had a tantalising response from a funder that was in effect saying “not now but we want to reconsider you next financial year”...which isn’t a no. I also curated and circulated our monthly newsletter. If you’d like to receive future editions of that 
+
+### What I need to take care of
+Next week starts with our retrospective on quarter 2 and considering the progress we’ve made towards our strategic goals. We’ve then got our usual project check ins and it’s also the [next Community of Practice session](https://connectedbydata.org/events/2025-10-08-community-of-practice) - which is mainly notetaking and video editing for me.
+
+Also keeping half an eye on October as there’s some disruption to my usual patterns of work including annual leave and a full day conference in Birmingham.
+
+### What I’ve been inspired or challenged or moved by
+I haven’t got anything substantive here this week. But I did read a Bluesky post that keeps cropping up in my head. It paraphrased Cory Doctorow (linking back to this original writing) and the AI hype is “convincing gullible bosses to fire talented employees and replace them with bumbling chatbots that will linger for years or decades, the asbestos in the walls of our high-tech civilization”. 
+
+There’s some obvious problems with asbestos as a direct analogy for AI, but there is something that resonates about it…that belief that it is going to be great and then we catch up later and end up spending years picking it back out of our structures. I like it. I remember when social media was starting to hit mainstream and I used to try and describe different platforms with analogies (Facebook as your home - inviting your friends in; Twitter as being in a pub surrounded by friends but potentially overhead by anyone etc). I find myself wanting to find an analogy for AI to help less technical people understand it.
+
+### What I’ve been reading
+I mentioned last week that I’ve been to a webinar by Roots HR about the changes coming to employment law. They’ve now [shared a blog](https://www.rootshr.org.uk/blog/employment-law-update-2025-whats-coming-in-2026-27-and-how-to-get-ready ) and the [YouTube recording of that webinar](https://youtu.be/h-3OHsieHEw?si=yPQRTuhiweWeQRcH) if you’re interested - it’s only about 30 mins long (plus Q&A). 
+
+I read another [blog by The Decelerator](https://deceleratoruk.substack.com/p/a-never-ending-story?img=https://substack-post-media.s3.amazonaws.com/public/images/d1c5cf74-0a4d-4771-b6ec-090dd71e27f5_2000x1409.png&open=false) about their reflections on the current climate and in particular the funding environment and organisations closing due to crisis lack of funds that can no longer cover the gap left by Government cuts. There was also interesting insights about funders shifting their focus too fast and perhaps moving funds to bigger/more established organisations to get a bigger impact (and the result is losing more grassroots / smaller organisations). This is happening, “*data from [360 Giving](https://www.civilsociety.co.uk/news/government-no-longer-largest-source-of-grant-income-to-charity-sector-data-reveals.html) shows that the overall volume of philanthropic funding to civil society is steadily increasing both in real terms and in comparison to public giving or government funding”* which is fascinating as that certainly bucks the current narrative. The blog also talks about “moral distress” which isn’t a term I’d heard before but makes sense.
+
+I also finally made the time to read [Gavin’s](https://connectedbydata.org/people/gavin-freeguard) article for [JRF](https://www.jrf.org.uk/) on “[Definitions, digital, and distance: on AI and policymaking](https://www.jrf.org.uk/ai-for-public-good/definitions-digital-and-distance-on-ai-and-policymaking)”. One of the things I most value in conversations I have with Gavin (when they’re not about football 😉) is how he makes policy and the workings on Central Government understandable. This article was a written form of some of that insight, that balance and nuance that sits within the complexity of a large bureaucratic machine. Can AI help policymaking? Yes. … and no.
+
+Continuing the theme of reading colleagues writing I also did Tim’s “[Nine considerations for effective global deliberation on AI](https://connectedbydata.org/blog/2023/04/05/ai-deliberation)”. What’s interesting in this blog (in addition to the actual substance) is how much (from my understanding) would still feel appropriate as a response now and he wrote this in April 2023. (Yes, my reading list is long and I read from the most recently added generally). I find the concept on global deliberations on anything interesting. The big issues (including AI) are of course global ones - they impact on everyone and transcend national boundaries, but the local context/type of impact I suspect (perhaps wrongly) will be so different for different communities (in the same country, let alone continents) that I wonder how meaningful any output could be and not be over-generalised. 
