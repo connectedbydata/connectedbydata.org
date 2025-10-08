@@ -19,7 +19,7 @@ topics:
 
 In a fragmented AI governance landscape shaped more by economic interests than public concerns, how can diverse voices contribute to shaping AI strategies, policies and frameworks? In this fishbowl session at the Open Government Partnership Global Summit we explored challenges and learning from across the world on approaches to give citizens greater agency in shaping the future of artificial intelligence in both public and private sectors. 
 
-<!-- more -->
+<!--more -->
 
 This short note, drawing on a transcript summarised via AI and then edited by hand shortly after the session, highlights some of the themes explored. Discussions were initiated by a panel of contributors including: Margarita Yépez (DataLat, Ecuador), Rocío Suanzes (IE University, Spain), René Mendis (Social Change Factory, Senegal) and Fay Skevington (Department for Education, UK) who were then joined by attendees from the floor to contribute their own perspectiecs. 
 
@@ -73,5 +73,5 @@ The session ended looking forward, asking how the OGP can support further work t
 
 For Connected by Data, as co-hosts of the session, we're looking forward to further developing the [Good Governance Game](https://connectedbydata.org/game) as a resource to support design of participatory processes, and to taking forward the [Principles for Public Participation in the Procurement of AI](https://p4ai.net) launched earlier this week. 
 
-We're also happy to share the outputs of our [earlier research for the OGP on Mapping Participatory Digital Governance](https://connectedbydata.org/projects/2024-ogp-pdg) captured in **this report**
+We're also happy to share the outputs of our [earlier research for the OGP on Mapping Participatory Digital Governance](https://connectedbydata.org/projects/2024-ogp-pdg) captured in [this report](https://connectedbydata.org/resources/mapping-participatory-digital-governance).
 
