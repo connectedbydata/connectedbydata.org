@@ -7,7 +7,7 @@ author: Tim Davies
 date: 2025-10-08
 status: final
 listed: true
-link: https://docs.google.com/document/d/1z7oZAfrhb3jVTnqoUIHVzyno7Da1x4qTlZVoIhW9FKM/edit#heading=h.jgmduqp1336
+link: https://docs.google.com/document/d/1o6J5ZghsFDypv1e7_KlNGEA-y-MkoB-MkSKrp9imI50/edit?tab=t.0
 image: 2025-mappingpdg-ecosystem.png
 ---
 
