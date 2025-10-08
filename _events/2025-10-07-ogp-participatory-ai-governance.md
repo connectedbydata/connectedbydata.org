@@ -19,7 +19,7 @@ topics:
 
 In a fragmented AI governance landscape shaped more by economic interests than public concerns, how can diverse voices contribute to shaping AI strategies, policies and frameworks? In this fishbowl session at the Open Government Partnership Global Summit we explored challenges and learning from across the world on approaches to give citizens greater agency in shaping the future of artificial intelligence in both public and private sectors. 
 
-<!--more -->
+<!--more-->
 
 This short note, drawing on a transcript summarised via AI and then edited by hand shortly after the session, highlights some of the themes explored. Discussions were initiated by a panel of contributors including: Margarita Yépez (DataLat, Ecuador), Rocío Suanzes (IE University, Spain), René Mendis (Social Change Factory, Senegal) and Fay Skevington (Department for Education, UK) who were then joined by attendees from the floor to contribute their own perspectiecs. 
 
