@@ -67,4 +67,5 @@ We concluded the report with a reflection on ways forward, writing that:
 We're looking forward to exploring some of these ways forward with the OGP Community in Vitoria-Gasteiz this week. 
 
 ### Acknowledgements 
+
 Many thanks to interviewees who contributed to this work, including Leonida Mutuku, Joshua Olufemi, Maria Luciano, Emma Thwaites, Joe Massey, Veronica Cretu, Javier Ruiz and Mark Irura, and to everyone who completed the mapping survey or suggested potential examples. And apologies for not publishing any outputs from the project until now! 
