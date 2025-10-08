@@ -5,7 +5,7 @@ image: OGP_Logo_RGB.png
 upcoming: false
 writeup: true
 featured: false
-date: 2025-10-06
+date: 2025-10-07
 topics:
   - Open Government
 author: Tim Davies
