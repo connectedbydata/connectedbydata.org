@@ -12,6 +12,8 @@ In **The Good Governance Game** you work as a team to plan out the engagement st
 
 > **Beta Testing** We've been developing the good governance game over the last year in partnership with Dissent Games and a small group of collaborators. We've printed up 50 copies, and we're beta-testing the game in printed and online form. Can you help us? Drop a line to [tim@connectedbydata.org](mailto:tim@connectedbydata.org) if you could run a play-test. 
 
+You can find out more about the development of the game [on the project pages here](/projects/2023-governance-game).
+
 ## Playing the game
 
 Find [a full explanation of how to play the game here](https://docs.google.com/presentation/d/17w5T_YzCObYO4jfh7_lnxP1gFrF62epUByF4SuzQgKw/edit#slide=id.p) or below.
