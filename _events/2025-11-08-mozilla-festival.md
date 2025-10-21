@@ -6,7 +6,7 @@ upcoming: true
 writeup: false
 featured: false
 date: 2025-11-10
-author: Kiito Shilongo
+author: Kristophina Shilongo
 category: organising
 link: https://schedule.mozillafestival.org/session/65
 ---
