@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html class="has-background-light" lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include ai-in-education-head.html -%}
+
+  <body>
+ <script>
+        // Defines the logic for setting the iframe source and managing the loading spinner.
+        function loadIframeContent(finalUrl) {
+            const iframe = document.getElementById('feedback-iframe');
+            const spinner = document.getElementById('loading-spinner');
+            
+            if (!iframe || !spinner) return;
+
+            console.log("Loading URL:", finalUrl);
+
+            // Show spinner while content loads
+            spinner.style.display = 'block';
+            iframe.style.opacity = '0';
+
+            // Attach Load Listener to hide spinner when iframe content is ready
+            iframe.onload = () => {
+                spinner.style.display = 'none'; // Hide the spinner
+                iframe.style.opacity = '1';    // Show the iframe content (fade in)
+                iframe.onload = null;          // Clean up the listener
+            };
+            
+            // Set the final, prefilled URL directly to the iframe's src
+            iframe.setAttribute('src', finalUrl);
+        }
+
+        function openModal() {
+            const modal = document.getElementById('feedback-modal');
+            
+            // NOTE: Spinner management is now handled by loadIframeContent()
+            
+            modal.style.display = "block";
+            document.body.style.overflow = "hidden"; // Prevent scrolling while modal is open
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('feedback-modal'); // Corrected ID usage based on HTML structure
+            modal.style.display = "none";
+            document.body.style.overflow = "auto";
+        }
+        
+        function handleCodeGate(code) {
+            // Show the main content and hide the gate
+            document.getElementById('page-content').style.display = 'block';
+            document.getElementById('code-input-screen').style.display = 'none';
+            // NOTE: loadIframeContent is no longer called here. It is called on button click.
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const dynamicCode = urlParams.get('code');
+            
+            const pageContent = document.getElementById('page-content');
+            const codeInputScreen = document.getElementById('code-input-screen');
+
+            if (dynamicCode) {
+                // CASE 1: Code is present. Run the main app.
+                handleCodeGate(dynamicCode);
+
+                // --- LINK AND MODAL LOGIC START ---
+                // Select ALL anchor elements that have the data-link-pattern attribute (our modal triggers)
+                const anchorTriggers = document.querySelectorAll('a[data-link-pattern]');
+                const codeToken = '{CODE}';
+
+                anchorTriggers.forEach(anchor => {
+                    const pattern = anchor.getAttribute('data-link-pattern');
+                    
+                    if (pattern) {
+                        // 1. Calculate the final URL by replacing {CODE}
+                        const finalUrl = pattern.replace(codeToken, encodeURIComponent(dynamicCode));
+                        
+                        // 2. Set the element's HREF with the final URL (Requested change)
+                        anchor.setAttribute('href', finalUrl);
+                        
+                        // 3. Attach the click listener
+                        anchor.addEventListener('click', (e) => {
+                            e.preventDefault(); 
+                            
+                            // *** FIX: Load the specific form into the iframe before opening the modal ***
+                            loadIframeContent(finalUrl); 
+                            openModal();
+                        });
+                    }
+                });
+                // --- LINK AND MODAL LOGIC END ---
+
+                // Attach close listeners for the modal
+                const closeBtn = document.querySelector('.close');
+                if (closeBtn) { closeBtn.addEventListener('click', closeModal); }
+                window.onclick = function(event) {
+                    const modal = document.getElementById('feedback-modal'); // Corrected ID usage
+                    if (event.target == modal) { closeModal(); }
+                }
+
+            } else {
+                // CASE 2: Code is NOT present. Show the input screen.
+                pageContent.style.display = 'none';
+                codeInputScreen.style.display = 'flex'; // Use flex for centering
+                
+                // Set up the form submission handler
+                const form = document.getElementById('code-input-form');
+                if (form) {
+                    form.addEventListener('submit', (e) => {
+                        e.preventDefault();
+                        const inputField = document.getElementById('input-code');
+                        const submittedCode = inputField.value.trim();
+                        
+                        if (submittedCode) {
+                            // Redirect to the same page with the code in the query string
+                            window.location.href = window.location.pathname + '?code=' + encodeURIComponent(submittedCode);
+                        }
+                    });
+                }
+            }
+        });
+    </script>
+
+    {%- include ai-in-education-header.html -%}
+
+   <div id="code-input-screen">
+      <div class="container is-max-desktop">
+        <div class="code-gate-box">
+          <h1 class="title is-4">Enter Your Workshop Code</h1>
+          <p class="subtitle is-6">Please enter the unique code provided for your group to access the feedback form.</p>
+          <form id="code-input-form">
+            <div class="field">
+              <label class="label" for="input-code">Group Code:</label>
+              <div class="control">
+                <input class="input" type="text" id="input-code" placeholder="e.g., ABCDEF" required>
+              </div>
+            </div>
+            <div class="field">
+              <div class="control"> 
+                <button class="button is-primary" type="submit">Access Page</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- === MAIN PAGE CONTENT (Hidden until code is confirmed) === -->
+    <div id="page-content" style="display: none;">
+
+      TODO: ALIGN COLOUR SCHEMES WITH SLIDE DECK
+
+      <section class="section" id="about">
+        <div class="container is-max-desktop">
+          <div class="columns">
+            <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                {{ content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="hero highlight" id="signup">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Creative Expressions</h2>
+            <div class="columns">
+              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+                <div class="content is-size-5">
+                  <p>You can upload creative expression feedback from your group here.</p>
+                </div>
+                <div class="buttons">
+                  <a class="button" 
+                    id="modal-open-button" 
+                    data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pagXxEik5vlC57vwe/form?prefill_fldFw5fR4CxROEnJA={CODE}" 
+                    href="#" 
+                    target="_self">
+                    <span class="icon-text">
+                      <span class="icon">
+                        <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                      </span>
+                      <span>Upload</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="meetings">
+        <div class="container is-max-desktop">
+          <!-- Original Iframe removed from here -->
+          <div class="columns">
+            <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                <!-- Content that was below the iframe -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="hero">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Feedback on tools</h2>
+            <div class="columns">
+              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                  <p>Feedback on tools</p>
+                
+                  <div class="buttons">
+                    <a class="button" 
+                        id="tally-button" 
+                        data-link-pattern="https://tally.so/r/mBPMNK?transparentBackground=1&code={CODE}" 
+                        href="#" 
+                        target="_self">
+                        <span class="icon-text">
+                        <span class="icon">
+                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                        </span>
+                        <span>Rank tools</span>
+                        </span>
+                    </a>
+                </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="about">
+        <div class="container is-max-desktop">
+          <h2 class="title">Independent, informed dialogue</h2>
+          <div class="columns">
+            <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                <p>
+                  The Workshop in a Box has been created by <a href="https://connectedbydata.org/">Connected by Data</a> for the Department for Education with input from independent experts on Artificial Intelligence in education. 
+                </p>
+                <p>
+                  We believe that children, young people, families and educators all have the right to have a say on the future uses of Artificial Intelligence in education. This resource is here to help you have an informed discussion about the pros and cons of AI: and to develop and share your own views on AI.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="hero" id="faq">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Frequently Asked Questions</h2>
+          </div>
+        </div>
+      </section>
+
+      {%- include ai-in-education-footer.html -%}
+    </div>
+    <!-- === END MAIN PAGE CONTENT === -->
+
+    <!-- === AIRTABLE MODAL === -->
+    <!-- NOTE: Renamed ID to 'feedback-modal' for consistency with JS functions -->
+    <div id="feedback-modal" class="modal"> 
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <div id="loading-spinner"></div> 
+        <iframe 
+            id="feedback-iframe" 
+            class="airtable-embed" 
+            src="" 
+            frameborder="0" 
+            onmousewheel="" 
+            width="100%" 
+            height="100%" 
+            style="background: white;">
+        </iframe>
+      </div>
+    </div>
+    <!-- === END AIRTABLE MODAL === -->
+
+  </body>
+
+</html>
