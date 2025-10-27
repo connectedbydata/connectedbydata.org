@@ -11,7 +11,6 @@ image: Community-campaigns-on-data.png
 project: Catalysing Community Campaigns
 redirect_from:
   - /campaign-toolkit/
-
 ---
 
 How do you run a campaign with change goals focussed on data? 
