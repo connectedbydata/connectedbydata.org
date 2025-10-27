@@ -54,6 +54,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             const urlParams = new URLSearchParams(window.location.search);
             const dynamicCode = urlParams.get('code');
+            const dynamicPwd = urlParams.get('pwd');
             
             const pageContent = document.getElementById('page-content');
             const codeInputScreen = document.getElementById('code-input-screen');
@@ -66,14 +67,22 @@
                 // Select ALL anchor elements that have the data-link-pattern attribute (our modal triggers)
                 const anchorTriggers = document.querySelectorAll('a[data-link-pattern]');
                 const codeToken = '{CODE}';
+                const pwdToken = '{PWD}';
 
                 anchorTriggers.forEach(anchor => {
                     const pattern = anchor.getAttribute('data-link-pattern');
                     
                     if (pattern) {
-                        // 1. Calculate the final URL by replacing {CODE}
-                        const finalUrl = pattern.replace(codeToken, encodeURIComponent(dynamicCode));
-                        
+                      
+                        // 1.5. If pwd was provided replace {PWD} in the string also
+                        if(dynamicPwd) {
+                          const pwdString = dynamicCode + ":" +  dynamicPwd + "@";
+                        } else {
+                          const pwdString = "";
+                        }
+
+                        const finalUrl = pattern.replace(codeToken, encodeURIComponent(dynamicCode)).replace(pwdToken,encodeURIComponent(pwdString));
+
                         // 2. Set the element's HREF with the final URL (Requested change)
                         anchor.setAttribute('href', finalUrl);
                         
@@ -147,14 +156,75 @@
     <!-- === MAIN PAGE CONTENT (Hidden until code is confirmed) === -->
     <div id="page-content" style="display: none;">
 
-      TODO: ALIGN COLOUR SCHEMES WITH SLIDE DECK
-
       <section class="section" id="about">
         <div class="container is-max-desktop">
           <div class="columns">
             <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
               <div class="content is-size-5">
                 {{ content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+     
+      <section class="hero">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Feedback on tools</h2>
+            <div class="columns">
+              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                  <p>Feedback on tools</p>
+                
+                  <div class="buttons">
+                    <a class="button" 
+                        id="tally-button" 
+                        data-link-pattern="https://tally.so/r/mBPMNK?transparentBackground=1&code={CODE}" 
+                        href="#" 
+                        target="_self">
+                        <span class="icon-text">
+                        <span class="icon">
+                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                        </span>
+                        <span>Rank tools</span>
+                        </span>
+                    </a>
+                </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+       <section class="hero">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Our messages to AI Makers: Agree / Disagree</h2>
+            <div class="columns">
+              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+              <div class="content is-size-5">
+                  <p>Open pol.is to vote whether you agree or disagree with our messages to decision makers: and suggest your own group's message.</p>
+                
+                  <div class="buttons">
+                    <a class="button" 
+                        id="tally-button" 
+                        data-link-pattern="https://{PWD}polis.collectiveintelligence.policylab.gov.uk/9cddmhvesm?xid={CODE}" 
+                        href="#" 
+                        target="_self">
+                        <span class="icon-text">
+                        <span class="icon">
+                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                        </span>
+                        <span>Vote Now</span>
+                        </span>
+                    </a>
+                </div>
+                  
+                </div>
               </div>
             </div>
           </div>
@@ -190,49 +260,6 @@
         </div>
       </section>
 
-      <section class="section" id="meetings">
-        <div class="container is-max-desktop">
-          <!-- Original Iframe removed from here -->
-          <div class="columns">
-            <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
-              <div class="content is-size-5">
-                <!-- Content that was below the iframe -->
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="hero">
-        <div class="hero-body">
-          <div class="container is-max-desktop">
-            <h2 class="title">Feedback on tools</h2>
-            <div class="columns">
-              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
-              <div class="content is-size-5">
-                  <p>Feedback on tools</p>
-                
-                  <div class="buttons">
-                    <a class="button" 
-                        id="tally-button" 
-                        data-link-pattern="https://tally.so/r/mBPMNK?transparentBackground=1&code={CODE}" 
-                        href="#" 
-                        target="_self">
-                        <span class="icon-text">
-                        <span class="icon">
-                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
-                        </span>
-                        <span>Rank tools</span>
-                        </span>
-                    </a>
-                </div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <section class="section" id="about">
         <div class="container is-max-desktop">
@@ -252,13 +279,6 @@
         </div>
       </section>
 
-      <section class="hero" id="faq">
-        <div class="hero-body">
-          <div class="container is-max-desktop">
-            <h2 class="title">Frequently Asked Questions</h2>
-          </div>
-        </div>
-      </section>
 
       {%- include ai-in-education-footer.html -%}
     </div>
