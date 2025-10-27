@@ -55,6 +55,7 @@
             const urlParams = new URLSearchParams(window.location.search);
             const dynamicCode = urlParams.get('code');
             const dynamicPwd = urlParams.get('pwd');
+            let pwdString = "";
             
             const pageContent = document.getElementById('page-content');
             const codeInputScreen = document.getElementById('code-input-screen');
@@ -76,9 +77,9 @@
                       
                         // 1.5. If pwd was provided replace {PWD} in the string also
                         if(dynamicPwd) {
-                          const pwdString = dynamicCode + ":" +  dynamicPwd + "@";
+                          pwdString = dynamicCode + ":" +  dynamicPwd + "@";
                         } else {
-                          const pwdString = "";
+                          pwdString = "";
                         }
 
                         const finalUrl = pattern.replace(codeToken, encodeURIComponent(dynamicCode)).replace(pwdToken,encodeURIComponent(pwdString));
