@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html class="has-background-light" lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include ai-in-education-head.html -%}
+
+  <body>
+    <div class="watermark-draft">DRAFT</div>
+    {%- include ai-in-education-header.html -%}
+
+    <section class="hero" id="faq">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
+          <h2 class="title">{{ page.title }}</h2>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="container is-max-desktop">
+        <div class="columns">
+          <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+            <div class="content is-size-5">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {%- include ai-in-education-footer.html -%}
+
+  </body>
+
+</html>

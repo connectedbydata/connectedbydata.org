@@ -46,7 +46,7 @@
         
         function handleCodeGate(code) {
             // Show the main content and hide the gate
-            document.getElementById('page-content').style.display = 'block';
+            document.getElementById('feedback-links').style.display = 'block';
             document.getElementById('code-input-screen').style.display = 'none';
             // NOTE: loadIframeContent is no longer called here. It is called on button click.
         }
@@ -57,7 +57,7 @@
             const dynamicPwd = urlParams.get('pwd');
             let pwdString = "";
             
-            const pageContent = document.getElementById('page-content');
+            const pageContent = document.getElementById('feedback-links');
             const codeInputScreen = document.getElementById('code-input-screen');
 
             if (dynamicCode) {
@@ -132,30 +132,43 @@
 
     {%- include ai-in-education-header.html -%}
 
-   <div id="code-input-screen">
-      <div class="container is-max-desktop">
-        <div class="code-gate-box">
-          <h1 class="title is-4">Enter Your Workshop Code</h1>
-          <p class="subtitle is-6">Please enter the unique code provided for your group to access the feedback form.</p>
-          <form id="code-input-form">
-            <div class="field">
-              <label class="label" for="input-code">Group Code:</label>
-              <div class="control">
-                <input class="input" type="text" id="input-code" placeholder="e.g., ABCDEF" required>
-              </div>
-            </div>
-            <div class="field">
-              <div class="control"> 
-                <button class="button is-primary" type="submit">Access Page</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
+   
 
     <!-- === MAIN PAGE CONTENT (Hidden until code is confirmed) === -->
-    <div id="page-content" style="display: none;">
+    <div id="page-content">
+
+    <div id="code-input-screen">
+      <section class="hero">
+        <div class="hero-body">
+                <div class="container is-max-desktop">
+                    <h2 class="title">Enter Your Workshop Code</h2>
+                    <div class="columns">
+                      <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+                          <div class="content is-size-5">
+                  
+                                  <p class="subtitle is-6">Please enter the unique code provided for your group to access the feedback form. If you do not have a code, follow the sign-up links above.</p>
+                                  <form id="code-input-form">
+                                    <div class="field">
+                                      <label class="label" for="input-code">Group Code:</label>
+                                      <div class="control">
+                                        <input class="input" type="text" id="input-code" placeholder="e.g., ABCDEF" required>
+                                      </div>
+                                    </div>
+                                    <div class="field">
+                                      <div class="control"> 
+                                        <button class="button is-primary" type="submit">Access Page</button>
+                                      </div>
+                                    </div>
+                                  </form>
+                          </div>
+                      </div>
+                    </div>
+                </div>
+        </div>
+      </section>       
+    </div>
+    
+    <div id="feedback-links" style="display: none;">
 
       <section class="section" id="about">
         <div class="container is-max-desktop">
@@ -173,21 +186,21 @@
       <section class="hero">
         <div class="hero-body">
           <div class="container is-max-desktop">
-            <h2 class="title">Feedback on tools</h2>
+            <h2 class="title">Our say: Top tools</h2>
             <div class="columns">
               <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
               <div class="content is-size-5">
-                  <p>Feedback on tools</p>
+                  <p>Share feedback from the optional top-3/bottom-3 tools activity here.</p>
                 
                   <div class="buttons">
                     <a class="button" 
                         id="tally-button" 
-                        data-link-pattern="https://tally.so/r/mBPMNK?transparentBackground=1&code={CODE}" 
+                        data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pagVMlIIQ6DRajcEd/form?prefill_fldQOnptW0BfxG7VT={CODE}" 
                         href="#" 
                         target="_self">
                         <span class="icon-text">
                         <span class="icon">
-                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                            <i class="fa-solid fa-ranking-star" aria-hidden="true"></i>
                         </span>
                         <span>Rank tools</span>
                         </span>
@@ -201,10 +214,10 @@
         </div>
       </section>
 
-       <section class="hero">
+       <section class="hero highlight">
         <div class="hero-body">
           <div class="container is-max-desktop">
-            <h2 class="title">Our messages to AI Makers: Agree / Disagree</h2>
+            <h2 class="title">Our say: agree / disagree</h2>
             <div class="columns">
               <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
               <div class="content is-size-5">
@@ -218,7 +231,7 @@
                         target="_self">
                         <span class="icon-text">
                         <span class="icon">
-                            <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                            <i class="fa-solid fa-check-to-slot" aria-hidden="true"></i>
                         </span>
                         <span>Vote Now</span>
                         </span>
@@ -232,10 +245,10 @@
         </div>
       </section>
 
-      <section class="hero highlight" id="signup">
+      <section class="hero">
         <div class="hero-body">
           <div class="container is-max-desktop">
-            <h2 class="title">Creative Expressions</h2>
+            <h2 class="title">Our say: creative Expressions</h2>
             <div class="columns">
               <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
                 <div class="content is-size-5">
@@ -249,7 +262,7 @@
                     target="_self">
                     <span class="icon-text">
                       <span class="icon">
-                        <i class="fa-solid Fa-Upload" aria-hidden="true"></i>
+                        <i class="fa-solid fa-upload" aria-hidden="true"></i>
                       </span>
                       <span>Upload</span>
                     </span>
@@ -260,6 +273,39 @@
           </div>
         </div>
       </section>
+
+
+       <section class="hero highlight">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <h2 class="title">Session feedback</h2>
+            <div class="columns">
+              <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+                <div class="content is-size-5">
+                  <p>At the end of your session you can send us any other views, and your facilitators feedback, here.</p>
+                </div>
+                <div class="buttons">
+                  <a class="button" 
+                    id="modal-open-button" 
+                    data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pag8AgDDB2yiztHRm/form?prefill_fldbsgaRgpM4LBwYe={CODE}" 
+                    href="#" 
+                    target="_self">
+                    <span class="icon-text">
+                      <span class="icon">
+                        <i class="fa-solid fa-comment" aria-hidden="true"></i>
+                      </span>
+                      <span>Feedback</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      
 
 
       <section class="section" id="about">
@@ -280,9 +326,11 @@
         </div>
       </section>
 
-
-      {%- include ai-in-education-footer.html -%}
     </div>
+    </div>
+      {%- include ai-in-education-footer.html -%}
+    
+    
     <!-- === END MAIN PAGE CONTENT === -->
 
     <!-- === AIRTABLE MODAL === -->

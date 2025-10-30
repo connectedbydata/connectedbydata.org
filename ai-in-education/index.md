@@ -8,7 +8,7 @@ layout: ai-in-education
 
 The Workshop in a Box has been designed to be used in schools, colleges and informal settings (e.g. home education or youth groups). There are versions for Key Stage 2/3 and Key Stage 4/5.
 
-You don’t need to be an AI expert to lead a session using this resource: simply to have an interest in exploring AI in Education with your class or group. 
+You don’t need to be an AI expert to lead a session using this resource: simply to have an interest in exploring AI in education with your class or group. 
 
 ### Is this England only?
 
@@ -36,6 +36,6 @@ The full session plans include optional activities involving elements of english
 
 ### Where can I find out more about UK government policy and policy-making on Generative AI in Education? 
 
-Education is a devolved issue across the United Kingdom You can find current [policy on Generative AI in Education for England on Gov.UK here](https://www.gov.uk/government/collections/using-technology-in-education#artificial-intelligence).
+Education is a devolved issue across the United Kingdom. You can find current [policy on generative AI in Education for England on Gov.UK here](https://www.gov.uk/government/collections/using-technology-in-education#artificial-intelligence).
 
 The UK Department for Education have also published online materials to support staff in schools and colleges in England to use AI safely and effectively, you can find [these resources on Gov.UK here](https://www.gov.uk/government/collections/using-ai-in-education-settings-support-materials).
