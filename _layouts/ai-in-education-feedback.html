@@ -128,6 +128,44 @@
                 }
             }
         });
+
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const yearGroupSelect = document.getElementById('year-group-select');
+        const groupNumberSelect = document.getElementById('group-number-select');
+        const polisButton = document.getElementById('polis-button');
+
+        if (yearGroupSelect && groupNumberSelect && polisButton) {
+            // 1. Hide the button initially
+            polisButton.style.display = 'none';
+
+            function updateButtonState() {
+                const yearGroup = yearGroupSelect.value;
+                const groupNumber = groupNumberSelect.value;
+                const baseHref = polisButton.getAttribute('href') || '';
+
+                // Check if a valid Year Group has been selected
+                if (yearGroup && yearGroup !== '') {
+                    // Year group selected: Show the button and update URL
+                    const suffix = `-${yearGroup}_${groupNumber}`;
+                    const newHref = baseHref.split("-")[0] + suffix;
+                    
+                    polisButton.setAttribute('href', newHref);
+                    polisButton.style.display = 'inline-block'; // Or 'block' depending on styling
+                } else {
+                    // No year group selected: Hide the button and reset href
+                    polisButton.style.display = 'none';
+                }
+            }
+
+            // 2. Attach event listeners to both select elements
+            yearGroupSelect.addEventListener('change', updateButtonState);
+            groupNumberSelect.addEventListener('change', updateButtonState);
+
+            // Run once on load to establish the initial state
+            updateButtonState(); 
+        }
+    });
     </script>
 
     {%- include ai-in-education-header.html -%}
@@ -222,10 +260,39 @@
               <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
               <div class="content is-size-5">
                   <p>Open pol.is to vote whether you agree or disagree with our messages to decision makers: and suggest your own group's message.</p>
-                
+
+                   <div class="field is-grouped is-grouped-multiline mb-4">
+                      <div class="control">
+                          <label class="label is-small">Year Group:</label>
+                          <div class="select is-small">
+                              <select id="year-group-select">
+                                  <option value="">Select Year Group</option>
+                                  <option value="Y6">Year 6</option>
+                                  <option value="Y7">Year 7</option>
+                                  <option value="Y8">Year 8</option>
+                                  <option value="Y9">Year 9</option>
+                                  <option value="Y10">Year 10</option>
+                                  <option value="Y11">Year 11</option>
+                                  <option value="Y12">Year 12</option>
+                                  <option value="Y13">Year 13</option>
+                              </select>
+                          </div>
+                      </div>
+                      <div class="control">
+                          <label class="label is-small">Group Number:</label>
+                          <div class="select is-small">
+                              <select id="group-number-select">
+                                  {% for i in (1..30) %}
+                                      <option value="{{ i }}">{{ i }}</option>
+                                  {% endfor %}
+                              </select>
+                          </div>
+                      </div>
+                  </div>
+
                   <div class="buttons">
                     <a class="button" 
-                        id="tally-button" 
+                        id="polis-button" 
                         data-link-pattern="https://{PWD}polis.collectiveintelligence.policylab.gov.uk/9cddmhvesm?xid={CODE}" 
                         href="#" 
                         target="_self">
@@ -237,7 +304,7 @@
                         </span>
                     </a>
                 </div>
-                  
+                <p><small>If you ran with a mixed year group, select the lowest yeargroup taking part. If you are running this activity with different groups, increment the group number to reset the list of questions displayed.</small></p>
                 </div>
               </div>
             </div>
