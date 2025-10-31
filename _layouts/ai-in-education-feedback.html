@@ -87,14 +87,21 @@
                         // 2. Set the element's HREF with the final URL (Requested change)
                         anchor.setAttribute('href', finalUrl);
                         
+                        
                         // 3. Attach the click listener
-                        anchor.addEventListener('click', (e) => {
-                            e.preventDefault(); 
-                            
-                            // *** FIX: Load the specific form into the iframe before opening the modal ***
-                            loadIframeContent(finalUrl); 
-                            openModal();
-                        });
+                        if (anchor.classList.contains('open-modal')) {
+                          anchor.addEventListener('click', (e) => {
+                              e.preventDefault(); 
+                              const clickedAnchor = e.currentTarget; 
+      
+                              // 2. Read the final, updated URL from its href attribute
+                              const iframeUrl = clickedAnchor.getAttribute('href');
+                              
+                              // *** FIX: Load the specific form into the iframe before opening the modal ***
+                              loadIframeContent(iframeUrl); 
+                              openModal();
+                          });
+                      }
                     }
                 });
                 // --- LINK AND MODAL LOGIC END ---
@@ -142,13 +149,15 @@
             function updateButtonState() {
                 const yearGroup = yearGroupSelect.value;
                 const groupNumber = groupNumberSelect.value;
-                const baseHref = polisButton.getAttribute('href') || '';
+                const baseHref = decodeURIComponent(polisButton.getAttribute('href')) || '';
 
                 // Check if a valid Year Group has been selected
                 if (yearGroup && yearGroup !== '') {
                     // Year group selected: Show the button and update URL
+                    console.log(baseHref);
                     const suffix = `-${yearGroup}_${groupNumber}`;
                     const newHref = baseHref.split("-")[0] + suffix;
+                    console.log(newHref);
                     
                     polisButton.setAttribute('href', newHref);
                     polisButton.style.display = 'inline-block'; // Or 'block' depending on styling
@@ -231,7 +240,7 @@
                   <p>Share feedback from the optional top-3/bottom-3 tools activity here.</p>
                 
                   <div class="buttons">
-                    <a class="button" 
+                    <a class="button open-modal" 
                         id="tally-button" 
                         data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pagVMlIIQ6DRajcEd/form?prefill_fldQOnptW0BfxG7VT={CODE}" 
                         href="#" 
@@ -295,7 +304,7 @@
                         id="polis-button" 
                         data-link-pattern="https://{PWD}polis.collectiveintelligence.policylab.gov.uk/9cddmhvesm?xid={CODE}" 
                         href="#" 
-                        target="_self">
+                        target="_blank">
                         <span class="icon-text">
                         <span class="icon">
                             <i class="fa-solid fa-check-to-slot" aria-hidden="true"></i>
@@ -315,15 +324,15 @@
       <section class="hero">
         <div class="hero-body">
           <div class="container is-max-desktop">
-            <h2 class="title">Our say: creative Expressions</h2>
+            <h2 class="title">Our say: Creative Expressions</h2>
             <div class="columns">
               <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
                 <div class="content is-size-5">
                   <p>You can upload creative expression feedback from your group here.</p>
                 </div>
                 <div class="buttons">
-                  <a class="button" 
-                    id="modal-open-button" 
+                  <a class="button open-modal" 
+                    id="modal-open-button-creative" 
                     data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pagXxEik5vlC57vwe/form?prefill_fldFw5fR4CxROEnJA={CODE}" 
                     href="#" 
                     target="_self">
@@ -352,8 +361,8 @@
                   <p>At the end of your session you can send us any other views, and your facilitators feedback, here.</p>
                 </div>
                 <div class="buttons">
-                  <a class="button" 
-                    id="modal-open-button" 
+                  <a class="button open-modal" 
+                    id="modal-open-button-session" 
                     data-link-pattern="https://airtable.com/embed/appjXCj5YHXHNpVLL/pag8AgDDB2yiztHRm/form?prefill_fldbsgaRgpM4LBwYe={CODE}" 
                     href="#" 
                     target="_self">
