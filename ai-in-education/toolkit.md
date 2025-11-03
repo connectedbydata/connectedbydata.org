@@ -17,8 +17,8 @@ Worksheets:
 
 * Part 2: AI in Education - Tools - [Google Docs](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/view?tab=t.efrjnde5y4sc#heading=h.bd6s6hq57u0w) / PDF (forthcoming)
 * Part 3: Issues for Generative AI in Education 
-  * Younger ages (Year 6 - 9): [Google Doc](https://docs.google.com/presentation/d/1moY4vWWfK1q2sUWRD65QVvnTH2i1YNFZgg5VOKKJH7c/view?slide=id.g39e2978b159_0_432#slide=id.g39e2978b159_0_432) / PDF (forthcoming)
-  * Older ages (Year 10+): [Google Doc](https://docs.google.com/presentation/d/1HBoSvX0Lbdtvoero3R1Zducs0i9X4i7RNBXaoQ7HpY4/edit?slide=id.g39e2978b159_0_130#slide=id.g39e2978b159_0_130) / PDF (forthcoming)
+  * Younger ages (Year 6 - 9): [Google Doc](https://docs.google.com/presentation/d/1moY4vWWfK1q2sUWRD65QVvnTH2i1YNFZgg5VOKKJH7c/view) / PDF (forthcoming)
+  * Older ages (Year 10+): [Google Doc](https://docs.google.com/presentation/d/1HBoSvX0Lbdtvoero3R1Zducs0i9X4i7RNBXaoQ7HpY4/view) / PDF (forthcoming)
 * Part 6: Creative Expressions
   * Visions of education with and without AI: [Google Doc](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/edit?tab=t.hkf64k3ytyt#heading=h.oa966ofa5vpi) / PDF (forthcoming)
   * Feedback to an AI Maker: [Google Doc](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/edit?tab=t.cdb9jfk5uo7w#heading=h.gp7nm2ayqmi0) / PDF (forthcoming)
