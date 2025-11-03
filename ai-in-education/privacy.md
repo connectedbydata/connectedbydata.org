@@ -28,13 +28,13 @@ Educators may object to this processing and data retention at any time by emaili
 
 ### Submitted student work {#submitted-student-work}
 
-We collect content that students have created as part of this project. Some of this creative feedback that’s submitted may also be selected to display in a gallery at the AI in Education Summit and to reproduce it in reports or presentations.
+We collect content that students have created as part of this project. Some of this creative feedback that’s submitted may also be selected to display in a gallery at the AI in Education Summit and to reproduce it in reports or presentations. This content will not contain personal data.
 
 This content includes scanned creative work such as drawings, letters, and statements, and collective class feedback on statements about generative AI in education. We ask educators to block out information in student work that should not be shared with us, such as personal or sensitive information. If we select work for display, we will let you know and will double check ourselves that it does not contain anything personal or sensitive.
 
 This content is held in [Airtable](https://www.airtable.com/) and in a [Pol.is](http://Pol.is) instance operated by the Department for Education. Selected content may also be included in documents, slideshows and reports about the project.
 
-This content will be used for non-commercial research. It will be analysed to identify messages for a report on student feedback to the AI in Education Summit.
+This content will be analysed to identify messages for a report on student feedback to the AI in Education Summit.
 
 If we get a large amount of submitted student work, we may make use of AI tools within Airtable to help us:
 
@@ -43,23 +43,17 @@ If we get a large amount of submitted student work, we may make use of AI tools 
 
 AirTable uses models from [Amazon, Google, OpenAI and IBM](https://www.airtable.com/company/third-party-provider-ai-terms-policies) to process content. [Airtable’s terms of service for AI state](https://www.airtable.com/company/ai-terms) “Airtable does not use, or permit others to use, Input or Output to train the generative artificial intelligence models used to provide Airtable AI.” We will not use submitted student work to train AI models.
 
-We process this data under the [legitimate interests lawful basis](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/legitimate-interests/what-is-the-legitimate-interests-basis/):
-
-* **Purpose:** we use this data to create a report about what students think about generative AI in education  
-* **Necessity:** we cannot understand what students think without having and processing their feedback and content  
-* **Balancing test:** we believe informing the adoption of AI in education through student voices is in the public interest, and that the controls we have put in place mean that risks to the interests of individual students is minimal
-
 Copyright law lets us reproduce this content in documents and reports because it has been [submitted to a public body](https://www.gov.uk/government/publications/changes-to-copyright-law) (the Department for Education) as part of its public business.
 
 We have a small oversight group of children's rights experts who will guide our use of this data and content during analysis.
 
 We will delete most of this content within six months of the end of the project. However, the creative feedback we select to share in documents and reports will be kept within those documents and reports indefinitely.
 
-As a student or parent, you may object to this processing and data retention at any time by emailing [dpo@connectedbydata.org](mailto:dpo@connectedbydata.org), in which case we will bring forward that deletion process. However, if the content was already included in documents and reports arising from this project, we will not be able to remove it from those.
+If you would like the content that you submitted to be removed from the project, then email [dpo@connectedbydata.org](mailto:dpo@connectedbydata.org). You will need to be able to describe the content you want removed, as none of the pupil content will be identifiable or contain personal data.
 
 ### Your rights
 
-Under data protection law, you have rights over data about you including:
+Under data protection law, you have rights over personal data about you including:
 
 [Your right of access](https://ico.org.uk/your-data-matters/your-right-to-get-copies-of-your-data/) - You have the right to ask us for copies of your personal information. 
 
