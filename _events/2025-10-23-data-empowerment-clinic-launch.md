@@ -2,7 +2,7 @@
 layout: event
 title: "Launching the Data Empowerment Clinic: Paving the way to participatory Data"
 image: kingscollege.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2025-10-23

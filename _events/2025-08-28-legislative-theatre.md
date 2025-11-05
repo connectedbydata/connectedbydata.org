@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Supporting Collective School Decision Making on AI and Education Technology
+title: Our Schoolwork, Our Say
 image: cbd-logo.png
 date: 2025-08-28
 upcoming: false
