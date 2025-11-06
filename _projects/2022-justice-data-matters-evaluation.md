@@ -8,7 +8,7 @@ topics:
 add-background: true
 completed: true
 ---
-Connected by Data was been commissioned by [Justice Lab](https://justicelab.org.uk/) (a special initiative of the [Legal Education Foundation](https://thelegaleducationfoundation.org/)) to conduct an evaluation of the public deliberation exercise that led to the report [Justice Data Matters: Building a public mandate for court data use](https://research.thelegaleducationfoundation.org/research-learning/funded-research/justice-data-matters-building-a-public-mandate-for-court-data-use) in order to surface lessons for similar future exercises within and outside the UK justice system.
+Connected by Data was been commissioned by [Justice Lab](https://justicelab.org.uk/) (a special initiative of the [Legal Education Foundation](https://thelegaleducationfoundation.org/)) to conduct an evaluation of the public deliberation exercise that led to the report [Justice Data Matters: Building a public mandate for court data use](https://justicelab.org.uk/resource/justice-data-matters-building-a-public-mandate-for-court-data-use/) in order to surface lessons for similar future exercises within and outside the UK justice system.
 
 <!--more-->
 
