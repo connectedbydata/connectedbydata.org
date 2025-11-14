@@ -31,6 +31,5 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 Our confirmed speakers are:
 * [Trupti Patel](https://www.linkedin.com/in/truptipatel1/), Programme Lead at [Sciencewise](https://sciencewise.org.uk/) about their recent projects
 * Sandeepa Arora, Postdoc at The [Mohn Centre for Children’s Health and Wellbeing, School of Public Health, Imperial College London](https://www.imperial.ac.uk/a-z-research/mohn-centre-child-health/), on ‘Data Detectives: 10-year-olds’ views on their health data and how it should be used’
-* Representative(s) of CoLab, [the Home Office Policy and Innovation Lab](https://hodigital.blog.gov.uk/2020/08/13/what-is-colab-at-ddat-home-office/)
 
 > Please [register here](https://us06web.zoom.us/meeting/register/NBxz_6QbT2WZd3TH4vI1_g) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
