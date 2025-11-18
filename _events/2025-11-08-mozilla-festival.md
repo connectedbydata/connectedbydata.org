@@ -2,7 +2,7 @@
 layout: event
 title: "MozFest: Margins No More - Civil Society as a Force in Global Tech Politics"
 image: mozfestlogo.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2025-11-10
