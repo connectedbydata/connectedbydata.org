@@ -10,10 +10,10 @@ Tim is off to Luton next week to film our ‘Generative AI in education: Have yo
 
 We’ve also had the PAIRS abstracts review deadline so there’s been some chasing of reviewers and organising Track Chairs meetings (for next week) to make their selections. Always tricky to co-ordinate diaries of different people within different organisations (and different levels of autonomy to engage with their PAIRS ‘work’) but adding in global timezones made it truly entertaining. It’s largely all sorted - but I will have to be in two places at the same time for one meeting - let’s hope Zoom breakout rooms is up to the job!
 
-Otherwise I’m trying to progress logistics for the PAIRS in person event (or more specifically enabling people to get there) and preparing for launching event registration with associated donations. It’s been payroll week and 
+Otherwise I’m trying to progress logistics for the PAIRS in person event (or more specifically enabling people to get there) and preparing for launching event registration with associated donations. It’s been payroll week and newsletter mailout week too.
 
 ### What I need to take care of
-It’s the first week of the month so I need to do reconciliation and we’ve two new income streams to build into the budget.
+Next week is the first week of the month so I need to do reconciliation and we’ve two new income streams to build into the budget.
 
 There’ll be (hopefully) bits for me to help with around the generative AI in education workshop feedback and definitely ‘tech support’ for the final ‘training’ webinar.
 
