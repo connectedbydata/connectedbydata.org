@@ -28,6 +28,7 @@ Or download [a zip file containing all the PDFs here](/ai-in-education/files/202
 
 ### Feedback portal
 
+<<<<<<< HEAD:ai-in-education/toolkit.md
 To provide your group responses as part of inputs to the 2026 Generative AI in Education Summit the teacher / group leader [must sign up for a unique feedback code](https://airtable.com/appjXCj5YHXHNpVLL/pag6gqEtczfvFB5Yy/form). Your code and feedback link will be shared with you on e-mail shortly after your registration.
 
 If you have not got your code after registering, please contact us: [ai-in-education@connectedbydata.org](mailto:ai-in-education@connectedbydata.org). 
@@ -35,3 +36,8 @@ If you have not got your code after registering, please contact us: [ai-in-educa
 ### Earlier versions
 
 We made small updates to the slides and guide on 2nd December to reflect early feedback. The previous version of the resources can be [found here (pdf, zip)](/ai-in-education/files/2025-gen-ai-education-workshop-in-a-box.zip).
+=======
+To provide your group responses as part of inputs to the 2026 Generative AI in Education Summit the teacher / group leader [must sign up for a unique feedback code](https://airtable.com/appjXCj5YHXHNpVLL/pag6gqEtczfvFB5Yy/form). Your code and feedback link will be shared with you on e-mail shortly after your registration (allow 2 - 3 days for this). 
+
+> A recording of a ['walkthrough' webinar briefing](https://youtu.be/2NpfViMd-5g) about how to use the toolkit, and submit feedback, is available on our YouTube channel [41 mins].
+>>>>>>> afb5d4d5e522d83a8ea4429771f9b42a0bb07c09:ai-in-education/toolkit/index.md
