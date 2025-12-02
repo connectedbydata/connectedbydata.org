@@ -9,9 +9,9 @@ You can access the teachers guide (including outline session plans and full inst
 
 These are provided in Google Docs and PDF format. For the Google Doc versions, use 'File > Download' to access in different formats, or 'File > Make a Copy' to access your own version if you want to adapt resources for your setting.
 
-Teachers Guide - [Google Docs](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/view) / [PDF](/ai-in-education/files/2025-gen-ai-education-guide.pdf)
+Teachers Guide - [Google Docs](https://docs.google.com/document/d/1KbQg8w_xP5bga0vt2OAfQuKCkmdAkGNmJt3p3pW6OPg/view / [PDF](/ai-in-education/files/2025-gen-ai-education-guide-v2.pdf)
 
-Slides - [Google Slides](https://docs.google.com/presentation/d/1Cv2ACukg5IQ-rN7vI23lMnzxwQq_IZIX9Sp1UPwdNDA/view) / [PDF](/ai-in-education/files/2025-gen-ai-education-slides.pdf)
+Slides - [Google Slides](https://docs.google.com/presentation/d/1ZVsnlG1vMx7hSiW4H1FpQq9j67ABp6mS6Raonpe4M0M/view) / [PDF](/ai-in-education/files/2025-gen-ai-education-slides-v2.pdf)
 
 Worksheets:
 
@@ -24,8 +24,14 @@ Worksheets:
   * Feedback to an AI Maker: [Google Doc](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/edit?tab=t.cdb9jfk5uo7w#heading=h.gp7nm2ayqmi0) / [PDF](/ai-in-education/files/2025-gen-ai-education-maker-worksheet.pdf)
   * Our education app: [Google Doc](https://docs.google.com/document/d/1UXywCOQHpUHVA8AC5Ymap5iqFk5ztMN5fgMaaj7012M/edit?tab=t.npms8ogrmlyf#heading=h.sl8m26vd5xmu) / [PDF](/ai-in-education/files/2025-gen-ai-education-app-worksheet.pdf)
 
-Or download [a zip file containing all the PDFs here](/ai-in-education/files/2025-gen-ai-education-workshop-in-a-box.zip).
+Or download [a zip file containing all the PDFs here](/ai-in-education/files/2025-gen-ai-education-workshop-in-a-box-v2.zip).
 
 ### Feedback portal
 
-To provide your group responses as part of inputs to the 2026 Generative AI in Education Summit the teacher / group leader [must sign up for a unique feedback code](https://airtable.com/appjXCj5YHXHNpVLL/pag6gqEtczfvFB5Yy/form). Your code and feedback link will be shared with you on e-mail shortly after your registration (allow 2 - 3 days for this). 
+To provide your group responses as part of inputs to the 2026 Generative AI in Education Summit the teacher / group leader [must sign up for a unique feedback code](https://airtable.com/appjXCj5YHXHNpVLL/pag6gqEtczfvFB5Yy/form). Your code and feedback link will be shared with you on e-mail shortly after your registration.
+
+If you have not got your code after registering, please contact us: [ai-in-education@connectedbydata.org](mailto:ai-in-education@connectedbydata.org). 
+
+### Earlier versions
+
+We made small updates to the slides and guide on 2nd December to reflect early feedback. The previous version of the resources can be [found here (pdf, zip)](/ai-in-education/files/2025-gen-ai-education-workshop-in-a-box.zip).
