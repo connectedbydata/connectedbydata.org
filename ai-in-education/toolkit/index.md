@@ -27,7 +27,7 @@ Worksheets:
 Or download [a zip file containing all the PDFs here](/ai-in-education/files/2025-gen-ai-education-workshop-in-a-box-v2.zip).
 
 
-> A recording of a ['walkthrough' webinar briefing](https://youtu.be/2NpfViMd-5g) about how to use the toolkit, and submit feedback, is available on our YouTube channel [41 mins].
+> A recording of a ['walkthrough' webinar briefing](https://youtu.be/2NpfViMd-5g) about how to use the toolkit, and submit feedback, is available on our YouTube channel [41 mins]. A [second runthrough](https://youtu.be/651K67j72tE) recorded on 3rd December is also available.
 
 
 ### Feedback portal
