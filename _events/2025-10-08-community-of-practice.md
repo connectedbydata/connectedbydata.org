@@ -28,9 +28,9 @@ This session focussed on deliberation exercises and how to evaluate them. Our sp
 
 > The [write up of this session is now available](https://docs.google.com/document/d/1Hf3UItah5wwuzW9_eHoGFqVtu17siVU2WM2H8m48hPQ/edit?tab=t.0#heading=h.jgmduqp1336).
 
-> 📹 Presentation by Giles Lane [(on YouTube, 24mins)](https://youtu.be/5rF7TUCBTHE)
+> 📹 Presentation by Giles Lane [(on YouTube, 24 mins)](https://youtu.be/5rF7TUCBTHE)
 
-> 📹 Presentation by Anna Beckett [(on YouTube, 15mins)](https://youtu.be/0Al5iL-otsc)
+> 📹 Presentation by Anna Beckett [(on YouTube, 15 mins)](https://youtu.be/0Al5iL-otsc)
 
 You can [read more about the community of practice](https://connectedbydata.org/projects/2024-community-of-practice), including details of previous and future meetings, elsewhere on our website.
 
