@@ -181,27 +181,32 @@ layout: default
     {%- include block.html background='darkest-green' hidden='mobile' -%}
   </div>
   {%- assign associates = site.people | where: "roles", "associate" | sort: "title" -%}
+  {%- assign alumniAssociates = associates | where: "roles", "alumni" -%}
+  {%- assign associatesSize = associates.size | minus: alumniAssociates.size -%}
   {%- assign seed = associates | map: "title" | join: "" -%}
   {%- assign seed2 = content -%}
   {%- capture associatesBlocks -%}
     {%- for associate in associates -%}
-      {%- capture content -%}
-        <div class="subpoint">
-          <figure class="image is-128x128">
-            <a href="{{ associate.url }}">
-              <img src="/assets/people/{{ associate.picture }}">
-            </a>
-          </figure>
-          <p class="title is-6">
-            <a href="{{ associate.url }}">{{ associate.title }}</a>
-          </p>
-          <p class="subtitle is-7 has-text-white">{{ associate.role }}</p>
-        </div>
-      {%- endcapture -%}
-      {%- include block.html square=true content=content -%}
+      {%- if associate.roles contains "alumni" -%}
+      {%- else -%}
+        {%- capture content -%}
+          <div class="subpoint">
+            <figure class="image is-128x128">
+              <a href="{{ associate.url }}">
+                <img src="/assets/people/{{ associate.picture }}">
+              </a>
+            </figure>
+            <p class="title is-6">
+              <a href="{{ associate.url }}">{{ associate.title }}</a>
+            </p>
+            <p class="subtitle is-7 has-text-white">{{ associate.role }}</p>
+          </div>
+        {%- endcapture -%}
+        {%- include block.html square=true content=content -%}
+      {%- endif -%}
     {%- endfor -%}
   {%- endcapture -%}
-  {%- include filler-blocks.html size=associates.size blocks=associatesBlocks seed1=seed seed2=seed2 -%}
+  {%- include filler-blocks.html size=associatesSize blocks=associatesBlocks seed1=seed seed2=seed2 -%}
 
   {%- capture content -%}
     <div class="point">
@@ -221,32 +226,37 @@ layout: default
     {%- include block.html background='small-triangles' hidden='touch' -%}
   </div>
   {%- assign fellows = site.people | where: "roles", "fellow" | sort: "title" -%}
+  {%- assign alumniFellows = fellows | where: "roles", "alumni" -%}
+  {%- assign fellowsSize = fellows.size | minus: alumniFellows.size -%}
   {%- assign seed = fellows | map: "title" | join: "" -%}
   {%- assign seed2 = content -%}
   {%- capture fellowsBlocks -%}
     {%- for fellow in fellows -%}
-      {%- capture content -%}
-        <div class="subpoint">
-          <figure class="image is-128x128">
-            <a href="{{ fellow.url }}">
-              <img src="/assets/people/{{ fellow.picture }}">
-            </a>
-          </figure>
-          <p class="title is-6">
-            <a href="{{ fellow.url }}">{{ fellow.title }}</a>
-          </p>
-          <p class="subtitle is-7 has-text-white">{{ fellow.role }}</p>
-        </div>
-      {%- endcapture -%}
-      {%- include block.html square=true content=content -%}
+      {%- if fellow.roles contains "alumni" -%}
+      {%- else -%}
+        {%- capture content -%}
+          <div class="subpoint">
+            <figure class="image is-128x128">
+              <a href="{{ fellow.url }}">
+                <img src="/assets/people/{{ fellow.picture }}">
+              </a>
+            </figure>
+            <p class="title is-6">
+              <a href="{{ fellow.url }}">{{ fellow.title }}</a>
+            </p>
+            <p class="subtitle is-7 has-text-white">{{ fellow.role }}</p>
+          </div>
+        {%- endcapture -%}
+        {%- include block.html square=true content=content -%}
+      {%- endif -%}
     {%- endfor -%}
   {%- endcapture -%}
-  {%- include filler-blocks.html size=fellows.size blocks=fellowsBlocks seed1=seed seed2=seed2 -%}
+  {%- include filler-blocks.html size=fellowsSize blocks=fellowsBlocks seed1=seed seed2=seed2 -%}
 
   {%- capture content -%}
     <div class="point">
       <h3 class="title is-4">Alumni</h3>
-      <h4 class="subtitle">Previous team members</h4>
+      <h4 class="subtitle">Former team members, associates and fellows</h4>
     </div>
   {%- endcapture -%}
   <div class="columns is-gapless">
@@ -254,7 +264,7 @@ layout: default
     {%- include block.html content=content background='darker-green' -%}
     {%- include block.html background='large-dots' hidden='touch' -%}
   </div>
-  {%- assign alumni = site.people | where: "roles", "alumni" | sort: "order" | reverse -%}
+  {%- assign alumni = site.people | where: "roles", "alumni" | sort: "title" -%}
   {%- assign seed = alumni | map: "title" | join: "" -%}
   {%- assign seed2 = content -%}
   {%- capture alumniBlocks -%}

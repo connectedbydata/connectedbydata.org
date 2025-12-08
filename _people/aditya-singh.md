@@ -2,8 +2,9 @@
 layout: person
 roles:
   - fellow
+  - alumni
 title: Aditya Singh
-role: Fellow
+role: Former fellow
 picture: aditya.jpg
 twitter: "@adityaschawla"
 email: "aditya.singh.chawla@gmail.com"

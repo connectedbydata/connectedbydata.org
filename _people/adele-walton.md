@@ -2,8 +2,9 @@
 layout: person
 roles:
   - fellow
+  - alumni
 title: Adele Zeynep Walton
-role: Fellow
+role: Former fellow
 picture: adele.jpg
 twitter: "@adelewalton121"
 email: "adelewalton99@gmail.com"

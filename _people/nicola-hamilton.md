@@ -2,8 +2,9 @@
 layout: person
 roles:
   - fellow
+  - alumni
 title: Nicola Hamilton
-role: Fellow
+role: Former fellow
 topics:
   - Health
 picture: nicola.jpg

@@ -1,9 +1,11 @@
 ---
 layout: person
 roles:
+  - associate
+  - alumni
 redirect_from: /associates/liz-steele
 title: Liz Steele
-role: EU Policy & Partnerships associate
+role: Former EU Policy & Partnerships associate
 picture: liz-steele.jpeg
 email: "liz.steele@cso-consultancy.eu"
 ---

@@ -2,9 +2,11 @@
 layout: person
 roles:
   - fellow
+  - associate
+  - alumni
 redirect_from: /associates/libby-young
 title: Libby Young
-role: Research associate and Fellow
+role: Former research associate and Fellow
 picture: libby-young.jpg
 twitter: "@younglibbyj"
 email: "elieliou@gmail.com"

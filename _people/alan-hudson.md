@@ -1,8 +1,10 @@
 ---
 layout: person
 roles:
+  - associate
+  - alumni
 title: Alan Hudson
-role: Practice associate
+role: Former practice associate
 picture: alan.jpeg
 twitter: "@alanhudson1"
 mastodon: "@alanhudson1@mastodon.world"
