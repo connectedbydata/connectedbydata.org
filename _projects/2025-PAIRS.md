@@ -5,7 +5,7 @@ subtitle: Participatory AI Research and Practice Symposium
 image: PAIRS-icon.png
 add-background: true
 completed: false
-order: 3
+order: 4
 topics:
   - People and Participation
 ---

@@ -8,7 +8,7 @@ topics:
   - Data Protection and Digital Information Bill
 add-background: false
 completed: false
-order: 8
+order: 9
 ---
 The Data and AI Civil Society Network brings together diverse civil society organisations and campaigners to share and collaborate on policy, campaigns and advocacy on data and AI. 
 

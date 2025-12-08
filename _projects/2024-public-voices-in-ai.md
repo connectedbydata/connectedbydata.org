@@ -5,7 +5,6 @@ subtitle:
 image: pvai.png
 add-background: true
 completed: true
-order: 2
 topics:
   - People and Participation
 ---

@@ -2,7 +2,7 @@
 layout: event
 title: "Why Critical AI Literacy Matters: implications for policy and practice"
 image: university-of-plymouth.jpeg
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2025-11-10

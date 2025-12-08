@@ -4,7 +4,7 @@ title: AI Collaborative
 subtitle: Scaling Participatory AI Research and Practice
 image: ai-collaborative.png
 add-background: true
-order: 2
+order: 3
 completed: false
 topics:
     - People and Participation

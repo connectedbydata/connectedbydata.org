@@ -5,7 +5,6 @@ subtitle: Informal, virtual discussion sessions
 image: cbd-logo.png
 add-background: false
 completed: true
-order: 7
 ---
 
 Connected conversations are a programme of informal, virtual discussion sessions designed to support exploration and learning around the fundamentals of collective, democratic, participatory and deliberative data governance.
