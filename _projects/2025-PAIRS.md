@@ -18,7 +18,4 @@ Over the coming year we will be dedicating time to the next edition of PAIRS, an
 
 * Find calls, presentations and event information at [pairs.site](https://www.pairs.site)
 * Follow [PAIRS on LinkedIn](https://www.linkedin.com/company/pairs-global/)
-* Sign up for [e-mail updates](https://docs.google.com/forms/d/e/1FAIpQLSeacz8FvxHB3cAleXNX3cEWlefN0VJMWoeHcL7RUFH24OM6QA/viewform?usp=dialog)
-
-
-
+* Sign up for [e-mail updates](https://site.us18.list-manage.com/subscribe?u=b32e89a4c494679851cd59767&id=bb85bf6e23)

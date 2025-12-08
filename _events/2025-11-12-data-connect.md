@@ -4,7 +4,7 @@ title: Think Data for Government
 image: 2025-11-12-data-connect.png
 add-background: true
 date: 2025-11-12
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 author: Jeni Tennison

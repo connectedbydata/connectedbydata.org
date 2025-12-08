@@ -2,7 +2,7 @@
 layout: event
 title: "AI on the Frontline Conference: addressing governance, ethics, and safety in the public sector"
 image: cambridge.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2025-11-19

@@ -5,7 +5,7 @@ subtitle:
 image: principles-for-procurement.png
 add-background: true
 completed: false
-order: 2
+order: 5
 topics:
   - People and Participation
 ---
