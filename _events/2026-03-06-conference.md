@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Power and participation in public sector data, digital and AI"
+title: "Power and participation in public tech"
 image: unconference.jpg
 upcoming: true
 writeup: false
