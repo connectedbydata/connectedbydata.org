@@ -30,5 +30,6 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 
 Our confirmed speakers are:
 * [Helen Miller-Bakewell](https://www.linkedin.com/in/helen-miller-bakewell-a760935a/), Head of Development and Impact; and [David Ross](), Statistics Regulator; at [Office for Statistics Regulation](https://osr.statisticsauthority.gov.uk/), on [the new public involvement and engagement in official statistics toolkit for statistics producers](https://osr.statisticsauthority.gov.uk/guidance/public-involvement-and-engagement-in-official-statistics-a-toolkit-for-statistics-producers/)
+* [Janet McLaren](https://arc.net/l/quote/grlnpxii), Policy Manager at [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/), on 'Centering People in Data Governance: Lessons from the [Data Values Campaign](https://www.data4sdgs.org/initiatives/data-values-project)'
 
 > Please [register here](https://us06web.zoom.us/meeting/register/Hs35g7hnRVOhtnkyNnG-Cg) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
