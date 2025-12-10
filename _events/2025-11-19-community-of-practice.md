@@ -26,7 +26,9 @@ This session focussed on recent deliberation exercises. Our speakers were:
 * [Jonny Harper](https://www.thinksinsight.com/team/jonny-harper), Director at [Thinks](https://www.thinksinsight.com/) about their recent [AI in policing](https://www.thinksinsight.com/case-studies/ai-in-policing) project
 * Sandeepa Arora, Postdoc at The [Mohn Centre for Children’s Health and Wellbeing, School of Public Health, Imperial College London](https://www.imperial.ac.uk/a-z-research/mohn-centre-child-health/), on ‘Data Detectives: 10-year-olds’ views on their health data and how it should be used’
 
-> The write up of this session will be available after review.
+> The [write up of this session is now available](https://docs.google.com/document/d/1ZW1aRbYzBGcefju9y03FyO_gq8aJ1wT2M0rfIEA-i0M/edit?tab=t.0#heading=h.w7b1bxnkmp1c).
+
+> 📹 Presentation by Jonny Harper [(on YouTube, 23 mins)](https://youtu.be/1AwzeX0DTXs)
 
 > 📹 Presentation by Sandeepa Arora [(on YouTube, 16 mins)](https://youtu.be/eMvOPt0mHGo)
 
