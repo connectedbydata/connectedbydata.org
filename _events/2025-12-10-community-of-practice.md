@@ -28,6 +28,6 @@ Our speakers were:
 
 > The write up of this session, and the video of the presentation by the Office for Statistics Regulation, is now available to community of practice members only.
 
-> 📹 Presentation by Jane McLaren [(on YouTube, 12 mins)](https://youtu.be/e4OAoMgnPtc)
+> 📹 Presentation by Janet McLaren [(on YouTube, 12 mins)](https://youtu.be/e4OAoMgnPtc)
 
 To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
