@@ -21,13 +21,13 @@ topics:
 
 This conference is for anyone interested in how to achieve better outcomes in the delivery of digital, data and AI work in the public sector through the involvement of the public, communities and workers. Come if you’re a public servant trying to engage or involve the public in your work on technology. Come if you’re working in civil society, in the union movement, or with grassroots groups, trying to be heard. Come to share what you’re up to, and to learn from others; leave with new insights, ideas, and connections.
 
+<!--more-->
+
 **When:** Friday 6 March 2026, 10:00-17:00, UK time
 
 **Where:** The Mechanics Centre, (Major Street Entrance), 103 Princess Street, Manchester, M1 6DD.
 
 **Registration:** [Complete this form to register](https://docs.google.com/forms/d/e/1FAIpQLSd02ZoJZLszP8dscNC8CkupQe_8PKHlKkVDzj6zBIXaMAzQjQ/viewform?usp=header).
-
-<!--more-->
 
 > [View the current schedule with confirmed speakers (so far)](https://docs.google.com/document/d/1O3fkUou2gXChJ0v__mOs8yFjbJtzMGLpNTUUxOQ4XuY/edit?usp=drive_link)
 
