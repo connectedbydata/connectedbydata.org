@@ -4,7 +4,8 @@ title: Building educator’s power to shape AI
 subtitle: Ford Foundation
 image: tuc-logo.png
 add-background: true
-completed: true
+order: 2
+completed: false
 topics:
   - Work
   - Public sector
