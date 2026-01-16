@@ -2,7 +2,7 @@
 layout: resource
 title: "An urgent call for educator voice in AI and EdTech from 10 unions"
 reference: urgent-call-educator-voice-ai
-author: Adam Cantwell-Corn
+author: Guest
 date: 2026-01-16
 project: 
   - Building educator’s power to shape AI
@@ -16,6 +16,8 @@ listed: true
 link: https://docs.google.com/document/d/1xrivv67WB8A6zpNQzBa550PptNrVw3C0YLpw__rg5hM/edit?tab=t.0#heading=h.hdn1t04r0um6
 image: urgent-call-educator-voice-ai.png
 ---
+
+_A joint statement made by 10 unions representing education workers, produced as part of the Connected by Data and TUC project '[Building educator’s power to shape AI](https://connectedbydata.org/projects/2025-education-unions)'_
 
 We are ten unions representing millions of educators across the UK – teachers, specialists, support staff, school leaders, and workers throughout the education system. Every day we support, teach and lead in schools, colleges, and universities across all jurisdictions of the UK.
 
