@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Building worker power on AI with the Communications Workers Union"
+title: "An urgent call for educator voice in AI and EdTech from 10 unions"
 reference: urgent-call-educator-voice-ai
 author: Adam Cantwell-Corn
 date: 2026-01-16
