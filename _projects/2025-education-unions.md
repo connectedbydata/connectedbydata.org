@@ -2,7 +2,7 @@
 layout: project
 title: Building educator’s power to shape AI
 subtitle: Ford Foundation
-image: tuc-logo.png
+image: tuc_logo.png
 add-background: true
 order: 2
 completed: false
