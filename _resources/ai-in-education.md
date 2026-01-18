@@ -1,7 +1,7 @@
 ---
 layout: resource
-title: "Generative AI in Education"
-subtitle: "Workshop in a Box"
+title: "Generative AI in Education - Workshop in a Box"
+subtitle: ""
 reference: ai-in-education
 author: Tim Davies
 date: 2025-11-03

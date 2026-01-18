@@ -22,11 +22,9 @@ We’ve included suggested timed lesson plans for a 50 minute and 100 minute ses
 
 ### What happens to the ideas and views we gather during a session?
 
-If you run your session and share feedback before 15th December 2025, it will form part of a report that will be presented to global education ministers, AI experts, and tech companies at the DfE AI in Education Summit. 
+Sessions using the Workshop in a Box before 15th December 2025 could provide feedback that formed part of a report that will presented to global education ministers, AI experts, and tech companies at the DfE AI in Education Summit in January 2026. 
 
-The Department for Education wants the views of pupils to be meaningfully represented at the summit and is asking, "what do children and young people want from companies designing generative AI for education?". The views and creative outputs that pupils share will be collated and shared back to summit attendees to frame the conversation at the DfE AI in Education Summit. We will also share a copy of the report back with you. 
-
-You can also use the Workshop in a Box to talk about decisions you want to make about Generative AI in Education in your classroom, school or local area. In this case, you will be able to share views of pupils into your own local decision making.
+You can now use the Workshop in a Box to talk about decisions you want to make about Generative AI in Education in your classroom, school or local area. It is up to you how you share views of pupils into your own local decision making.
 
 ### When can we deliver the workshop?
 
