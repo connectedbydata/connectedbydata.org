@@ -23,7 +23,7 @@ The updates are significant, adding new sections on cognitive development, emoti
 
 **The [new cognitive development expectations](https://www.gov.uk/government/publications/generative-ai-product-safety-standards/generative-ai-product-safety-standards#cognitive-development)** capture the idea of a ‘schools mode’ that pupils raised in GenAI in Education: Have Your Say. DfE say “We expect products not to provide final answers, full solutions, or complete worked examples by default”, but instead to help students learn step-by-step.  
 
-**Under [emotional and social developmen](https://www.gov.uk/government/publications/generative-ai-product-safety-standards/generative-ai-product-safety-standards#emotional-and-social-development)t**, the expectations oppose the anthropomorphising of AI tools: calling for tools to drop self-descriptions or conversational modes that might imply products have their own agency, and requiring tools to include time-limits on their use. 
+**Under [emotional and social development](https://www.gov.uk/government/publications/generative-ai-product-safety-standards/generative-ai-product-safety-standards#emotional-and-social-development)**, the expectations oppose the anthropomorphising of AI tools: calling for tools to drop self-descriptions or conversational modes that might imply products have their own agency, and requiring tools to include time-limits on their use. 
 
 [**Mental health expectations**](https://www.gov.uk/government/publications/generative-ai-product-safety-standards/generative-ai-product-safety-standards#mental-health) call for tools to detect signs of learner distress, to signpost learners to human help if required, and to involve child mental health expertise in product design. 
 
