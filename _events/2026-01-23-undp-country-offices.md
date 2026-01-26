@@ -19,7 +19,7 @@ Tim presented to country offices from the United Nations Development Programmes 
 
 This hour long session explored why public participation matters in the design, deployment, and governance of AI systems. It looked at practical approaches governments can use to involve citizens and stakeholders, strengthen accountability, and build public trust around AI in the public sector.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTjfb-TFzPgdLQqEjKXBde-9ZutJmNFxahnuNWFbXbKQCM9DzEYI7Vdh-bsoFs0kkVdLGCtCa1J5Cd/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTjfb-TFzPgdLQqEjKXBde-9ZutJmNFxahnuNWFbXbKQCM9DzEYI7Vdh-bsoFs0kkVdLGCtCa1J5Cd/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 The session write-up from UNDP reflected on the following key insights from the presentation and discussion:
 
