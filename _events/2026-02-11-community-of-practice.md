@@ -30,5 +30,6 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 
 Our confirmed speaker is:
 * [Louis Horsley](https://www.linkedin.com/in/louis-horsley-a8767399), Research and Insight Manager at [National Voices](https://www.nationalvoices.org.uk/)
+* [Rachel Astall](https://www.linkedin.com/in/rachel-astall-5492943a/?originalSubdomain=uk), Chief Commercial Officer at [Beam](https://beam.org/), on the AI Social Readiness Advisory Label, a first-of-its-kind public deliberation process led by Nesta to evaluate the risks and benefits of AI tools in public services'
 
 > Please [register here](https://us06web.zoom.us/meeting/register/CfQlMxn5QdCsQAO5f236LA) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
