@@ -18,7 +18,7 @@ topics:
   - People and Participation
 ---
 
-On Wednesday 14 January 2026 at 2pm we held the sixteenth meeting of a [community of practice]((https://connectedbydata.org/projects/2024-community-of-practice)) as part of our project on [Giving communities a powerful say in public sector data and AI](https://connectedbydata.org/projects/2024-mohn-westlake) projects.
+On Wednesday 14 January 2026 at 2pm we held the fifteenth meeting of a [community of practice]((https://connectedbydata.org/projects/2024-community-of-practice)) as part of our project on [Giving communities a powerful say in public sector data and AI](https://connectedbydata.org/projects/2024-mohn-westlake) projects.
 
 <!--more-->
 
