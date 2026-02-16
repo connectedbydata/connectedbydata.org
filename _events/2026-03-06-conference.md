@@ -29,7 +29,7 @@ This conference is for anyone interested in how to achieve better outcomes in th
 
 **Registration:** [Complete this form to register](https://docs.google.com/forms/d/e/1FAIpQLSd02ZoJZLszP8dscNC8CkupQe_8PKHlKkVDzj6zBIXaMAzQjQ/viewform?usp=header).
 
-> [View the current schedule with confirmed speakers (so far)](https://docs.google.com/document/d/1O3fkUou2gXChJ0v__mOs8yFjbJtzMGLpNTUUxOQ4XuY/edit?usp=drive_link)
+> [View the current schedule with confirmed speakers](https://docs.google.com/document/d/1O3fkUou2gXChJ0v__mOs8yFjbJtzMGLpNTUUxOQ4XuY/edit?usp=drive_link)
 
 The use of data and AI within the public sector is essential for the efficient delivery of digital public services and for effective, evidence-based policymaking. But the citizens, communities and public sector workers affected by these technologies are often wary. They are (rightly) concerned about the safety and security of their data; about inaccuracies and biases in automated decision making; about impacts on the quality of their work; and about being forced to use apps and chatbots when they just want to speak to a real person.
 
