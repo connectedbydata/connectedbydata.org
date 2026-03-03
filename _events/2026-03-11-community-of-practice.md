@@ -30,6 +30,9 @@ In our [first](https://connectedbydata.org/events/2024-07-18-community-of-practi
 
 In this meeting Connected by Data will share some of their work on public engagement around data and AI, and there will be a chance for updates and reflections (including from previous speakers) on the community of practice and the current state of public participation on data and AI.
 
+Confirmed speaker:
+* [Tim Davies](https://www.linkedin.com/in/timgdavies/), Research and Practice Director at [Connected by Data](https://connectedbydata.org/) on their work on participation around data and AI.
+
 > Please [register here](https://us06web.zoom.us/meeting/register/TA5OWz49QEuone_XI2s_6A) to attend this meeting. To keep informed about this work and receive meetings invitations and details please [sign up to our mailing list](https://connectedbydata.us21.list-manage.com/subscribe?u=7c03d6a429375c9cc2eef194f&id=3c200de804). 
 
 **The future of the Community of Practice**
