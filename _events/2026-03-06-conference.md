@@ -2,9 +2,9 @@
 layout: event
 title: "Power and participation in public tech"
 image: unconference.jpg
-upcoming: true
+upcoming: false
 writeup: false
-featured: true
+featured: false
 date: 2026-03-06
 topics:
   - Public sector
