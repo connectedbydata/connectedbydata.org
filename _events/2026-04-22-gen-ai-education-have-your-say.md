@@ -19,7 +19,7 @@ Join us to explore the methods and findings from the <a href="/ai-in-education/"
 
 <!--more-->
 
-This hour long session is designed for education and education leaders to share practical insights into:
+This hour long session is designed for educators and education leaders to share practical insights into:
 
 * What students think of generative AI in education: drawing on a distributed dialogue with over 1,000 students;
 * How schools and colleges can involved students in future deliberation and decision making about AI in education;
