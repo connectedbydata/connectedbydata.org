@@ -10,6 +10,8 @@ topics:
 author: Tim Davies
 category: speaking
 link: 
+project:
+    - Towards a Citizens Track on AI Governance
 ---
 
 Tim spoke as part of the Informal Stakeholder Consultation on the [Global Dialogue on Artificial Intelligence Governance](https://www.un.org/global-dialogue-ai-governance/en). 
