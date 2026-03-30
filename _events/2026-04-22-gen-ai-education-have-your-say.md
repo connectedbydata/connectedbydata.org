@@ -19,12 +19,25 @@ Join us to explore the methods and findings from the <a href="/ai-in-education/"
 
 <!--more-->
 
-This hour long session is designed for educators and education leaders to share practical insights into:
+In this hour long session we will cover:
 
-* What students think of generative AI in education: drawing on a distributed dialogue with over 1,000 students;
-* How schools and colleges can involved students in future deliberation and decision making about AI in education;
-* Wider opportunities for student voice on AI.
+**Student voices on generative AI in education**
+* A step-by-step guide to how we gathered informed views on AI from over 1000 students around the country in six-weeks;
+* What students told us about generative AI in education;
+* How student views informed updated AI Product Safety Standards;
+* How you can build on the Distributed Dialogue toolkit. 
 
-Taking place via Zoom. 15:00 - 16:00.
+**Learning from experience**
+[Dr Claire Bessant](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/) (University of Newcastle) and [Anna Beckett](https://a-b-consulting.co.uk/) (ABC) will share their evaluation of the distributed dialogue.
 
-[Register for your free place here](https://us06web.zoom.us/meeting/register/AB-dY1YLSUWnoNxlc7efIg).
+This will be followed by a Q&A on the initial presentation and evaluation.
+
+**Informed and Engaged: future opportunities for student voice on AI**
+Invited guest speakers will share reflections on resources that could support student voices to explore AI in Education.
+* Shane McCracken, [I’m a Scientist: get me out of here](https://imascientist.org.uk/) 
+* Daniel Emmerson, [Good Future Foundation](https://www.goodfuture.foundation/)
+
+**Discussion: Developing a Vision for Student Voice on AI in Education**
+Discussing how to take action at a local, trust and national level to make sure decisions about AI are shaped by student voice. 
+
+> Taking place via Zoom, Wednesday 22 April 2026 from 15:00 - 16:00. [Register for your free place here](https://us06web.zoom.us/meeting/register/AB-dY1YLSUWnoNxlc7efIg).
