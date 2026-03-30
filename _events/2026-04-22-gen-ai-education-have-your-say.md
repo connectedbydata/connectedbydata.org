@@ -28,7 +28,7 @@ In this hour long session we will cover:
 * How you can build on the Distributed Dialogue toolkit. 
 
 **Learning from experience**
-[Dr Claire Bessant](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/) (University of Newcastle) and [Anna Beckett](https://a-b-consulting.co.uk/) (ABC) will share their evaluation of the distributed dialogue.
+[Dr Claire Bessant](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/) (University of Northumbria) and [Anna Beckett](https://a-b-consulting.co.uk/) (ABC) will share their evaluation of the distributed dialogue.
 
 This will be followed by a Q&A on the initial presentation and evaluation.
 
