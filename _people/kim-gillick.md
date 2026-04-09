@@ -1,5 +1,7 @@
 ---
 layout: person
+roles:
+  - fellow
 title: Kim Gillick
 role: Fellow
 picture: kim-gillick.jpg

@@ -1,5 +1,7 @@
 ---
 layout: person
+roles:
+  - fellow
 title: Carolina Ossa
 role: Fellow
 picture: carolina-ossa.jpg
