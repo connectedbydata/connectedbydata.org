@@ -8,7 +8,9 @@ picture: carolina-ossa.jpg
 linkedin: "carolinaossa"
 email: "caro@carolinaossa.com"
 ---
-Carolina Ossa (they/them) is a Colombian researcher working on participatory approaches to data governance, collective decision-making, and futures.
+Carolina Ossa (they/them) is [a Colombian researcher working on participatory approaches to data governance, collective decision-making, and futures](https://www.carolinaossa.com/).
+
+<!--more-->
 
 Their work is shaped by a transdisciplinary background in neuroscience, art, and philosophy, and a long-standing curiosity about how the systems and tools we design shape how we relate, decide, and act together. They focus on how communities can meaningfully shape the systems that affect their lives particularly where decision-making is opaque, centralized, or extractive, and how these systems might instead support stronger, more relational forms of collective agency and action.
 
