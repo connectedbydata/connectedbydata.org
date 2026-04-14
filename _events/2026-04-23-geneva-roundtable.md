@@ -20,6 +20,9 @@ Join us for a breakfast roundtable (08:30 - 09:30 followed by opportunity for on
 
 <!--more-->
 
+> Date: Thursday 23rd April 2026 - 08:30 - 09:30 (light breakfast provided)
+> Location: [The Fab, Geneva Graduate Institute](https://www.graduateinstitute.ch/FAB)
+
 Hosted by the [Global Governance Centre, Geneva Graduate Institute](https://www.graduateinstitute.ch/globalgovernance), [ISWE Foundation](https://www.iswe.org/) and [Connected by Data](https://connectedbydata.org/) and partners, the session will include:
 
 * **A presentation of the Citizens Track concept** including learning from the first global citizens track on climate governance launched at COP30;
