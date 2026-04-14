@@ -16,7 +16,7 @@ project:
 
 **How can the voices of affected communities be placed central to AI governance?** Across the world, citizens are sharing their views on the future of data, AI and technology through informed public deliberation. 
 
-Join us for a breakfast roundtable to explore how transnational, national and grassroots public engagement can be brought into two-way connection with the evolving global AI Governance architecture. 
+Join us for a breakfast roundtable (08:30 - 09:30 followed by opportunity for ongoing informal conversations) to explore how transnational, national and grassroots public engagement can be brought into two-way connection with the evolving global AI Governance architecture. 
 
 <!--more-->
 
