@@ -2,7 +2,7 @@
 layout: project
 title: Towards a Citizens Track on AI Governance
 subtitle: 
-image: 
+image: triangle.png
 add-background: true
 order: 7
 completed: false
