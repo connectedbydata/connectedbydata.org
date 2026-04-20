@@ -11,6 +11,8 @@ It's always interesting to see people's reactions when they learn this. The lead
 
 In this post I want to explain why I set up Connected by Data this way, what I've learned about the trade-offs that entails, and what we're thinking about doing next. 
 
+<!--more-->
+
 ## Working in a changing context
 The first explanation I'll give is the one I usually give to funders.
 
