@@ -3,7 +3,7 @@ layout: event
 title: Student Voice on AI in Education
 image: student-voice.png
 add-background: true
-upcoming: true
+upcoming: false
 featured: true
 writeup: false
 date: 2026-04-22
@@ -19,7 +19,9 @@ Join us to explore the methods and findings from the <a href="/ai-in-education/"
 
 <!--more-->
 
-In this hour long session we will cover:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkarKye77us?si=oYCXIVRs00_W_9sX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this hour long session we covered:
 
 **Student voices on generative AI in education**
 * A step-by-step guide to how we gathered informed views on AI from over 1000 students around the country in six-weeks;
@@ -28,9 +30,7 @@ In this hour long session we will cover:
 * How you can build on the Distributed Dialogue toolkit. 
 
 **Learning from experience**
-[Dr Claire Bessant](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/) (University of Northumbria) and [Anna Beckett](https://a-b-consulting.co.uk/) (ABC) will share their evaluation of the distributed dialogue.
-
-This will be followed by a Q&A on the initial presentation and evaluation.
+[Dr Claire Bessant](https://www.northumbria.ac.uk/about-us/our-staff/b/claire-bessant/) (University of Northumbria) and [Anna Beckett](https://a-b-consulting.co.uk/) (ABC) will shared their evaluation of the distributed dialogue.
 
 **Informed and Engaged: future opportunities for student voice on AI**
 Invited guest speakers will share reflections on resources that could support student voices to explore AI in Education.
@@ -39,5 +39,3 @@ Invited guest speakers will share reflections on resources that could support st
 
 **Discussion: Developing a Vision for Student Voice on AI in Education**
 Discussing how to take action at a local, trust and national level to make sure decisions about AI are shaped by student voice. 
-
-> Taking place via Zoom, Wednesday 22 April 2026 from 15:00 - 16:00. [Register for your free place here](https://us06web.zoom.us/meeting/register/AB-dY1YLSUWnoNxlc7efIg).
