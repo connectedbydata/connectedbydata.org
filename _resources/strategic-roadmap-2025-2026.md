@@ -5,7 +5,7 @@ reference: strategic-roadmap-2025-2026
 author: Jeni Tennison
 date: 2025-05-19
 status: final
-listed: true
+listed: false
 link: https://docs.google.com/document/d/1pBkccYEE6fSV8ze0jUJyIOLoH2SCMIQ7rFjOl-r1VKg/edit?usp=sharing
 image: strategic-roadmap-2025-2026.png
 ---
