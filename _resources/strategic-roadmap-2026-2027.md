@@ -3,7 +3,7 @@ layout: resource
 title: Strategic Roadmap 2026-2027
 reference: strategic-roadmap-2026-2027
 author: Jeni Tennison
-date: 2025-05-18
+date: 2026-05-18
 status: final
 listed: true
 link: https://docs.google.com/document/d/1iasKwR3pZ9393Pgq7Zl9jpT4RXpZcPJ9O6WxzQ1yMBw/edit?tab=t.0#heading=h.jgmduqp1336
