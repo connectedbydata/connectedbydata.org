@@ -14,4 +14,8 @@ topics:
 
 Building on discussions at the [Participatory AI Research & Practice Symposium](https://www.pairs.site/) (PAIRS) alongside the [India AI Impact Summit](https://impact.indiaai.gov.in/), and with a view towards the [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en), and next AI Summit, both due to be held in Geneva in 2026 and 2027 respectively, we are supporting the development of a coalition to explore practical approaches that can centre citizen voice in global AI governance. 
 
+> Nominate examples of [Participatory AI Voice and Engagement to the Citizens Track's Case book](https://pave.pairs.site) (Deadline 5th June)
+
+
+
 > [Subscribe here](https://docs.google.com/forms/d/e/1FAIpQLSfdM6ACMym_wcbvcgcXL7Q5ZyevFr9EyjAhfWJSfVL_AXdx4Q/viewform?usp=header) for regular project updates.
