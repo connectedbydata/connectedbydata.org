@@ -1,7 +1,7 @@
 ---
 layout: person
 roles:
-  - team
+  - alumni
 title: Adam Cantwell-Corn
 pronouns: he/him
 role: Head of Campaigns and Policy
