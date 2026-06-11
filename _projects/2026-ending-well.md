@@ -4,7 +4,7 @@ title: Ending Well
 subtitle: 
 image: cbd-logo.png
 add-background: true
-order: 8
+order: 5
 completed: false
 topics:
 ---

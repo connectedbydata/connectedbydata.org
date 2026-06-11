@@ -4,7 +4,6 @@ title: Principles for Public Participation in AI Procurement
 subtitle: 
 image: principles-for-procurement.png
 add-background: true
-order: 7
 completed: true
 topics:
   - People and Participation

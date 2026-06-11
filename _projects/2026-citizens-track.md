@@ -4,7 +4,7 @@ title: Towards a Citizens Track on AI Governance
 subtitle: 
 image: triangle.png
 add-background: true
-order: 7
+order: 1
 completed: false
 topics:
   - People and Participation

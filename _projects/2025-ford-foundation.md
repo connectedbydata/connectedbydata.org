@@ -4,7 +4,7 @@ title: Ford Foundation
 subtitle: Building worker’s power to shape public sector AI
 image: ford.png
 add-background: true
-order: 3
+order: 2
 completed: false
 topics:
   - Work
