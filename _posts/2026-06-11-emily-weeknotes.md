@@ -23,7 +23,7 @@ I really really need to make some progress on the regeneration options for Conne
 
 I’ve got some associated actions around that too. Writing an ‘ending well’ plan…although as I note that here I realise that will best be done after the Board have made their decision in September as they will have an impact even though whatever they decide it won’t be Connected by Data as it is now. I also have a couple of reflective blogs to share too. Memo to me: Create a ‘project’ called ‘Ending Well’ on the website to tag related blogs etc. [Edit: [I've now done this](https://connectedbydata.org/projects/2026-ending-well)]
 
-We’re also in the early stages of planning a public sector focused event in mid/late October; a Green Party Conference associated event (2-4 October); and an input to the TUC Annual Congress (13-16 September). It certainly won’t be a quiet summer…!
+We’re also in the early stages of planning a public sector focused event in mid/late October; a Green Party Conference associated event (2-4 October); and an input to the TUC Annual Congress (13-16 September). It certainly won’t be a quiet summer!
 
 ### What I’ve been inspired or challenged or moved by
 In some [weeknotes in February](https://connectedbydata.org/weeknotes/2026/02/05/emily-weeknotes) I mentioned how I’ve been following the weekly Premier League football match predictions by the usual pundit (Chris Sutton), a changing celebrity guest, and - for the first time this season - Co-pilot (LLM). As we’ve now finished the season here is the final result.
