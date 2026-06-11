@@ -2,9 +2,8 @@
 layout: person
 roles:
   - fellow
-  - alumni
 title: Luke Richards
-role: Former fellow
+role: Fellow
 picture: luke.jpg
 mastodon: "@hypnotic@mathstodon.xyz"
 linkedin: "luke-w-richards"
