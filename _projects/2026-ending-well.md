@@ -3,7 +3,7 @@ layout: project
 title: Ending Well
 subtitle: 
 image: cbd-logo.png
-add-background: true
+add-background: false
 order: 5
 completed: false
 topics:
