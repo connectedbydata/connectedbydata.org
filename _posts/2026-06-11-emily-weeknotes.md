@@ -8,7 +8,7 @@ category: weeknotes
 
 I promised ([in my last weeknotes](https://connectedbydata.org/weeknotes/2026/04/16/emily-weeknotes)) a selfie with a bus stop if I found one of the [“Let’s Talk AI”](https://www.letstalkai.org.uk/) ones…I found one, so here it is.
 
-![Selfie of Emily standing in front of a bus stop](/assets/blog/2026-06-11-selfie.jpg)
+![Selfie of Emily standing in front of a bus stop](/assets/blog/2026-06-11-selfie.png)
 
 I’ve been trying to finalise the annual report (my yak shaving experience was unsuccessful which I’ve found hard to accept and had to send a “confession” email to Jeni explaining that I couldn’t do the annual report upload); and we’ve had the draft end of year accounts come through to review. There’s been the usual end / start of month activities such as monthly reconciliation.
 
