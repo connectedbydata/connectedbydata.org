@@ -3,6 +3,7 @@ layout: post
 title: Why we’re winding up in 2027
 author: Jeni Tennison
 category: blog
+projects: "Ending Well"
 featured: true
 ---
 When I set up Connected by Data, I also stated my intention that this organisation would have a maximum lifespan of 3-5 years. We are now at the end of our fourth year, which means we have at maximum one more year to go.
