@@ -2,9 +2,9 @@
 layout: event
 title: "2026 Festival of Ideas - AI & Equality"
 image: 2026-05-22-festival.png
-upcoming: true
+upcoming: false
 writeup: false
-featured: true
+featured: false
 date: 2026-05-22
 topics:
 author: Tim Davies
