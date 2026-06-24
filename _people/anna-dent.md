@@ -5,6 +5,8 @@ roles:
 title: Anna Dent
 role: Fellow
 picture: anna-dent.png
+topics:
+  - Public Sector
 bluesky: "annadent.bsky.social"
 linkedin: "annadent"
 email: "anna@abdconsultancy.co.uk"

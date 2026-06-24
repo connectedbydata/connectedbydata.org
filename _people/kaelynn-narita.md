@@ -4,6 +4,8 @@ roles:
   - fellow
 title: Kaelynn Narita
 role: Fellow
+topics:
+  - Public Sector
 picture: kaelynn-narita.png
 twitter: "@KaelynnNarita"
 email: "knari003@gold.ac.uk"

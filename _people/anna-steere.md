@@ -4,6 +4,8 @@ roles:
   - fellow
 title: Anna Steere
 role: Fellow
+topics:
+  - Health
 picture: anna-steere.jpg
 email: "anna.steere@understandingpatientdata.org.uk"
 ---
