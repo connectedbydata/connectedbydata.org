@@ -13,7 +13,7 @@ topics:
 
 ---
 
-Between July 2024 and March 2026, we ran[ a community of practice](https://connectedbydata.org/projects/2024-community-of-practice) for people who are or are wanting to engage and involve the public around data and AI. You can read a summary of the seventeen monthly(ish) meetings we held in a [separate blogpost]().
+Between July 2024 and March 2026, we ran[ a community of practice](https://connectedbydata.org/projects/2024-community-of-practice) for people who are or are wanting to engage and involve the public around data and AI. You can read a summary of the seventeen monthly(ish) meetings we held in a [separate blogpost](https://connectedbydata.org/blog/2026/06/29/cop-summary).
 
 <!--more-->
 
@@ -58,7 +58,7 @@ That was reflected in some of the discussions we had in the community of practic
 My main reflection is this: there’s some really great work going on to involve the public that leads to better policies and outcomes. It’s tempting for organisations to see public engagement as an expense (and it does take time and money to do well) and a box to tick to add a veneer of trust. But the work we heard about was of real value in designing better products and policies, and supporting people to adopt new technology. Those involved were generous in giving up their time and insights to support others to run similar public exercises. There are already some brilliant case studies on how to do public involvement work well (see our other blogpost for some more detail), and a strong desire from people to learn from them and conduct their own deliberative and participatory exercises. The field may be relatively new, but it’s got off to a good start.
 
 ## **What next**
-As we said at the beginning of this post, the funding for the community of practice (and the[ wider project](https://connectedbydata.org/projects/2024-mohn-westlake) of which it was part) has come to an end. Where we had permission from speakers, we’ve published videos of presentations on individual meeting pages, on our YouTube channel and collected them in this blogpost. We’ll also be keeping the notes live for people signed up to the community of practice.
+As we said at the beginning of this post, the funding for the community of practice (and the[ wider project](https://connectedbydata.org/projects/2024-mohn-westlake) of which it was part) has come to an end. Where we had permission from speakers, we’ve published videos of presentations on individual meeting pages, on our YouTube channel and collected them in [this blogpost](https://connectedbydata.org/blog/2026/06/29/cop-summary). We’ll also be keeping the notes live for people signed up to the community of practice.
 
 We don’t currently have any plans to run more meetings of the community of practice, and we are not handing it over to another organisation. But we hope others might pick up the mantle. You can also take a look at some of the other organisations in the field further up this post, some of whom run regular events (such as PEDRI).
 
