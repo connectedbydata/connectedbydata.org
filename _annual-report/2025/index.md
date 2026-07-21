@@ -485,16 +485,16 @@ Our full financial statements have been filed with [Companies House](https://fin
 |                              | **2025/26**
 |                              | ,000 (k)
 | ---------------------------- | ----------: |
-| **Income**                   | **** |
-| Unrestricted grants          |   |
-| Restricted grants            |  |
-| Sales                        |   |
-| **Costs**                    | **** |
-| Staff costs                  |  |
-| Other costs                  |  |
-| Corporation tax              |    |
-| **Capital and reserves**     |  **** |
-| **Accrued 2025/26 income**   | **** |
+| **Income**                   | **430** |
+| Unrestricted grants          |  0 |
+| Restricted grants            | 336 |
+| Sales                        |  94 |
+| **Costs**                    | **437** |
+| Staff costs                  | 353 |
+| Other costs                  | 85 |
+| Corporation tax              |   -2 |
+| **Capital and reserves**     |  **16** |
+| **Accrued 2025/26 income**   | **270** |
 
 {% endcapture %}
 {% capture article %}
