@@ -12,6 +12,8 @@ featured: true
 ---
 A venue isn’t just the space where you hold an event or an activity – it’s part of the planning about how the session will run. A good venue will enhance the experience of participants and that likely benefits what you get out of it too. A poorly selected venue can be a barrier to engagement – if people even come at all. At **CONNECTED** by **DATA** we’ve tried to be intentional in our venue selection for every in person event or activity we’ve hosted (or in fact even if it is in person or online and where online…more on that later).
 
+<!--more-->
+
 As a starter of course a venue has to meet your requirements: can it hold enough people, in a seating format that you would like, can it provide (or allow) food and can it provide any tech that you need? Beyond that though the decision making can feel more subtle but, our experiences would argue, is just as important.
 
 ### Who is in the room?

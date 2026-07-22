@@ -8,11 +8,11 @@ featured: true
 ---
 When I set up Connected by Data, I also stated my intention that this organisation would have a maximum lifespan of 3-5 years. We are now at the end of our fourth year, which means we have at maximum one more year to go.
 
+<!--more-->
+
 It's always interesting to see people's reactions when they learn this. The leaders of other civil society organisations often immediately say, without me providing any explanation, “OMG, you can do that? Amazing!” People we work with often say, “That's a shame, I wish you wouldn't.”; other people are simply curious and come to see the rationale once I explain it. 
 
 In this post I want to explain why I set up Connected by Data this way, what I've learned about the trade-offs that entails, and what we're thinking about doing next. 
-
-<!--more-->
 
 ## Working in a changing context
 The first explanation I'll give is the one I usually give to funders.
