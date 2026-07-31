@@ -15,13 +15,11 @@ topics:
     - People and Participation
 ---
 
-The roundtable will develop the coalition for a [Citizens’ Track on AI](http://www.citizens-track.org/), and share practical approaches for public deliberation as a continuity and implementation mechanism for the Global Dialogue. 
+The roundtable launched the [Citizens’ Track on AI](http://www.citizens-track.org/), and shared practical approaches for public deliberation as a continuity and implementation mechanism for the Global Dialogue. 
 
 <!--more-->
 
-We will showcase learning from inclusive public dialogues on AI across the world, exploring how a Citizens’ Track in AI governance harnesses public deliberation to build capacity, support community agency, align global decisions with public interest, and deliver accountability in AI governance. 
-
-Centering voices from affected communities places a spotlight on actions needed to respond to AI opportunity & harm across diverse geographic, social and cultural contexts. 
+A [recording and write-up from the session is available on the Citizens' Track website here](https://citizens-track.org/2026/07/07/global-dialogue-agency-alignment-accountability.html).
 
 **Hosted at** the [Geneva Graduate Institute](https://www.graduateinstitute.ch/)
 

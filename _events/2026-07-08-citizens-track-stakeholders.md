@@ -15,11 +15,11 @@ topics:
     - People and Participation
 ---
 
-This workshop will bring together practitioners, funders, and advocates focused on inclusive and democratic AI governance to co-design practical next steps that can deliver a Citizens’ Track on AI governance linked to both the ongoing UNGDAI and the 2027 Geneva AI Summit. 
+This workshop brought together practitioners, funders, and advocates focused on inclusive and democratic AI governance to co-design practical next steps that can deliver a Citizens’ Track on AI governance linked to both the ongoing UNGDAI and the 2027 Geneva AI Summit. 
 
 <!--more-->
 
-It will focus on distributed dialogues, institutional interface, funding & sustainability, and governance. 
+Find [a write-up on the Citizens' Track website here](https://citizens-track.org/2026/07/08/un-multi-stakeholder-ai-day.html).
 
 **Hosted at** Palais des Nations, Palais des Nations, A building, Room XI.
 
