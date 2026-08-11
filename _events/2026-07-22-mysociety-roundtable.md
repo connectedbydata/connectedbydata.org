@@ -2,7 +2,7 @@
 layout: event
 title: "Roundtable on civic infrastructure for oversight of government AI"
 image: mysociety-logo.jpg
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2026-07-22
