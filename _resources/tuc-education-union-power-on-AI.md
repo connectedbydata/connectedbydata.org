@@ -8,6 +8,7 @@ date: 2026-07-13
 project: Ford Foundation
 topics:
   - Work
+  - Education
 status: final
 listed: true
 link: /resources/tuc-education-union-power-on-AI.pdf
