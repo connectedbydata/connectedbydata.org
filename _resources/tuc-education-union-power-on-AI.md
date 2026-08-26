@@ -11,7 +11,7 @@ topics:
   - Education
 status: final
 listed: true
-link: /resources/tuc-education-union-power-on-AI.pdf
+link: /assets/resources/tuc-education-union-power-on-AI.pdf
 image: tuc-education-union-power-on-AI.jpg
 ---
 
