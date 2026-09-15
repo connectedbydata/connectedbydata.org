@@ -2,7 +2,7 @@
 layout: event
 title: RSS International Conference 2026
 image: 2026-09-08-rss-conference.jpg
-upcoming: true
+upcoming: false
 writeup: false
 featured: true
 date: 2026-09-08

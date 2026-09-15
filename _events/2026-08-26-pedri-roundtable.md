@@ -2,7 +2,7 @@
 layout: event
 title: PEDRI roundtable
 image: cbd-logo.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2026-08-26
