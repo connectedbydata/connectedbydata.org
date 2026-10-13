@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Who Owns the Machine? AI, Power, and the Green Alternative
-image: 2026-10-02-green-party.jpeg
+image: 2026-10-02-green-party.jpg
 upcoming: false
 writeup: true
 featured: false
