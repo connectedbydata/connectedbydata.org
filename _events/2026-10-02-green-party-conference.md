@@ -1,6 +1,6 @@
 ---
 layout: event
-title: The Economics of Data
+title: Who Owns the Machine? AI, Power, and the Green Alternative
 image: 2026-10-02-green-party.jpeg
 upcoming: false
 writeup: true
