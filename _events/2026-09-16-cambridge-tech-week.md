@@ -2,7 +2,7 @@
 layout: event
 title: The Economics of Data
 image: 2026-09-16-cambridge-tech-week.png
-upcoming: true
+upcoming: false
 writeup: false
 featured: false
 date: 2026-09-16
