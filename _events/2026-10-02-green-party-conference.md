@@ -14,6 +14,8 @@ topics:
 
 Tim spoke on a panel at the Green Party of England and Wales party conference alongside[ Rachel Coldicutt](https://www.rachelcoldicutt.com/) (Careful Industries) and Kierra Box ([Friends of the Earth](https://policy.friendsoftheearth.uk/)), and chaired by[ Rachel Millward](https://en.wikipedia.org/wiki/Rachel_Millward) (Deputy Leader, Greens) on “Who Owns the Machine? AI, Power, and the Green Alternative “.
 
+<!--more-->
+
 **Tim’s write up of the Panel**
 We covered a lot of ground in the discussion - and there was much wisdom shared by my fellow panelists, but this post riffs on a few of the inputs I offered, as well as drawing on discussions we held earlier in the day in a participatory workshop on data centre and AI policy.
 
