@@ -2,10 +2,10 @@
 layout: event
 title: PAIRSx Public Sector
 image: PAIRS-icon.png
-upcoming: true
+upcoming: false
 writeup: false
-featured: true
-date: 2026-07-22
+featured: false
+date: 2026-11-05
 author: Jeni Tennison
 category: organising
 link: https://pairs.site/pairsx-public-sector-2026/
