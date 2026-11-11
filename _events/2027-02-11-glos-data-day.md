@@ -8,7 +8,7 @@ featured: true
 writeup: false
 date: 2027-02-11
 author: Tim Davies
-category: speaking
+category: organising
 topics:
     - Civil society
     - People and Participation
