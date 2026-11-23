@@ -18,6 +18,8 @@ We don't yet have a norm or requirement for people or organisations to declare w
 
 Much of the focus on AI adoption looks at it from the perspective of the person using and in control of AI: the manager summarising their emails; the probation officer taking notes in a meeting; the student drafting their essays. I'm interested in the other side of the equation: the colleague, the prisoner, the lecturer who receives an AI-generated response when they would normally expect to be interacting with a human.
 
+<!--more-->
+
 [Studies in communication psychology show](https://www.nature.com/articles/s44271-025-00387-3) a "AI preference paradox" around receiving AI-generated replies: people rate AI-generated responses as higher in quality, more effective at making them feel heard and more effortful, but generally choose to receive inferior messages from humans instead. This same paradox has been demonstrated for[ patient evaluations of AI-drafted messages](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851278) from their doctors,[ when they're being consoled](https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517731), and[ when looking at responses to their own description of a complex situation they're working through](https://www.pnas.org/doi/10.1073/pnas.2319112121).
 
 Of course it's not just about communication – people also don't like decisions being made about them by AI, and it's not just because they might get things wrong (something human decision makers do too). Hence so many reassurances that there will always be a "human in the loop" during algorithmic decision making, even when[ it might not make much difference](https://www.sciencedirect.com/science/article/pii/S0267364922000292).
